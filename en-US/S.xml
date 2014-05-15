@@ -1,0 +1,618 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-S">
+	<title>S</title>
+	 <variablelist>
+		<varlistentry>
+			<term>S/390</term>
+			 <listitem>
+				<para>
+					Use the full description "IBM S/390." Do not use "s390," "S390," or any other variations.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>IaaS</term>
+			 <listitem>
+				<para>
+					See "PaaS."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Samba</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "samba" or "SAMBA."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>S-record</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "s-record," "S-Record," "s-Record," or any other variations.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>screen capture (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "screen shot," "screenshot," or other terms or variations. See the relevant entry in <citetitle>The IBM Style Guide.</citetitle>
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>screen saver (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "screensaver."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>scrollbar (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "scroll bar" or "scroll-bar."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>see</term>
+			 <listitem>
+				<para>
+					Use to refer readers to another resource. Avoid using "refer to" in this context.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>segmentation fault (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
+				</para>
+				 <para>
+					See also <ulink url="https://access.redhat.com/site/articles/372743 ">"What is a segfault?"</ulink> on the Red&nbsp;Hat Customer Portal for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>select (vb.)</term>
+			 <listitem>
+				<para>
+					Use when referring to menu options. For example, "Select <guibutton>Save</guibutton> from the <guimenu>File</guimenu> menu."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>SELinux</term>
+			 <listitem>
+				<para>
+					Short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>sends out</term>
+			 <listitem>
+				<para>
+					Do not use. Instead, use "emits" or "issues."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>server farm</term>
+			 <listitem>
+				<para>
+					Also referred to as server cluster, computer farm or ranch. A server farm is a group of networked servers that are housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm and expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks and scheduling and rescheduling them depending on priority and demand that users put on the network. When one server in the farm fails, another can step in as a backup.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>server-side/server side</term>
+			 <listitem>
+				<para>
+					See "client-side/client side."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>setup/set up</term>
+			 <listitem>
+				<para>
+					"Setup" is a noun. "Set up" is a verb.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>SHA-1, SHA-2</term>
+			 <listitem>
+				<para>
+					Correct. SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are considered correct when referring to these specific hash functions.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Shadowman</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Shadow Man" or "ShadowMan." The Red&nbsp;Hat Shadowman logo is a trademark of Red&nbsp;Hat, Inc., registered in the United States and other countries.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>shadow passwords</term>
+			 <listitem>
+				<para>
+					Not a proper noun, so capitalize "Shadow" at the beginning of a sentence only.
+				</para>
+				 <para>
+					Shadow passwords are a method of improving system security by moving the encrypted passwords (normally found in <filename>/etc/passwd</filename>) to <filename>/etc/shadow</filename>, which is readable only by root. This option is available during installation and is part of the shadow utilities package.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>shadow utilities</term>
+			 <listitem>
+				<para>
+					Not a proper noun, so capitalize "Shadow" at the beginning of a sentence only.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>share name</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "sharename" or "Sharename" unless you are quoting the output of commands, such as "smbclient -L."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>shell</term>
+			 <listitem>
+				<para>
+					A "shell" is a software application, for example, /bin/bash or /bin/sh, that provides an interface to a computer. Do not use this term to describe where to type commands.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>shell prompt</term>
+			 <listitem>
+				<para>
+					Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use "command prompt," "terminal," or "shell."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>should</term>
+			 <listitem>
+				<para>
+					Do not use if it is something the user must do. For example, "You should make a backup" is a suggestion, while "You must make a backup" is a requirement. See also "must."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>shut down (vb.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "shut-down." Only use "shutdown" when referring to the <command>/sbin/shutdown</command> system command.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>simply</term>
+			 <listitem>
+				<para>
+					Do not use. See "basically."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>since or because</term>
+			 <listitem>
+				<para>
+					Do not use "since" to mean "because," it is ambiguous. Use "because" to refer to a reason. Use "since" to refer to the passage of time.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>skill set, skills, knowledge (n.)</term>
+			 <listitem>
+				<para>
+					Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective (because it is a noun). Do not use "skill-set knowledge;" it is redundant. See the following examples:
+				</para>
+				 <example id="exam-Policy-Writing_Style_Guide-S-Example_Use_of_Term_Skillset_Versus_Skills">
+					<title>Example Use of Term "Skillset" Versus "Skills"</title>
+					 <para>
+						Incorrect: Do you have the right skillset to be an RHCE?
+					</para>
+					 <para>
+						Correct: Do you have the right skills to be an RHCE?
+					</para>
+
+				</example>
+				 <example id="exam-Policy-Writing_Style_Guide-S-Example_Use_of_Term_Knowledge">
+					<title>Example Use of Term "Knowledge"</title>
+					 <para>
+						Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.
+					</para>
+					 <para>
+						Correct: This course gives you the knowledge to complete your RHCT exam successfully.
+					</para>
+
+				</example>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>smart card</term>
+			 <listitem>
+				<para>
+					Correct. Do not use smartcard or smart-card.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>snippet</term>
+			 <listitem>
+				<para>
+					Do not use snippet or tidbit to refer to short or small sections of information. Use "piece" instead. Use "excerpt" to refer to samples taken from a more extensive section of text.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>SOCKS</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "socks." When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>softcopy</term>
+			 <listitem>
+				<para>
+					Do not use. Instead, use "online." For example, "To view the online documentation..."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>sound card</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "soundcard" or "sound-card."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Source-Navigator™</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Source Navigator." Source-Navigator™ is a trademark of Red&nbsp;Hat.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>space</term>
+			 <listitem>
+				<para>
+					Use when referring to white space, such as "Ensure there is a space between each command." Use "Spacebar" when referring to the keyboard key.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Spacebar</term>
+			 <listitem>
+				<para>
+					Use when referring to the keyboard key, such as "Press the <keycap>Spacebar</keycap> key to continue."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>spec file</term>
+			 <listitem>
+				<para>
+					Correct. When referring to the RPM spec file, do not use "specfile."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>specific</term>
+			 <listitem>
+				<para>
+					When used as a modifier, put a hyphen before specific, such as "MIPS-specific," "Linux-specific," and "chip-specific."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>spelt</term>
+			 <listitem>
+				<para>
+					Incorrect. Use "spelled" instead.
+				</para>
+				 <para>
+					"Spelt" is the standard spelling in Commonwealth English but US English prefers "spelled," although "spelt" is occasionally seen in US English.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>SQL</term>
+			 <listitem>
+				<para>
+					When referring to the ISO standard (ISO 9075 and its decendants), this is pronounced as an initialism: "ess queue ell." Consequently, it takes "an" as in indefinite article.
+				</para>
+				 <para>
+					When referring to Microsoft's proprietary product, SQL Server, this is pronounced as a word: "sequel." In this case, therefore, it takes "a" as an indefinite article.
+				</para>
+				 <para>
+					NB: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
+				</para>
+				 <para>
+					More generally, avoid using "SQL" as a generic marker if at all possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced "postgress queue ell"), write "PostgreSQL."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>SR-IOV</term>
+			 <listitem>
+				<para>
+					Correct. SR-IOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>SSH</term>
+			 <listitem>
+				<para>
+					Initialism for Secure Shell, a network protocol that allows data exchange using a secure channel. When referring to the protocol, do not use "ssh," "Ssh," or other variants. When referring to the command, use <command>ssh</command>.
+				</para>
+				 <para>
+					Do not use as a verb. For example, instead of "ssh to the remote server," write "Use SSH to connect to the remote server," or something similar.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>SSL</term>
+			 <listitem>
+				<para>
+					Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the Internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. The majority of web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with https: instead of http:.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>standalone</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "stand alone" or "stand-alone."
+				</para>
+				 <para>
+					Refers to a device that is self-contained, one that does not require any other devices to function. For example, a fax machine is a standalone device because it does not require a computer, printer, modem, or other device. A printer, on the other hand, is not a standalone device because it requires a computer to feed it data.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term><ulink url="http://intranet.corp.redhat.com/ic/intranet/StarOffice.html">StarOffice</ulink></term>
+			 <listitem>
+				<para>
+					A Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>starts up</term>
+			 <listitem>
+				<para>
+					Do not use. Instead, use "activates" or "invokes."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>startx</term>
+			 <listitem>
+				<para>
+					Correct. Do not use StartX or other variants.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>su</term>
+			 <listitem>
+				<para>
+					Correct. Do not use SU (all caps).
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>subdirectory</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "sub-directory."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>submenu</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "sub-menu."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>subpackage</term>
+			 <listitem>
+				<para>
+					Correct. do not use "sub-package."
+				</para>
+				 <para>
+					This word has a specific, specialised meaning in Red Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages."
+				</para>
+				 <para>
+					Any other use of this word is strongly discouraged.
+				</para>
+				 <para>
+					NB: subpackages are <emphasis>not</emphasis> the same as dependencies and should not be treated as such.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>superuser</term>
+			 <listitem>
+				<para>
+					A synonym for the root user. More common in Solaris documentation than Linux. If and when used, this is the correct spelling. Do not use "super user" or "super-user."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>swap space</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "swapspace." If starting the beginning of a sentence, "Swap space" is allowed.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Sybase Adaptive Server Enterprise (ASE)</term>
+			 <listitem>
+				<para>
+					Use <productname>SAP Sybase Adaptive Server Enterprise (ASE)</productname> in the first instance. Subsequent entries can use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
+				</para>
+				 <para>
+					See <ulink url=" http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise"> http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise</ulink> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>SysV</term>
+			 <listitem>
+				<para>
+					Correct. Do not use Sys V or System V.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>symmetric encryption</term>
+			 <listitem>
+				<para>
+					A type of encryption where the same key is used to encrypt and decrypt the message. This differs from asymmetric (or public-key) encryption, which uses one key to encrypt a message and another to decrypt the message.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

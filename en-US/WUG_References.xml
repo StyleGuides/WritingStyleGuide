@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-References">
+	<title>References</title>
+	 <para>
+		<citetitle>The IBM Style Guide</citetitle>
+	</para>
+	 <para>
+		<citetitle>Chicago Manual of Style, 16th Edition</citetitle>
+	</para>
+	 <para>
+		<citetitle>American Heritage Dictionary</citetitle>
+	</para>
+
+</chapter>
+

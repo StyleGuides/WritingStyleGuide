@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-H">
+	<title>H</title>
+	 <variablelist>
+		<varlistentry>
+			<term>hard code (v.), hard-coded (adj.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use the one-word form. No nominal form is currently recognized.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>hard copy</term>
+			<listitem>
+				<para>
+					Do not use. Use "printed". <remark>Under review</remark>
+				</para>
+			</listitem>
+		</varlistentry>
+		 <varlistentry>
+			<term>hard disk (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "harddisk" or "hard-disk."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>hard disk drive (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "harddrive" or "hard-drive."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>he, she</term>
+			 <listitem>
+				<para>
+					Do not use. Reword to avoid.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>help desk</term>
+			<listitem>
+				<para>
+					Two words. <remark>Under review. Need context and example.</remark>
+				</para>
+			</listitem>
+		</varlistentry>
+		
+		<varlistentry>
+			<term>healthcare</term>
+			<listitem>
+				<para>
+					<remark>Under review. Need context and example.</remark>
+				</para>
+			</listitem>
+		</varlistentry>
+		 <varlistentry>
+			<term>health check (n.)</term>
+			 <listitem>
+				<para>
+					Two words. This is a change from the previous style standard (one word) to take advantage of the better search ranking of the two-word variation, and is used in product names that are similar to competitive offerings in the same space.
+				</para>
+				 <para>
+					This term is only capitalized when part of a product name, for example: 
+					<itemizedlist>
+						<listitem>
+							<para>
+								<productname>Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;Server Health&nbsp;Check</productname>
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								<productname>JBoss Middleware&nbsp;Health&nbsp;Check</productname>
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+				 <para>
+					Do not capitalize when referring to those services in a general way. For example: "A health check ensures your systems perform at their best."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>hertz (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Capitalize the initial "H" only at the beginning of a sentence. The correct abbreviation is "Hz."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>high-availability (adj.)</term>
+			 <listitem>
+				<para>
+					Correct. For example, "high-availability cluster." Do not use "high availability."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		<varlistentry>
+			<term>high availability (n.)</term>
+			<listitem>
+				<para>
+					Correct. For example, "Support is available 24x7 to help maintain high availability."
+				</para>
+			</listitem>
+		</varlistentry>
+		 <varlistentry>
+			<term>high-performance computing (HPC) (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Use standard hyphenation guidelines to maintain clarity.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>home page (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Two words, and only capitalize the initial "H" at the beginning of a sentence. If part of a proper noun, capitalize accordingly. See <citetitle>The IBM Style Guide</citetitle> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>host group (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Two words, and only capitalize the initial "H" at the beginning of a sentence. See RFC 966 for more details.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>host name (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Two words, and only capitalize the initial "H" at the beginning of a sentence. See <citetitle>The IBM Style Guide</citetitle> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>hot add (v.)</term>
+			 <listitem>
+				<para>
+					Correct. Two words, lowercase. Capitalize only at the beginning of a sentence. Do not use "hotadd" or "hot-add."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>hotline (n.)</term>
+			<listitem>
+				<para>
+					Correct. One word, lowercase. Capitalize only at the beginning of a sentence. <remark>Under review. Need context and example.</remark>
+				</para>
+			</listitem>
+		</varlistentry>
+		 <varlistentry>
+			<term>hot plug (v.)</term>
+			 <listitem>
+				<para>
+					Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use "hotplug" or "hot-plug."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>hot swap (v.)</term>
+			 <listitem>
+				<para>
+					Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use "hotswap" or "hot-swap."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>HP ProLiant</term>
+			 <listitem>
+				<para>
+					Correct. Do not use any other variations.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>HTML</term>
+			 <listitem>
+				<para>
+					When referring to the language, use "HTML," such as "To see the HTML version of this documentation..." When referring to a web page extension, use "html," such as "The main page is <filename>index.html</filename>."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>huge-page (adj.)</term>
+			<listitem>
+				<para>
+					Correct. Normal hyphenation rules apply. See <xref linkend="hugepage"/> for capitalization rules.
+				</para>
+			</listitem>
+		</varlistentry>
+		
+		<varlistentry>
+			<term id="hugepage">huge page (n.)</term>
+			<listitem>
+				<para>
+					Correct. Use the two-word version in all cases. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization used in that interface.
+				</para>
+			</listitem>
+		</varlistentry>
+		
+		 <varlistentry>
+			<term>Hyper-Threading (n.)</term>
+			 <listitem>
+				<para>
+					Hyper-Threading is Intel's implementation of simultaneous multithreading. Do not use hyperthreading or hyper-threading. If you are not referring specifically to Intel's implementation, use "simultaneous multithreading" or "SMT" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>hypervisor (n.)</term>
+			 <listitem>
+				<para>
+					Capitalize only at the beginning of a sentence or as part of <productname>Red&nbsp;Hat Enterprise&nbsp;Virtualization&nbsp;Hypervisor.</productname> Do not use "HyperVisor" or "Hyperviser."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

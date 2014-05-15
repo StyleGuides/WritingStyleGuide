@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-U">
+	<title>U</title>
+	 <variablelist>
+		<varlistentry>
+			<term>UID</term>
+			 <listitem>
+				<para>
+					UID and User ID are abbreviations of <emphasis>user identifier</emphasis>. Do not use "uid."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>UltraSPARC</term>
+			 <listitem>
+				<para>
+					Correct. Do not use ""ULTRASPARC," "UltraSparc," or other variations.
+				</para>
+				 <para>
+					UltraSPARC is a trademark of SPARC International, Inc., and is used under license by Sun Microsystems, Inc. Products bearing the SPARC trademarks are based upon an architecture developed by Sun Microsystems, Inc.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>uninterruptible (adj.)</term>
+			 <listitem>
+				<para>
+					Despite not appearing in the <citetitle>American Heritage Dictionary,</citetitle> this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary,</citetitle> and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>UNIX</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Unix" or "unix."
+				</para>
+				 <para>
+					UNIX is a registered trademark of The Open Group.
+				</para>
+				 <para>
+					Do not use "UNIX-like." Use an expression such as "Linux, UNIX, and similar operating systems" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>unset</term>
+			 <listitem>
+				<para>
+					Incorrect. Use "Clear" instead.
+				</para>
+				 <para>
+					To disable the <application>Wobbly Widget</application>, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> check box.
+				</para>
+				 <para>
+					This rule only matches TCP packets that have the <guilabel>SYN</guilabel> flag set and the <guilabel>ACK</guilabel> flag cleared.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>untrusted</term>
+			 <listitem>
+				<para>
+					Use only in the context of security relationships. For example, web browsers often indicate that a site is "untrusted" if it cannot verify that site's security certificate.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>upgrade</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "up-grade" or "up grade."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>UPS</term>
+			 <listitem>
+				<para>
+					Abbreviation of uninterruptible power supply, a power supply that includes a battery to maintain power in the event of a power outage.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>upsell (v.), upselling (n.)</term>
+			 <listitem>
+				<warning>
+					<title>Marketing Use Only</title>
+					 <para>
+						"The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.<footnote> <para>
+							http://www.ahdictionary.com/word/search.html?q=upsell
+						</para>
+						 </footnote>"
+					</para>
+					 <para>
+						Do not hyphenate or use as two words. No adjectival form is currently recognized.
+					</para>
+
+				</warning>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>uptime (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "up-time" or "up time."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>URL (n.)</term>
+			 <listitem>
+				<para>
+					Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
+				</para>
+				 <para>
+					See <xref linkend="form-Policy-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>usable (adj.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "useable."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>user (n.)</term>
+			 <listitem>
+				<para>
+					When referring to the reader, use "you" instead of "user." For example, "The user must..." is incorrect. Use "You must..." instead.
+				</para>
+				 <para>
+					If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may wish to access your database."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>userid (n.)</term>
+			 <listitem>
+				<para>
+					Acceptable abbreviation of <emphasis>user identifier</emphasis>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>user interface (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "user-interface" or "userinterface."
+				</para>
+				 <para>
+					The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. A command-driven interface is one in which you enter commands. A menu-driven interface is one in which you select command choices from various menus displayed on the screen.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>user name (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "username" unless you are using it as a variable.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>user space (n.)</term>
+			 <listitem>
+				<para>
+					Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space." Do not use "userspace."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>utilize</term>
+			 <listitem>
+				<para>
+					Avoid this term. Write "use" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

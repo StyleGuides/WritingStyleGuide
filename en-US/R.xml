@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-R">
+	<title>R</title>
+	 <variablelist>
+		<varlistentry>
+			<term>RAM</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Ram" or any other variations. This is an acronym for "random access memory."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>RAM disk</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "RAMdisk," "ramdisk," or "RAM-disk."
+				</para>
+				 <para>
+					Refers to RAM that has been configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a real disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful, therefore, for applications that require frequent disk accesses.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>raw</term>
+			 <listitem>
+				<para>
+					Unprocessed. The term refers to data that is passed to an I/O device without being interpreted. In contrast, cooked refers to data that is processed before being passed to the I/O device.
+				</para>
+				 <para>
+					The term comes from UNIX, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill, are processed by the device driver before being sent to the output device.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>raw data</term>
+			 <listitem>
+				<para>
+					Information that has not been organized, formatted, or analyzed.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>read</term>
+			 <listitem>
+				<para>
+					(v.) To copy data to a place where it can be used by a program. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory. Also used to refer to the act of determining the contents of a variable or parameter.
+				</para>
+				 <para>
+					(n.) The act of reading. For example, a fast disk drive performs 100 reads per second.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>read-only</term>
+			 <listitem>
+				<para>
+					Capable of being displayed, but not modified or deleted. All operating systems allow you to protect objects (disks, files, directories) with a read-only attribute that prevents other users from modifying the object.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>read/write</term>
+			 <listitem>
+				<para>
+					Capable of being displayed (read) and modified (written to). Most objects (disks, files, directories) are read/write, but operating systems also allow you to protect objects with a read-only attribute that prevents other users from modifying the object.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>real time/real-time</term>
+			 <listitem>
+				<para>
+					If used as a noun, it is the actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March." If used as an adjective, "real-time" is appropriate. For example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>reboot</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "re-boot."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>RedBoot</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Redboot" or "Red Boot."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		 <varlistentry>
+			<term>Red&nbsp;Hat Network&nbsp;Satellite&nbsp;Server and Red&nbsp;Hat Network&nbsp;Proxy&nbsp;Server</term>
+			 <listitem>
+				<para>
+					Correct. Write these names in full the first time that you use them in a document. Subsequently, you can write "RHN Satellite Server" and "RHN Proxy Server," or omit the word "Server" from any of the previous constructions.
+				</para>
+				 <para>
+					With sufficient context, you can refer to "Satellite" and "Proxy" - for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
+				</para>
+				 <para>
+					Do not use "Red Hat Satellite (Server)" or "Red Hat Proxy (Server)."
+				</para>
+				<remark>Under review.</remark>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term id="redhatway">Red Hat Way</term>
+			<listitem>
+				<para>
+					To do
+				</para>
+			</listitem>
+		</varlistentry>
+		 <varlistentry>
+			<term>refer to</term>
+			 <listitem>
+				<para>
+					Do not use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source). Use "See."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>remote access</term>
+			 <listitem>
+				<para>
+					The ability to log onto a network from a distant location. Generally, this implies a computer, a modem, and some remote access software to connect to the network. Whereas remote control refers to taking control of another computer, remote access means that the remote computer actually becomes a full-fledged host on the network. The remote access software dials in directly to the network server. The only difference between a remote host and workstations connected directly to the network is slower data transfer speeds.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>remote access server</term>
+			 <listitem>
+				<para>
+					A server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials into a network from home using an analog modem or an ISDN connection will dial into a remote access server. Once the user is authenticated they can access shared drives and printers as if they were physically connected to the office LAN.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>required</term>
+			 <listitem>
+				<para>
+					See "must."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>return</term>
+			 <listitem>
+				<para>
+					When referring to the keyboard key on Solaris or Mac, use <keycap>Return</keycap> or <keycap>return</keycap>, respectively. See "enter" for other platforms.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>right-click</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "right click."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>right now</term>
+			 <listitem>
+				<para>
+					Use "now" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>ROM, PROM</term>
+			 <listitem>
+				<para>
+					Acronym for read-only memory, computer memory on which data has been prerecorded. After data has been written onto a ROM chip, it cannot be removed and can only be read.
+				</para>
+				 
+				 <para>
+					A variation of a ROM is a PROM (programmable read-only memory). PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>roundtable (n., adj.)</term>
+			 <listitem>
+				<para>
+					Use "roundtable" when referring to a type of event or gathering. Use "round table" when referring to a circular table.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>RPM</term>
+			 <listitem>
+				<para>
+					Initialism for the RPM Package Manager. RPM manages files in the RPM format, known as RPM packages. Note: RPM packages are known informally as <firstterm>rpm files</firstterm>, but this informal usage is not used in Red Hat documentation in order to avoid confusion with the command name. Files in RPM format are referred to as "RPM packages."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>runlevel</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "run level" or "run-level."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>runtime</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "run time" or "run-time."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

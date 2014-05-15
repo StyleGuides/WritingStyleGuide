@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-N">
+	<title>N</title>
+	 <variablelist>
+		<varlistentry>
+			<term>need</term>
+			 <listitem>
+				<para>
+					Use "need" instead of "desire" and "wish." Use "want" when the reader's actions are optional (that is, they may not "need" something but may still "want" something).
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>needs, needs to be, need to</term>
+			 <listitem>
+				<para>
+					Avoid when possible. Suggested alternatives include "must," "required," or "should."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>neighbor</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "neighbour."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>.NET</term>
+			 <listitem>
+				<para>
+					The Microsoft .NET Framework is a software framework for Microsoft Windows operating systems. It includes a large library, and supports several programming languages.
+				</para>
+				 <para>
+					"Microsoft .NET" is correct for the first reference, and ".NET" for all following references.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>network transparency</term>
+			 <listitem>
+				<para>
+					A condition in which an operating system or other service allows the user access to a remote resource through a network without needing to know if the resource is remote or local. For example, Sun Microsystems" NFS, which has become a de facto industry standard, provides access to shared files through an interface called the Virtual File System (VFS) that runs on top of the TCP/IP stack. Users can manipulate shared files as if they were stored locally on the user's own hard disk.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>NFS</term>
+			 <listitem>
+				<para>
+					Abbreviation of Network File System, a client/server application designed by Sun Microsystems that allows all network users to access shared files stored on computers of different types. NFS provides access to shared files through an interface called the Virtual File System (VFS) that runs in a layer above TCP/IP. Users can manipulate shared files as if they were stored locally on the user's own hard disk.
+				</para>
+				 <para>
+					With NFS, computers connected to a network operate as clients while accessing remote files, and as servers while providing remote users access to local shared files. The NFS standards are publicly available and widely used.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>node</term>
+			 <listitem>
+				<orderedlist>
+					<listitem>
+						<para>
+							In networks, a processing location. A node can be a computer or some other device, such as a printer. Every node has a unique network address, sometimes called a Data Link Control (DLC) address or Media Access Control (MAC) address.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							In tree structures, a point where two or more lines meet.
+						</para>
+
+					</listitem>
+
+				</orderedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>nonsecure</term>
+			 <listitem>
+				<para>
+					Do not use. Use "insecure" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>NULL or null</term>
+			 <listitem>
+				<para>
+					When a command or value is stated, use NULL. When stating that something is null, use "null," all lowercase.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>numbers</term>
+			 <listitem>
+				<para>
+					Spell out numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of…), and very large values, (4 billion). Use numerals for numbers 10 and greater, negative numbers, fractions, percentages, decimals, measurements, references to book sections (Chapter 3, Table 5, Page 11), and numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (You answered 8 out of 14 questions correctly). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6, Source-Navigator 4.5).
+				</para>
+				 <para>
+					Do not use commas in numbers with four digits (use 1000 rather than 1,000). Do use commas in numbers with five or more digits (10,000; 123,456,789; 1,000,000,000).
+				</para>
+				 <para>
+					See <citetitle>The Chicago Manual of Style, 16th Edition</citetitle> for detailed information on numbering formats.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

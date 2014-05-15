@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-C">
+	<title>C</title>
+	 <variablelist>
+		<varlistentry>
+			<term>can, may</term>
+			 <listitem>
+				<para>
+					Use "can" to describe actions or conditions that are possible. Use "may" only to describe situations where permission is being given. If either "can," "could," or "may" apply, use "can" - it is less tentative.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>canceled</term>
+			<listitem>
+				<para>
+					This is the preferred en-US spelling. Do not use "cancelled."
+				</para>
+			</listitem>
+		</varlistentry>
+		
+		 <varlistentry>
+			<term>cannot</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "can not."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>cd, CD</term>
+			 <listitem>
+				<para>
+					When referring to the change directory command, use <command>cd</command>.
+				</para>
+				 <para>
+					When referring to a compact disk, use "CD," for example, "Insert the CD into the CD drive." The plural is "CDs."
+				</para>
+				 <para>
+					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>CD #1</term>
+			 <listitem>
+				<para>
+					When referring to a specific CD in the &RHEL; CD set, it is correct to refer to it as: &RHEL; CD #1. Avoid using &RHEL; CD 1
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>cgroup</term>
+			 <listitem>
+				<para>
+					Correct (all lowercase) when referring to the kernel-based technology. This is a contraction of control group, and not a proper noun in itself; proper nouns use initial caps. This being the case, it is permissible to capitalize if used at the beginning of a sentence.
+				</para>
+				 <para>
+					Where cgroup refers to something else, for example, a package name, file name, and so on, use a literal rendition.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>characters</term>
+			 <listitem>
+				<para>
+					Do not use "characters" when you should use "bytes." In English, bytes and characters can be used interchangeably; in other languages a single character may consist of multiple bytes.
+				</para>
+				 <para>
+					In computer software, any symbol that requires one byte of storage. This includes all the ASCII and extended ASCII characters, including the space character. In character-based software, everything that appears on the screen, including graphics symbols, is considered to be a character. In graphics-based applications, the term character is generally reserved for letters, numbers, and punctuation.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>check</term>
+			 <listitem>
+				<para>
+					Do not use. Use "verify," "make sure," "ensure," or "read," depending on the context.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>check box</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "checkbox."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>chip set</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "chipset."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>ciphertext</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "cipher text" or "cipher-text" or other variants.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>clear text</term>
+			 <listitem>
+				<para>
+					Do not use. Use "plain text" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>click</term>
+			 <listitem>
+				<para>
+					Use when referring to a GUI control button, for example, "Click <guibutton>OK</guibutton>."
+				</para>
+				 <para>
+					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>client-side/client side</term>
+			 <listitem>
+				<para>
+					Use the hyphenated form as an adjective. For example: "Winbind is a client-side service used to connect to Windows NT servers." For other uses, use the two-word form, for example: "Winbind runs on the client side of a client/server Samba implementation." See also "server side."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>clobber or clobbered</term>
+			 <listitem>
+				<para>
+					These words should be avoided (except if "clobber" is the actual name of something). Use "altered," "invalidated," or "overwritten," or whatever is appropriate in the specific context.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term id="cloud">cloud</term>
+			 <listitem>
+				<para>
+					Although cloud is important to our business, it is not a proper noun. Do not capitalize, unless it is part of a Red&nbsp;Hat product, service, solution, or business unit name. Use a lowercase “c” when referring to cloud or cloud computing in a general sense. Use a capitalized “C” when referring to the full name of official products, such as Red&nbsp;Hat CloudForms or Red&nbsp;Hat Cloud Foundations. See also "big data."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>cloudbursting</term>
+			 <listitem>
+				<para>
+					Define briefly on first use.
+				</para>
+				 <para>
+					Refers to the event where a private cloud exceeds its capacity and "bursts" into and uses public cloud resources. The advantage of such a hybrid cloud deployment is that an organization only pays for extra compute resources when they are needed.<footnote> <para>
+						<ulink url="http://searchcloudcomputing.techtarget.com/definition/cloud-bursting" />
+					</para>
+					 </footnote>
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>cloudwashing</term>
+			 <listitem>
+				<para>
+					Define briefly on first use.
+				</para>
+				 <para>
+					Refers to the process of rebranding legacy products to include the term "cloud" to increase their appeal to the cloud market, even if such inclusion is not completely justified.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>cluster</term>
+			 <listitem>
+				<para>
+					As of Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6, this is known as the High Availability Add-On. Check your usage to ensure you are using the correct term.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>code</term>
+			 <listitem>
+				<para>
+					Only use as a noun, not a verb. Use "write" for a verb.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>combo-box</term>
+			 <listitem>
+				<para>
+					Do not use as an abbreviation for "combination box." See the relevant entry in <citetitle>The IBM Style Guide</citetitle> for further usage information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>comma-delimited (adj.)</term>
+			 <listitem>
+				<para>
+					Correct (compound adjective). A data format in which each piece of data is separated by a comma. This is a popular format for transferring data from one application to another, because most database systems are able to import and export comma-delimited data.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>command button (n.)</term>
+			 <listitem>
+				<para>
+					Use "button" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>command-driven (adj.)</term>
+			 <listitem>
+				<para>
+					Correct (compound adjective). Do not use "command driven" or "commanddriven."
+				</para>
+				 <para>
+					Refers to programs and operating systems that accept commands in the form of special words or letters. In contrast, programs that provide a list of options in a menu are said to be menu-driven.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>command language</term>
+			 <listitem>
+				<para>
+					The programming language through which a user communicates with the operating system or an application. For example, the DOS command language includes the commands DIR, COPY, and DEL, to name a few. The part of an operating system that responds to operating system commands is called the command processor.
+				</para>
+				 <para>
+					With graphical user interfaces, the command language consists of operations you perform with a mouse or similar input device.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>command line, command prompt, command-line</term>
+			 <listitem>
+				<para>
+					See the appropriate entries in <citetitle>The IBM Style Guide</citetitle> for an explanation of how to use these terms.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>connectivity</term>
+			 <listitem>
+				<para>
+					A computer buzzword that refers to a program or device's ability to link with other programs and devices. For example, a program that can import data from a wide variety of other programs and can export data in many different formats is said to have good connectivity. On the other hand, computers that have difficulty linking into a network (many laptop computers, for example) have poor connectivity.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>contractions</term>
+			 <listitem>
+				<para>
+					Do not use. Contractions are a mark of informal writing, and should be avoided when writing policy manuals or other more formal types of manuals. They also cause problems for translation.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>control character</term>
+			 <listitem>
+				<para>
+					A special, non-printing character that begins, modifies, or ends a function, event, operation or control operation. The ASCII character set defines 32 control characters. Originally, these codes were designed to control teletype machines. Now, however, they are often used to control display monitors, printers, and other modern devices.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>control key</term>
+			 <listitem>
+				<para>
+					Use <keycap>Ctrl</keycap> instead, such as "To save the program, press <keycombo><keycap>Ctrl</keycap><keycap>S</keycap></keycombo>."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>control program</term>
+			 <listitem>
+				<para>
+					A program that enhances an operating system by creating an environment in which you can run other programs. Control programs generally provide a graphical interface and enable you to run several programs at once in different windows.
+				</para>
+				 <para>
+					Control programs are also called operating environments.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>convert</term>
+			 <listitem>
+				<para>
+					To change data from one format to another.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>cookie</term>
+			 <listitem>
+				<para>
+					A message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
+				</para>
+				 <para>
+					The main purpose of cookies is to identify users and possibly prepare customized web pages for them. When you enter a website using cookies, you may be asked to fill out a form providing such information as your name and interests. This information is packaged into a cookie and sent to your web browser which stores it for later use. The next time you go to the same website, your browser will send the cookie to the web server. The server can use this information to present you with custom web pages. So, for example, instead of seeing just a generic welcome page you might see a welcome page with your name on it.
+				</para>
+				 <para>
+					The name "cookie" derives from UNIX objects called magic cookies. These are tokens that are attached to a user or program and change depending on the areas entered by the user or program. Cookies are also sometimes called "persistent cookies" because they typically stay in the browser for long periods of time.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>corrupted</term>
+			 <listitem>
+				<para>
+					Refers to data that has been damaged in some way.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>CR</term>
+			 <listitem>
+				<para>
+					Use if referring to code, such as "Type CR at the end of each line..." If referring to the keyboard key, use either <keycap>Enter</keycap> or <keycap>Return</keycap>, depending upon the platform.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>crash</term>
+			 <listitem>
+				<para>
+					IBM recommends the use of "fail" rather than "crash." The latter is not outlawed, but you would have to justify its use; that is, indicate why "fail" is inadequate.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>cross-platform</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "crossplatform" or "cross platform."
+				</para>
+				 <para>
+					Refers to the capability of software or hardware to run identically on different platforms.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>cross-site scripting</term>
+			 <listitem>
+				<para>
+					Correct. When referring to cross-site scripting attacks, use "cross-site scripting attack." Acceptable use is also "cross-site (XSS) scripting attack."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Customer Portal</term>
+			 <listitem>
+				<para>
+					 The following terms are used in the context of the Red&nbsp;Hat Customer Portal:
+					 <itemizedlist>
+						 <listitem><para>Customer Case Management</para></listitem>
+						 <listitem><para>Customer-centric Support</para></listitem>
+						 <listitem><para>Developer Support</para></listitem>
+						 <listitem><para>Knowledge Articles</para></listitem>
+						 <listitem><para>Knowledge-centered Support (KCS)</para></listitem>
+						 <listitem><para>KCS Solutions</para></listitem>
+						 <listitem><para>Red Hat Customer Portal; Customer Portal; portal</para></listitem>
+						 <listitem><para>Red Hat Discussions; discussions (lowercase when used alone)</para></listitem>
+						 <listitem><para>Support Case</para></listitem>
+						 <listitem><para>tech brief</para>
+							 <para>For example, "The Customer Portal is the place to see the latest videos, tech briefs, and reference architectures."</para>
+							</listitem>
+						 <listitem><para>Technical Account Management (product)</para></listitem>
+						 <listitem><para>Technical Account Manager (person)</para></listitem>
+					</itemizedlist>
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Cygmon</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "CygMon," "cygmon," or "CYGMON." An exception is if a command is being typed (such as cygmon).
+				</para>
+				 <para>
+					Refer to it as "Cygmon: a ROM monitor," not "Cygmon: the Cygnus ROM monitor," or "Cygmon: the ROM monitor."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

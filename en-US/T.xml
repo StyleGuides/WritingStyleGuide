@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-T">
+	<title>T</title>
+	 <variablelist>
+		<varlistentry>
+			<term>taskbar (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "task bar."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>tar, tarball (n.)</term>
+			 <listitem>
+				<para>
+					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>telephone numbers</term>
+			 <listitem>
+				<para>
+					Use spaces, not dashes or dots, to punctuate phone numbers. When indicating a number for international use, include the country code (+1 555 555 5555 for a US number, for example). US 800 numbers are not accessible from outside the country, so do not precede them with a country code (800 555 5555). Phone numbers beginning with 0 are not for international use. Make these numbers ready for international by dropping the zero and adding the appropriate country code. For example, (055) 12345 would be for use in Italy only; change it to +39 (55) 12345 for international use.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>terminal (n.)</term>
+			 <listitem>
+				<para>
+					Do not use to describe where to type commands. Use "command line" instead.
+				</para>
+				 <para>
+					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>terminal emulation</term>
+			 <listitem>
+				<para>
+					Refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>text mode</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "textmode" or "text-mode."
+				</para>
+				 <para>
+					A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>text-based (adj.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "text based."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>third-party (adj.), third party (n.)</term>
+			 <listitem>
+				<para>
+					Use "third-party" as the adjectival form. Use "third party" as the nominal form. Consult a dictionary for more examples.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>through</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "thru" and do not use the hyphen or any other type of dash.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>throughput (n.)</term>
+			 <listitem>
+				<para>
+					The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See <citetitle>The IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>tier-1 (adj.)</term>
+			 <listitem>
+				<para>
+					Always use a numeral, and always hyphenate. Follow standard capitalization guidelines.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>time frame (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "timeframe" or "time-frame."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>time zone (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "timezone" or "time-zone."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>token ring (n.)</term>
+			 <listitem>
+				<para>
+					When capitalized, Token Ring refers to the PC network architecture developed by IBM. The IBM Token-Ring specification has been standardized by the IEEE as the IEEE 802.5 standard. See <citetitle>The IBM Style Guide</citetitle> for further uses of this term.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>toolbar (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "tool bar" or "tool-bar."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>totally</term>
+			 <listitem>
+				<para>
+					Do not use. See "basically."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>troubleshoot (v.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "trouble shoot" or "trouble-shoot."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term> TTL </term>
+			 <listitem>
+				<para>
+					Initialism for "time to live" (n.) and "time-to-live" (adj.)
+				</para>
+				 <para>
+					Neither the noun nor the adjective should be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism is always uppercase.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>type</term>
+			 <listitem>
+				<para>
+					Type can be used as either a verb or noun. You can write "Print the data type of init" or "To start Source-Navigator, type <command>snavigator</command>."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

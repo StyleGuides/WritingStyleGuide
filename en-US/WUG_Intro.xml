@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-Usage_Dictionary">
+	<title>Usage Dictionary</title>
+	 <para>
+		This page provides guidelines for the correct use of common terms in Red Hat documentation, which terms to avoid, and the preferred spelling where variations exist. This page is constantly evolving, and open to discussion and improvement.
+	</para>
+	 <variablelist>
+		<varlistentry>
+			<term>A note about trademarks</term>
+			 <listitem>
+				<para>
+					The status of a trademark can vary from country to country. Therefore, do not attach the symbols for trademark or registered trademark (™ and ®) to any third-party trademarks that you mention in your document unless Red Hat legal asks you to do so. In XML terms, this means that you should not generally tag trademarks with the &lt;trademark&gt; tag. We do mark Red Hat's own trademarks. See <ulink url="https://home.corp.redhat.com/node/34059">Copyright Notices and Trademark Legends</ulink> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+	 <xi:include href="0-9.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="A.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="B.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="C.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="D.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="E.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="F.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="G.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="H.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="I.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="J.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="K.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="L.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="M.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="N.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="O.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="P.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Q.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="R.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="S.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="T.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="U.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="V.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="W.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="X.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Y.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Z.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="WUG_References.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+
+</chapter>
+

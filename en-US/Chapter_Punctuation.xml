@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-Punctuation">
+	<title>Punctuation</title>
+	 <para>
+		This section contains information on common punctuation topics. For more information, consult The Chicago Manual of Style, 14th Edition, or contact <ulink url="https://home.corp.redhat.com/node/67846">David O'Brien </ulink> (davido@redhat.com).
+	</para>
+	 <section id="sect-Policy-Writing_Style_Guide-Punctuation-Colons_and_Semicolons">
+		<title>Colons and Semicolons</title>
+		 <variablelist>
+			<varlistentry>
+				<term> TO RELATE CLAUSES </term>
+				 <listitem>
+					<para>
+						Current standards allow the use of a colon or semicolon in the following sentences. The sentences show a connection or shared theme between two clauses, or use the second clause to reiterate or amplify the idea in the first clause:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								They had been writing code all night: this could explain their bloodshot eyes.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								They had been writing code all night; this could explain their bloodshot eyes.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								I spend a lot of money on food; last month, I went out to eat 36 times.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								I spend a lot of money on food: last month, I went out to eat 36 times.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						Remember to start the phrase following a colon or semicolon with a lowercase letter.
+					</para>
+					 <para>
+						Try to limit your use of colons and semicolons. Separate sentences with a period if possible.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+		 <variablelist>
+			<varlistentry>
+				<term> TO INTRODUCE A LIST OR SERIES </term>
+				 <listitem>
+					<para>
+						A colon is generally used before a list or series:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								The Triangle Area consists of three cities: Raleigh, Durham, and Chapel Hill.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						But not if the list is a complement or object of an element in the sentence:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								Before going on vacation, be sure to (1) set the alarm, (2) cancel the newspaper, and (3) ask a neighbor to collect your mail.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								The colors I hate most are:
+							</para>
+							 <itemizedlist>
+								<listitem>
+									<para>
+										green
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										orange
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										pink
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										magenta
+									</para>
+
+								</listitem>
+
+							</itemizedlist>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						Use a colon after "as follows" and "the following" if the related list comes immediately after:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								The steps for changing directories are as follows:
+							</para>
+							 <orderedlist>
+								<listitem>
+									<para>
+										Open a terminal
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										Type cd...
+									</para>
+
+								</listitem>
+
+							</orderedlist>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						Use a colon to introduce a bullet list (or dash, or icon/symbol of your choice):
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								In the Properties dialog box, you'll find the following entries:
+							</para>
+							 <itemizedlist>
+								<listitem>
+									<para>
+										Connection name
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										Count
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										Confirm starting connection
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										Confirm stopping connection
+									</para>
+
+								</listitem>
+								 <listitem>
+									<para>
+										Cost per
+									</para>
+
+								</listitem>
+
+							</itemizedlist>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						Use a semicolon to separate items in a series if the items contain commas:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								Everyday I have coffee, toast, and fruit for breakfast; a salad for lunch; and a peanut butter sandwich, cookies, ice cream, and chocolate cake for dinner.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						Use a semicolon before a conjunctive adverb (however, therefore, otherwise, namely, for example, etc.):
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								I think; therefore, I am.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Punctuation-Commas">
+		<title>Commas</title>
+		 <variablelist>
+			<varlistentry>
+				<term> IN COMPOUND SENTENCES </term>
+				 <listitem>
+					<para>
+						Use a comma to join clauses in a compound sentence, unless the clauses are short and have a similar theme:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								I spent five hours working on this document, but I lost it when my computer crashed.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Do you want to go the mall and the grocery store with me, or are you going to watch football instead?
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								You wash and I'll dry.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						A comma can be omitted from a sentence with several clauses, but only when there's little chance that the sentence could be misread without it:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								We played football all afternoon and were completely exhausted but we still stayed up watching movies all night.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						That sentence is fine, but adding a comma before "...but we still stayed up..." would provide a pause and avoid the chance of having it read like a run-on sentence.
+					</para>
+					 <para>
+						In a compound sentence containing several short independent clauses, separate the clauses with commas AND USE A COMMA BEFORE THE CONJUNCTION:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								You need to go to the grocery store for milk, drop off my dry cleaning, and pick up your little sister from soccer practice.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+		 <variablelist>
+			<varlistentry>
+				<term> IN ADVERBIAL CLAUSES OR PHRASES </term>
+				 <listitem>
+					<para>
+						If a dependent clause is restrictive (omission will affect the meaning of the main clause), don't set it off with commas. If it is nonrestrictive (omission will not affect the main clause), set it off with commas:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								I'll go to lunch with you if we can get pizza.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								I don't want to go out for pizza, because I had pizza yesterday.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						If a dependent clause comes BEFORE the main clause, use a comma whether the clause is restrictive or not:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								If we get pizza, I'll go to lunch with you.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								When I heard the voice on the other end of the line, I was quite surprised.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+		 <variablelist>
+			<varlistentry>
+				<term> IN ADJECTIVAL CLAUSES OR PHRASES </term>
+				 <listitem>
+					<para>
+						An adjective clause that can be dropped without changing the meaning of the sentence is set off with commas:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								The application, which comes with excellent documentation, is used by many graphic artists.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						An adjective clause that cannot be dropped without changing the meaning of the sentence is not set off with commas:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								The plan that matters most to us will be easy to implement.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+		 <variablelist>
+			<varlistentry>
+				<term> WITH COORDINATE ADJECTIVES </term>
+				 <listitem>
+					<para>
+						Separate coordinate adjectives (two or more adjectives modifying the same noun) with commas:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								My dog is loyal, obedient, and affectionate
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								It was a long, boring meeting.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+		 <variablelist>
+			<varlistentry>
+				<term> WITH SERIES AND LISTS </term>
+				 <listitem>
+					<para>
+						Separate elements in a series of three or more with commas, including a comma before the conjunction if one is used:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								Today I am wearing socks, shoes, pants, and a shirt.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Punctuation-Parentheses">
+		<title>Parentheses</title>
+		 <para>
+			Parentheses are similar to commas in that they set off information that further explains or enhances a statement. Information that is very closely related to the statement should be set off with commas; information that is more incidental should be set off with parentheses.
+		</para>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					I tried to get to the elevator before the door shut, but I was too slow.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Most of my favorite authors (Shakespeare, Dickens, Woolf) are dead.
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+		 <para>
+			Expressions beginning with <emphasis>i.e., e.g., that is </emphasis>and so on can be set off with parentheses if they cause a major break in the sentence. If the break is minor, use commas.
+		</para>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					He interviewed the biggest stars of the day, namely, Madonna, Michael Jackson, and Jack Nicholson.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Classic works of literature (e.g.,Dickens, Shakespeare, the Brontes) lined the shelves.
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+		 <para>
+			If the contents of the parentheses include at least one complete sentence, the period goes inside the parentheses. If not, the period goes outside.
+		</para>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Punctuation-Quotation_Marks">
+		<title>Quotation Marks</title>
+		 <para>
+			Commas and periods go inside quotation marks.
+		</para>
+		 <para>
+			Question marks, exclamation points, dashes, and semicolons go inside the quotation marks IF they are part of the quote; if not, they go outside.
+		</para>
+		 <para>
+			Don't put quotation marks around cliches or slang terms (in fact, just avoid using cliches and slang as it makes the translation of content more difficult).
+		</para>
+		 <para>
+			A word or words being introduced to readers should not be placed in quotation marks (for our purposes, we use the SGML &lt;firstterm&gt; tag) for first reference. If you are writing outside of the SGML tagging enviroment, use quotation marks for first references. Subsequent references do not need quotation marks or the &lt;firstterm&gt; SGML tag.
+		</para>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Punctuation-Apostrophes">
+		<title>Apostrophes</title>
+		 <para>
+			Plural nouns not ending in <emphasis>s</emphasis> should have add an <emphasis>'s </emphasis> (for example, the alumni's contribution).
+		</para>
+		 <para>
+			Plural nouns ending in <emphasis>s</emphasis> only need an apostrophe (for example, the horses' food).
+		</para>
+		 <para>
+			Singular common nouns ending in <emphasis>s</emphasis> should add an <emphasis>'s</emphasis> unless the next word begins with an <emphasis>s</emphasis> (for example, the witness's answer or the witness' story).
+		</para>
+		 <para>
+			Singular proper names ending in <emphasis>s</emphasis> only need an apostrophe (for example, Dickens' novels).
+		</para>
+
+	</section>
+	
+
+</chapter>
+

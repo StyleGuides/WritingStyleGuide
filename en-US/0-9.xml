@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-a0_9">
+	<title>0-9</title>
+	 <variablelist>
+		<varlistentry>
+			<term>24x7, 24x7x365</term>
+			 <listitem>
+				<para>
+					Use "24x7" in most instances. Use "24x7x365" only to differentiate Red&nbsp;Hat from others or highlight specifically that we offer a service every day of the year, for example, providing 24x7x365 phone support.
+				</para>
+			</listitem>
+		</varlistentry>
+		<varlistentry>
+			<term>3-D (adj., n.)</term>
+			<listitem>
+				<para>
+					Correct. Do not use other variations.
+				</para>
+			</listitem>
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

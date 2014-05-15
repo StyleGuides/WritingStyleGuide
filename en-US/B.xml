@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-B">
+	<title>B</title>
+	 <variablelist>
+		<varlistentry>
+			<term>back end (n.), back-end (adj.)</term>
+			 <listitem>
+				<para>
+					"Back end" is a noun, "back-end" is an adjective. Refers to software that performs the final stages of a process, or tasks that are not visible to the user.
+				</para>
+				 <para>
+					Example of noun: "Each back end provides a set of calls."
+				</para>
+				 <para>
+					Example of adjective: "When the back-end database processes a search operation…"
+				</para>
+				 <para>
+					Do not use "backend" as either a noun or an adjective.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>backup (adj., n.), back up (v.)</term>
+			 <listitem>
+				<para>
+					Depending on usage, this could appear in either of two ways:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Adjective: Store the backup copies of important files in a secure location.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Noun: Create a backup of your important files.
+						</para>
+
+					</listitem>
+					 
+					<listitem>
+						<para>
+							Verb: Always back up important files.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+				<para>
+					Do not use the hyphenated form, "back-up."</para>
+
+			</listitem>
+			
+
+		</varlistentry>
+		 <varlistentry>
+			<term>backtrace</term>
+			 <listitem>
+				<para>
+					Correct. "Backtrace" is the most common term used to refer to a stack trace (or stack backtrace), which is a report of the active stack frames (that is, function calls) at a certain point in time during the execution of a program. In contrast, the Python programming language calls its stack trace a "traceback," possibly because the stack frames are printed in the opposite order of those presented by gdb, the GNU Debugger. "Traceback" is the preferred term when referring to a Python stack trace.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>backwards</term>
+			<listitem>
+				<para>
+					Use only in the sense of something being "backwards compatible."
+				</para>
+				<warning>
+					<title>ECS Exception</title>
+					<para>
+						ECS adheres to <citetitle>The IBM Style Guide</citetitle> recommendation and does not use this term. Instead, use "compatible with earlier versions."
+					</para>
+				</warning>
+			</listitem>
+		</varlistentry>
+		 <varlistentry>
+			<term id="bandwidth">bandwidth</term>
+			 <listitem>
+				<para>
+					Correct. Bandwidth can refer to a range within a band of frequencies or wavelengths, or the amount of data that can be transmitted in a fixed amount of time.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>bare metal</term>
+			 <listitem>
+				<para>
+					As a noun, use two words: "bare metal". As an adjective, use a hyphen: "bare-metal".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>basically</term>
+			 <listitem>
+				<para>
+					Do not use. For example, removing the word "basically" in the following sentence strengthens it: "This is how it is basically done."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>because or since</term>
+			 <listitem>
+				<para>
+					Do not use "since" to mean "because;" it is ambiguous. Use "because" to refer to a reason. Use "since" to indicate the passage of time.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>below</term>
+			 <listitem>
+				<para>
+					Do not use to refer to information mentioned "below," or later in a document. When documents are converted to online format, the information may no longer be "below." Use a cross-reference instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>big data (n., adj.)</term>
+			 <listitem>
+				<para>
+					Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. See also <xref linkend="cloud"/>. Avoid using "big data" as an adjective. However, if unavoidable, hyphenate as per complex adjective rules. For example, "big-data solution". Do not hyphenate if used as a noun.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>bimonthly, biweekly (adj., adv.)</term>
+			<listitem>
+				<para>
+					Correct. Every other week or month.
+				</para>
+			</listitem>
+		</varlistentry>
+		 <varlistentry>
+			<term>BIND</term>
+			 <listitem>
+				<para>
+					This is correct when referring to the DNS software. Do not use Bind.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>BIOS</term>
+			 <listitem>
+				<para>
+					Correct. The plural form is BIOSes.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>bit rate</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "bitrate."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Boolean</term>
+			 <listitem>
+				<para>
+					Correct. Named after George Boole, who first developed the concept.
+				</para>
+				 <para>
+					According to <citetitle>The IBM Style Guide</citetitle>, it is acceptable to use "boolean" in API programming information when it refers to a primitive return type.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>boot</term>
+			 <listitem>
+				<para>
+					Verb: To load the first piece of software that starts a computer. because the operating system is essential for running all other programs, it is usually the first piece of software loaded during the boot process.
+				</para>
+				 <para>
+					Noun: Refers to the starting-up of a computer, which involves loading the operating system and other basic software. A cold boot is when you turn the computer on from an off position. A warm boot is when you reset a computer that is already on.
+				</para>
+				 <para>
+					Boot is an abbreviation of bootstrap, which in olden days was a strap attached to the top of your boot that you could pull to help get your boot on. Hence, the expression "pull oneself up by the bootstraps." Similarly, bootstrap utilities help the computer get started.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>boot disk</term>
+			 <listitem>
+				<para>
+					Correct. Two words. Do not use "boot diskette."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 
+		 <varlistentry>
+			<term>boot loader</term>
+			 <listitem>
+				<para>
+					Correct. Two words. Do not use "bootloader."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>bottleneck</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "bottle neck" or "bottle-neck."
+				</para>
+				 <para>
+					A bottleneck refers to the delay in transmission of data through the circuits of a computer's microprocessor or over a TCP/IP network. The delay typically occurs when a system's bandwidth cannot support the amount of information being relayed at the speed it is being processed. There are, however, many factors that can create a bottleneck in a system.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>bpp</term>
+			 <listitem>
+				<para>
+					Initialism for bits per pixel. All letters are lowercase, unless at the beginning of a sentence. Use a non-breaking space between the numeral and the units. For example, "16&nbsp;bpp," not "16bpp."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Bps, bps</term>
+			 <listitem>
+				<para>
+					The abbreviation of bytes per second is Bps. The abbreviation of bits per second is bps. To avoid confusion, do not use at the beginning of a sentence. See also <xref linkend="bandwidth"/>
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		<varlistentry>
+			<term>bring up</term>
+			 <listitem>
+				<para>
+					Do not use. Use "open" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>Britain</term>
+			<listitem>
+				<para>
+					If referring to the language, say "English." If referring to the country, say the United Kingdom of Great Britain and Northern Ireland, or the UK. Using Britain or British is usually wrong and to some implies a specific subjective statement about the state of Northern Ireland.
+				</para>
+			</listitem>
+		</varlistentry>
+		
+		 <varlistentry>
+			<term>broadcast</term>
+			 <listitem>
+				<para>
+					To simultaneously send the same message to multiple recipients. Broadcasting is a useful feature in email systems. It is also supported by some fax systems.
+				</para>
+				 <para>
+					In networking, a distinction is made between broadcasting and multicasting. Broadcasting sends a message to everyone on the network whereas multicasting sends a message to a select list of recipients.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term> Btrfs </term>
+			 <listitem>
+				<para>
+					A copy-on-write file system for Linux. Use a capital "B" when referring to the file system. When referring to tools, commands, and other utilities related to the file system, be faithful to those utilities.
+				</para>
+				 <para>
+					See <ulink url="http://en.wikipedia.org/wiki/Btrfs" /> for more information on this file system. See <ulink url="http://en.wikipedia.org/wiki/List_of_file_systems" /> for a list of file system names and how to present them.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>bug fix</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "bugfix."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>built-in (adj.)</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "builtin."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>bunches of</term>
+			 <listitem>
+				<para>
+					Do not use, unless "bunch" is a specific term used in the software being documented. Use "many" or some other alternative instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>button</term>
+			 <listitem>
+				<para>
+					Describe a GUI button as a "button," not a "pushbutton" or "push-button."
+				</para>
+				 <para>
+					Ordinarily you would not need to include the text "button" in a procedure or description. For example, "Click <guibutton>OK</guibutton> to continue" is perfectly acceptable. It may be necessary to distinguish between buttons and links; for example, "Click the <guibutton>Unload</guibutton> button."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

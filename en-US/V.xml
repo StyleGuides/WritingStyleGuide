@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-V">
+	<title>V</title>
+	 <variablelist>
+		<varlistentry>
+			<term>VAR</term>
+			 <listitem>
+				<para>
+					Acronym for value-added reseller. Same as OEM (original equipment manufacturer).
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>VDSM</term>
+			 <listitem>
+				<para>
+					Initialism for Virtual Desktop Server Management. DO NOT spell out this initialism. Using the term "virtual desktop" in this context has negative marketing implications. Use VDSM without expansion.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>vi</term>
+			 <listitem>
+				<para>
+					Correct; use all lowercase letters. Do not use "VI" (all caps).
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 
+		 <varlistentry>
+			<term>Vim</term>
+			 <listitem>
+				<para>
+					Correct; Do not use "VIM" (all caps) or "vim" (all lowercase).
+				</para>
+				 <para>
+					Vim is an acronym, derived from Vi IMproved. (In the original 1991 release for the Amiga platform, the acronym was derived from Vi IMitation. It became Vi IMproved when ported to various UNIX-based operating systems in 1992.) Despite being an acronym, and despite the first word of the "About" text that appears when you launch the editor, the standard, proper noun-derived, mixed-case spelling has been in use since its release on the Amiga.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>video mode</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "video-mode" or "videomode."
+				</para>
+				 <para>
+					The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		<varlistentry>
+			<term>virtual console</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "virtual-console" or "Virtual Console" for general use.
+				</para>
+				 <para>
+					This can be abbreviated to "VC" as long as the term has been introduced in the same content in its full version first, such as "A virtual console (VC) is a shell prompt in a non-graphical environment. Multiple VCs can be accessed simultaneously."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>virtual machine, VM</term>
+			 <listitem>
+				<para>
+					Refers to virtual hardware that consists of virtual CPUs, memory, devices, and so on. Do not use "guest virtual machine" unless you want to specifically emphasize the fact that it is a guest.
+				</para>
+				<para>
+					This can be abbreviated to "VM" as long as the term has been introduced in the same content in its full version first, and provided there is no possibility of confusion with other terms, such as "virtual memory." Author discretion is recommended.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>virtualized guest</term>
+			 <listitem>
+				<para>
+					The term "virtualized guest" should be used only when comparing a "fully virtualized guest" with a "paravirtualized guest."
+				</para>
+				 <para>
+					See also "guest operating system."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 
+		
+		 <varlistentry>
+			<term>virtual router</term>
+			 <listitem>
+				<para>
+					An abstract object managed by VRRP (virtual router redundancy protocol) that acts as a default router for hosts on a shared LAN. It consists of a Virtual Router Identifier and a set of associated IP addresses across a common LAN.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>VPN</term>
+			 <listitem>
+				<para>
+					Initialism for virtual private network, a network that is constructed by using public wires to connect nodes. For example, there are a number of systems that enable you to create networks using the Internet as the medium for transporting data. These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

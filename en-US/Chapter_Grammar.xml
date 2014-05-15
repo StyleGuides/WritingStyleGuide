@@ -1,0 +1,929 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-Grammar">
+	<title>Grammar</title>
+	 <para>
+		This section contains information on a few common grammar topics. For subjects not covered here, consult The Chicago Manual of Style, 16th Edition, or post your question on #donuts in IRC.
+	</para>
+	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Active_Voice">
+		<title>Active Voice</title>
+		 <para>
+			Use the active voice ("Type ... to start Linuxconf.") rather than passive ("Linuxconf can be started by typing...") whenever possible. Active voice makes for more lively, interesting reading. It is more compelling than passive voice and helps to reduce word count.
+		</para>
+		 <para>
+			This does not mean that the passive voice is forbidden. There are situations when using the passive voice is appropriate, such as release notes, technical notes, and similar material.
+		</para>
+		 <para>
+			For example, the sentence, "The Developer Center, a site for reference material and other resources, has been introduced to the OpenShift website." reads better than
+		</para>
+		 <para>
+			"The OpenShift website introduces the Developer Center, a site for reference material and other resources." Here, the passive voice is better because the important issue ("The Developer Center") is the subject of the sentence.
+		</para>
+		 <para>
+			You can also use the passive voice to front-load important keywords in key areas of your content, such as the title, heading, or at the beginning of a paragraph or sentence. You need to make these decisions on a case-by-case basis, weighing the importance of front-loading keywords against content that is readable (that is, not awkward sounding). Consider the following two examples:
+		</para>
+		 <example id="exam-Policy-Writing_Style_Guide-Active_Voice-Active_Voice">
+			<title>Active Voice</title>
+			 <para>
+				"Dutch hosting provider Oxilion launches <emphasis>public cloud</emphasis> service based on Red&nbsp;Hat Enterprise&nbsp;Virtualization."
+			</para>
+
+		</example>
+		 <example id="exam-Policy-Writing_Style_Guide-Active_Voice-Passive_Voice">
+			<title>Passive Voice</title>
+			 <para>
+				"<emphasis>Public cloud</emphasis> service based on Red&nbsp;Hat Enterprise&nbsp;Virtualization launched by Dutch hosting provider Oxilion."
+			</para>
+
+		</example>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Agreement">
+		<title>Agreement</title>
+		 <para>
+			In grammar, agreement occurs when specific parts of a sentence are coordinated: that is, they "shake hands" in number or gender.
+		</para>
+		 <para>
+			There are two forms of agreement: <emphasis>subject-verb agreement</emphasis> and <emphasis>pronoun-antecedent agreement</emphasis>. Subject-verb agreement is pretty rudimentary, and is not discussed here. Pronoun-antecedent agreement can be a little more problematic, so...
+		</para>
+		 <variablelist>
+			<varlistentry>
+				<term>Pronoun-antecedent agreement</term>
+				 <listitem>
+					<para>
+						A <emphasis>pronoun</emphasis> is a word that is used in place of a noun (for example, I, he, she, it). An <emphasis>antecedent</emphasis> is a word or phrase to which the pronoun refers.
+					</para>
+					 <para>
+						When you are comfortable with subject-verb agreement, pronoun-antecedent agreement often follows as a matter of course.
+					</para>
+					 <para>
+						Here is an annotated roundup of pronoun-antecedent rules:
+					</para>
+					 <variablelist>
+						<varlistentry>
+							<term>Singular and singular/plural and plural.</term>
+							 <listitem>
+								<para>
+									<citetitle>Rule:</citetitle> A singular pronoun refers to a singular antecedent; a plural pronoun refers to a plural antecedent.
+								</para>
+								 <itemizedlist>
+									<listitem>
+										<para>
+											<emphasis>Examples:</emphasis>
+										</para>
+
+									</listitem>
+									 <listitem>
+										<itemizedlist>
+											<listitem>
+												<para>
+													The CD spins in <emphasis>its</emphasis> caddy. (Singular third-person pronoun its refers to the singular antecedent CD.)
+												</para>
+
+											</listitem>
+											 <listitem>
+												<para>
+													The developers checked <emphasis>their</emphasis> work. (Plural third person pronoun their refers to the plural antecedent developers.)
+												</para>
+
+											</listitem>
+
+										</itemizedlist>
+
+									</listitem>
+
+								</itemizedlist>
+
+							</listitem>
+
+						</varlistentry>
+
+					</variablelist>
+					 <variablelist>
+						<varlistentry>
+							<term>Collective nouns.</term>
+							 <listitem>
+								<para>
+									<citetitle>Rule:</citetitle> When collective nouns are used as antecedents, use singular to plural pronouns, depending on the sentence's meaning.
+								</para>
+								 <itemizedlist>
+									<listitem>
+										<para>
+											<emphasis>Examples:</emphasis>
+										</para>
+
+									</listitem>
+									 <listitem>
+										<itemizedlist>
+											<listitem>
+												<para>
+													Microsoft seems second to none in <emphasis>its</emphasis> marketing skills (Collective noun "Microsoft" takes a singular pronoun its because the collective noun refers to the group as a whole).
+												</para>
+
+											</listitem>
+											 <listitem>
+												<para>
+													The developers were asked for <emphasis>their</emphasis> preferences (Collective noun "developers" takes the plural pronoun their because the reference is to the individuals of the group).
+												</para>
+
+											</listitem>
+
+										</itemizedlist>
+
+									</listitem>
+
+								</itemizedlist>
+
+							</listitem>
+
+						</varlistentry>
+
+					</variablelist>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Using_Who_Whom_That_and_Which_Correctly">
+		<title>Using Who, Whom, That, and Which Correctly</title>
+		 <para>
+			Use "whom" or "who" to introduce a qualifying phrase when the antecedent is a person. Use "that" or "which" when referring to a thing. Use "which" or "that" to introduce a qualifying phrase when the antecedent is a concept or an object. Who, whom, that, and which are known as "relative pronouns."
+		</para>
+		 <para>
+			Use the following as guidelines:
+		</para>
+		 <variablelist>
+			<varlistentry>
+				<term> Who </term>
+				 <listitem>
+					<para>
+						Relative pronoun when a person (or persons) is the subject.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term> Whom </term>
+				 <listitem>
+					<para>
+						Relative pronoun when person is not the subject.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term> Which </term>
+				 <listitem>
+					<para>
+						Relative pronoun for things.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term> That </term>
+				 <listitem>
+					<para>
+						Restrictive pronoun for things.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+		 <para>
+			<emphasis>Examples:</emphasis>
+		</para>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					The jewel case, which once held the CD, was broken recently.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					The CD that I received for my birthday is defective.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Edward C. Bailey, who wrote "Maximum RPM,"...
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					The company that published "Maximum RPM" was...
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					This book belongs to whomever purchased it last week.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Who ate all the cereal?
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					To whom should I address the letter?
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					The desktop that was designed by Earl is not called GNOME.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					The GNOME developers who worked on the desktop are...
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					The GNOME developers to whom I owe my gratitude are...
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+		 <note>
+			<para>
+				To help you choose between who and whom, substitute the person about whom you are speaking with either him or he.
+			</para>
+			 <itemizedlist>
+				<listitem>
+					<para>
+						If your restatement contains him, her, them, me, or us, then use whom or whomever. "I'm giving the book to him." "To whom am I giving the book?"
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						If the restatement contains the word he, she, they, I, or we, then use who or whoever. "Do you think he would mind?" "Who do you think would mind?" "She's walking in the door." "Who's walking in the door?"
+					</para>
+
+				</listitem>
+
+			</itemizedlist>
+
+		</note>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Sentence_Structure">
+		<title>Sentence Structure</title>
+		 <para>
+			A <emphasis>sentence</emphasis> is one, complete thought. A sentence expresses something about a subject (a person, place, or thing) and a verb (what the subject is or does).
+		</para>
+		 <para>
+			The following are things to consider when constructing sentences:
+		</para>
+		 <variablelist>
+			<varlistentry>
+				<term> Length </term>
+				 <listitem>
+					<para>
+						Try not to pack too much information into one sentence. Keep it short.
+					</para>
+					 <para>
+						Example:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								The <guibutton>Start</guibutton> button, which you can find in the bottom left corner of your screen (also activated by the "Windows key" on your keyboard, the one between the <keycap>Ctrl</keycap> and <keycap>Alt</keycap> keys), provides a central launching point for applications and tasks, and can be customized according to your individual preferences so that it presents menu items relevant to you instead of presenting the standard items that come with the default installation of the operating system, items which, in my opinion, are irrelevant for most users these days who really only need access to an Internet browser such as Google Chrome or Mozilla Firefox.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>Run-on Sentences</term>
+				 <listitem>
+					<para>
+						Two or more complete ideas that are joined without punctuation create a <emphasis>run-on sentence</emphasis> (also called a <emphasis>fused sentence</emphasis>). The sentence does not have to be long to be a run-on sentence, although the longer the sentence the more difficult it is to read.
+					</para>
+					 <para>
+						You can:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								Separate independent clauses with a period. Doing so will form two sentences out of one.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Use semicolons to form a compound sentence. Think of a semi-colon as an extended breather -- longer than a comma.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Insert a <firstterm>coordinating conjunction</firstterm>, such as "and" or "but", between the independent clauses to form a compound sentence. For example, "The process will start, but it will produce an error."
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Insert a <firstterm>subordinating conjunction</firstterm>, such as "although" or "because", which will form a compound sentence with a subordinate clause. For example, "Although the process will start, it will produce an error."
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry>
+										Example
+									</entry>
+									 <entry>
+										Improvement
+									</entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry>
+										The CDs both of which belonged to the developers were in the test lab.
+									</entry>
+									 <entry>
+										The CDs, both of which belonged to the developers, were in the test lab.
+									</entry>
+
+								</row>
+								 <row>
+									<entry>
+										To access your programs click the Start button.
+									</entry>
+									 <entry>
+										To access your programs, click the Start button.
+									</entry>
+
+								</row>
+								 <row>
+									<entry>
+										The CDs, both of which belonged to the developers, were in the test lab, because they were the only available CDs for the new release, the developers were anxious about keeping them clean. (This sentence exhibits a <firstterm>comma splice</firstterm> which is also often regarded as a run-on sentence.)
+									</entry>
+									 <entry>
+										The CDs, both of which belonged to the developers, were in the test lab. Because they were the only available CDs for the new release, the developers were anxious about keeping them clean.
+									</entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>Sentence Fragments</term>
+				 <listitem>
+					<para>
+						A <emphasis>sentence fragment</emphasis> is an incomplete sentence.
+					</para>
+					 <para>
+						For example, "We will release no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade. At least, before its time." the second of the two sentences is a fragment.
+					</para>
+					 <para>
+						Repair sentence fragments by making them complete sentences.
+					</para>
+					 <note>
+						<para>
+							Read your sentences aloud, as if each sentence were the *only* sentence on a piece of paper. If you hear a sentence which does not make any sense by itself, then it is probably a sentence fragment.
+						</para>
+
+					</note>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>Telegraphic Style</term>
+				 <listitem>
+					<para>
+						Extreme cases of word economy can result in a telegraphic style, omitting words that can clarify the meaning of a sentence, such as articles, prepositions, and verbs used with gerunds.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry>
+										Example
+									</entry>
+									 <entry>
+										Improvement
+									</entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry>
+										Click button to start.
+									</entry>
+									 <entry>
+										Click the <guibutton>Initiate</guibutton> button to start the process.
+									</entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+					 <para>
+						This problem is often encountered in the Revision History. It is important that wording in the Revision History is clear for translators and customers to understand.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry>
+										Example
+									</entry>
+									 <entry>
+										Improvement
+									</entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry>
+										Minor revision - missing element items
+									</entry>
+									 <entry>
+										Minor revision - added missing element items
+									</entry>
+
+								</row>
+								 <row>
+									<entry>
+										Some further work required to avoid 404s at lower levels of the SDK.
+									</entry>
+									 <entry>
+										Some further work required to avoid 404 errors at lower levels of the SDK.
+									</entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term> Verbosity </term>
+				 <listitem>
+					<para>
+						Try not to use unnecessary words. Keep it succinct.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry>
+										Example
+									</entry>
+									 <entry>
+										Improvement
+									</entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry>
+										The individual member of the social community often receives his information via visual, symbolic channels.
+									</entry>
+									 <entry>
+										People read. (Translation by Richard Feynman.)
+									</entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term> Word Ordering </term>
+				 <listitem>
+					<para>
+						When two or more correct arrangements are possible, choose the order that will create the least ambiguity. Generally, this is the standard subject-verb-object, with modifiers before or immediately following what they modify.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry>
+										Example
+									</entry>
+									 <entry>
+										Improvement
+									</entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry>
+										To update the address lists may be your primary concern.
+									</entry>
+									 <entry>
+										Your primary concern may be to update the address lists.
+									</entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Avoiding_Ambiguities">
+		<title>Avoiding Ambiguities</title>
+		 <variablelist>
+			<varlistentry>
+				<term> Capitalizing Proper Nouns </term>
+				 <listitem>
+					<para>
+						In some cases it is not clear if a term refers to a concept or a proper noun or product name. By using the correct capitalization, you will help translators identify untranslatable proper nouns and Red Hat product names.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry>
+										Example
+									</entry>
+									 <entry>
+										Improvement
+									</entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry>
+										This property must be enabled when you are using CTDB in a Windows domain or in active directory security mode.
+									</entry>
+									 <entry>
+										This property must be enabled when you are using CTDB in a Windows domain or in Active Directory security mode.
+									</entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term> Homographic Verbs </term>
+				 <listitem>
+					<para>
+						The verb "may" can be used to express possibility as well as to grant permissions. Similarly, "should" can be used to make recommendations as well as to express obligation or expectation. A sentence containing one of these verbs often has a double meaning. These types of words are to be avoided.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry>
+										Example
+									</entry>
+									 <entry>
+										Improvement
+									</entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry>
+										The <methodname>next()</methodname> method should return <code>null</code> to indicate the end of results.
+									</entry>
+									 <entry>
+										The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. <emphasis>OR</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results.
+									</entry>
+
+								</row>
+								 <row>
+									<entry>
+										It may be held in memory.
+									</entry>
+									 <entry>
+										It can be held in memory. <emphasis>OR</emphasis> It might be held in memory.
+									</entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term> Homonymity </term>
+				 <listitem>
+					<para>
+						When a single term has multiple meanings, be explicit in order to differentiate between them.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry>
+										Example
+									</entry>
+									 <entry>
+										Improvement
+									</entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry>
+										Tab through the dialog box. Set the tab. Move the tab on the ruler. How to show or hide tabs. Select the tab.
+									</entry>
+									 <entry>
+										Use the tab key to move through the dialog box. Set the tab stop. Move the tab mark on the ruler. How to show or hide tab characters. Select the <guimenuitem>View</guimenuitem> tab in the <guimenuitem>Options</guimenuitem> dialog box.
+									</entry>
+
+								</row>
+								 <row>
+									<entry>
+										To create another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu.
+									</entry>
+									 <entry>
+										To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. <emphasis>OR</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu.
+									</entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+					 <note>
+						<para>
+							See also <xref linkend="sect-Policy-Writing_Style_Guide-Writing_for_Translation-Grammatical_Genders" />.
+						</para>
+
+					</note>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term> Invisible Plurals </term>
+				 <listitem>
+					<para>
+						Some two-word phrases (noun + noun) do not clarify whether the first noun is singular or plural.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry>
+										Example
+									</entry>
+									 <entry>
+										Improvement
+									</entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry>
+										Once the file retrieval has been completed, you are ready to restart your system.
+									</entry>
+									 <entry>
+										After the files have been retrieved, you can restart your system.
+									</entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term> Synonymity </term>
+				 <listitem>
+					<para>
+						Sometimes multiple terms have a single meaning. If terms are used inconsistently, users (and translators) will assume they refer to different things. It is best to use a single term for a single concept throughout.
+					</para>
+					 <para>
+						For example, "Administration GUI" and "Administration Console" could both be used to refer to a single application or to different applications. For this reason it is important that writers choose the most suitable term for each situation and use it consistently.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Contractions_and_Abbreviations">
+		<title>Contractions and Abbreviations</title>
+		 <para>
+			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't," "don't," "won't," and similar examples. Always write out in full. Take care also with abbreviations. For example, do not use "e.g.," or "i.e." See <citetitle>The IBM Style Guide</citetitle> for full details.
+		</para>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Hyphenation">
+		<title>Hyphenation</title>
+		 <para>
+			There are no hard and fast rules for hyphenation. In general, do not hyphenate unless required for clarity, or our other references declare that hyphens are required. The following is general guidance; if you are unsure about whether or not to hyphenate, ask your peers.
+		</para>
+		 <formalpara id="form-Policy-Writing_Style_Guide-Hyphenation-Hyphenate_for_Clarity">
+			<title>Hyphenate for Clarity</title>
+			 <para>
+				Hyphenate when needed for clarity. Words that begin with prefixes are usually not hyphenated. Prefixes can include "multi," "non," "sub," "co," "semi," "pre," "re," and so on.
+			</para>
+
+		</formalpara>
+		 <note>
+			<para>
+				Always use a hyphen if clarity would suffer otherwise. For example, "He recovered his health" versus "He re-covered the leaky roof."<footnote> <para>
+					<ulink url="http://www.apstylebook.com/online/?do=entry&amp;id=3542&amp;src=AE">www.apstylebook.com</ulink>
+				</para>
+				 </footnote>
+			</para>
+
+		</note>
+		 <formalpara id="form-Policy-Writing_Style_Guide-Hyphenation-Hyphenate_Complex_Adjectives">
+			<title>Hyphenate Complex Adjectives</title>
+			 <para>
+				Hyphenate complex adjectives (compound modifiers). This is when two adjectives work together to modify an object. The hyphen is used when the first adjective modifies the second adjective. For example, cloud-based solutions, right-side paralysis, system-wide menu.
+			</para>
+
+		</formalpara>
+		 <note>
+			<para>
+				Never hyphenate "open source," even when used as a complex adjective.
+			</para>
+
+		</note>
+		 <formalpara id="form-Policy-Writing_Style_Guide-Hyphenation-Hyphenate_Consecutive_Vowel_Sounds">
+			<title>Hyphenate Consecutive Vowel Sounds</title>
+			 <para>
+				Hyphenate words where the prefix ends in a vowel and the word that follows begins with the same vowel. For example, semi-independent, pre-emptive.
+			</para>
+
+		</formalpara>
+		 <note>
+			<para>
+				Exceptions to this rule include <emphasis>cooperate</emphasis> and <emphasis>coordinate.</emphasis>
+			</para>
+
+		</note>
+		 <formalpara id="form-Policy-Writing_Style_Guide-Hyphenation-Hyphenate_Mixed_Capitalization">
+			<title>Hyphenate Mixed Capitalization</title>
+			 <para>
+				Hyphenate when the word that follows a prefix is capitalized. For example, un-American, non-British.
+			</para>
+
+		</formalpara>
+		 <formalpara id="form-Policy-Writing_Style_Guide-Hyphenation-Hyphenate_Double_Prefixes">
+			<title>Hyphenate Double Prefixes</title>
+			 <para>
+				Hyphenate when the word has double prefixes. For example, sub-subparagraph, re-sublet.
+			</para>
+
+		</formalpara>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Gender_References">
+		<title>Gender References</title>
+		 <para>
+			Do not use gender-specific pronouns in documentation. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers." In most cases, use "you" when giving instructions, and "the user," "new users," and so on in more general explanations. Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal.
+		</para>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Tense">
+		<title>Tense</title>
+		 <para>
+			Avoid future tense (or using the term "will") whenever possible. For example, future tense ("The screen will display...") does not read as well as the present tense ("The screen displays..."). Remember, the users you are writing for most often refer to the documentation while they are using the system, not after or in advance of using the system.
+		</para>
+		 <para>
+			Use simple present tense as much as possible. It avoids problems with consequences and time related communications, and is the easiest tense for translation.
+		</para>
+
+	</section>
+	
+
+</chapter>
+

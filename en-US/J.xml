@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-J">
+	<title>J</title>
+	 <variablelist>
+		<varlistentry>
+			<term>JavaScript </term>
+			 <listitem>
+				<para>
+					"JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file written using this language, use all lowercase; for example, "...copy the IPA javascript file to the <filename>/temp</filename> directory." <ulink url="https://engineering.redhat.com/rt/Ticket/Display.html?id=151672"><citetitle>RT reference 151672</citetitle></ulink>
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>JBoss Community</term>
+			<listitem>
+				<para>
+					No longer referred to as "JBoss.org." Use when referring to the community of users and contributors.
+				</para>
+			</listitem>
+		</varlistentry>
+		
+		<varlistentry>
+			<term>JBoss Way</term>
+			<listitem>
+				<para>
+					When referring specifically to the JBoss cultural and business climate or practices as the subject of your sentence, capitalize "JBoss Way" as a formal, branded concept. However, if the reference is generic or the "way" is further specified, do not capitalize. See also <xref linkend="redhatway"/> and <xref linkend="opensourceway"/>.
+				</para>
+			</listitem>
+		</varlistentry>
+		 <varlistentry>
+			<term>job</term>
+			 <listitem>
+				<para>
+					A task performed by a computer system. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>just</term>
+			 <listitem>
+				<para>
+					Use sparingly. In the phrase, "Just open the file...", the word "just" can be omitted.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>JVM</term>
+			 <listitem>
+				<para>
+					Initialism for Java Virtual Machine, and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine," or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity, because most people know it as such, for example, "Java Virtual Machine (JVM)." Do not use Jvm or jvm.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

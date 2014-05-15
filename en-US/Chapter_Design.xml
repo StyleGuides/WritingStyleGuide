@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-Design">
+	<title>Design</title>
+	 <xi:include href="Book_Design.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <section id="sect-Policy-Writing_Style_Guide-Design-Heading_Styles">
+		<title>Heading Styles</title>
+		 <variablelist>
+			<varlistentry>
+				<term> Capitalization </term>
+				 <listitem>
+					<para>
+						The standard for all Red&nbsp;Hat documentation is title case for all headings and titles. Diagram labels, table headings, procedure and formal paragraph titles all fall under this heading, and consequently, standard title case capitalization rules apply. Titles should not include punctuation marks. The currently accepted reference for determining title case is <ulink url="http://titlecase.com">http://titlecase.com.</ulink>
+					</para>
+					 <warning>
+						<title>Marketing and Brand Capitalization Guide</title>
+						 <para>
+							The Red&nbsp;Hat Marketing and Brand groups use sentence case for most titles and headings, with some exceptions, for example, when referencing an externally produced resource's title.
+						</para>
+
+					</warning>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term> Avoid Imperative Form </term>
+				 <listitem>
+					<para>
+						Use the gerund form (noun form of verb) for titles, not the imperative form.
+					</para>
+					 <para>
+						See <citetitle>The IBM Style Guide</citetitle> for more information.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry>
+										Example
+									</entry>
+									 <entry>
+										Improvement
+									</entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry>
+										Install JBoss Enterprise Application Platform Using the ZIP Download
+									</entry>
+									 <entry>
+										Installing JBoss Enterprise Application Platform Using the ZIP Download <emphasis>OR</emphasis> Installation of JBoss Enterprise Application Platform Using the ZIP Download
+									</entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+					 <important>
+						<para>
+							Gerunds should be avoided elsewhere. Refer to <xref linkend="sect-Policy-Writing_Style_Guide-Writing_for_Translation-Sentence_Structure" />.
+						</para>
+
+					</important>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Design-Documenting_Fonts">
+		<title>Documenting Fonts</title>
+		 <para>
+			Red Hat documentation uses the "PostScript" font. There are three types, and the preferred way to refer to each type is "PostScript Type x," with "x" substituted with either 1, 2, or 3, if the problem is specific to a particular type.
+		</para>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Design-Documenting_the_User_Interface">
+		<title>Documenting the User Interface</title>
+		 <para>
+			In all cases, see <citetitle>The IBM Style Guide</citetitle> for initial guidance. The following sections highlight exceptions or cases that might otherwise cause confusion.
+		</para>
+		 <section id="sect-Policy-Writing_Style_Guide-Documenting_the_User_Interface-GUI_Elements_and_Punctuation">
+			<title>GUI Elements and Punctuation</title>
+			 <para>
+				Do not include punctuation that appears on GUI elements in Red&nbsp;Hat documentation, unless omission of that punctuation might lead to confusion.
+			</para>
+			 <para>
+				For example, for a button labeled <guibutton>Save As...</guibutton>, do not include the ellipsis in the documentation.
+			</para>
+			 <para>
+				See the <citetitle>Computer Interfaces</citetitle> chapter in <citetitle>The IBM Style Guide</citetitle> for more information.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Policy-Writing_Style_Guide-Documenting_the_User_Interface-Launching_Applications_from_the_RednbspHat_EnterprisenbspLinux_Desktop">
+			<title>Launching Applications from the Red&nbsp;Hat Enterprise&nbsp;Linux Desktop</title>
+			 <para>
+				Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;7 introduces a new approach to launching applications from the desktop. In an effort to maintain consistency and to make translation easier, ECS documentation assumes the customer is using GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to launch applications.
+			</para>
+			 <para>
+				The preferred approach is to use the <keycap>Super</keycap> key to enter the Activities Overview, enter the name of the required application, and to press <keycap>Enter.</keycap> The <keycap>Super</keycap> key appears in a variety of guises, depending on the keyboard and other hardware, but often as either the <keysym>Windows</keysym> or <keysym>Command</keysym> key, and typically to the left of the <keycap>Spacebar.</keycap> For example:
+			</para>
+			 <example id="exam-Policy-Writing_Style_Guide-Launching_Applications_from_the_RednbspHat_EnterprisenbspLinux_Desktop-Preferred_Approach_to_Launching_Applications_from_the_Desktop">
+				<title>Preferred Approach to Launching Applications from the Desktop</title>
+				 <para>
+					To start <command>gedit,</command> press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>gedit,</literal> and then press <keycap>Enter.</keycap>
+				</para>
+
+			</example>
+
+		</section>
+		
+		 <section id="sect-Policy-Writing_Style_Guide-Documenting_the_User_Interface-Documenting_Command_Syntax">
+			<title>Documenting Command Syntax</title>
+			 <para>
+				See the <citetitle>Computer Interfaces</citetitle> chapter of <citetitle>The IBM Style Guide</citetitle> for initial guidance. The following examples are intended to highlight correct usage.
+			</para>
+			 <example id="exam-Policy-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository">
+				<title>Cloning a Git Repository</title>
+				 <para>
+					<command>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></command>
+				</para>
+
+			</example>
+			 <para>
+				In <xref linkend="exam-Policy-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
+				<itemizedlist>
+					<listitem>
+						<para>
+							<prompt>$</prompt> Indicates that a normal user can run the command, as compared to the <systemitem class="username">root</systemitem> user, indicated by the number sign (<prompt>#</prompt>).
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							<command>git clone git+ssh://</command> The actual command to run, without any optional or replaceable values. This must be typed as-is.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							<replaceable>[username@]hostname:/repository_filename</replaceable> The optional user name, indicated by brackets ([]), followed by the host name and path to the repository. All aspects of this component must be replaced with valid values.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							<replaceable>[directory]</replaceable> The optional directory into which the repository will be cloned. This must be replaced with a valid value, or omitted.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</para>
+			 <example id="exam-Policy-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
+				<title>Securely Copying a File Between Hosts</title>
+<screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
+
+			</example>
+			 <para>
+				In <xref linkend="exam-Policy-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
+				<itemizedlist>
+					<listitem>
+						<para>
+							<prompt>$</prompt> Indicates that a normal user can run the command, as compared to the <systemitem class="username">root</systemitem> user, indicated by the number sign (<prompt>#</prompt>).
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							<command>scp</command> The actual command to run, without any optional or replaceable values. This must be typed as-is.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							<replaceable>filename</replaceable> The file name to copy. This must be replaced with a valid value.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							<replaceable>[username@]hostname:/directory</replaceable> The optional user name, indicated by brackets ([]), followed by the host name and path to the target directory. All aspects of this component must be replaced with valid values.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</para>
+			<section><title>Documenting Multiple or Long Commands</title>
+				<para>
+					Sometimes you need to demonstrate how to use very long commands that extend over two or more lines, or include several commands in a single example. If the commands are relatively short and straight-forward, include the commands on consecutive lines:
+					</para>
+					<example id="ex1"><title>Documenting Multiple Commands</title>
+<screen>$ cd Documents
+$ vi myFile.txt
+</screen></example>
+
+				<para>
+					If the commands are long, complex, or wrap over multiple lines, use the following design to help optimize clarity, and to make it easy for users to copy and paste the command if required:
+				</para>
+				<example id="ex2"><title>Documenting Long Commands</title>
+<screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
+/etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
+/etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
+/etc/sysconfig/katello /etc/sysconfig/elasticsearch \
+/root/ssl–build /var/www/html/pub/* /var/lib/katello
+
+# cd /var/lib/katello
+
+# myCommand --option funky --color=true \
+--config_file=&lt;replaceable&gt;/home/user/config.conf&lt;/replaceable&gt; \
+--output_file=&lt;replaceable&gt;/home/user/output.txt&lt;/replaceable&gt;</screen>
+				</example>
+			</section>
+
+		</section>
+		
+		 <section id="sect-Policy-Writing_Style_Guide-Documenting_the_User_Interface-Using_Host_and_User_Names_Correctly">
+			<title>Using Host and User Names Correctly</title>
+			 <para>
+				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following: 
+				<itemizedlist>
+					<listitem>
+						<para>
+							Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem class="domainname">example.com,</systemitem> <systemitem class="domainname">example.net,</systemitem> <systemitem class="domainname">example.org,</systemitem> and <systemitem class="domainname">example.edu.</systemitem>
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Use <systemitem class="username">user,</systemitem> <systemitem class="username">username,</systemitem> <systemitem class="username">root,</systemitem> <systemitem class="username">admin</systemitem> or similar names to identify classes of users. Do not invent names such as Joe, Mary, Mac, and so on.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Do not use valid IP addresses in any examples.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</para>
+
+		</section>
+		
+
+	</section>
+	<section><title>Working With Images</title>
+		<para>This is a draft section and needs work by someone in the know.</para>
+		
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Design-Documenting_Currencies">
+		<title>Documenting Currencies</title>
+		 <para>
+			Use local currency symbols wherever possible. If symbol clash occurs (USD vs AUD, for example), disambiguate with the 2-character country code. For example, US$, AU$.
+		</para>
+		 <important>
+			<para>
+				Do not provide currency conversions.
+			</para>
+
+		</important>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Design-Using_Abbreviations_Acronyms_and_Initialisms_Correctly">
+		<title>Using Abbreviations, Acronyms, and Initialisms Correctly</title>
+		 <para>
+			This section describes how to use abbreviations, acronyms, and initialisms correctly in Red&nbsp;Hat documentation.
+		</para>
+		 <formalpara id="form-Policy-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Abbreviations">
+			<title>Abbreviations</title>
+			 <para>
+				An abbreviation is a shortened form of a word or phrase. For example, <abbrev>Pty.</abbrev> and <abbrev>Inc.</abbrev> are abbreviations for "proprietary" and "incorporated," respectively. Read them as the word for which they are an abbreviation.
+			</para>
+
+		</formalpara>
+		 <formalpara id="form-Policy-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Acronyms">
+			<title>Acronyms</title>
+			 <para>
+				What are acronyms anyway? They are similar to abbreviations and initialisms but they are pronounced as an actual word. For example, <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
+			</para>
+
+		</formalpara>
+		 <para>
+			Bear pronunciation in mind when using articles. For example, use "an <abbrev>RTS</abbrev> (real-time strategy)," because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade," because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
+		</para>
+		 <para>
+			Be sure to use correct capitalization for acronyms. Not all acronyms are capitalized (for example, "spool"); see <citetitle>The IBM Style Guide</citetitle> or another suitable reference if you are unsure.
+		</para>
+		 <formalpara id="form-Policy-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Initialisms">
+			<title>Initialisms</title>
+			 <para>
+				An initialism is an abbreviation that consists of the first letters of words in a phrase, syllables, or some combination thereof. Each character is pronounced separately. For example, <abbrev>FTP</abbrev> is an initialism for <systemitem class="protocol">File Transfer Protocol.</systemitem>
+			</para>
+
+		</formalpara>
+		 <para>
+			Bear pronunciation in mind when using articles. See <xref linkend="form-Policy-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Acronyms" /> for more information.
+		</para>
+
+	</section>
+	
+	 <section role="internal" id="sect-Policy-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
+		<title>Using Company, Product, and Brand Names Correctly</title>
+		 <para>
+			For general information, see <ulink url="https://home.corp.redhat.com/wiki/writing-style-branding" />.
+		</para>
+		 <para>
+			The following points in particular should be noted: 
+			<itemizedlist>
+				<listitem>
+					<para>
+						Never abbreviate Red&nbsp;Hat product or solution names in public-facing documents.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Do not include "Inc." when referring to Red&nbsp;Hat except in legal documents.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Use non-breaking spaces to avoid breaking the company name over multiple lines. This also applies to product names and their versions. For example, use a non-breaking space between "Red" and "Hat," and also between "Enterprise," "Linux," and the version number.
+					</para>
+					
+					 <para>
+						If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
+					</para>
+
+				</listitem>
+				<listitem>
+				<para>
+						Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name. Consider the following examples:
+						<itemizedlist>
+							<listitem>
+								<para>
+									Navigate to the Red&amp;nbsp;Hat home page at <ulink url="https://access.redhat.com/home">https://access.redhat.com/home</ulink> and click <guimenu>Downloads.</guimenu>
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									Standardize on Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux.
+								</para>
+							</listitem>
+							<listitem>
+								<para>
+									The latest version is Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux&amp;nbsp;7.0
+								</para>
+							</listitem>
+						</itemizedlist>
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise&nbsp;Linux OpenStack Platform" does not require a non-breaking space between "Linux" and "OpenStack" nor between "OpenStack" and "Platform."
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Do not use non-breaking spaces with other companies' product names.
+					</para>
+				</listitem>
+				 <listitem>
+					<para>
+						Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was..."
+					</para>
+					<note>
+						<para>
+							In this case, "Platform" is part of the product name. In other cases, words like "platform," "manager," and so on may not be part of the product name, in which case an article is acceptable, if not necessary.
+						</para>
+					</note>
+
+				</listitem>
+				
+
+			</itemizedlist>
+
+		</para>
+
+	</section>
+	<section><title>Using Capitalization Correctly</title>
+		<para>
+			This section provides guidelines for how to correctly capitalize various words and phrases, especially group and team names, partner names, and related entities.
+		</para>
+		<section role="internal"><title>Department Naming</title>
+			<para>
+				The preferred word is team, regardless of size or function. Do not use "business unit" in external-facing documents. Use "organization" to distinguish a department from its sub-teams or to otherwise call attention to its large, multi-team nature. For example, "The OpenShift Engineering team is part of the Red Hat Engineering organization."
+			</para>
+			<para>
+				When used as a title or caption, capitalize all words, including "team" and "organization." For example:
+				<itemizedlist>
+					<listitem><para>Red Hat Finance Team</para></listitem>
+					<listitem><para>Red Hat IT Organization</para></listitem>
+				</itemizedlist>
+			</para>
+			<para>
+				When used in context or in a sentence, do not capitalize words such as "team" or "organization." For example:
+				<itemizedlist>
+					<listitem><para>As a member of the Red Hat Finance team...</para></listitem>
+					<listitem><para>...with our Global Workplace Solutions team.</para></listitem></itemizedlist></para>
+			</section>
+		<section role="internal"><title>Partner Naming</title>
+			<para>
+				When referring to Red&nbsp;Hat partners, only capitalize the following:
+				<itemizedlist>
+					<listitem>
+						<para>
+							The full, formal, proper name of the program (program designation).
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							The full, formal, proper name of the partner (partner designation).
+						</para>
+					</listitem>
+				</itemizedlist>
+			</para>
+			<para>
+				Always use the full partner or program name. For a list of current partner names, see <ulink url="https://mojo.redhat.com/docs/DOC-938543"></ulink>
+			</para>
+			<para>
+				Do not capitalize the following:
+				<itemizedlist>
+					<listitem>
+						<para>
+							Red&nbsp;Hat partners
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Red&nbsp;Hat partnerships
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Partner or partnerships by themselves
+						</para>
+					</listitem>
+					<listitem>
+						<para>
+							Partial names of the programs, when used descriptively
+						</para>
+					</listitem>
+				</itemizedlist>
+			</para>
+			
+		</section>
+		</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
+		<title>Using Version Numbers Correctly</title>
+		 <para>
+			The preferred format for product names includes only the major version number. For example: 
+			<itemizedlist>
+				<listitem>
+					<para>
+						Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;5
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						JBoss Enterprise&nbsp;Application&nbsp;Platform&nbsp;3
+					</para>
+
+				</listitem>
+
+			</itemizedlist>
+
+		</para>
+		 <para>
+			When writing about a product line, product release, or product family, use major version numbers. This includes all the releases (past, present, and future) of that major version.
+		</para>
+		 <para>
+			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example: 
+			<itemizedlist>
+				<listitem>
+					<para>
+						Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;5.2 was released on October 12, 2010.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						&lt;Application name&gt; was first included in JBoss Enterprise&nbsp;Application&nbsp;Platform&nbsp;3.2.
+					</para>
+
+				</listitem>
+
+			</itemizedlist>
+
+		</para>
+		 <para>
+			In most cases, major changes take place in major version releases, and are carried through any minor updates to that release. If you are referring to a major change, or to the first appearance of a new technology, it is therefore most accurate to refer to the major release.
+		</para>
+		 <para>
+			Avoid using the "dot-oh" release number. For example, do not use Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.0. Use instead Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.
+		</para>
+		 <important>
+			<para>
+				This rule only applies to Red&nbsp;Hat products. Refer to other companies' products and use their version numbers as they use them.
+			</para>
+
+		</important>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Design-Using_Admonitions">
+		<title>Using Admonitions</title>
+		 <para>
+			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
+		</para>
+		 <para>
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
+			<itemizedlist>
+				<listitem>
+					<para>
+						Keep the statements as brief and to the point as possible.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Use admonitions sparingly so that they do not lose their effectiveness.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Use a <command>Note</command> admonition to bring additional information to the user's attention.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Use an <command>Important</command> admonition to show the user a piece of information that should not be overlooked. While this information may not change anything the user is doing, it should show the user that this piece of information could be vital.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Use a <command>Warning</command> admonition to alert the reader that the current setup will change or be altered, such as files being removed, and not to perform the operation unless fully aware of the consequences.
+					</para>
+
+				</listitem>
+
+			</itemizedlist>
+
+		</para>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Design-Citing_Other_Works">
+		<title>Citing Other Works</title>
+		 <formalpara id="form-Policy-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Books">
+			<title>Referencing Other Books</title>
+			 <para>
+				When referencing another book, either internal or external to Red&nbsp;Hat, use the following format:
+			</para>
+
+		</formalpara>
+		 <para>
+			In XML:
+		</para>
+		 
+<programlisting>
+&lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
+</programlisting>
+		 <para>
+			For example, <citetitle>Maximum RPM</citetitle> by 
+			<author>
+				<firstname>Edward</firstname>
+				 <surname>Bailey</surname>
+
+			</author>
+			 ; Red&nbsp;Hat Press.
+		</para>
+		 <para>
+			For subsequent references to the same work, do "this."
+		</para>
+		 <remark>Need to determine what "this" is.</remark>
+		 <formalpara id="form-Policy-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites">
+			<title>Referencing Other Internet Sites</title>
+			 <para>
+				When referencing another internet site, use the following guidelines:
+			</para>
+
+		</formalpara>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					Do not link words within the body text. That is, do not use structures such as "Go <ulink url="somewhere.com">here</ulink> for more information," where "here" is a link.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Short URLs, such as <ulink url="http://partner.redhat.com">http://partner.redhat.com</ulink> are OK to use in body text at your discretion.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					If the URL is excessively long, or complex, create a link using the title of the destination as a label, and put the actual URL in a footnote. For example: See the <ulink url="http://world-database-of-everything.com/en/classifcation_of_species/mammals.html"><citetitle>Classification of Species</citetitle></ulink><footnote> <para>
+						http://world-database-of-everything.com/en/classifcation_of_species/mammals.html
+					</para>
+					 </footnote> page for more information.
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+
+	</section>
+	
+	 <section id="sect-Policy-Writing_Style_Guide-Design-Citing_Other_Authors">
+		<title>Citing Other Authors</title>
+		 <para>
+			DocBook provides the &lt;blockquote&gt; and &lt;attribution&gt; tags for this purpose, but how they should be rendered is currently being discussed. For example:
+		</para>
+		 <blockquote>
+			<attribution>Thomas Jefferson</attribution> <para>
+				Why use two words when one will do?
+			</para>
+
+		</blockquote>
+
+	</section>
+	
+
+</chapter>
+

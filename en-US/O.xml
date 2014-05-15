@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-O">
+	<title>O</title>
+	 <variablelist>
+		<varlistentry>
+			<term>Objective C</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Objective-C."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>object-oriented</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "object oriented" or "objectoriented." This is a modifier, such as "Java is an object-oriented language."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>OEM</term>
+			 <listitem>
+				<para>
+					Noun: Stands for original equipment manufacturer, which is a misleading term for a company that has a special relationship with computer producers. OEMs buy computers in bulk and customize them for a particular application. They then sell the customized computer under their own name. The term is really a misnomer because OEMs are not the original manufacturers - they are the customizers.
+				</para>
+				 <para>
+					To provide equipment to another company, an OEM, which customizes and markets the equipment.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>offline</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis>. Do not use "off-line."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>offline backup</term>
+			 <listitem>
+				<para>
+					Correct. Use this term to refer to backing up a database while the database is not being accessed by applications. Do not use "cold backup" or any other variations.
+				</para>
+				 <para>
+					The counterpart to this term is "online backup," to refer to the process of backing up a database while it is being accessed by other applications. Do not use "hot backup" or any other variations.<footnote> <para>
+						<ulink url="http://www-01.ibm.com/software/globalization/terminology/o.html" />
+					</para>
+					 </footnote>
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>OK</term>
+			 <listitem>
+				<para>
+					When referring to the <guibutton>OK</guibutton> button, it is not necessary to use "button" in the sentence. For example, "Click <guibutton>OK</guibutton> to close the dialog box."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>on-board (adj.), onboard (v.)</term>
+			<listitem>
+				<para>
+					Always hyphenate when used as an adjective. The term "on board" is also valid, for example, "They are on board with the idea," but try to reword to avoid it.
+				</para>
+				<warning><title>HR Use Only</title>
+					<para>
+						Use the one-word verb form only in HR-related cases, for example, "The process to onboard new hires."
+					</para>
+				</warning>
+			</listitem>
+		</varlistentry>
+		
+		 <varlistentry>
+			<term>online</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "on-line."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>on-the-fly</term>
+			 <listitem>
+				<para>
+					Do not use. Avoid using idioms, as this saying is not globally known. In this case, for example, "real time" is both non-idiomatic and more technically accurate.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>oops</term>
+			 <listitem>
+				<para>
+					A kernel oops is an error message generated as a result of a bug in the kernel. Do not use "oops" on its own. Also, avoid using "kernel oops" at the beginning of a sentence. See also "kernel panic."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>opcodes</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "op-codes."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>open architecture</term>
+			 <listitem>
+				<para>
+					An architecture whose specifications are public. This includes officially approved standards as well as privately designed architectures whose specifications are made public by the designers. The opposite of open is closed or proprietary.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Open InfiniBand</term>
+			 <listitem>
+				<para>
+					"Open InfiniBand" is deprecated and should not be used. See "InfiniBand" for usage rules regarding the current preferred term for this switched fabric network topology.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>open source</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "OpenSource," "opensource," or "open-source" (obviously, capitalize the "o" in "open source" at the beginning of a sentence).
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term id="opensourceway">open source way</term>
+			<listitem>
+				<para>
+					To do.
+				</para>
+			</listitem>
+		</varlistentry>
+		 <varlistentry>
+			<term>operating system</term>
+			 <listitem>
+				<para>
+					Correct. Do not use Operating System, or OS.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>orientate</term>
+			 <listitem>
+				<para>
+					Do not use. A user becomes "oriented" to an environment. Try a synonym such as "familiarize," as in "This section helps familiarize you with the environment."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>output device</term>
+			 <listitem>
+				<para>
+					Any machine capable of representing information from a computer. This includes display screens, printers, plotters, and synthesizers.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>override</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "over-ride" or "over ride."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

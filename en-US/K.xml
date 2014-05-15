@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-K">
+	<title>K</title>
+	 <variablelist>
+		 
+		 <varlistentry>
+			 <term>KB, kB</term>
+			 <listitem>
+				 <para>
+					 KB is the initialism of kilobyte, equal to 1024 bytes. kB is also the initialism of kilobyte, but is equal to 1000 bytes.
+				 </para>
+			 </listitem>
+		 </varlistentry>
+		 
+		 <varlistentry>
+			 <term>kbps</term>
+			 <listitem>
+				 <para>
+					 Initialism for kilobits per second, or 1000 bits per second.
+				 </para>
+			 </listitem>
+		 </varlistentry>
+		<varlistentry>
+			<term>kerberize</term>
+			 <listitem>
+				<para>
+					Incorrect. Do not use "kerberize," "kerberized," or other variants to refer to applications or services that use Kerberos authentication. Refer to such applications as "Kerberos-aware" or "Kerberos-enabled," or rewrite the sentence.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>kernel</term>
+			 <listitem>
+				<para>
+					The central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the kernel is responsible for memory management, process and task management, and disk management.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		
+		<varlistentry>
+			<term>Kernel-based Virtual Machine (KVM) (n.)</term>
+			<listitem>
+				<para>
+					Spell out on first use, capitalized. Use the initialism (KVM) thereafter. It is an industry standard, and a proper noun.
+				</para>
+			</listitem>
+		</varlistentry>
+		
+		 <varlistentry>
+			<term>kernel panic</term>
+			 <listitem>
+				<para>
+					Correct. Numerous circumstances may cause a kernel panic, but unlike a kernel oops, when confronted with a kernel panic the operating system shuts down to prevent the possibility of further damage or security breaches.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>kernel space (n.), kernel-space (adj.)</term>
+			 <listitem>
+				<para>
+					Correct when used as a noun. When used as a modifier, use the hyphenated form, "kernel-space." Do not use "kernelspace."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>keyboard key</term>
+			 <listitem>
+				<para>
+					When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X." When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S."
+				</para>
+				 <para>
+					See also Spacebar.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term> kickstart </term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> A network installation system for some Linux distributions. <footnote> <para>
+						<ulink url="http://en.wikipedia.org/wiki/Kickstart_%28Linux%29">http://en.wikipedia.org/wiki/Kickstart (Linux)</ulink>
+					</para>
+					 </footnote>
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>kill</term>
+			 <listitem>
+				<para>
+					If terminating a UNIX process, use "kill." For example, to terminate the process, type <command>kill -9 <replaceable>&lt;PID&gt;</replaceable></command>. If terminating a Windows process, use "terminate." For example, "To terminate the process, press <keycap>Q</keycap>."
+				</para>
+				 <para>
+					See also "terminate."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>knowledgebase</term>
+			 <listitem>
+				<para>
+					Incorrect. Use "knowledge base," unless referring specifically to the "Red Hat Knowledgebase." In this case, capitalize the "K." Do not capitalize the "b."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

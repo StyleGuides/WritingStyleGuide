@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-Q">
+	<title>Q</title>
+	 <variablelist>
+		<varlistentry>
+			<term>Q and A (n.)</term>
+			 <listitem>
+				<para>
+					Correct. Abbreviation for "Question and Answer," this format is listed in the <citetitle>American Heritage Dictionary.</citetitle>
+				</para>
+				 <note>
+					<para>
+						In DocBook XML, the title is defined by the DocBook style sheets for the &lt;qandadiv&gt; element. The relevant generated text in English is "Q &amp; A" and is localized automatically.
+					</para>
+
+				</note>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>qeth</term>
+			 <listitem>
+				<para>
+					Lowercase at all times.<footnote> <para>
+						Based on information from <ulink url="http://www.ibm.com/developerworks/linux/linux390/development_documentation.html#1">Linux on System z: Device Drivers, Features and Commands</ulink> at http://www.ibm.com/developerworks/linux/linux390/development_documentation.html#1
+					</para>
+					 </footnote>
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>quiescent</term>
+			 <listitem>
+				<para>
+					Do not use. This is a lofty-sounding word that just means <emphasis>at rest, quiet, or inactive</emphasis>.
+				</para>
+				 <para>
+					With reference to a measurable property or system it can also mean <emphasis>not active</emphasis>. So, a system can be quiescent, meaning it is inactive, or (by extension) in a known, unchanging state.
+				</para>
+				 <para>
+					If this is what you mean, this is what you should write.
+				</para>
+				 <para>
+					If a system is, or needs to be <emphasis>inactive</emphasis>, write <emphasis>inactive</emphasis>. If a system is, or needs to be <emphasis>safe</emphasis>, write <emphasis>safe</emphasis>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

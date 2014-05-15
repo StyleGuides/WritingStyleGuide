@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Policy-Writing_Style_Guide-M">
+	<title>M</title>
+	 <variablelist>
+		<varlistentry>
+			<term>make sure</term>
+			 <listitem>
+				<para>
+					This means "be careful to remember, attend to, or find out something." For example, "make sure the rhedk group is listed in the output."
+				</para>
+				 <para>
+					You may be able to use "verify" or "ensure" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>manual/man page</term>
+			 <listitem>
+				<para>
+					Correct. Two words. Do not use "manpage."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>matrixes</term>
+			 <listitem>
+				<para>
+					Correct. This is the correct plural form for U.S. English spelling. Do not use "matrices."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>MB</term>
+			 <listitem>
+				<itemizedlist>
+					<listitem>
+						<para>
+							When spelled MB, short for megabyte (1,000,000 or 1,048,576 bytes, depending on the context).
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							When spelled Mb, short for megabit.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>MBps</term>
+			 <listitem>
+				<para>
+					Initialism for megabytes per second, a measure of data transfer speed. Mass storage devices are generally measured in MBps.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>MBR</term>
+			 <listitem>
+				<para>
+					Initialism for Master Boot Record, a small program that is executed when a computer boots up. Typically, the MBR resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process. In DOS and Windows systems, you can create the MBR with the FDISK /MBR command.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>media</term>
+			 <listitem>
+				<orderedlist>
+					<listitem>
+						<para>
+							Objects on which data can be stored. These include hard disks, diskettes, CDs, and tapes.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							In computer networks, media refers to the cables linking workstations together. There are many different types of transmission media, the most popular being twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fibre optic cable (cables made out of glass).
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							The form and technology used to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media.
+						</para>
+
+					</listitem>
+
+				</orderedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>menu-driven</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "menu driven" or "menudriven."
+				</para>
+				 <para>
+					Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>metadata</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "meta data" or "meta-data."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Microsoft</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "MS," "MSFT," or "MicroSoft."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		<varlistentry><term>misconfigure (v.)</term>
+			<listitem>
+				<para>
+					This term is in common use and does appear in some dictionaries, but try to avoid it if possible. Do not hyphenate.
+				</para>
+			</listitem>
+		</varlistentry>
+		 <varlistentry>
+			<term>Montecito</term>
+			 <listitem>
+				<para>
+					Do not use. This is a code name for the "Intel Itanium Processor 9000 Sequence." This latter phrase should be used instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>mount</term>
+			 <listitem>
+				<itemizedlist>
+					<listitem>
+						<para>
+							To make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called mounting the floppy.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							To install a device, such as a disk drive or expansion board.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>mouse button</term>
+			 <listitem>
+				<para>
+					Two words. Do not use "mouse-button" or "mousebutton." If you need to indicate which mouse button, use "right," "left," or "center," such as "right mouse button." Do not hyphenate.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Mozilla Firefox</term>
+			 <listitem>
+				<para>
+					Correct. First reference must be "Mozilla Firefox." Subsequent references can be "Firefox."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Mozilla Thunderbird</term>
+			 <listitem>
+				<para>
+					Correct. First reference must be "Mozilla Thunderbird." Subsequent references can be "Thunderbird."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>MS-DOS</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "ms-dos," "MSDOS," or "msdos."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>multiprocessing</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "multi-processing."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>must</term>
+			 <listitem>
+				<para>
+					Use when referring to a task that is necessary for the user to do. For example, "You must make a backup" is a requirement, while "You should make a backup" is a suggestion.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Mutexes</term>
+			 <listitem>
+				<para>
+					Correct. "Mutex" is an abbreviation of "mutual exclusion." Consequently, "mutexes" is the correct plural form.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term><ulink url="http://intranet.corp.redhat.com/ic/intranet/MySQL.html">MySQL</ulink></term>
+			 <listitem>
+				<para>
+					Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of <ulink url="http://intranet.corp.redhat.com/ic/intranet/MySQL.html">MySQL</ulink> in body text with a ® to denote a registered trademark.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+
