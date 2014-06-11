@@ -1,20 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "DocBook_Tag_Usage_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<section id="sect-Policy-Writing_Style_Guide-We_Need_Feedback">
+<section id="sect-product-DocBook_Tag_Usage_Guide-We_Need_Feedback">
 	<title>We Need Feedback</title>
-	 <indexterm>
-		<primary>feedback</primary>
-		 <secondary>contact information for this manual</secondary>
-
-	</indexterm>
 	 <para>
-		If you find a typographical error in this manual, or if you have thought of a way to make this manual better, we would love to hear from you! Please submit a report in Bugzilla: <ulink url="http://bugzilla.redhat.com/">http://bugzilla.redhat.com/</ulink> against the product <productname>Red Hat Style Guide.</productname>
-	</para>
-	 <para>
-		If you have a suggestion for improving the documentation, try to be as specific as possible when describing it. If you have found an error, please include the section number and some of the surrounding text so we can find it easily.
+		Send email to daobrien@redhat.com with suggestions for improvements, requests for additions, recommendations, and any other updates.
 	</para>
 
 </section>

@@ -428,7 +428,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <!--<varlistentry>
 			<term>Customer Portal</term>
 			 <listitem>
 				<para>
@@ -453,7 +453,7 @@
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry>-->
 		 <varlistentry>
 			<term>Cygmon</term>
 			 <listitem>

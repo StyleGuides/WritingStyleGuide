@@ -86,7 +86,7 @@
 	 <section id="sect-Policy-Writing_Style_Guide-Design-Documenting_Fonts">
 		<title>Documenting Fonts</title>
 		 <para>
-			Red Hat documentation uses the "PostScript" font. There are three types, and the preferred way to refer to each type is "PostScript Type x," with "x" substituted with either 1, 2, or 3, if the problem is specific to a particular type.
+			The preferred way to refer to each type of postscript font is "PostScript Type x," with "x" substituted with either 1, 2, or 3, if the problem is specific to a particular type.
 		</para>
 
 	</section>
@@ -99,7 +99,7 @@
 		 <section id="sect-Policy-Writing_Style_Guide-Documenting_the_User_Interface-GUI_Elements_and_Punctuation">
 			<title>GUI Elements and Punctuation</title>
 			 <para>
-				Do not include punctuation that appears on GUI elements in Red&nbsp;Hat documentation, unless omission of that punctuation might lead to confusion.
+				Do not include punctuation that appears on GUI elements, unless omission of that punctuation might lead to confusion.
 			</para>
 			 <para>
 				For example, for a button labeled <guibutton>Save As...</guibutton>, do not include the ellipsis in the documentation.
@@ -324,7 +324,7 @@ $ vi myFile.txt
 		</para>
 
 	</section>
-	
+	<!--
 	 <section role="internal" id="sect-Policy-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
@@ -404,11 +404,13 @@ $ vi myFile.txt
 
 		</para>
 
-	</section>
+	</section>-->
+        <!--
 	<section><title>Using Capitalization Correctly</title>
 		<para>
 			This section provides guidelines for how to correctly capitalize various words and phrases, especially group and team names, partner names, and related entities.
 		</para>
+                
 		<section role="internal"><title>Department Naming</title>
 			<para>
 				The preferred word is team, regardless of size or function. Do not use "business unit" in external-facing documents. Use "organization" to distinguish a department from its sub-teams or to otherwise call attention to its large, multi-team nature. For example, "The OpenShift Engineering team is part of the Red Hat Engineering organization."
@@ -425,7 +427,9 @@ $ vi myFile.txt
 				<itemizedlist>
 					<listitem><para>As a member of the Red Hat Finance team...</para></listitem>
 					<listitem><para>...with our Global Workplace Solutions team.</para></listitem></itemizedlist></para>
-			</section>
+                </section>
+                
+                
 		<section role="internal"><title>Partner Naming</title>
 			<para>
 				When referring to Red&nbsp;Hat partners, only capitalize the following:
@@ -472,9 +476,11 @@ $ vi myFile.txt
 			</para>
 			
 		</section>
-		</section>
-	
-	 <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
+                
+                
+                </section> -->
+
+	<!--<section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
 			The preferred format for product names includes only the major version number. For example: 
@@ -530,7 +536,7 @@ $ vi myFile.txt
 
 		</important>
 
-	</section>
+	</section>-->
 	
 	 <section id="sect-Policy-Writing_Style_Guide-Design-Using_Admonitions">
 		<title>Using Admonitions</title>
