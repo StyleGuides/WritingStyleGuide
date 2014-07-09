@@ -106,10 +106,6 @@
 				<para>
 					If terminating a UNIX process, use "kill." For example, to terminate the process, type <command>kill -9 <replaceable>&lt;PID&gt;</replaceable></command>. If terminating a Windows process, use "terminate." For example, "To terminate the process, press <keycap>Q</keycap>."
 				</para>
-				 <para>
-					See also "terminate."
-				</para>
-
 			</listitem>
 
 		</varlistentry>
