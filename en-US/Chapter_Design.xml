@@ -136,7 +136,7 @@
 			 <example id="exam-Policy-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-					<command>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></command>
+					<screen>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 				</para>
 
 			</example>
