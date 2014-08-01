@@ -201,10 +201,10 @@
 			<term>boot</term>
 			 <listitem>
 				<para>
-					Verb: To load the first piece of software that starts a computer. because the operating system is essential for running all other programs, it is usually the first piece of software loaded during the boot process.
+					Verb: To load the first piece of software that starts a computer. Because the operating system is essential for running all other programs, it is usually the first piece of software loaded during the boot process.
 				</para>
 				 <para>
-					Noun: Refers to the starting-up of a computer, which involves loading the operating system and other basic software. A cold boot is when you turn the computer on from an off position. A warm boot is when you reset a computer that is already on.
+					Noun: Refers to the starting-up of a computer, which involves loading the operating system and other basic software. A cold boot refers to starting a computer that is turned off. A warm boot refers to resetting a computer that is already running.
 				</para>
 				 <para>
 					Boot is an abbreviation of bootstrap, which in olden days was a strap attached to the top of your boot that you could pull to help get your boot on. Hence, the expression "pull oneself up by the bootstraps." Similarly, bootstrap utilities help the computer get started.
