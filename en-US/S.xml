@@ -419,7 +419,7 @@
 			<term>SQL</term>
 			 <listitem>
 				<para>
-					When referring to the ISO standard (ISO 9075 and its decendants), this is pronounced as an initialism: "ess queue ell." Consequently, it takes "an" as in indefinite article.
+					When referring to the ISO standard (ISO 9075 and its descendants), this is pronounced as an initialism: "ess queue ell." Consequently, it takes "an" as in indefinite article.
 				</para>
 				 <para>
 					When referring to Microsoft's proprietary product, SQL Server, this is pronounced as a word: "sequel." In this case, therefore, it takes "a" as an indefinite article.
@@ -468,13 +468,13 @@
 
 		</varlistentry>
 		 <varlistentry>
-			<term>standalone</term>
+			<term>stand-alone (adj.)</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "stand alone" or "stand-alone."
+					Correct. Do not use "standalone."
 				</para>
 				 <para>
-					Refers to a device that is self-contained, one that does not require any other devices to function. For example, a fax machine is a standalone device because it does not require a computer, printer, modem, or other device. A printer, on the other hand, is not a standalone device because it requires a computer to feed it data.
+					Refers to something that is self-contained, or that does not require any other devices to function. For example, a fax machine is a stand-alone device because it does not require a computer, printer, modem, or other device. A printer, on the other hand, is not a stand-alone device because it requires a computer to feed it data.
 				</para>
 
 			</listitem>
@@ -519,6 +519,19 @@
 
 			</listitem>
 
+		</varlistentry>
+
+		<varlistentry>
+			<term>subcommand</term>
+			<listitem>
+				<para>
+					Correct. Do not use "sub-command." A subcommand refers to a "secondary" or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
+				</para>
+				<screen>hammer import organization --help</screen>
+				<para>
+					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.
+				</para>
+			</listitem>
 		</varlistentry>
 		 <varlistentry>
 			<term>subdirectory</term>
