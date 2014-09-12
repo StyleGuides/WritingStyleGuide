@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-H">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-H">
 	<title>H</title>
 	 <variablelist>
-		<varlistentry>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hard_code_v._hard_coded_adj.">
 			<term>hard code (v.), hard-coded (adj.)</term>
 			 <listitem>
 				<para>
@@ -16,16 +16,18 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hard_copy">
 			<term>hard copy</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Do not use. Use "printed". <remark>Under review</remark>
+
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hard_disk_n.">
 			<term>hard disk (n.)</term>
 			 <listitem>
 				<para>
@@ -35,7 +37,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hard_disk_drive_n.">
 			<term>hard disk drive (n.)</term>
 			 <listitem>
 				<para>
@@ -45,7 +47,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-he_she">
 			<term>he, she</term>
 			 <listitem>
 				<para>
@@ -55,25 +57,29 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-help_desk">
 			<term>help desk</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Two words. <remark>Under review. Need context and example.</remark>
+
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-healthcare">
 			<term>healthcare</term>
-			<listitem>
+			 <listitem>
 				<para>
 					<remark>Under review. Need context and example.</remark>
+
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-health_check_n.">
 			<term>health check (n.)</term>
 			 <listitem>
 				<para>
@@ -105,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hertz_n.">
 			<term>hertz (n.)</term>
 			 <listitem>
 				<para>
@@ -115,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-high_availability_adj.">
 			<term>high-availability (adj.)</term>
 			 <listitem>
 				<para>
@@ -125,15 +131,17 @@
 			</listitem>
 
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-high_availability_n.">
 			<term>high availability (n.)</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Correct. For example, "Support is available 24x7 to help maintain high availability."
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-high_performance_computing_HPC_n.">
 			<term>high-performance computing (HPC) (n.)</term>
 			 <listitem>
 				<para>
@@ -143,7 +151,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-home_page_n.">
 			<term>home page (n.)</term>
 			 <listitem>
 				<para>
@@ -153,7 +161,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-host_group_n.">
 			<term>host group (n.)</term>
 			 <listitem>
 				<para>
@@ -163,7 +171,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-host_name_n.">
 			<term>host name (n.)</term>
 			 <listitem>
 				<para>
@@ -173,7 +181,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hot_add_v.">
 			<term>hot add (v.)</term>
 			 <listitem>
 				<para>
@@ -183,16 +191,18 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hotline_n.">
 			<term>hotline (n.)</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Correct. One word, lowercase. Capitalize only at the beginning of a sentence. <remark>Under review. Need context and example.</remark>
+
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hot_plug_v.">
 			<term>hot plug (v.)</term>
 			 <listitem>
 				<para>
@@ -202,7 +212,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hot_swap_v.">
 			<term>hot swap (v.)</term>
 			 <listitem>
 				<para>
@@ -212,7 +222,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-HP_ProLiant">
 			<term>HP ProLiant</term>
 			 <listitem>
 				<para>
@@ -222,7 +232,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-HTML">
 			<term>HTML</term>
 			 <listitem>
 				<para>
@@ -232,26 +242,27 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-huge_page_adj.">
 			<term>huge-page (adj.)</term>
-			<listitem>
+			 <listitem>
 				<para>
-					Correct. Normal hyphenation rules apply. See <xref linkend="hugepage"/> for capitalization rules.
+					Correct. Normal hyphenation rules apply. See <xref linkend="varl-Style_Guide-Writing_Style_Guide-H-huge_page_n." /> for capitalization rules.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		
-		<varlistentry>
-			<term id="hugepage">huge page (n.)</term>
-			<listitem>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-huge_page_n.">
+			<term>huge page (n.)</term>
+			 <listitem>
 				<para>
 					Correct. Use the two-word version in all cases. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization used in that interface.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-Hyper_Threading_n.">
 			<term>Hyper-Threading (n.)</term>
 			 <listitem>
 				<para>
@@ -261,7 +272,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hypervisor_n.">
 			<term>hypervisor (n.)</term>
 			 <listitem>
 				<para>

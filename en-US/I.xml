@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-I">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-I">
 	<title>I</title>
 	 <variablelist>
-		<varlistentry>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IA64_or_ia64">
 			<term>IA64 or ia64</term>
 			 <listitem>
 				<para>
@@ -16,37 +16,47 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IaaS">
 			<term>IaaS</term>
 			 <listitem>
 				<para>
-					See <xref linkend="paas"/>.
+					See <xref linkend="varl-Style_Guide-Writing_Style_Guide-P-PaaS" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
-			 <term>IBM eServer System p</term>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IBM_eServer_System_p">
+			<term>IBM eServer System p</term>
 			 <listitem>
-				 <para>
-					 IBM eServer System p is correct for the first reference in a manual; use IBM System p or System p for subsequent references. Do not use "pSeries."
+				<para>
+					IBM eServer System p is correct for the first reference in a manual; use IBM System p or System p for subsequent references. Do not use "pSeries."
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IBM_System_z">
 			<term>IBM System z</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Correct.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-illegal">
 			<term>illegal</term>
-			<listitem><para>Illegal means "prohibited by law," not "incorrect" or "not permitted." Try "invalid" or a related word.</para></listitem>
-			</varlistentry>
-		 <varlistentry>
+			 <listitem>
+				<para>
+					Illegal means "prohibited by law," not "incorrect" or "not permitted." Try "invalid" or a related word.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-InfiniBand">
 			<term>InfiniBand</term>
 			 <listitem>
 				<para>
@@ -59,15 +69,17 @@
 			</listitem>
 
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-inline_adj.">
 			<term>inline (adj.)</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Correct. Always one word. Do not hyphenate.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-insecure_adj.">
 			<term>insecure (adj.)</term>
 			 <listitem>
 				<para>
@@ -77,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-installation_program_n.">
 			<term>installation program (n.)</term>
 			 <listitem>
 				<para>
@@ -87,16 +99,18 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Intelreg_CoreTM">
 			<term>Intel&reg; CoreTM</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Correct. <remark>Example would be good.</remark>
+
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Intel_Tolapai_Intel_EP80579_Integrated_Processor">
 			<term>Intel Tolapai / Intel® EP80579 Integrated Processor</term>
 			 <listitem>
 				<para>
@@ -106,7 +120,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Intel_Virtualization_Technology_Intel_VT">
 			<term>Intel Virtualization Technology (Intel VT)</term>
 			 <listitem>
 				<para>
@@ -119,16 +133,18 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Intelreg_Xeonreg">
 			<term>Intel&reg; Xeon&reg;</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Correct. <remark>Example? Reference?</remark>
+
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-interesting">
 			<term>interesting</term>
 			 <listitem>
 				<para>
@@ -138,33 +154,33 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-internet_Internet_n.">
 			<term>internet, Internet (n.)</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Use as a proper noun only to refer to the global, publicly-accessible group of interconnected networks that use the Internet suite of protocols. Otherwise, use the common noun. See <citetitle>The IBM Style Guide</citetitle> for more information.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Internet_of_Things_IoT">
 			<term>Internet of Things (IoT)</term>
 			 <listitem>
 				<para>
 					Correct. Capitalize as shown, spell out on the first occurrence, and use the initialism thereafter.
 				</para>
 				 <para>
-					The Internet of Things (IoT) refers to uniquely identifiable objects and their virtual representations in an Internet-like structure.<footnote>
-					<para>
+					The Internet of Things (IoT) refers to uniquely identifiable objects and their virtual representations in an Internet-like structure.<footnote> <para>
 						<ulink url="http://en.wikipedia.org/wiki/Internet_of_things">http://en.wikipedia.org/wiki/Internet_of_things</ulink>
 					</para>
-					</footnote>
+					 </footnote>
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Intranet_and_intranet">
 			<term>Intranet and intranet</term>
 			 <listitem>
 				<para>
@@ -174,7 +190,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IO">
 			<term>I/O</term>
 			 <listitem>
 				<para>
@@ -187,7 +203,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IP">
 			<term>IP</term>
 			 <listitem>
 				<para>
@@ -197,7 +213,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IP_Masquerade">
 			<term>IP Masquerade</term>
 			 <listitem>
 				<para>
@@ -210,7 +226,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IPsec">
 			<term>IPsec</term>
 			 <listitem>
 				<para>
@@ -220,7 +236,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IP_switching">
 			<term>IP switching</term>
 			 <listitem>
 				<para>
@@ -230,7 +246,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-ISV">
 			<term>ISV</term>
 			 <listitem>
 				<para>
@@ -240,16 +256,17 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-ITI.T.">
 			<term>IT/I.T.</term>
-			<listitem>
+			 <listitem>
 				<para>
-					Use "I.T." (with periods) only in headlines or subheadings where all caps are used, in order to clarify that the word is "IT" vs. "it." 
+					Use "I.T." (with periods) only in headlines or subheadings where all caps are used, in order to clarify that the word is "IT" vs. "it."
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Itanium">
 			<term>Itanium</term>
 			 <listitem>
 				<para>
@@ -268,7 +285,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Itanium_2">
 			<term>Itanium 2</term>
 			 <listitem>
 				<para>
@@ -278,7 +295,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-ISeries">
 			<term>ISeries</term>
 			 <listitem>
 				<para>
@@ -288,7 +305,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-its_and_its">
 			<term>it's and its</term>
 			 <listitem>
 				<para>

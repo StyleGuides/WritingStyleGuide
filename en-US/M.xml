@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-M">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-M">
 	<title>M</title>
 	 <variablelist>
-		<varlistentry>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-make_sure">
 			<term>make sure</term>
 			 <listitem>
 				<para>
@@ -19,7 +19,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-manualman_page">
 			<term>manual/man page</term>
 			 <listitem>
 				<para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-matrixes">
 			<term>matrixes</term>
 			 <listitem>
 				<para>
@@ -39,7 +39,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-MB">
 			<term>MB</term>
 			 <listitem>
 				<itemizedlist>
@@ -61,7 +61,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-MBps">
 			<term>MBps</term>
 			 <listitem>
 				<para>
@@ -71,7 +71,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-MBR">
 			<term>MBR</term>
 			 <listitem>
 				<para>
@@ -81,7 +81,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-media">
 			<term>media</term>
 			 <listitem>
 				<orderedlist>
@@ -109,7 +109,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-menu_driven">
 			<term>menu-driven</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-metadata">
 			<term>metadata</term>
 			 <listitem>
 				<para>
@@ -132,7 +132,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-Microsoft">
 			<term>Microsoft</term>
 			 <listitem>
 				<para>
@@ -142,14 +142,17 @@
 			</listitem>
 
 		</varlistentry>
-		<varlistentry><term>misconfigure (v.)</term>
-			<listitem>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-misconfigure_v.">
+			<term>misconfigure (v.)</term>
+			 <listitem>
 				<para>
 					This term is in common use and does appear in some dictionaries, but try to avoid it if possible. Do not hyphenate.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-Montecito">
 			<term>Montecito</term>
 			 <listitem>
 				<para>
@@ -159,7 +162,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-mount">
 			<term>mount</term>
 			 <listitem>
 				<itemizedlist>
@@ -181,7 +184,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-mouse_button">
 			<term>mouse button</term>
 			 <listitem>
 				<para>
@@ -191,7 +194,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-Mozilla_Firefox">
 			<term>Mozilla Firefox</term>
 			 <listitem>
 				<para>
@@ -201,7 +204,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-Mozilla_Thunderbird">
 			<term>Mozilla Thunderbird</term>
 			 <listitem>
 				<para>
@@ -211,7 +214,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-MS_DOS">
 			<term>MS-DOS</term>
 			 <listitem>
 				<para>
@@ -221,7 +224,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-multiprocessing">
 			<term>multiprocessing</term>
 			 <listitem>
 				<para>
@@ -231,7 +234,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-must">
 			<term>must</term>
 			 <listitem>
 				<para>
@@ -241,7 +244,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-Mutexes">
 			<term>Mutexes</term>
 			 <listitem>
 				<para>
@@ -251,11 +254,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
-			<term><ulink url="http://intranet.corp.redhat.com/ic/intranet/MySQL.html">MySQL</ulink></term>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-M-MySQL">
+			<term>MySQL</term>
 			 <listitem>
 				<para>
-					Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of <ulink url="http://intranet.corp.redhat.com/ic/intranet/MySQL.html">MySQL</ulink> in body text with a ® to denote a registered trademark.
+					Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with a ® to denote a registered trademark.
 				</para>
 
 			</listitem>

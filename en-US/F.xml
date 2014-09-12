@@ -3,26 +3,30 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-F">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-F">
 	<title>F</title>
 	 <variablelist>
-		 <varlistentry>
-			 <term>fail back (v.), failback (n.)</term>
-			 <listitem>
-				 <para>
-					 No hyphenated form is currently recognized.
-					</para>
-				</listitem>
-			</varlistentry>
-		 <varlistentry>
-			 <term>fail over (v.), failover (n., adj.)</term>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-fail_back_v._failback_n.">
+			<term>fail back (v.), failback (n.)</term>
 			 <listitem>
 				<para>
-					 No hyphenated form is currently recognized.
+					No hyphenated form is currently recognized.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-fail_over_v._failover_n._adj.">
+			<term>fail over (v.), failover (n., adj.)</term>
+			 <listitem>
+				<para>
+					No hyphenated form is currently recognized.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-FAQ">
 			<term>FAQ</term>
 			 <listitem>
 				<para>
@@ -32,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-fault_tolerance_n._fault_tolerant_adj.">
 			<term>fault tolerance (n.), fault-tolerant (adj.)</term>
 			 <listitem>
 				<para>
@@ -42,15 +46,17 @@
 			</listitem>
 
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-Fedoratrade_Project">
 			<term>Fedora&trade; Project</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Correct.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-fiber">
 			<term>fiber</term>
 			 <listitem>
 				<para>
@@ -60,7 +66,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-Fibre_Channel">
 			<term>Fibre Channel</term>
 			 <listitem>
 				<para>
@@ -73,25 +79,27 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-file_extensions_general_usage">
 			<term>file extensions (general usage)</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Write file extensions in all caps and without periods (for example, "a PDF file"), unless the file name is also referenced (for example, "Save as example.pdf").
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-file_mode_file_name_file_system_file_type">
 			<term>file mode, file name, file system, file type</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Write as shown, two words, unless used as a variable. See <citetitle>The IBM Style Guide</citetitle> for more information.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-FireWire">
 			<term>FireWire</term>
 			 <listitem>
 				<para>
@@ -101,7 +109,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-firmware">
 			<term>firmware</term>
 			 <listitem>
 				<para>
@@ -114,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-floating_point">
 			<term>floating point</term>
 			 <listitem>
 				<para>
@@ -124,7 +132,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-floppy_disk">
 			<term>floppy disk</term>
 			 <listitem>
 				<para>
@@ -134,7 +142,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-floppy_drive">
 			<term>floppy drive</term>
 			 <listitem>
 				<para>
@@ -144,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-foreground">
 			<term>foreground</term>
 			 <listitem>
 				<orderedlist>
@@ -166,7 +174,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-FORTRAN">
 			<term>FORTRAN</term>
 			 <listitem>
 				<para>
@@ -176,7 +184,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-forward">
 			<term>forward</term>
 			 <listitem>
 				<para>
@@ -186,7 +194,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-FQDN">
 			<term>FQDN</term>
 			 <listitem>
 				<para>
@@ -199,7 +207,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-front_end_n._front_end_adj.">
 			<term>front end (n.), front-end (adj.)</term>
 			 <listitem>
 				<para>
@@ -215,7 +223,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-FTP">
 			<term>FTP</term>
 			 <listitem>
 				<para>
@@ -225,7 +233,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-Futexes">
 			<term>Futexes</term>
 			 <listitem>
 				<para>
@@ -235,11 +243,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-F-Fuzzy">
 			<term>Fuzzy</term>
 			 <listitem>
 				<para>
-					Correct only when referring to fuzzy searches. See <xref linkend="chap-Policy-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language" /> for details and examples.
+					Correct only when referring to fuzzy searches. See <xref linkend="chap-Style_Guide-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language" /> for details and examples.
 				</para>
 
 			</listitem>

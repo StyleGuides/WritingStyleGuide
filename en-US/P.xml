@@ -3,11 +3,11 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-P">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-P">
 	<title>P</title>
 	 <variablelist>
-		<varlistentry>
-			<term id="paas">PaaS</term>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PaaS">
+			<term>PaaS</term>
 			 <listitem>
 				<para>
 					Correct. This is the correct abbreviation for "Platform-as-a-Service." In the spelled-out version of this and its variants (for example, Infrastructure-as-a-Service and Software-as-a-Service), hyphens are always used.
@@ -23,15 +23,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PC">
 			<term>PC</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Use to refer to a personal computer. See <citetitle>The IBM Style Guide</citetitle> for further information.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PHP">
 			<term>PHP</term>
 			 <listitem>
 				<para>
@@ -44,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-Pico">
 			<term>Pico</term>
 			 <listitem>
 				<para>
@@ -54,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-plain_text">
 			<term>plain text</term>
 			 <listitem>
 				<para>
@@ -67,7 +69,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-please">
 			<term>please</term>
 			 <listitem>
 				<para>
@@ -77,7 +79,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pluggable">
 			<term>pluggable</term>
 			 <listitem>
 				<para>
@@ -87,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-plug_in">
 			<term>plug-in</term>
 			 <listitem>
 				<para>
@@ -100,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pop_up">
 			<term>pop-up</term>
 			 <listitem>
 				<para>
@@ -110,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PostScript">
 			<term>PostScript</term>
 			 <listitem>
 				<para>
@@ -120,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PowerPC">
 			<term>PowerPC</term>
 			 <listitem>
 				<para>
@@ -136,7 +138,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-POSIX">
 			<term>POSIX</term>
 			 <listitem>
 				<para>
@@ -149,7 +151,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PPP">
 			<term>PPP</term>
 			 <listitem>
 				<para>
@@ -159,7 +161,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-press">
 			<term>press</term>
 			 <listitem>
 				<para>
@@ -169,7 +171,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pseudo_ops">
 			<term>pseudo-ops</term>
 			 <listitem>
 				<para>
@@ -179,7 +181,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pSeries">
 			<term>pSeries</term>
 			 <listitem>
 				<para>
@@ -189,7 +191,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pulldown">
 			<term>pulldown</term>
 			 <listitem>
 				<para>
@@ -199,7 +201,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PXE">
 			<term>PXE</term>
 			 <listitem>
 				<para>

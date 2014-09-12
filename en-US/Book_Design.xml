@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<section id="sect-Policy-Writing_Style_Guide-Overall_Book_Design">
+<section id="sect-Style_Guide-Writing_Style_Guide-Overall_Book_Design">
 	<title>Overall Book Design</title>
 	 <para>
 		This section describes the preferred overall layout and design of technical documentation produced by the Customer Content Services (CCS) group within Red&nbsp;Hat. This design was developed specifically for technical documentation and may not suit content produced by other groups.
@@ -45,8 +45,7 @@
 		</itemizedlist>
 
 	</para>
-	
-	 <section id="sect-Policy-Writing_Style_Guide-Overall_Book_Design-Titles_and_Subtitles">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Overall_Book_Design-Titles_and_Subtitles">
 		<title>Titles and Subtitles</title>
 		 <para>
 			The title should be a combination of the complete product name, its version, and the name of the book. For example, "Red&nbsp;Hat Satellite&nbsp;5.6 Installation Guide", or "Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6 Deployment Guide".
@@ -57,7 +56,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Overall_Book_Design-Prefaces">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Overall_Book_Design-Prefaces">
 		<title>Prefaces</title>
 		 <para>
 			The brands that form part of Publican contain a preface as part of the common content. Whether your publication is for external Red&nbsp;Hat customers, JBoss customers, internal customers, or whomever, the brand you choose should provide a suitable preface. Try to use the standard preface to help maintain consistency, reduce overhead and maintenance, and also to reduce translation costs. If you feel that the preface fails to meet your needs, consider whether or not you are using the correct brand, or if the brand itself requires an update.
@@ -65,7 +64,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Overall_Book_Design-Abstracts">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Overall_Book_Design-Abstracts">
 		<title>Abstracts</title>
 		 <para>
 			Abstracts for Red&nbsp;Hat technical documentation typically fall under the heading of a "descriptive abstract." From Wikipedia, "The descriptive abstract, also known as the limited abstract or the indicative abstract, provides a description of what the paper covers without delving into its substance. A descriptive abstract is akin to a table of contents in paragraph form."<footnote> <para>
@@ -110,7 +109,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Overall_Book_Design-Introductions">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Overall_Book_Design-Introductions">
 		<title>Introductions</title>
 		 <para>
 			The term "introduction" on its own is sufficiently vague, and raises enough questions in translation and with translation memory (TM) tools, that Red&nbsp;Hat technical documentation does not use this term on its own. Instead, use the phrase "Introduction to $productname" near the beginning of the book to introduce the reader to the product. Do not use "Introduction" to introduce the book; that is the task of the Abstract. A further benefit of this usage is that the same introduction can be used across various books to introduce the same product.
@@ -118,26 +117,26 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Overall_Book_Design-Unused_Heading_Titles">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Overall_Book_Design-Unused_Heading_Titles">
 		<title>Unused Heading Titles</title>
 		 <para>
 			This section lists various heading titles that have been used in Red&nbsp;Hat technical documentation, but should be avoided except in specific circumstances.
 		</para>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Unused_Heading_Titles-Overview">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Unused_Heading_Titles-Overview">
 			<title>Overview</title>
 			 <para>
 				Do not use "overview" as a title. No justification was found for using this as a title; anywhere that it might be considered is already covered by either better or more common titles.
 			</para>
 
 		</formalpara>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Unused_Heading_Titles-About">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Unused_Heading_Titles-About">
 			<title>About</title>
 			 <para>
 				Do not use "about" or "about $topic" as a title. The same reasoning applies here as to "overview."
 			</para>
 
 		</formalpara>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Unused_Heading_Titles-Chapter_and_Section_Introductions">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Unused_Heading_Titles-Chapter_and_Section_Introductions">
 			<title>Chapter and Section Introductions</title>
 			 <para>
 				Do not create separate introductions for chapters and sections. Use any material that would constitute an introductory section to form body text following the chapter or section title.

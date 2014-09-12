@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-O">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-O">
 	<title>O</title>
 	 <variablelist>
-		<varlistentry>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-Objective_C">
 			<term>Objective C</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-object_oriented">
 			<term>object-oriented</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-OEM">
 			<term>OEM</term>
 			 <listitem>
 				<para>
@@ -39,7 +39,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-offline">
 			<term>offline</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-offline_backup">
 			<term>offline backup</term>
 			 <listitem>
 				<para>
@@ -65,7 +65,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-OK">
 			<term>OK</term>
 			 <listitem>
 				<para>
@@ -75,22 +75,24 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-on_board_adj._onboard_v.">
 			<term>on-board (adj.), onboard (v.)</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Always hyphenate when used as an adjective. The term "on board" is also valid, for example, "They are on board with the idea," but try to reword to avoid it.
 				</para>
-				<warning><title>HR Use Only</title>
-					<para>
+				 <warning>
+					<title>HR Use Only</title>
+					 <para>
 						Use the one-word verb form only in HR-related cases, for example, "The process to onboard new hires."
 					</para>
+
 				</warning>
+
 			</listitem>
+
 		</varlistentry>
-		
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-online">
 			<term>online</term>
 			 <listitem>
 				<para>
@@ -100,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-on_the_fly">
 			<term>on-the-fly</term>
 			 <listitem>
 				<para>
@@ -110,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-oops">
 			<term>oops</term>
 			 <listitem>
 				<para>
@@ -120,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-opcodes">
 			<term>opcodes</term>
 			 <listitem>
 				<para>
@@ -130,7 +132,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-open_architecture">
 			<term>open architecture</term>
 			 <listitem>
 				<para>
@@ -140,7 +142,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-Open_InfiniBand">
 			<term>Open InfiniBand</term>
 			 <listitem>
 				<para>
@@ -150,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-open_source">
 			<term>open source</term>
 			 <listitem>
 				<para>
@@ -160,16 +162,17 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
-			<term id="opensourceway">open source way</term>
-			<listitem>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-open_source_way">
+			<term>open source way</term>
+			 <listitem>
 				<para>
 					To do.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-operating_system">
 			<term>operating system</term>
 			 <listitem>
 				<para>
@@ -179,7 +182,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-orientate">
 			<term>orientate</term>
 			 <listitem>
 				<para>
@@ -189,7 +192,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-output_device">
 			<term>output device</term>
 			 <listitem>
 				<para>
@@ -199,7 +202,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-override">
 			<term>override</term>
 			 <listitem>
 				<para>

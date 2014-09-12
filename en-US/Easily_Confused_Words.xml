@@ -3,72 +3,90 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter><title>Easily Confused Words</title>
-	<para>
+<chapter id="chap-Style_Guide-Writing_Style_Guide-Easily_Confused_Words">
+	<title>Easily Confused Words</title>
+	 <para>
 		This chapter identifies some easily confused words and how to choose the correct term for your situation.
 	</para>
-	<formalpara><title>Affect and Effect</title>
-		<para>
+	 <formalpara id="form-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-Affect_and_Effect">
+		<title>Affect and Effect</title>
+		 <para>
 			Each of these words can be used as a verb or a noun, but they are not always interchangeable.
 		</para>
-		</formalpara>
 
-	<variablelist>
-		
-		<varlistentry><term>affect (n., v.)</term>
-			<listitem>
+	</formalpara>
+	 <variablelist>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-affect_n._v.">
+			<term>affect (n., v.)</term>
+			 <listitem>
 				<para>
 					As a noun, refers to the emotional impact of an action. Unless you are writing a psychology article, this is unlikely to be the choice for you.
 				</para>
-			
-				<para>
+				 <para>
 					As a verb, means to have an influence on something, or to cause something to change.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		<varlistentry><term>effect (n., v.)</term>
-			<listitem>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-effect_n._v.">
+			<term>effect (n., v.)</term>
+			 <listitem>
 				<para>
 					As a noun, refers to the result of some action. For example, "the team members discussed the effect of the new policy on their working conditions."
 				</para>
-				<para>
+				 <para>
 					As a verb, means to produce a result, or to cause something to happen. For example, "the CEO claimed that the new policy would effect a positive economic outcome."
 				</para>
-				<para>
+				 <para>
 					The use of "effect" as a verb is less common than the use of "affect," and there are usually alternatives that are clearer. For example, "the CEO claimed that the new policy would produce a positive economic outcome."
 				</para>
+
 			</listitem>
+
 		</varlistentry>
+
 	</variablelist>
-	
-	<formalpara><title>Assure, Ensure, and Insure</title>
-		<para>
+	 <formalpara id="form-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-Assure_Ensure_and_Insure">
+		<title>Assure, Ensure, and Insure</title>
+		 <para>
 			These are relatively easy to get right, but here are some quick definitions.
 		</para>
+
 	</formalpara>
-	
-	<variablelist>
-		<varlistentry><term>assure (v.)</term>
-			<listitem>
+	 <variablelist>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-assure_v.">
+			<term>assure (v.)</term>
+			 <listitem>
 				<para>
 					"Assure" suggests mental comfort. For example, "I assured my future father-in-law that I would eventually find a job."
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		<varlistentry><term>ensure (v.)</term>
-			<listitem>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-ensure_v.">
+			<term>ensure (v.)</term>
+			 <listitem>
 				<para>
 					"Ensure" means to make sure of something, to be certain that something exists or some condition has been met.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		<varlistentry><term>insure (v.)</term>
-			<listitem>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-insure_v.">
+			<term>insure (v.)</term>
+			 <listitem>
 				<para>
 					"Insure" relates to monetary insurance.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		</variablelist>
+
+	</variablelist>
 
 </chapter>
+

@@ -3,12 +3,12 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-Grammar">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-Grammar">
 	<title>Grammar</title>
 	 <para>
 		This section contains information on a few common grammar topics. For subjects not covered here, consult The Chicago Manual of Style, 16th Edition, or post your question on #donuts in IRC.
 	</para>
-	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Active_Voice">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Active_Voice">
 		<title>Active Voice</title>
 		 <para>
 			Use the active voice ("Type ... to start Linuxconf.") rather than passive ("Linuxconf can be started by typing...") whenever possible. Active voice makes for more lively, interesting reading. It is more compelling than passive voice and helps to reduce word count.
@@ -25,14 +25,14 @@
 		 <para>
 			You can also use the passive voice to front-load important keywords in key areas of your content, such as the title, heading, or at the beginning of a paragraph or sentence. You need to make these decisions on a case-by-case basis, weighing the importance of front-loading keywords against content that is readable (that is, not awkward sounding). Consider the following two examples:
 		</para>
-		 <example id="exam-Policy-Writing_Style_Guide-Active_Voice-Active_Voice">
+		 <example id="exam-Style_Guide-Writing_Style_Guide-Active_Voice-Active_Voice">
 			<title>Active Voice</title>
 			 <para>
 				"Dutch hosting provider Oxilion launches <emphasis>public cloud</emphasis> service based on Red&nbsp;Hat Enterprise&nbsp;Virtualization."
 			</para>
 
 		</example>
-		 <example id="exam-Policy-Writing_Style_Guide-Active_Voice-Passive_Voice">
+		 <example id="exam-Style_Guide-Writing_Style_Guide-Active_Voice-Passive_Voice">
 			<title>Passive Voice</title>
 			 <para>
 				"<emphasis>Public cloud</emphasis> service based on Red&nbsp;Hat Enterprise&nbsp;Virtualization launched by Dutch hosting provider Oxilion."
@@ -42,7 +42,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Agreement">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Agreement">
 		<title>Agreement</title>
 		 <para>
 			In grammar, agreement occurs when specific parts of a sentence are coordinated: that is, they "shake hands" in number or gender.
@@ -51,7 +51,7 @@
 			There are two forms of agreement: <emphasis>subject-verb agreement</emphasis> and <emphasis>pronoun-antecedent agreement</emphasis>. Subject-verb agreement is pretty rudimentary, and is not discussed here. Pronoun-antecedent agreement can be a little more problematic, so...
 		</para>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Agreement-Pronoun_antecedent_agreement">
 				<term>Pronoun-antecedent agreement</term>
 				 <listitem>
 					<para>
@@ -64,7 +64,7 @@
 						Here is an annotated roundup of pronoun-antecedent rules:
 					</para>
 					 <variablelist>
-						<varlistentry>
+						<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Pronoun_antecedent_agreement-Singular_and_singularplural_and_plural.">
 							<term>Singular and singular/plural and plural.</term>
 							 <listitem>
 								<para>
@@ -104,7 +104,7 @@
 
 					</variablelist>
 					 <variablelist>
-						<varlistentry>
+						<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Pronoun_antecedent_agreement-Collective_nouns.">
 							<term>Collective nouns.</term>
 							 <listitem>
 								<para>
@@ -152,7 +152,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Using_Who_Whom_That_and_Which_Correctly">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Using_Who_Whom_That_and_Which_Correctly">
 		<title>Using Who, Whom, That, and Which Correctly</title>
 		 <para>
 			Use "whom" or "who" to introduce a qualifying phrase when the antecedent is a person. Use "that" or "which" when referring to a thing. Use "which" or "that" to introduce a qualifying phrase when the antecedent is a concept or an object. Who, whom, that, and which are known as "relative pronouns."
@@ -161,7 +161,7 @@
 			Use the following as guidelines:
 		</para>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Using_Who_Whom_That_and_Which_Correctly-_Who_">
 				<term> Who </term>
 				 <listitem>
 					<para>
@@ -171,7 +171,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Using_Who_Whom_That_and_Which_Correctly-_Whom_">
 				<term> Whom </term>
 				 <listitem>
 					<para>
@@ -181,7 +181,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Using_Who_Whom_That_and_Which_Correctly-_Which_">
 				<term> Which </term>
 				 <listitem>
 					<para>
@@ -191,7 +191,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Using_Who_Whom_That_and_Which_Correctly-_That_">
 				<term> That </term>
 				 <listitem>
 					<para>
@@ -293,7 +293,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Sentence_Structure">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Sentence_Structure">
 		<title>Sentence Structure</title>
 		 <para>
 			A <emphasis>sentence</emphasis> is one, complete thought. A sentence expresses something about a subject (a person, place, or thing) and a verb (what the subject is or does).
@@ -302,7 +302,7 @@
 			The following are things to consider when constructing sentences:
 		</para>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Sentence_Structure-_Length_">
 				<term> Length </term>
 				 <listitem>
 					<para>
@@ -324,7 +324,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Sentence_Structure-Run_on_Sentences">
 				<term>Run-on Sentences</term>
 				 <listitem>
 					<para>
@@ -415,7 +415,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Sentence_Structure-Sentence_Fragments">
 				<term>Sentence Fragments</term>
 				 <listitem>
 					<para>
@@ -437,7 +437,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Sentence_Structure-Telegraphic_Style">
 				<term>Telegraphic Style</term>
 				 <listitem>
 					<para>
@@ -525,7 +525,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Sentence_Structure-_Verbosity_">
 				<term> Verbosity </term>
 				 <listitem>
 					<para>
@@ -568,7 +568,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Sentence_Structure-_Word_Ordering_">
 				<term> Word Ordering </term>
 				 <listitem>
 					<para>
@@ -616,10 +616,10 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Avoiding_Ambiguities">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Avoiding_Ambiguities">
 		<title>Avoiding Ambiguities</title>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Avoiding_Ambiguities-_Capitalizing_Proper_Nouns_">
 				<term> Capitalizing Proper Nouns </term>
 				 <listitem>
 					<para>
@@ -662,7 +662,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Avoiding_Ambiguities-_Homographic_Verbs_">
 				<term> Homographic Verbs </term>
 				 <listitem>
 					<para>
@@ -714,7 +714,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Avoiding_Ambiguities-_Homonymity_">
 				<term> Homonymity </term>
 				 <listitem>
 					<para>
@@ -764,7 +764,7 @@
 					</table>
 					 <note>
 						<para>
-							See also <xref linkend="sect-Policy-Writing_Style_Guide-Writing_for_Translation-Grammatical_Genders" />.
+							See also <xref linkend="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Grammatical_Genders" />.
 						</para>
 
 					</note>
@@ -772,7 +772,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Avoiding_Ambiguities-_Invisible_Plurals_">
 				<term> Invisible Plurals </term>
 				 <listitem>
 					<para>
@@ -815,7 +815,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
+			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Avoiding_Ambiguities-_Synonymity_">
 				<term> Synonymity </term>
 				 <listitem>
 					<para>
@@ -833,7 +833,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Contractions_and_Abbreviations">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Contractions_and_Abbreviations">
 		<title>Contractions and Abbreviations</title>
 		 <para>
 			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't," "don't," "won't," and similar examples. Always write out in full. Take care also with abbreviations. For example, do not use "e.g.," or "i.e." See <citetitle>The IBM Style Guide</citetitle> for full details.
@@ -841,12 +841,12 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Hyphenation">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Hyphenation">
 		<title>Hyphenation</title>
 		 <para>
 			There are no hard and fast rules for hyphenation. In general, do not hyphenate unless required for clarity, or our other references declare that hyphens are required. The following is general guidance; if you are unsure about whether or not to hyphenate, ask your peers.
 		</para>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Hyphenation-Hyphenate_for_Clarity">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Hyphenation-Hyphenate_for_Clarity">
 			<title>Hyphenate for Clarity</title>
 			 <para>
 				Hyphenate when needed for clarity. Words that begin with prefixes are usually not hyphenated. Prefixes can include "multi," "non," "sub," "co," "semi," "pre," "re," and so on.
@@ -862,7 +862,7 @@
 			</para>
 
 		</note>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Hyphenation-Hyphenate_Complex_Adjectives">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Hyphenation-Hyphenate_Complex_Adjectives">
 			<title>Hyphenate Complex Adjectives</title>
 			 <para>
 				Hyphenate complex adjectives (compound modifiers). This is when two adjectives work together to modify an object. The hyphen is used when the first adjective modifies the second adjective. For example, cloud-based solutions, right-side paralysis, system-wide menu.
@@ -875,7 +875,7 @@
 			</para>
 
 		</note>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Hyphenation-Hyphenate_Consecutive_Vowel_Sounds">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Hyphenation-Hyphenate_Consecutive_Vowel_Sounds">
 			<title>Hyphenate Consecutive Vowel Sounds</title>
 			 <para>
 				Hyphenate words where the prefix ends in a vowel and the word that follows begins with the same vowel. For example, semi-independent, pre-emptive.
@@ -888,14 +888,14 @@
 			</para>
 
 		</note>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Hyphenation-Hyphenate_Mixed_Capitalization">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Hyphenation-Hyphenate_Mixed_Capitalization">
 			<title>Hyphenate Mixed Capitalization</title>
 			 <para>
 				Hyphenate when the word that follows a prefix is capitalized. For example, un-American, non-British.
 			</para>
 
 		</formalpara>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Hyphenation-Hyphenate_Double_Prefixes">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Hyphenation-Hyphenate_Double_Prefixes">
 			<title>Hyphenate Double Prefixes</title>
 			 <para>
 				Hyphenate when the word has double prefixes. For example, sub-subparagraph, re-sublet.
@@ -905,7 +905,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Gender_References">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Gender_References">
 		<title>Gender References</title>
 		 <para>
 			Do not use gender-specific pronouns in documentation. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers." In most cases, use "you" when giving instructions, and "the user," "new users," and so on in more general explanations. Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal.
@@ -913,7 +913,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Grammar-Tense">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Tense">
 		<title>Tense</title>
 		 <para>
 			Avoid future tense (or using the term "will") whenever possible. For example, future tense ("The screen will display...") does not read as well as the present tense ("The screen displays..."). Remember, the users you are writing for most often refer to the documentation while they are using the system, not after or in advance of using the system.

@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-A">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-A">
 	<title>A</title>
 	 <variablelist>
-		<varlistentry>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-agile_agile_development_adj.">
 			<term>agile, agile development (adj.)</term>
 			 <listitem>
 				<para>
@@ -16,12 +16,12 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-a.m._and_p.m.">
 			<term>a.m. and p.m.</term>
 			 <listitem>
 				<para>
 					Correct. Use the lowercase form and include the periods, and use a preceding space.
-					</para>
+				</para>
 				 <para>
 					See <citetitle>The IBM Style Guide</citetitle> for a full discussion of how to represent times.
 				</para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-AMD64_and_Intel_64">
 			<term>AMD64 and Intel 64</term>
 			 <listitem>
 				<para>
@@ -51,8 +51,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
-			<term id="atm">ATM</term>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-ATM">
+			<term>ATM</term>
 			 <listitem>
 				<para>
 					Initialism for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies. The small, constant cell size allows ATM equipment to transmit video, audio, and computer data over the same network, and ensure that no single type of data dominates the line.
@@ -61,7 +61,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-above">
 			<term>above</term>
 			 <listitem>
 				<para>
@@ -71,7 +71,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-acronyms">
 			<term>acronyms</term>
 			 <listitem>
 				<para>
@@ -87,7 +87,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-alrightall_right">
 			<term>alright/all right</term>
 			 <listitem>
 				<para>
@@ -97,7 +97,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-alternate">
 			<term>alternate</term>
 			 <listitem>
 				<para>
@@ -107,7 +107,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-andor">
 			<term>and/or</term>
 			 <listitem>
 				<para>
@@ -117,13 +117,13 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-applications">
 			<term>applications</term>
 			 <listitem>
 				<para>
 					When used as a proper name, use the capitalization of the product, such as GNUPro, Source-Navigator, and Red&nbsp;Hat Enterprise&nbsp;Linux. When used as a command, use lowercase as appropriate, such as "To start GCC, type gcc."
 				</para>
-				 <formalpara id="form-Policy-Writing_Style_Guide-A-Note">
+				 <formalpara id="form-Style_Guide-Writing_Style_Guide-applications-Note">
 					<title>Note:</title>
 					 <para>
 						"vi" is always lowercase.
@@ -134,7 +134,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-Applixware">
 			<term>Applixware</term>
 			 <listitem>
 				<para>
@@ -144,15 +144,17 @@
 			</listitem>
 
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-as_well_as">
 			<term>as well as</term>
-			<listitem>
+			 <listitem>
 				<para>
-					Not interchangeable with "and."  "As well as" used in a series places more emphasis on the items preceding it, whereas "and" places equal weight on all items in the series. For example, "We sell kitchen electronics and china, as well as some gourmet foods." But "We sell kitchen electronics, china, and silverware."
+					Not interchangeable with "and." "As well as" used in a series places more emphasis on the items preceding it, whereas "and" places equal weight on all items in the series. For example, "We sell kitchen electronics and china, as well as some gourmet foods." But "We sell kitchen electronics, china, and silverware."
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-auto_detect">
 			<term>auto-detect</term>
 			 <listitem>
 				<para>
@@ -162,10 +164,16 @@
 			</listitem>
 
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-autofs">
 			<term>autofs</term>
-			<listitem>
-				<para>todo</para></listitem></varlistentry>
+			 <listitem>
+				<para>
+					todo
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 
 	</variablelist>
 </chapter>

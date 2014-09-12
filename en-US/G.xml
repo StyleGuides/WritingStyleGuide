@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-G">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-G">
 	<title>G</title>
 	 <variablelist>
-		<varlistentry>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-g_or_G">
 			<term>g++ or G++</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-gas_or_GAS">
 			<term>gas or GAS</term>
 			 <listitem>
 				<para>
@@ -26,21 +26,23 @@
 			</listitem>
 
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GB_abbreviation_of_gigabyte">
 			<term>GB (abbreviation of gigabyte)</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Depending on the type of content you are writing, refer either to <citetitle>The AP Style Guide</citetitle> or <citetitle>The IBM Style Guide.</citetitle>
 				</para>
-				<para>
+				 <para>
 					AP style: Do not use a space between the value and the abbreviation. For example, "a 2GB file."
 				</para>
-				<para>
+				 <para>
 					IBM style: Use a space between the value and the abbreviation. For example, "a 2 GB file."
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-Gbps">
 			<term>Gbps</term>
 			 <listitem>
 				<para>
@@ -50,7 +52,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-gcc_or_GCC">
 			<term>gcc or GCC</term>
 			 <listitem>
 				<para>
@@ -60,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-gcj_or_GCJ">
 			<term>gcj or GCJ</term>
 			 <listitem>
 				<para>
@@ -70,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-gdb_or_GDB">
 			<term>gdb or GDB</term>
 			 <listitem>
 				<para>
@@ -80,7 +82,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GDBTK">
 			<term>GDBTK</term>
 			 <listitem>
 				<para>
@@ -90,15 +92,17 @@
 			</listitem>
 
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GFS_GFS2">
 			<term>GFS, GFS2</term>
-			<listitem>
+			 <listitem>
 				<para>
 					As of Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6, this is known as the Resilient Storage Add-On. Ensure you use the correct term.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GID">
 			<term>GID</term>
 			 <listitem>
 				<para>
@@ -108,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-gigabyte">
 			<term>gigabyte</term>
 			 <listitem>
 				<para>
@@ -118,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GIMP">
 			<term>GIMP</term>
 			 <listitem>
 				<para>
@@ -128,18 +132,18 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GNOME">
 			<term>GNOME</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="gnomeclassic"/>
+					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="varl-Style_Guide-Writing_Style_Guide-G-GNOME_Classic" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
-			<term id="gnomeclassic">GNOME Classic</term>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GNOME_Classic">
+			<term>GNOME Classic</term>
 			 <listitem>
 				<para>
 					Correct. Although the desktop team tends to refer to GNOME Classic (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, we should stay consistent with what is exposed to the user on the GDM login screen, that is, "GNOME Classic". The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere).
@@ -148,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GNU">
 			<term>GNU</term>
 			 <listitem>
 				<para>
@@ -158,7 +162,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GNUPro">
 			<term>GNUPro</term>
 			 <listitem>
 				<para>
@@ -168,7 +172,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-got">
 			<term>got</term>
 			 <listitem>
 				<para>
@@ -178,7 +182,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GPL">
 			<term>GPL</term>
 			 <listitem>
 				<para>
@@ -188,7 +192,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-grayscale_n.">
 			<term>grayscale (n.)</term>
 			 <listitem>
 				<para>
@@ -198,7 +202,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GRUB">
 			<term>GRUB</term>
 			 <listitem>
 				<para>
@@ -208,7 +212,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-GTK">
 			<term>GTK+</term>
 			 <listitem>
 				<para>
@@ -218,7 +222,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-G-guest_operating_system">
 			<term>guest operating system</term>
 			 <listitem>
 				<para>

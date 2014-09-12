@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<appendix id="appe-Policy-Writing_Style_Guide-Revision_History">
+<appendix id="appe-Style_Guide-Writing_Style_Guide-Revision_History">
 	<title>Revision History</title>
 	 <simpara>
 		<revhistory>
@@ -14,32 +14,30 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>davido@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
 						<member>Added entry for "huge pages".</member>
-						<member>Updated entry for virtual machine to allow for abbreviation.</member>
-						<member>Updated section on using non-breaking spaces.</member>
-						<member>Added entry for correct capitalization of partners.</member>
-						<member>Added entry for "datasheet".</member>
-						<member>Change to common brand.</member>
-						<member>Remove some internal links that are no longer valid.</member>
-						<member>Generalize some entries based on advice from legal.</member>
-						 
+						 <member>Updated entry for virtual machine to allow for abbreviation.</member>
+						 <member>Updated section on using non-breaking spaces.</member>
+						 <member>Added entry for correct capitalization of partners.</member>
+						 <member>Added entry for "datasheet".</member>
+						 <member>Change to common brand.</member>
+						 <member>Remove some internal links that are no longer valid.</member>
+						 <member>Generalize some entries based on advice from legal.</member>
+
 					</simplelist>
 
 				</revdescription>
 
 			</revision>
-			<revision>
+			 <revision>
 				<revnumber>1.6-13</revnumber>
 				 <date>Wed Feb 26 2014</date>
 				 <author>
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>davido@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -66,7 +64,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>davido@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -86,7 +83,6 @@
 					<firstname>Julie</firstname>
 					 <surname>Wu</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -104,7 +100,6 @@
 					<firstname>Brice</firstname>
 					 <surname>Fallon-Freeman</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -124,7 +119,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -142,7 +136,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -173,7 +166,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -194,7 +186,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -216,7 +207,6 @@
 					<firstname>Julie</firstname>
 					 <surname>Wu</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -236,7 +226,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -247,7 +236,7 @@
 				</revdescription>
 
 			</revision>
-			 <!--               <revision><remark>Comment this until the section  passes QA</remark>
+			 <!--                  <revision><remark>Comment this until the section  passes QA</remark>
 				<revnumber>1.6-3</revnumber>
 				 <date>Mon Apr 29 2013</date>
 				 <author>
@@ -266,14 +255,13 @@
 
 				</revdescription>
 
-			</revision>               --> <revision>
+			</revision>                  --> <revision>
 				<revnumber>1.6-2</revnumber>
 				 <date>Tue Mar 19 2013</date>
 				 <author>
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -295,7 +283,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -315,7 +302,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -346,7 +332,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -365,7 +350,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -383,7 +367,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -406,7 +389,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -425,7 +407,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -445,7 +426,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -467,7 +447,6 @@
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>docs@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>
@@ -487,7 +466,6 @@
 					<firstname>Gemma</firstname>
 					 <surname>Sheldon</surname>
 					 <email>gsheldon@redhat.com</email>
-
 				</author>
 				 <revdescription>
 					<simplelist>

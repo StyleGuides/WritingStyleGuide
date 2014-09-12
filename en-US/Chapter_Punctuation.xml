@@ -3,15 +3,15 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-Punctuation">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-Punctuation">
 	<title>Punctuation</title>
 	 <para>
 		This section contains information on common punctuation topics. For more information, consult The Chicago Manual of Style, 14th Edition, or contact <ulink url="https://home.corp.redhat.com/node/67846">David O'Brien </ulink> (davido@redhat.com).
 	</para>
-	 <section id="sect-Policy-Writing_Style_Guide-Punctuation-Colons_and_Semicolons">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Punctuation-Colons_and_Semicolons">
 		<title>Colons and Semicolons</title>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Colons_and_Semicolons-_TO_RELATE_CLAUSES_">
 				<term> TO RELATE CLAUSES </term>
 				 <listitem>
 					<para>
@@ -57,7 +57,7 @@
 
 		</variablelist>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Colons_and_Semicolons-_TO_INTRODUCE_A_LIST_OR_SERIES_">
 				<term> TO INTRODUCE A LIST OR SERIES </term>
 				 <listitem>
 					<para>
@@ -222,10 +222,10 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Punctuation-Commas">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Punctuation-Commas">
 		<title>Commas</title>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Commas-_IN_COMPOUND_SENTENCES_">
 				<term> IN COMPOUND SENTENCES </term>
 				 <listitem>
 					<para>
@@ -286,7 +286,7 @@
 
 		</variablelist>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Commas-_IN_ADVERBIAL_CLAUSES_OR_PHRASES_">
 				<term> IN ADVERBIAL CLAUSES OR PHRASES </term>
 				 <listitem>
 					<para>
@@ -332,7 +332,7 @@
 
 		</variablelist>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Commas-_IN_ADJECTIVAL_CLAUSES_OR_PHRASES_">
 				<term> IN ADJECTIVAL CLAUSES OR PHRASES </term>
 				 <listitem>
 					<para>
@@ -366,7 +366,7 @@
 
 		</variablelist>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Commas-_WITH_COORDINATE_ADJECTIVES_">
 				<term> WITH COORDINATE ADJECTIVES </term>
 				 <listitem>
 					<para>
@@ -394,7 +394,7 @@
 
 		</variablelist>
 		 <variablelist>
-			<varlistentry>
+			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Commas-_WITH_SERIES_AND_LISTS_">
 				<term> WITH SERIES AND LISTS </term>
 				 <listitem>
 					<para>
@@ -418,7 +418,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Punctuation-Parentheses">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Punctuation-Parentheses">
 		<title>Parentheses</title>
 		 <para>
 			Parentheses are similar to commas in that they set off information that further explains or enhances a statement. Information that is very closely related to the statement should be set off with commas; information that is more incidental should be set off with parentheses.
@@ -462,7 +462,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Punctuation-Quotation_Marks">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Punctuation-Quotation_Marks">
 		<title>Quotation Marks</title>
 		 <para>
 			Commas and periods go inside quotation marks.
@@ -479,7 +479,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Punctuation-Apostrophes">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Punctuation-Apostrophes">
 		<title>Apostrophes</title>
 		 <para>
 			Plural nouns not ending in <emphasis>s</emphasis> should have add an <emphasis>'s </emphasis> (for example, the alumni's contribution).

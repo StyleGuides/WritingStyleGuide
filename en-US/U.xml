@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-U">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-U">
 	<title>U</title>
 	 <variablelist>
-		<varlistentry>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-UID">
 			<term>UID</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-UltraSPARC">
 			<term>UltraSPARC</term>
 			 <listitem>
 				<para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-uninterruptible_adj.">
 			<term>uninterruptible (adj.)</term>
 			 <listitem>
 				<para>
@@ -39,7 +39,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-UNIX">
 			<term>UNIX</term>
 			 <listitem>
 				<para>
@@ -55,7 +55,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-unset">
 			<term>unset</term>
 			 <listitem>
 				<para>
@@ -71,7 +71,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-untrusted">
 			<term>untrusted</term>
 			 <listitem>
 				<para>
@@ -81,7 +81,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-upgrade">
 			<term>upgrade</term>
 			 <listitem>
 				<para>
@@ -91,7 +91,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-UPS">
 			<term>UPS</term>
 			 <listitem>
 				<para>
@@ -101,7 +101,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-upsell_v._upselling_n.">
 			<term>upsell (v.), upselling (n.)</term>
 			 <listitem>
 				<warning>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-uptime_n.">
 			<term>uptime (n.)</term>
 			 <listitem>
 				<para>
@@ -131,20 +131,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-URL_n.">
 			<term>URL (n.)</term>
 			 <listitem>
 				<para>
 					Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
 				</para>
 				 <para>
-					See <xref linkend="form-Policy-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
+					See <xref linkend="form-Style_Guide-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-usable_adj.">
 			<term>usable (adj.)</term>
 			 <listitem>
 				<para>
@@ -154,7 +154,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-user_n.">
 			<term>user (n.)</term>
 			 <listitem>
 				<para>
@@ -167,7 +167,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-userid_n.">
 			<term>userid (n.)</term>
 			 <listitem>
 				<para>
@@ -177,7 +177,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-user_interface_n.">
 			<term>user interface (n.)</term>
 			 <listitem>
 				<para>
@@ -190,7 +190,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-user_name_n.">
 			<term>user name (n.)</term>
 			 <listitem>
 				<para>
@@ -200,7 +200,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-user_space_n.">
 			<term>user space (n.)</term>
 			 <listitem>
 				<para>
@@ -210,7 +210,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-U-utilize">
 			<term>utilize</term>
 			 <listitem>
 				<para>

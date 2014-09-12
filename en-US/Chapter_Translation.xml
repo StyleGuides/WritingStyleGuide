@@ -3,14 +3,14 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-Writing_for_Translation">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-Writing_for_Translation">
 	<title>Writing for Translation</title>
 	 <para>
 		This chapter provides guidelines, tips, and techniques to help make your writing easier to translate.
 	</para>
-	 <section id="sect-Policy-Writing_Style_Guide-Writing_for_Translation-Sentence_Structure">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Sentence_Structure">
 		<title>Sentence Structure</title>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Sentence_Structure-Lists">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Sentence_Structure-Lists">
 			<title>Lists</title>
 			 <para>
 				Avoid using bullet point lists to format a single sentence. Some translation tools, for example Zanata, display list items and the introductory sentence (or <firstterm>sentence stem</firstterm>) as individual sentences for translation. If these are not complete sentences, they will be difficult to translate.
@@ -89,7 +89,7 @@
 			</tgroup>
 
 		</table>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Sentence_Structure-Noun_Stacking">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Sentence_Structure-Noun_Stacking">
 			<title>Noun Stacking</title>
 			 <para>
 				Modifier strings (modifier + noun + noun sentence format), over-modified nouns (or noun stacks), are especially difficult to translate, particularly when several different combinations could make sense.
@@ -141,7 +141,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Writing_for_Translation-Grammatical_Genders">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Grammatical_Genders">
 		<title>Grammatical Genders</title>
 		 <para>
 			When using ambiguous pronouns such as "they" or "it" it is not always clear what they refer to. For languages that have different genders for nouns, it is important to know exactly what each pronoun refers to. For example, the word "it" can be translated in several different ways and may require other grammatical adjustments.
@@ -194,7 +194,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Writing_for_Translation-Tags">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Tags">
 		<title>Tags</title>
 		 <para>
 			Use the correct DocBook tags to help translators understand the meaning of and to identify translatable and non-translatable terms.
@@ -244,7 +244,7 @@
 		 <para>
 			See the <ulink url="http://file.bne.redhat.com/~daobrien/DocBookXMLGuide/"><citetitle>Red&nbsp;Hat DocBook Usage Guide</citetitle></ulink> for more information about correct tag usage.
 		</para>
-		 <formalpara id="form-Policy-Writing_Style_Guide-Tags-Tagged_Terms_in_Sentences">
+		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Tags-Tagged_Terms_in_Sentences">
 			<title>Tagged Terms in Sentences</title>
 			 <para>
 				Many tagged terms are not translatable, so they should not be used as structural parts of a sentence. Otherwise, translators have to fill in the blanks or tag terms themselves.
@@ -296,7 +296,7 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Writing_for_Translation-Code_Blocks">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Code_Blocks">
 		<title>Code Blocks</title>
 		 <para>
 			If possible, avoid including words that require translation within the same box as command input or output. These can be accidentally overlooked and left in English.
@@ -310,25 +310,51 @@
 
 	</section>
 	
-	 <section id="sect-Policy-Writing_Style_Guide-Writing_for_Translation-Entities">
+	 <section id="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Entities">
 		<title>Entities</title>
-		<para>
-			An entity is a primitive data type, which associates a string with either a unique alias (such as a user-specified name) or an SGML reserved word (such as #DEFAULT)<footnote><para><ulink url="http://en.wikipedia.org/wiki/SGML_entity"></ulink></para></footnote>. Entities are called by reference, and take the form &amp;name; (both the ampersand and the semicolon are required).
+		 <para>
+			An entity is a primitive data type, which associates a string with either a unique alias (such as a user-specified name) or an SGML reserved word (such as #DEFAULT)<footnote> <para>
+				<ulink url="http://en.wikipedia.org/wiki/SGML_entity" />
+			</para>
+			 </footnote>. Entities are called by reference, and take the form &amp;name; (both the ampersand and the semicolon are required).
 		</para>
-		<para>
+		 <para>
 			Entities can be helpful in some cases, but they are more of a hindrance when used for terms that need translation; translators need to compare the string with the built document in order to find out what the entity stands for, or translators might even overlook these entities and not translate them at all.
 		</para>
-		<para>
-			In order to avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities required to actually build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/"></ulink>) to create and maintain your documentation, it creates and populates required entities with default values when you create a book. Required entities vary by brand, but only the following are required for a standard book:
+		 <para>
+			In order to avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities required to actually build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates required entities with default values when you create a book. Required entities vary by brand, but only the following are required for a standard book: 
 			<itemizedlist>
-				<listitem><para>PRODUCT</para></listitem>
-				<listitem><para>BOOKID</para></listitem>
-				<listitem><para>YEAR</para></listitem>
-				<listitem><para>HOLDER</para></listitem>
+				<listitem>
+					<para>
+						PRODUCT
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						BOOKID
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						YEAR
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						HOLDER
+					</para>
+
+				</listitem>
+
 			</itemizedlist>
+
 		</para>
-		<para>
-			Do not include entities such as &amp;PRODNAME; or &amp;VERSION; and so on, or things like &amp;BIBLE; to represent "The St. James Bible". To learn more about entities, see the relevant chapter in <ulink url="http://jfearn.fedorapeople.org/en-US/Publican/4.0/html/Users_Guide/index.html"></ulink></para>
+		 <para>
+			Do not include entities such as &amp;PRODNAME; or &amp;VERSION; and so on, or things like &amp;BIBLE; to represent "The St. James Bible". To learn more about entities, see the relevant chapter in <ulink url="http://jfearn.fedorapeople.org/en-US/Publican/4.0/html/Users_Guide/index.html" />
+		</para>
 
 	</section>
 	

@@ -3,28 +3,30 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-K">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-K">
 	<title>K</title>
 	 <variablelist>
-		 
-		 <varlistentry>
-			 <term>KB, kB</term>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-KB_kB">
+			<term>KB, kB</term>
 			 <listitem>
-				 <para>
-					 KB is the initialism of kilobyte, equal to 1024 bytes. kB is also the initialism of kilobyte, but is equal to 1000 bytes.
-				 </para>
-			 </listitem>
-		 </varlistentry>
-		 
-		 <varlistentry>
-			 <term>kbps</term>
+				<para>
+					KB is the initialism of kilobyte, equal to 1024 bytes. kB is also the initialism of kilobyte, but is equal to 1000 bytes.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kbps">
+			<term>kbps</term>
 			 <listitem>
-				 <para>
-					 Initialism for kilobits per second, or 1000 bits per second.
-				 </para>
-			 </listitem>
-		 </varlistentry>
-		<varlistentry>
+				<para>
+					Initialism for kilobits per second, or 1000 bits per second.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kerberize">
 			<term>kerberize</term>
 			 <listitem>
 				<para>
@@ -34,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kernel">
 			<term>kernel</term>
 			 <listitem>
 				<para>
@@ -44,17 +46,17 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-Kernel_based_Virtual_Machine_KVM_n.">
 			<term>Kernel-based Virtual Machine (KVM) (n.)</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Spell out on first use, capitalized. Use the initialism (KVM) thereafter. It is an industry standard, and a proper noun.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kernel_panic">
 			<term>kernel panic</term>
 			 <listitem>
 				<para>
@@ -64,7 +66,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kernel_space_n._kernel_space_adj.">
 			<term>kernel space (n.), kernel-space (adj.)</term>
 			 <listitem>
 				<para>
@@ -74,7 +76,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-keyboard_key">
 			<term>keyboard key</term>
 			 <listitem>
 				<para>
@@ -87,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-Kickstart">
 			<term>Kickstart</term>
 			 <listitem>
 				<para>
@@ -100,16 +102,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kill">
 			<term>kill</term>
 			 <listitem>
 				<para>
 					If terminating a UNIX process, use "kill." For example, to terminate the process, type <command>kill -9 <replaceable>&lt;PID&gt;</replaceable></command>. If terminating a Windows process, use "terminate." For example, "To terminate the process, press <keycap>Q</keycap>."
 				</para>
+
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-knowledgebase">
 			<term>knowledgebase</term>
 			 <listitem>
 				<para>

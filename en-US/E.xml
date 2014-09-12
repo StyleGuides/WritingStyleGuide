@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-E">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-E">
 	<title>E</title>
 	 <variablelist>
-		 <varlistentry>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-Emacs">
 			<term>Emacs</term>
 			 <listitem>
 				<para>
@@ -16,46 +16,54 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
-			 <term>e-book, e-business, e-commerce, e-learning, email</term>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-e_book_e_business_e_commerce_e_learning_email">
+			<term>e-book, e-business, e-commerce, e-learning, email</term>
 			 <listitem>
 				<para>
-					 Refer to the primary reference for the type of copy you are creating, either AP or IBM.
+					Refer to the primary reference for the type of copy you are creating, either AP or IBM.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-e.g._i.e.">
 			<term>e.g., i.e.</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Use sparingly, and include a comma before the following word.
 				</para>
-				<warning><title>ECS Exception</title>
-					<para>
+				 <warning>
+					<title>ECS Exception</title>
+					 <para>
 						ECS adheres to <citetitle>The IBM Style Guide</citetitle> recommendation and always expands these abbreviations.
 					</para>
+
 				</warning>
+
 			</listitem>
+
 		</varlistentry>
-		
-		<varlistentry>
-			<term id="earlier">earlier</term>
-			<listitem>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-earlier">
+			<term>earlier</term>
+			 <listitem>
 				<para>
-					Use to refer to earlier releases of products. Do not use "older" or related terms. See also <xref linkend="later"/>.
+					Use to refer to earlier releases of products. Do not use "older" or related terms. See also <xref linkend="varl-Style_Guide-Writing_Style_Guide-L-later" />.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		
-		<varlistentry>
-			<term id="emdash">emdash</term>
-			<listitem>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-emdash">
+			<term>emdash</term>
+			 <listitem>
 				<para>
-					Used (informally) to indicate a pause or abrupt change in thought; for emphasis; or to set off a series in a phrase. See <xref linkend="dash"/> for more information.
+					Used (informally) to indicate a pause or abrupt change in thought; for emphasis; or to set off a series in a phrase. See <xref linkend="varl-Style_Guide-Writing_Style_Guide-D-dash" /> for more information.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-ensure">
 			<term>ensure</term>
 			 <listitem>
 				<para>
@@ -65,7 +73,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-enter">
 			<term>enter</term>
 			 <listitem>
 				<para>
@@ -81,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-environment">
 			<term>environment</term>
 			 <listitem>
 				<para>
@@ -97,7 +105,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-essentially">
 			<term>essentially</term>
 			 <listitem>
 				<para>
@@ -107,16 +115,17 @@
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-Ethernet_n.">
 			<term>Ethernet (n.)</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Uppercase "E" at all times.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-event">
 			<term>event</term>
 			 <listitem>
 				<para>
@@ -126,7 +135,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-exclamation_points_">
 			<term>exclamation points (!)</term>
 			 <listitem>
 				<para>
@@ -136,7 +145,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-Exec_Shield">
 			<term>Exec-Shield</term>
 			 <listitem>
 				<para>
@@ -146,7 +155,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-execute">
 			<term>execute</term>
 			 <listitem>
 				<para>
@@ -156,7 +165,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-Exif">
 			<term>Exif</term>
 			 <listitem>
 				<para>
@@ -166,7 +175,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-extranet">
 			<term>extranet</term>
 			 <listitem>
 				<para>

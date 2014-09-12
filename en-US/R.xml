@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Policy-Writing_Style_Guide-R">
+<chapter id="chap-Style_Guide-Writing_Style_Guide-R">
 	<title>R</title>
 	 <variablelist>
-		<varlistentry>
+		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-RAM">
 			<term>RAM</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-RAM_disk">
 			<term>RAM disk</term>
 			 <listitem>
 				<para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-raw">
 			<term>raw</term>
 			 <listitem>
 				<para>
@@ -42,7 +42,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-raw_data">
 			<term>raw data</term>
 			 <listitem>
 				<para>
@@ -52,7 +52,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-read">
 			<term>read</term>
 			 <listitem>
 				<para>
@@ -65,7 +65,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-read_only">
 			<term>read-only</term>
 			 <listitem>
 				<para>
@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-readwrite">
 			<term>read/write</term>
 			 <listitem>
 				<para>
@@ -85,7 +85,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-real_timereal_time">
 			<term>real time/real-time</term>
 			 <listitem>
 				<para>
@@ -95,7 +95,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-reboot">
 			<term>reboot</term>
 			 <listitem>
 				<para>
@@ -105,7 +105,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-RedBoot">
 			<term>RedBoot</term>
 			 <listitem>
 				<para>
@@ -115,8 +115,7 @@
 			</listitem>
 
 		</varlistentry>
-		
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-RednbspHat_NetworknbspSatellitenbspServer_and_RednbspHat_NetworknbspProxynbspServer">
 			<term>Red&nbsp;Hat Network&nbsp;Satellite&nbsp;Server and Red&nbsp;Hat Network&nbsp;Proxy&nbsp;Server</term>
 			 <listitem>
 				<para>
@@ -128,21 +127,22 @@
 				 <para>
 					Do not use "Red Hat Satellite (Server)" or "Red Hat Proxy (Server)."
 				</para>
-				<remark>Under review.</remark>
+				 <remark>Under review.</remark>
 
 			</listitem>
 
 		</varlistentry>
-		
-		<varlistentry>
-			<term id="redhatway">Red Hat Way</term>
-			<listitem>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-Red_Hat_Way">
+			<term>Red Hat Way</term>
+			 <listitem>
 				<para>
 					To do
 				</para>
+
 			</listitem>
+
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-refer_to">
 			<term>refer to</term>
 			 <listitem>
 				<para>
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-remote_access">
 			<term>remote access</term>
 			 <listitem>
 				<para>
@@ -162,7 +162,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-remote_access_server">
 			<term>remote access server</term>
 			 <listitem>
 				<para>
@@ -172,7 +172,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-required">
 			<term>required</term>
 			 <listitem>
 				<para>
@@ -182,7 +182,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-return">
 			<term>return</term>
 			 <listitem>
 				<para>
@@ -192,7 +192,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-right_click">
 			<term>right-click</term>
 			 <listitem>
 				<para>
@@ -202,7 +202,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-right_now">
 			<term>right now</term>
 			 <listitem>
 				<para>
@@ -212,13 +212,12 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-ROM_PROM">
 			<term>ROM, PROM</term>
 			 <listitem>
 				<para>
 					Acronym for read-only memory, computer memory on which data has been prerecorded. After data has been written onto a ROM chip, it cannot be removed and can only be read.
 				</para>
-				 
 				 <para>
 					A variation of a ROM is a PROM (programmable read-only memory). PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer.
 				</para>
@@ -226,7 +225,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-roundtable_n._adj.">
 			<term>roundtable (n., adj.)</term>
 			 <listitem>
 				<para>
@@ -236,7 +235,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-RPM">
 			<term>RPM</term>
 			 <listitem>
 				<para>
@@ -246,7 +245,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-runlevel">
 			<term>runlevel</term>
 			 <listitem>
 				<para>
@@ -256,7 +255,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-runtime">
 			<term>runtime</term>
 			 <listitem>
 				<para>
