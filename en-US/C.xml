@@ -428,7 +428,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <!--    <varlistentry>
+		 <!--     <varlistentry>
 			<term>Customer Portal</term>
 			 <listitem>
 				<para>
@@ -453,7 +453,7 @@
 
 			</listitem>
 
-		</varlistentry>    --> <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-Cygmon">
+		</varlistentry>     --> <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-Cygmon">
 			<term>Cygmon</term>
 			 <listitem>
 				<para>
