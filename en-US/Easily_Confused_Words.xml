@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-Easily_Confused_Words">
+<section id="sect-Style_Guide-Writing_Style_Guide-Easily_Confused_Words">
 	<title>Easily Confused Words</title>
 	 <para>
-		This chapter identifies some easily confused words and how to choose the correct term for your situation.
+		This section identifies some easily confused words and how to choose the correct term for your situation.
 	</para>
 	 <formalpara id="form-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-Affect_and_Effect">
 		<title>Affect and Effect</title>
@@ -88,5 +88,6 @@
 
 	</variablelist>
 
-</chapter>
+</section>
+
 

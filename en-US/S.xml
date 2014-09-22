@@ -562,7 +562,7 @@
 					Correct. do not use "sub-package."
 				</para>
 				 <para>
-					This word has a specific, specialised meaning in Red Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages."
+					This word has a specific, specialized meaning in Red Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages."
 				</para>
 				 <para>
 					Any other use of this word is strongly discouraged.
