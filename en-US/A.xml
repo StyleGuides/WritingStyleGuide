@@ -55,7 +55,7 @@
 			<term>ATM</term>
 			 <listitem>
 				<para>
-					Initialism for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies. The small, constant cell size allows ATM equipment to transmit video, audio, and computer data over the same network, and ensure that no single type of data dominates the line.
+					Initialism for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies.
 				</para>
 
 			</listitem>
