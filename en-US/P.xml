@@ -171,6 +171,31 @@
 			</listitem>
 
 		</varlistentry>
+		<varlistentry>
+			<term>proof of concept</term>
+			<listitem>
+				<para>
+					Use the following rules to form the plural of this phrase:
+					<itemizedlist>
+						<listitem>
+							<para>
+								Use "proofs of concept" when there are multiple proofs, only one concept.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Use "proofs of concepts" when there are multiple proofs and multiple concepts.
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Do not use "proof of concepts."
+							</para>
+						</listitem>
+					</itemizedlist>
+				</para>
+			</listitem>
+		</varlistentry>
 		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pseudo_ops">
 			<term>pseudo-ops</term>
 			 <listitem>

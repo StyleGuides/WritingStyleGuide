@@ -36,6 +36,14 @@
 			</listitem>
 
 		</varlistentry>
+		<varlistentry>
+			<term>CapEx, OpEx</term>
+			<listitem>
+				<para>
+					Correct. These stand for "capital expenditures" and "operating expenses" respectively. Do not use alternative capitalization.
+				</para>
+			</listitem>
+		</varlistentry>
 		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cd_CD">
 			<term>cd, CD</term>
 			 <listitem>
@@ -61,6 +69,14 @@
 
 			</listitem>
 
+		</varlistentry>
+		<varlistentry>
+			<term>Ceph</term>
+			<listitem>
+				<para>
+					Correct. Ceph is a distributed storage platform that provides object, block, and file storage.<footnote><para>See <ulink url="http://en.wikipedia.org/wiki/Ceph_%28software%29"></ulink></para></footnote> Do not use alternative capitalization.
+				</para>
+			</listitem>
 		</varlistentry>
 		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cgroup">
 			<term>cgroup</term>
