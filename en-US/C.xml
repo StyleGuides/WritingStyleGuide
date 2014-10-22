@@ -76,11 +76,10 @@
 			<term>Ceph</term>
 			 <listitem>
 				<para>
-					Correct. Ceph is a distributed storage platform that provides object, block, and file storage.<footnote>
-					<para>
+					Correct. Ceph is a distributed storage platform that provides object, block, and file storage.<footnote> <para>
 						See <ulink url="http://en.wikipedia.org/wiki/Ceph_%28software%29" />
 					</para>
-					</footnote> Do not use alternative capitalization.
+					 </footnote> Do not use alternative capitalization.
 				</para>
 
 			</listitem>
@@ -452,7 +451,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <!--      <varlistentry>
+		 <!--       <varlistentry>
 			<term>Customer Portal</term>
 			 <listitem>
 				<para>
@@ -477,7 +476,7 @@
 
 			</listitem>
 
-		</varlistentry>      --> <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-Cygmon">
+		</varlistentry>       --> <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-Cygmon">
 			<term>Cygmon</term>
 			 <listitem>
 				<para>

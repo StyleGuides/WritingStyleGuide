@@ -111,6 +111,16 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-VNIC">
+			<term>VNIC</term>
+			 <listitem>
+				<para>
+					Abbreviation for virtual network interface card. Use all uppercase characters for the abbreviation, but all lowercase for the expansion, except at the beginning of a sentence.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-VPN">
 			<term>VPN</term>
 			 <listitem>
