@@ -1,0 +1,3 @@
+<para>
+<ulink url="https://github.com/daobrien/WritingStyleGuide/issues">Report a bug</ulink>
+</para>

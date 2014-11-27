@@ -14,11 +14,11 @@
 			</para>
 
 		</partintro>
-		 <xi:include href="Chapter_Objective.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-		 <xi:include href="Chapter_Grammar.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-		 <xi:include href="Chapter_Design.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-		 <xi:include href="Avoiding_Slang.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-		 <xi:include href="Chapter_Translation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+		 <xi:include href="Objectives.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+		 <xi:include href="Grammar.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+		 <xi:include href="Design.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+		 <xi:include href="Slang.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+		 <xi:include href="Translation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 		 <xi:include href="Cross_references.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 		 <xi:include href="Resources.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 
