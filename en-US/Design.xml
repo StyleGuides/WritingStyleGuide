@@ -82,7 +82,7 @@
 		</variablelist>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Documenting_Fonts">
 		<title>Documenting Fonts</title>
 		 <para>
@@ -90,7 +90,7 @@
 		</para>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Documenting_the_User_Interface">
 		<title>Documenting the User Interface</title>
 		 <para>
@@ -109,7 +109,7 @@
 			</para>
 
 		</section>
-		
+
 		 <section id="sect-Style_Guide-Writing_Style_Guide-Documenting_the_User_Interface-Launching_Applications_from_the_RednbspHat_EnterprisenbspLinux_Desktop">
 			<title>Launching Applications from the Red&nbsp;Hat Enterprise&nbsp;Linux Desktop</title>
 			 <para>
@@ -127,7 +127,7 @@
 			</example>
 
 		</section>
-		
+
 		 <section id="sect-Style_Guide-Writing_Style_Guide-Documenting_the_User_Interface-Documenting_Command_Syntax">
 			<title>Documenting Command Syntax</title>
 			 <para>
@@ -136,14 +136,14 @@
 			 <example id="exam-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-					
+
 <screen>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 
 				</para>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
+				In <xref linkend="exam-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components:
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -175,12 +175,12 @@
 			</para>
 			 <example id="exam-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
-				 
+
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
+				In <xref linkend="exam-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -213,11 +213,11 @@
 			 <section id="sect-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Documenting_Multiple_or_Long_Commands">
 				<title>Documenting Multiple or Long Commands</title>
 				 <para>
-					Sometimes you need to demonstrate how to use very long commands that extend over two or more lines, or include several commands in a single example. If the commands are relatively short and straight-forward, include the commands on consecutive lines:
+					Sometimes you need to demonstrate how to use very long commands that extend over two or more lines, or include several commands in a single example. If the commands are relatively short and straightforward, include the commands on consecutive lines:
 				</para>
 				 <example id="exam-Style_Guide-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
-					 
+
 <screen>$ cd Documents
 $ vi myFile.txt
 </screen>
@@ -228,7 +228,7 @@ $ vi myFile.txt
 				</para>
 				 <example id="exam-Style_Guide-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
-					 
+
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
@@ -244,14 +244,14 @@ $ vi myFile.txt
 				</example>
 
 			</section>
-			
+
 
 		</section>
-		
+
 		 <section id="sect-Style_Guide-Writing_Style_Guide-Documenting_the_User_Interface-Using_Host_and_User_Names_Correctly">
 			<title>Using Host and User Names Correctly</title>
 			 <para>
-				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following: 
+				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following:
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -277,10 +277,10 @@ $ vi myFile.txt
 			</para>
 
 		</section>
-		
+
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Documenting_Currencies">
 		<title>Documenting Currencies</title>
 		 <para>
@@ -294,7 +294,7 @@ $ vi myFile.txt
 		</important>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Using_Abbreviations_Acronyms_and_Initialisms_Correctly">
 		<title>Using Abbreviations, Acronyms, and Initialisms Correctly</title>
 		 <para>
@@ -332,15 +332,15 @@ $ vi myFile.txt
 		</para>
 
 	</section>
-	
-	 <!--       
+
+	 <!--
 	 <section role="internal" id="sect-Policy-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
 			For general information, see <ulink url="https://home.corp.redhat.com/wiki/writing-style-branding" />.
 		</para>
 		 <para>
-			The following points in particular should be noted: 
+			The following points in particular should be noted:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -358,7 +358,7 @@ $ vi myFile.txt
 					<para>
 						Use non-breaking spaces to avoid breaking the company name over multiple lines. This also applies to product names and their versions. For example, use a non-breaking space between "Red" and "Hat," and also between "Enterprise," "Linux," and the version number.
 					</para>
-					
+
 					 <para>
 						If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
 					</para>
@@ -407,18 +407,18 @@ $ vi myFile.txt
 					</note>
 
 				</listitem>
-				
+
 
 			</itemizedlist>
 
 		</para>
 
-	</section>       --> <!--       
+	</section>       --> <!--
 	<section><title>Using Capitalization Correctly</title>
 		<para>
 			This section provides guidelines for how to correctly capitalize various words and phrases, especially group and team names, partner names, and related entities.
 		</para>
-                
+
 		<section role="internal"><title>Department Naming</title>
 			<para>
 				The preferred word is team, regardless of size or function. Do not use "business unit" in external-facing documents. Use "organization" to distinguish a department from its sub-teams or to otherwise call attention to its large, multi-team nature. For example, "The OpenShift Engineering team is part of the Red Hat Engineering organization."
@@ -436,8 +436,8 @@ $ vi myFile.txt
 					<listitem><para>As a member of the Red Hat Finance team...</para></listitem>
 					<listitem><para>...with our Global Workplace Solutions team.</para></listitem></itemizedlist></para>
                 </section>
-                
-                
+
+
 		<section role="internal"><title>Partner Naming</title>
 			<para>
 				When referring to Red&nbsp;Hat partners, only capitalize the following:
@@ -482,14 +482,14 @@ $ vi myFile.txt
 					</listitem>
 				</itemizedlist>
 			</para>
-			
+
 		</section>
-                
-                
+
+
                 </section>        --> <!--       <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
-			The preferred format for product names includes only the major version number. For example: 
+			The preferred format for product names includes only the major version number. For example:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -511,7 +511,7 @@ $ vi myFile.txt
 			When writing about a product line, product release, or product family, use major version numbers. This includes all the releases (past, present, and future) of that major version.
 		</para>
 		 <para>
-			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example: 
+			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -548,7 +548,7 @@ $ vi myFile.txt
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -586,7 +586,7 @@ $ vi myFile.txt
 		</para>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Citing_Other_Works">
 		<title>Citing Other Works</title>
 		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Books">
@@ -599,12 +599,12 @@ $ vi myFile.txt
 		 <para>
 			In XML:
 		</para>
-		 
+
 <programlisting>
 &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 </programlisting>
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by 
+			For example, <citetitle>Maximum RPM</citetitle> by
 			<author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
@@ -649,7 +649,7 @@ $ vi myFile.txt
 		</itemizedlist>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Citing_Other_Authors">
 		<title>Citing Other Authors</title>
 		 <para>
@@ -663,7 +663,7 @@ $ vi myFile.txt
 		</blockquote>
 
 	</section>
-	
+
 
 </chapter>
 

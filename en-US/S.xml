@@ -510,11 +510,20 @@
 			</listitem>
 
 		</varlistentry>
+
+        <varlistentry>
+          <term>straightforward (adj., adv.)</term>
+          <listitem>
+            <para>
+              Correct. Accepted references prescribe the use of the one-word form in all cases.
+            </para>
+          </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-S-su">
 			<term>su</term>
 			 <listitem>
 				<para>
-					Correct. Do not use SU (all caps).
+					Correct. Linux command to change to the <systemitem class="username">root</systemitem> user. Do not use SU (all caps).
 				</para>
 
 			</listitem>
@@ -526,7 +535,7 @@
 				<para>
 					Correct. Do not use "sub-command." A subcommand refers to a "secondary" or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
 				</para>
-				 
+
 <screen>hammer import organization --help</screen>
 				 <para>
 					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.

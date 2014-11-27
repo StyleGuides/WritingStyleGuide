@@ -6,7 +6,7 @@
 <chapter id="chap-Style_Guide-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language">
 	<title>Avoiding Slang, Metaphors, and Misleading Language</title>
 	 <para>
-		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straight-forward as possible, it is necessary to avoid slang and other culture-specific terminology. This section attempts to identify commonly-used slang terms and phraseology, and to provide alternatives.
+		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, it is necessary to avoid slang and other culture-specific terminology. This section attempts to identify commonly-used slang terms and phraseology, and to provide alternatives.
 	</para>
 	 <para>
 		If you find slang terms or other difficult-to-understand passages in our documentation, use this page to search for alternatives. You can also raise bugs directly in Bugzilla, under the product heading "Red&nbsp;Hat Style Guide."
