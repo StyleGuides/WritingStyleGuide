@@ -41,7 +41,6 @@
 		</example>
 
 	</section>
-
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Agreement">
 		<title>Agreement</title>
 		 <para>
@@ -151,7 +150,6 @@
 		</variablelist>
 
 	</section>
-
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Using_Who_Whom_That_and_Which_Correctly">
 		<title>Using Who, Whom, That, and Which Correctly</title>
 		 <para>
@@ -292,7 +290,6 @@
 		</note>
 
 	</section>
-
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Sentence_Structure">
 		<title>Sentence Structure</title>
 		 <para>
@@ -367,42 +364,26 @@
 							 <colspec colname="c2"></colspec>
 							 <thead>
 								<row>
-									<entry>
-										Example
-									</entry>
-									 <entry>
-										Improvement
-									</entry>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
 
 								</row>
 
 							</thead>
 							 <tbody>
 								<row>
-									<entry>
-										The CDs both of which belonged to the developers were in the test lab.
-									</entry>
-									 <entry>
-										The CDs, both of which belonged to the developers, were in the test lab.
-									</entry>
+									<entry> The CDs both of which belonged to the developers were in the test lab. </entry>
+									 <entry> The CDs, both of which belonged to the developers, were in the test lab. </entry>
 
 								</row>
 								 <row>
-									<entry>
-										To access your programs click the Start button.
-									</entry>
-									 <entry>
-										To access your programs, click the Start button.
-									</entry>
+									<entry> To access your programs click the Start button. </entry>
+									 <entry> To access your programs, click the Start button. </entry>
 
 								</row>
 								 <row>
-									<entry>
-										The CDs, both of which belonged to the developers, were in the test lab, because they were the only available CDs for the new release, the developers were anxious about keeping them clean. (This sentence exhibits a <firstterm>comma splice</firstterm> which is also often regarded as a run-on sentence.)
-									</entry>
-									 <entry>
-										The CDs, both of which belonged to the developers, were in the test lab. Because they were the only available CDs for the new release, the developers were anxious about keeping them clean.
-									</entry>
+									<entry> The CDs, both of which belonged to the developers, were in the test lab, because they were the only available CDs for the new release, the developers were anxious about keeping them clean. (This sentence exhibits a <firstterm>comma splice</firstterm> which is also often regarded as a run-on sentence.) </entry>
+									 <entry> The CDs, both of which belonged to the developers, were in the test lab. Because they were the only available CDs for the new release, the developers were anxious about keeping them clean. </entry>
 
 								</row>
 
@@ -450,24 +431,16 @@
 							 <colspec colname="c2"></colspec>
 							 <thead>
 								<row>
-									<entry>
-										Example
-									</entry>
-									 <entry>
-										Improvement
-									</entry>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
 
 								</row>
 
 							</thead>
 							 <tbody>
 								<row>
-									<entry>
-										Click button to start.
-									</entry>
-									 <entry>
-										Click the <guibutton>Initiate</guibutton> button to start the process.
-									</entry>
+									<entry> Click button to start. </entry>
+									 <entry> Click the <guibutton>Initiate</guibutton> button to start the process. </entry>
 
 								</row>
 
@@ -486,33 +459,21 @@
 							 <colspec colname="c2"></colspec>
 							 <thead>
 								<row>
-									<entry>
-										Example
-									</entry>
-									 <entry>
-										Improvement
-									</entry>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
 
 								</row>
 
 							</thead>
 							 <tbody>
 								<row>
-									<entry>
-										Minor revision - missing element items
-									</entry>
-									 <entry>
-										Minor revision - added missing element items
-									</entry>
+									<entry> Minor revision - missing element items </entry>
+									 <entry> Minor revision - added missing element items </entry>
 
 								</row>
 								 <row>
-									<entry>
-										Some further work required to avoid 404s at lower levels of the SDK.
-									</entry>
-									 <entry>
-										Some further work required to avoid 404 errors at lower levels of the SDK.
-									</entry>
+									<entry> Some further work required to avoid 404s at lower levels of the SDK. </entry>
+									 <entry> Some further work required to avoid 404 errors at lower levels of the SDK. </entry>
 
 								</row>
 
@@ -538,24 +499,16 @@
 							 <colspec colname="c2"></colspec>
 							 <thead>
 								<row>
-									<entry>
-										Example
-									</entry>
-									 <entry>
-										Improvement
-									</entry>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
 
 								</row>
 
 							</thead>
 							 <tbody>
 								<row>
-									<entry>
-										The individual member of the social community often receives his information via visual, symbolic channels.
-									</entry>
-									 <entry>
-										People read. (Translation by Richard Feynman.)
-									</entry>
+									<entry> The individual member of the social community often receives his information via visual, symbolic channels. </entry>
+									 <entry> People read. (Translation by Richard Feynman.) </entry>
 
 								</row>
 
@@ -581,24 +534,16 @@
 							 <colspec colname="c2"></colspec>
 							 <thead>
 								<row>
-									<entry>
-										Example
-									</entry>
-									 <entry>
-										Improvement
-									</entry>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
 
 								</row>
 
 							</thead>
 							 <tbody>
 								<row>
-									<entry>
-										To update the address lists may be your primary concern.
-									</entry>
-									 <entry>
-										Your primary concern may be to update the address lists.
-									</entry>
+									<entry> To update the address lists may be your primary concern. </entry>
+									 <entry> Your primary concern may be to update the address lists. </entry>
 
 								</row>
 
@@ -615,7 +560,6 @@
 		</variablelist>
 
 	</section>
-
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Avoiding_Ambiguities">
 		<title>Avoiding Ambiguities</title>
 		 <variablelist>
@@ -632,24 +576,16 @@
 							 <colspec colname="c2"></colspec>
 							 <thead>
 								<row>
-									<entry>
-										Example
-									</entry>
-									 <entry>
-										Improvement
-									</entry>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
 
 								</row>
 
 							</thead>
 							 <tbody>
 								<row>
-									<entry>
-										This property must be enabled when you are using CTDB in a Windows domain or in active directory security mode.
-									</entry>
-									 <entry>
-										This property must be enabled when you are using CTDB in a Windows domain or in Active Directory security mode.
-									</entry>
+									<entry> This property must be enabled when you are using CTDB in a Windows domain or in active directory security mode. </entry>
+									 <entry> This property must be enabled when you are using CTDB in a Windows domain or in Active Directory security mode. </entry>
 
 								</row>
 
@@ -675,33 +611,21 @@
 							 <colspec colname="c2"></colspec>
 							 <thead>
 								<row>
-									<entry>
-										Example
-									</entry>
-									 <entry>
-										Improvement
-									</entry>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
 
 								</row>
 
 							</thead>
 							 <tbody>
 								<row>
-									<entry>
-										The <methodname>next()</methodname> method should return <code>null</code> to indicate the end of results.
-									</entry>
-									 <entry>
-										The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. <emphasis>OR</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results.
-									</entry>
+									<entry> The <methodname>next()</methodname> method should return <code>null</code> to indicate the end of results. </entry>
+									 <entry> The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. <emphasis>OR</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results. </entry>
 
 								</row>
 								 <row>
-									<entry>
-										It may be held in memory.
-									</entry>
-									 <entry>
-										It can be held in memory. <emphasis>OR</emphasis> It might be held in memory.
-									</entry>
+									<entry> It may be held in memory. </entry>
+									 <entry> It can be held in memory. <emphasis>OR</emphasis> It might be held in memory. </entry>
 
 								</row>
 
@@ -727,33 +651,21 @@
 							 <colspec colname="c2"></colspec>
 							 <thead>
 								<row>
-									<entry>
-										Example
-									</entry>
-									 <entry>
-										Improvement
-									</entry>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
 
 								</row>
 
 							</thead>
 							 <tbody>
 								<row>
-									<entry>
-										Tab through the dialog box. Set the tab. Move the tab on the ruler. How to show or hide tabs. Select the tab.
-									</entry>
-									 <entry>
-										Use the tab key to move through the dialog box. Set the tab stop. Move the tab mark on the ruler. How to show or hide tab characters. Select the <guimenuitem>View</guimenuitem> tab in the <guimenuitem>Options</guimenuitem> dialog box.
-									</entry>
+									<entry> Tab through the dialog box. Set the tab. Move the tab on the ruler. How to show or hide tabs. Select the tab. </entry>
+									 <entry> Use the tab key to move through the dialog box. Set the tab stop. Move the tab mark on the ruler. How to show or hide tab characters. Select the <guimenuitem>View</guimenuitem> tab in the <guimenuitem>Options</guimenuitem> dialog box. </entry>
 
 								</row>
 								 <row>
-									<entry>
-										To create another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu.
-									</entry>
-									 <entry>
-										To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. <emphasis>OR</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu.
-									</entry>
+									<entry> To create another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
+									 <entry> To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. <emphasis>OR</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
 
 								</row>
 
@@ -785,24 +697,16 @@
 							 <colspec colname="c2"></colspec>
 							 <thead>
 								<row>
-									<entry>
-										Example
-									</entry>
-									 <entry>
-										Improvement
-									</entry>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
 
 								</row>
 
 							</thead>
 							 <tbody>
 								<row>
-									<entry>
-										Once the file retrieval has been completed, you are ready to restart your system.
-									</entry>
-									 <entry>
-										After the files have been retrieved, you can restart your system.
-									</entry>
+									<entry> Once the file retrieval has been completed, you are ready to restart your system. </entry>
+									 <entry> After the files have been retrieved, you can restart your system. </entry>
 
 								</row>
 
@@ -832,7 +736,6 @@
 		</variablelist>
 
 	</section>
-
 	 <xi:include href="Easily_Confused_Words.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Contractions_and_Abbreviations">
 		<title>Contractions and Abbreviations</title>
@@ -841,7 +744,6 @@
 		</para>
 
 	</section>
-
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Hyphenation">
 		<title>Hyphenation</title>
 		 <para>
@@ -905,7 +807,6 @@
 		</formalpara>
 
 	</section>
-
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Gender_References">
 		<title>Gender References</title>
 		 <para>
@@ -913,7 +814,6 @@
 		</para>
 
 	</section>
-
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Tense">
 		<title>Tense</title>
 		 <para>
@@ -922,11 +822,11 @@
 		 <para>
 			Use simple present tense as much as possible. It avoids problems with consequences and time related communications, and is the easiest tense for translation.
 		</para>
-<para>
-<ulink url="https://github.com/daobrien/WritingStyleGuide/issues">Report an issue</ulink>
-</para>
-	</section>
+		<para>
+			<ulink url="https://github.com/daobrien/WritingStyleGuide/issues">Report an issue</ulink>
+		</para>
 
+	</section>
 
 </chapter>
 

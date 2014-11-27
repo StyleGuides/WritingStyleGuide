@@ -38,7 +38,6 @@
 		</variablelist>
 
 	</section>
-
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language-Identifying_and_Avoiding_Slang">
 		<title>Identifying and Avoiding Slang</title>
 		 <para>
@@ -777,7 +776,6 @@
 		</variablelist>
 
 	</section>
-
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language-Neologisms_Invented_Words">
 		<title>Neologisms (Invented Words)</title>
 		 <para>
@@ -804,7 +802,6 @@
 		</itemizedlist>
 
 	</section>
-
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language-Anthropomorphism">
 		<title>Anthropomorphism</title>
 		 <para>
@@ -844,12 +841,11 @@
 			</listitem>
 
 		</itemizedlist>
+		 <para>
+			<ulink url="https://github.com/daobrien/WritingStyleGuide/issues">Report an issue</ulink>
+		</para>
 
-    <para>
-<ulink url="https://github.com/daobrien/WritingStyleGuide/issues">Report an issue</ulink>
-</para>
 	</section>
-
 
 </chapter>
 

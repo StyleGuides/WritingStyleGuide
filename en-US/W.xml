@@ -52,13 +52,15 @@
 			</listitem>
 
 		</varlistentry>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-W-web_UI">
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-W-web_UI">
 			<term>web UI</term>
-			<listitem>
+			 <listitem>
 				<para>
 					Correct. Use this term to refer to a browser-based interface to a software application, even if that application has no connection to the web. If necessary, spell out on first use: "web browser-based user interface." Do not hyphenate the acronym or use the one-word form.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
 		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-W-whowhom">
 			<term>who/whom</term>

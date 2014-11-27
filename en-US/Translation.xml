@@ -24,63 +24,55 @@
 				 <colspec colname="c2"></colspec>
 				 <thead>
 					<row>
-						<entry>
-							Example
-						</entry>
-						 <entry>
-							Improvement
-						</entry>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
 
 					</row>
 
 				</thead>
 				 <tbody>
 					<row>
-						<entry>
-							<para>
-								Before you start the installation, make sure you have
-							</para>
-							 <itemizedlist>
-								<listitem>
-									<para>
-										enough free storage on your system
-									</para>
+						<entry> <para>
+							Before you start the installation, make sure you have
+						</para>
+						 <itemizedlist>
+							<listitem>
+								<para>
+									enough free storage on your system
+								</para>
 
-								</listitem>
-								 <listitem>
-									<para>
-										backed up any data that you want to keep
-									</para>
+							</listitem>
+							 <listitem>
+								<para>
+									backed up any data that you want to keep
+								</para>
 
-								</listitem>
+							</listitem>
 
-							</itemizedlist>
-							 <para>
-								to ensure a smooth installation.
-							</para>
+						</itemizedlist>
+						 <para>
+							to ensure a smooth installation.
+						</para>
+						 </entry>
+						 <entry> <para>
+							Before you start the installation, ensure that the following prerequisites are met, in order to ensure a smooth installation:
+						</para>
+						 <itemizedlist>
+							<listitem>
+								<para>
+									Ensure you have enough free storage on your system.
+								</para>
 
-						</entry>
-						 <entry>
-							<para>
-								Before you start the installation, ensure that the following prerequisites are met, in order to ensure a smooth installation:
-							</para>
-							 <itemizedlist>
-								<listitem>
-									<para>
-										Ensure you have enough free storage on your system.
-									</para>
+							</listitem>
+							 <listitem>
+								<para>
+									Back up any data that you want to keep.
+								</para>
 
-								</listitem>
-								 <listitem>
-									<para>
-										Back up any data that you want to keep.
-									</para>
+							</listitem>
 
-								</listitem>
-
-							</itemizedlist>
-
-						</entry>
+						</itemizedlist>
+						 </entry>
 
 					</row>
 
@@ -103,33 +95,21 @@
 				 <colspec colname="c2"></colspec>
 				 <thead>
 					<row>
-						<entry>
-							Example
-						</entry>
-						 <entry>
-							Improvement
-						</entry>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
 
 					</row>
 
 				</thead>
 				 <tbody>
 					<row>
-						<entry>
-							Plastic tubing and syringe tips.
-						</entry>
-						 <entry>
-							Plastic tubing and plastic syringe tips.
-						</entry>
+						<entry> Plastic tubing and syringe tips. </entry>
+						 <entry> Plastic tubing and plastic syringe tips. </entry>
 
 					</row>
 					 <row>
-						<entry>
-							Set default printer configuration parameters for new users. Enter the maximum length of time that you want to keep the automatic synchronization address list updates in days and press ENTER.
-						</entry>
-						 <entry>
-							For new users, set the parameters to the default printer configuration. Enter the maximum length of time, in number of days, that you want to keep the address lists updated by automatic synchronization. Then press ENTER.
-						</entry>
+						<entry> Set default printer configuration parameters for new users. Enter the maximum length of time that you want to keep the automatic synchronization address list updates in days and press ENTER. </entry>
+						 <entry> For new users, set the parameters to the default printer configuration. Enter the maximum length of time, in number of days, that you want to keep the address lists updated by automatic synchronization. Then press ENTER. </entry>
 
 					</row>
 
@@ -140,7 +120,6 @@
 		</table>
 
 	</section>
-	
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Grammatical_Genders">
 		<title>Grammatical Genders</title>
 		 <para>
@@ -156,33 +135,21 @@
 				 <colspec colname="c2"></colspec>
 				 <thead>
 					<row>
-						<entry>
-							Example
-						</entry>
-						 <entry>
-							Improvement
-						</entry>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
 
 					</row>
 
 				</thead>
 				 <tbody>
 					<row>
-						<entry>
-							Set the parameter XYZ to 1 in the configuration file /etc/config.conf. It configures the way the Gateway application handles incoming network traffic.
-						</entry>
-						 <entry>
-							Set the XYZ parameter to 1 in the configuration /etc/config.conf file. This parameter configures how the Gateway application handles incoming network traffic.
-						</entry>
+						<entry> Set the parameter XYZ to 1 in the configuration file /etc/config.conf. It configures the way the Gateway application handles incoming network traffic. </entry>
+						 <entry> Set the XYZ parameter to 1 in the configuration /etc/config.conf file. This parameter configures how the Gateway application handles incoming network traffic. </entry>
 
 					</row>
 					 <row>
-						<entry>
-							The RPM is useful.
-						</entry>
-						 <entry>
-							The RPM package is useful. <emphasis>OR</emphasis> The RPM Package Manager is useful.
-						</entry>
+						<entry> The RPM is useful. </entry>
+						 <entry> The RPM package is useful. <emphasis>OR</emphasis> The RPM Package Manager is useful. </entry>
 
 					</row>
 
@@ -193,7 +160,6 @@
 		</table>
 
 	</section>
-	
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Tags">
 		<title>Tags</title>
 		 <para>
@@ -206,33 +172,21 @@
 				 <colspec colname="c2"></colspec>
 				 <thead>
 					<row>
-						<entry>
-							Example
-						</entry>
-						 <entry>
-							Improvement
-						</entry>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
 
 					</row>
 
 				</thead>
 				 <tbody>
 					<row>
-						<entry>
-							&lt;literal&gt;ApplicationName&lt;/literal&gt;
-						</entry>
-						 <entry>
-							&lt;application&gt;ApplicationName&lt;/application&gt;
-						</entry>
+						<entry> &lt;literal&gt;ApplicationName&lt;/literal&gt; </entry>
+						 <entry> &lt;application&gt;ApplicationName&lt;/application&gt; </entry>
 
 					</row>
 					 <row>
-						<entry>
-							&lt;literal&gt;/path/to/file&lt;/literal&gt;
-						</entry>
-						 <entry>
-							&lt;filename&gt;/path/to/file&lt;/filename&gt;
-						</entry>
+						<entry> &lt;literal&gt;/path/to/file&lt;/literal&gt; </entry>
+						 <entry> &lt;filename&gt;/path/to/file&lt;/filename&gt; </entry>
 
 					</row>
 
@@ -258,33 +212,21 @@
 				 <colspec colname="c2"></colspec>
 				 <thead>
 					<row>
-						<entry>
-							Example
-						</entry>
-						 <entry>
-							Improvement
-						</entry>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
 
 					</row>
 
 				</thead>
 				 <tbody>
 					<row>
-						<entry>
-							In <filename>/some/path/</filename>, grep for XYZ.
-						</entry>
-						 <entry>
-							In the <filename>/some/path/</filename> directory, use the <command>grep</command> command to search for "XYZ".
-						</entry>
+						<entry> In <filename>/some/path/</filename>, grep for XYZ. </entry>
+						 <entry> In the <filename>/some/path/</filename> directory, use the <command>grep</command> command to search for "XYZ". </entry>
 
 					</row>
 					 <row>
-						<entry>
-							<literal>param-2</literal> contains a reference to the hostname <literal>return</literal> value from <literal>instance-2</literal>.
-						</entry>
-						 <entry>
-							The parameter <literal>param-2</literal> contains a reference to the hostname return value from your second server instance <literal>instance-2</literal>.
-						</entry>
+						<entry> <literal>param-2</literal> contains a reference to the hostname <literal>return</literal> value from <literal>instance-2</literal>. </entry>
+						 <entry> The parameter <literal>param-2</literal> contains a reference to the hostname return value from your second server instance <literal>instance-2</literal>. </entry>
 
 					</row>
 
@@ -295,7 +237,6 @@
 		</table>
 
 	</section>
-	
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Code_Blocks">
 		<title>Code Blocks</title>
 		 <para>
@@ -309,7 +250,6 @@
 <command>rhevm-iso-uploader <replaceable>[options] </replaceable>upload <replaceable>[file1] [file2] [file3]</replaceable></command></screen>
 
 	</section>
-	
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Entities">
 		<title>Entities</title>
 		 <para>
@@ -357,7 +297,6 @@
 		</para>
 
 	</section>
-	
 
 </chapter>
 
