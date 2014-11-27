@@ -41,7 +41,7 @@
 		</example>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Agreement">
 		<title>Agreement</title>
 		 <para>
@@ -151,7 +151,7 @@
 		</variablelist>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Using_Who_Whom_That_and_Which_Correctly">
 		<title>Using Who, Whom, That, and Which Correctly</title>
 		 <para>
@@ -292,7 +292,7 @@
 		</note>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Sentence_Structure">
 		<title>Sentence Structure</title>
 		 <para>
@@ -615,7 +615,7 @@
 		</variablelist>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Avoiding_Ambiguities">
 		<title>Avoiding Ambiguities</title>
 		 <variablelist>
@@ -832,16 +832,16 @@
 		</variablelist>
 
 	</section>
-	
+
 	 <xi:include href="Easily_Confused_Words.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Contractions_and_Abbreviations">
 		<title>Contractions and Abbreviations</title>
 		 <para>
-			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't," "don't," "won't," and similar examples. Always write out in full. Take care also with abbreviations. For example, do not use "e.g.," or "i.e." See <citetitle>The IBM Style Guide</citetitle> for full details.
+			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't," "don't," "won't," and similar examples. Always write out in full. Take care also with abbreviations; replace "e.g." with "for example," and replace "i.e." with "that is," and so on. See <citetitle>The IBM Style Guide</citetitle> for full details.
 		</para>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Hyphenation">
 		<title>Hyphenation</title>
 		 <para>
@@ -905,7 +905,7 @@
 		</formalpara>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Gender_References">
 		<title>Gender References</title>
 		 <para>
@@ -913,7 +913,7 @@
 		</para>
 
 	</section>
-	
+
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Tense">
 		<title>Tense</title>
 		 <para>
@@ -922,9 +922,11 @@
 		 <para>
 			Use simple present tense as much as possible. It avoids problems with consequences and time related communications, and is the easiest tense for translation.
 		</para>
-
+<para>
+<ulink url="https://github.com/daobrien/WritingStyleGuide/issues">Report an issue</ulink>
+</para>
 	</section>
-	
+
 
 </chapter>
 
