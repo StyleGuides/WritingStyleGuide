@@ -140,7 +140,7 @@
 			<term>big data (n., adj.)</term>
 			 <listitem>
 				<para>
-					Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. See also <xref linkend="varl-Style_Guide-Writing_Style_Guide-C-cloud" />. Avoid using "big data" as an adjective. However, if unavoidable, hyphenate as per complex adjective rules. For example, "big-data solution". Do not hyphenate if used as a noun.
+					Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. See also <xref linkend="varl-Style_Guide-Writing_Style_Guide-C-cloud" />. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
 				</para>
 
 			</listitem>

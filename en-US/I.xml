@@ -194,7 +194,7 @@
 			<term>I/O</term>
 			 <listitem>
 				<para>
-					Correct. "I/O" is short for input/output (pronounced "eye-oh"). The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mice are input-only devices, while devices such as printers are output-only. A writable CD is both an input and an output device.
+					Correct. Stands for input/output (pronounced "eye-oh"). The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mice are input-only devices, while devices such as printers are output-only. A writable CD is both an input and an output device.
 				</para>
 				 <para>
 					The term I/O is a non-countable noun. Append "operations" in order to refer to multiple units of I/O. For example: I/O operations could not be recovered in situations where I/O should have been temporarily queued, such as when paths were unavailable.
@@ -203,11 +203,19 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IOPS">
+			<term>IOPS</term>
+			 <listitem>
+				<para>
+					Correct. All caps. Stands for Input/output operations per second.
+				</para>
+			</listitem>
+		</varlistentry>
 		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IP">
 			<term>IP</term>
 			 <listitem>
 				<para>
-					Correct. "IP" is short for "Internet Protocol." Capitalize both letters.
+					Correct. Stands for Internet Protocol. Capitalize both letters.
 				</para>
 
 			</listitem>
