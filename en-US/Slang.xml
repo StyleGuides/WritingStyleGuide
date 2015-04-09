@@ -13,12 +13,15 @@
 	</para>
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language-Avoiding_Misleading_or_Confusing_Language">
 		<title>Avoiding Misleading or Confusing Language</title>
+                <para>
+                    Some terms, phrases, and general language can be confusing if you are not a native speaker or if the phraseology has regional significance. Sometimes spelling changes are introduced over time and regions based purely on differences in pronunciation. Some phrases can carry hidden or unintentional meanings. This section attempts to introduce a few examples.
+                </para>
 		 <variablelist>
 			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Avoiding_Misleading_or_Confusing_Language-best_practices" role="internal">
 				<term>best practices</term>
 				 <listitem>
 					<para>
-						This is a phrase best avoided in commercial contracts. In technical documentation, despite the fact that it does not seem to raise the same concerns, the preferred alternative is "recommended practices."
+						This is a commonly understood phrase, and despite some concerns about using superlatives without statistics to back them up, Red&nbsp;Hat does not actively discourage their use. It is also a more common search term than most alternatives. If you are in any doubt, the preferred alternative is "recommended practices."
 					</para>
 
 				</listitem>
@@ -28,7 +31,7 @@
 				<term>first come, first served</term>
 				 <listitem>
 					<para>
-						Use to indicate that customers will be attended to in the order that they arrive. The phrase abbreviates the sentence&mdash;The first to come is the first to be served&mdash;so use "served" instead of "serve" to keep the verb function the same. This phrase is an idiom, so avoid using it when content will be translated. When you use this phrase as an adjective, it is hyphenated as follows: Admittance is on a first-come, first-served basis.
+						Use to indicate that customers will be attended to in the order that they arrive. The phrase abbreviates the sentence "The first to come is the first to be served," so use "served" instead of "serve" to keep the verb function the same. This phrase is an idiom, so avoid using it when content will be translated. When you use this phrase as an adjective, it is hyphenated as follows: Admittance is on a first-come, first-served basis.
 					</para>
 
 				</listitem>
