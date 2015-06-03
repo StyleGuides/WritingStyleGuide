@@ -6,13 +6,13 @@
 <bookinfo id="book-Style_Guide-Writing_Style_Guide-Writing_Style_Guide">
 	<title>Writing Style Guide</title>
 	 <subtitle>How to stay on the Yellow Brick Road</subtitle>
-	 <productname>Style Guide</productname>
+	 <productname>Red Hat Technical Publications</productname>
 	 <productnumber></productnumber>
 	 <edition>2</edition>
 	 <pubsnumber>1</pubsnumber>
 	 <abstract>
 		<para>
-			This Writing Style Guide and Word Usage Dictionary is a joint effort by Red&nbsp;Hat Engineering Content Services (ECS), Legal, Marketing, Brand, Portal, and other groups. This guide is intended as a supplement to the titles listed in <xref linkend="chap-Style_Guide-Writing_Style_Guide-Resources" />
+			This Writing Style Guide and Word Usage Dictionary is a joint effort by Red&nbsp;Hat Customer Content Services (CCS), Legal, Marketing, Brand, Portal, and other groups. This guide is intended as a supplement to the titles listed in <xref linkend="chap-Style_Guide-Writing_Style_Guide-Resources" />
 		</para>
 
 	</abstract>
