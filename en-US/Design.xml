@@ -315,7 +315,7 @@ $ vi myFile.txt
 		</para>
 
 	</section>
-	 <!--     
+	 <!--      
 	 <section role="internal" id="sect-Policy-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
@@ -395,7 +395,7 @@ $ vi myFile.txt
 
 		</para>
 
-	</section>            --> <!--     
+	</section>             --> <!--      
 	<section><title>Using Capitalization Correctly</title>
 		<para>
 			This section provides guidelines for how to correctly capitalize various words and phrases, especially group and team names, partner names, and related entities.
@@ -468,7 +468,7 @@ $ vi myFile.txt
 		</section>
 
 
-                </section>             --> <!--            <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
+                </section>              --> <!--             <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
 			The preferred format for product names includes only the major version number. For example:
@@ -524,7 +524,7 @@ $ vi myFile.txt
 
 		</important>
 
-	</section>            --> <section id="sect-Style_Guide-Writing_Style_Guide-Design-Using_Admonitions">
+	</section>             --> <section id="sect-Style_Guide-Writing_Style_Guide-Design-Using_Admonitions">
 		<title>Using Admonitions</title>
 		 <para>
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.

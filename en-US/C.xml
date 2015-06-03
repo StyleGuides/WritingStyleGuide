@@ -335,6 +335,7 @@
 				<para>
 					Used to refer to more complex applications made up of multiple services that are distributed in containers. More common than "containerized."
 				</para>
+
 			</listitem>
 
 		</varlistentry>
@@ -344,6 +345,7 @@
 				<para>
 					Used to refer to an application or service that is distributed in a container or packed in a container.
 				</para>
+
 			</listitem>
 
 		</varlistentry>
@@ -469,7 +471,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <!--            <varlistentry>
+		 <!--             <varlistentry>
 			<term>Customer Portal</term>
 			 <listitem>
 				<para>
@@ -494,7 +496,7 @@
 
 			</listitem>
 
-		</varlistentry>            --> <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-Cygmon">
+		</varlistentry>             --> <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-Cygmon">
 			<term>Cygmon</term>
 			 <listitem>
 				<para>

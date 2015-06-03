@@ -49,56 +49,64 @@
 		 <para>
 			There are two forms of agreement: <emphasis>subject-verb agreement</emphasis> and <emphasis>pronoun-antecedent agreement</emphasis>. Subject-verb agreement is pretty rudimentary, and is not discussed here. Pronoun-antecedent agreement can be a little more problematic, so...
 		</para>
-		 <section><title>Pronoun-antecedent agreement</title>
-                    <para>
-                            A <emphasis>pronoun</emphasis> is a word that is used in place of a noun (for example, I, he, she, it). An <emphasis>antecedent</emphasis> is a word or phrase to which the pronoun refers.
-                    </para>
-                        <para>
-                            When you are comfortable with subject-verb agreement, pronoun-antecedent agreement often follows as a matter of course.
-                    </para>
-                        <para>
-                            The following is an annotated roundup of pronoun-antecedent rules:
-                    </para>
+		 <section id="sect-Style_Guide-Writing_Style_Guide-Agreement-Pronoun_antecedent_agreement">
+			<title>Pronoun-antecedent agreement</title>
+			 <para>
+				A <emphasis>pronoun</emphasis> is a word that is used in place of a noun (for example, I, he, she, it). An <emphasis>antecedent</emphasis> is a word or phrase to which the pronoun refers.
+			</para>
+			 <para>
+				When you are comfortable with subject-verb agreement, pronoun-antecedent agreement often follows as a matter of course.
+			</para>
+			 <para>
+				The following is an annotated roundup of pronoun-antecedent rules:
+			</para>
+			 <formalpara id="form-Style_Guide-Writing_Style_Guide-Pronoun_antecedent_agreement-Singular_and_Plural_Nouns">
+				<title>Singular and Plural Nouns</title>
+				 <para>
+					A singular pronoun refers to a singular antecedent; a plural pronoun refers to a plural antecedent. For example:
+				</para>
 
-                    <formalpara><title>Singular and Plural Nouns</title>
-                        <para>
-                        A singular pronoun refers to a singular antecedent; a plural pronoun refers to a plural antecedent. For example:
-                        </para>
-                        </formalpara>
-                        <itemizedlist>
-                                <listitem>
-                                        <para>
-                                                The CD spins in <emphasis>its</emphasis> caddy. (Singular third-person pronoun "its" refers to the singular antecedent "CD".)
-                                        </para>
-                                </listitem>
-                                    <listitem>
-                                        <para>
-                                                The developers checked <emphasis>their</emphasis> work. (Plural third-person pronoun "their" refers to the plural antecedent "developers".)
-                                        </para>
-                                </listitem>
-                            </itemizedlist>
+			</formalpara>
+			 <itemizedlist>
+				<listitem>
+					<para>
+						The CD spins in <emphasis>its</emphasis> caddy. (Singular third-person pronoun "its" refers to the singular antecedent "CD".)
+					</para>
 
-                            <formalpara><title>Collective Nouns</title>
-                                            <para>
-                                            When collective nouns are used as antecedents, use singular or plural pronouns, depending on the sentence's meaning. For example:
-                                                </para>
-                                                </formalpara>
-                                                <itemizedlist>
-                                                        <listitem>
-                                                                <para>
-                                                                        Microsoft seems second to none in <emphasis>its</emphasis> marketing skills (Collective noun "Microsoft" takes a singular pronoun its because the collective noun refers to the group as a whole).
-                                                                </para>
+				</listitem>
+				 <listitem>
+					<para>
+						The developers checked <emphasis>their</emphasis> work. (Plural third-person pronoun "their" refers to the plural antecedent "developers".)
+					</para>
 
-                                                        </listitem>
-                                                            <listitem>
-                                                                <para>
-                                                                        The developers were asked for <emphasis>their</emphasis> preferences (Collective noun "developers" takes the plural pronoun their because the reference is to the individuals of the group).
-                                                                </para>
+				</listitem>
 
-                                                        </listitem>
+			</itemizedlist>
+			 <formalpara id="form-Style_Guide-Writing_Style_Guide-Pronoun_antecedent_agreement-Collective_Nouns">
+				<title>Collective Nouns</title>
+				 <para>
+					When collective nouns are used as antecedents, use singular or plural pronouns, depending on the sentence's meaning. For example:
+				</para>
 
-                                                </itemizedlist>
-                                            </section>
+			</formalpara>
+			 <itemizedlist>
+				<listitem>
+					<para>
+						Microsoft seems second to none in <emphasis>its</emphasis> marketing skills (Collective noun "Microsoft" takes a singular pronoun its because the collective noun refers to the group as a whole).
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						The developers were asked for <emphasis>their</emphasis> preferences (Collective noun "developers" takes the plural pronoun their because the reference is to the individuals of the group).
+					</para>
+
+				</listitem>
+
+			</itemizedlist>
+
+		</section>
+
 	</section>
 	 <section id="sect-Style_Guide-Writing_Style_Guide-Grammar-Using_Who_Whom_That_and_Which_Correctly">
 		<title>Using Who, Whom, That, and Which Correctly</title>
