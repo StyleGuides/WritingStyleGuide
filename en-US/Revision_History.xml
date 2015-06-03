@@ -7,6 +7,24 @@
 	<title>Revision History</title>
 	 <simpara>
 		<revhistory>
+                    <revision>
+                                <revnumber>2.0-1</revnumber>
+                                 <date>Wed Jun 3 2015</date>
+                                 <author>
+                                        <firstname>David</firstname>
+                                         <surname>O'Brien</surname>
+                                         <email>davido@redhat.com</email>
+                                </author>
+                                 <revdescription>
+                                        <simplelist>
+                                                 <member>Fix issue "use 'singular to plural' pronouns -- typo? #6 .</member>
+                                                 <member>Repair some xml in the grammar section.</member>
+                                                 <member>Minor repairs to language.</member>
+                                        </simplelist>
+
+                                </revdescription>
+
+                        </revision>
 			<revision>
 				<revnumber>1.6-14</revnumber>
 				 <date>Wed Mar 12 2014</date>
