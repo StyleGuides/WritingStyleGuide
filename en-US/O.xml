@@ -102,6 +102,15 @@
 			</listitem>
 
 		</varlistentry>
+                <varlistentry>
+                    <term>on-premise (adj.)</term>
+                    <listitem>
+                        <para>
+                        Substitute "on-site" or "in-house" whenever possible. Although "on-premises" is grammatically correct, "on-premise" is preferred by the industry and the Red&nbsp;Hat Cloud business unit. Only capitalize when used as part of the name of the Red&nbsp;Hat product "Red&nbsp;Hat Storage&nbsp;Server for On-premise."
+                    </para>
+                        </listitem>
+                    </varlistentry>
+                    
 		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-on_the_fly">
 			<term>on-the-fly</term>
 			 <listitem>
