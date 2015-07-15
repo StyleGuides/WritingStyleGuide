@@ -6,6 +6,13 @@
 <chapter id="chap-Style_Guide-Writing_Style_Guide-A">
 	<title>A</title>
 	 <variablelist>
+           <varlistentry>
+             <term>air gap</term>
+             <listitem>
+               <para>
+                 Use "air gap" to describe systems that are separated, not by software, but physically. Do not use "air wall." "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.</para></listitem>
+             </varlistentry>
+             
 		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-agile_agile_development_adj.">
 			<term>agile, agile development (adj.)</term>
 			 <listitem>
