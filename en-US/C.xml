@@ -471,32 +471,13 @@
 			</listitem>
 
 		</varlistentry>
-		 <!--             <varlistentry>
-			<term>Customer Portal</term>
-			 <listitem>
-				<para>
-					 The following terms are used in the context of the Red&nbsp;Hat Customer Portal:
-					 <itemizedlist>
-						 <listitem><para>Customer Case Management</para></listitem>
-						 <listitem><para>Customer-centric Support</para></listitem>
-						 <listitem><para>Developer Support</para></listitem>
-						 <listitem><para>Knowledge Articles</para></listitem>
-						 <listitem><para>Knowledge-centered Support (KCS)</para></listitem>
-						 <listitem><para>KCS Solutions</para></listitem>
-						 <listitem><para>Red Hat Customer Portal; Customer Portal; portal</para></listitem>
-						 <listitem><para>Red Hat Discussions; discussions (lowercase when used alone)</para></listitem>
-						 <listitem><para>Support Case</para></listitem>
-						 <listitem><para>tech brief</para>
-							 <para>For example, "The Customer Portal is the place to see the latest videos, tech briefs, and reference architectures."</para>
-							</listitem>
-						 <listitem><para>Technical Account Management (product)</para></listitem>
-						 <listitem><para>Technical Account Manager (person)</para></listitem>
-					</itemizedlist>
-				</para>
-
-			</listitem>
-
-		</varlistentry>             --> <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-Cygmon">
+                <varlistentry>
+                  <term>comma-separated values (CSV)</term>
+                  <listitem>
+                    <para>
+                      Use this in preference to "comma-delimited values" whenever possible. The initialism CSV is widely used to denote information broken up through use of commas. Often used to share data between different, but similar applications, wherein the comma is a translator of the data.</para></listitem>
+                  </varlistentry>
+		  <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-Cygmon">
 			<term>Cygmon</term>
 			 <listitem>
 				<para>
