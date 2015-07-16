@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-L">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-L">
 	<title>L</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-LAN">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LAN">
 			<term>LAN</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-latency">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-latency">
 			<term>latency</term>
 			 <listitem>
 				<itemizedlist>
@@ -38,17 +38,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-later">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-later">
 			<term>later</term>
 			 <listitem>
 				<para>
-					Use to refer to later or more recent releases of products. Do not use "newer" or related terms. See also <xref linkend="varl-Style_Guide-Writing_Style_Guide-E-earlier" />.
+					Use to refer to later or more recent releases of products. Do not use "newer" or related terms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-earlier" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-leave_out">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-leave_out">
 			<term>leave out</term>
 			 <listitem>
 				<para>
@@ -58,7 +58,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-left_click">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-left_click">
 			<term>left-click</term>
 			 <listitem>
 				<para>
@@ -68,7 +68,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-license">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-license">
 			<term>license</term>
 			 <listitem>
 				<para>
@@ -78,7 +78,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-Linux">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-Linux">
 			<term>Linux</term>
 			 <listitem>
 				<para>
@@ -91,7 +91,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-load">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-load">
 			<term>load</term>
 			 <listitem>
 				<itemizedlist>
@@ -119,7 +119,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-load_balancing">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-load_balancing">
 			<term>load balancing</term>
 			 <listitem>
 				<para>
@@ -129,7 +129,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-logical_topology">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-logical_topology">
 			<term>logical topology</term>
 			 <listitem>
 				<para>
@@ -139,7 +139,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-lookup">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-lookup">
 			<term>lookup</term>
 			 <listitem>
 				<para>
@@ -155,7 +155,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-look_at">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-look_at">
 			<term>look at</term>
 			 <listitem>
 				<para>
@@ -165,7 +165,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-loopback_address">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-loopback_address">
 			<term>loopback address</term>
 			 <listitem>
 				<para>
@@ -178,7 +178,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-lots_of">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-lots_of">
 			<term>lots of</term>
 			 <listitem>
 				<para>
@@ -188,7 +188,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-L-LPAR">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LPAR">
 			<term>LPAR</term>
 			 <listitem>
 				<para>

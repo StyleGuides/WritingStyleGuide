@@ -3,13 +3,13 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-Design">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Design">
 	<title>Design</title>
 	 <xi:include href="Book_Design.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Heading_Styles">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Heading_Styles">
 		<title>Heading Styles</title>
 		 <variablelist>
-			<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Heading_Styles-_Capitalization_">
+			<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Heading_Styles-_Capitalization_">
 				<term> Capitalization </term>
 				 <listitem>
 					<para>
@@ -26,7 +26,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Heading_Styles-_Avoid_Imperative_Form_">
+			 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Heading_Styles-_Avoid_Imperative_Form_">
 				<term> Avoid Imperative Form </term>
 				 <listitem>
 					<para>
@@ -62,7 +62,7 @@
 					</table>
 					 <important>
 						<para>
-							Gerunds should be avoided elsewhere. Refer to <xref linkend="sect-Style_Guide-Writing_Style_Guide-Writing_for_Translation-Sentence_Structure" />.
+							Gerunds should be avoided elsewhere. Refer to <xref linkend="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Sentence_Structure" />.
 						</para>
 
 					</important>
@@ -74,19 +74,19 @@
 		</variablelist>
 
 	</section>
-	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Documenting_Fonts">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Documenting_Fonts">
 		<title>Documenting Fonts</title>
 		 <para>
 			The preferred way to refer to each type of postscript font is "PostScript Type x," with "x" substituted with either 1, 2, or 3, if the problem is specific to a particular type.
 		</para>
 
 	</section>
-	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Documenting_the_User_Interface">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Documenting_the_User_Interface">
 		<title>Documenting the User Interface</title>
 		 <para>
 			In all cases, see <citetitle>The IBM Style Guide</citetitle> for initial guidance. The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
-		 <section id="sect-Style_Guide-Writing_Style_Guide-Documenting_the_User_Interface-GUI_Elements_and_Punctuation">
+		 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_the_User_Interface-GUI_Elements_and_Punctuation">
 			<title>GUI Elements and Punctuation</title>
 			 <para>
 				Do not include punctuation that appears on GUI elements, unless omission of that punctuation might lead to confusion.
@@ -99,7 +99,7 @@
 			</para>
 
 		</section>
-		 <section id="sect-Style_Guide-Writing_Style_Guide-Documenting_the_User_Interface-Launching_Applications_from_the_RednbspHat_EnterprisenbspLinux_Desktop">
+		 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_the_User_Interface-Launching_Applications_from_the_RednbspHat_EnterprisenbspLinux_Desktop">
 			<title>Launching Applications from the Red&nbsp;Hat Enterprise&nbsp;Linux Desktop</title>
 			 <para>
 				Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;7 introduces a new approach to launching applications from the desktop. In an effort to maintain consistency and to make translation easier, ECS documentation assumes the customer is using GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to launch applications.
@@ -107,7 +107,7 @@
 			 <para>
 				The preferred approach is to use the <keycap>Super</keycap> key to enter the Activities Overview, enter the name of the required application, and to press <keycap>Enter.</keycap> The <keycap>Super</keycap> key appears in a variety of guises, depending on the keyboard and other hardware, but often as either the <keysym>Windows</keysym> or <keysym>Command</keysym> key, and typically to the left of the <keycap>Spacebar.</keycap> For example:
 			</para>
-			 <example id="exam-Style_Guide-Writing_Style_Guide-Launching_Applications_from_the_RednbspHat_EnterprisenbspLinux_Desktop-Preferred_Approach_to_Launching_Applications_from_the_Desktop">
+			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Launching_Applications_from_the_RednbspHat_EnterprisenbspLinux_Desktop-Preferred_Approach_to_Launching_Applications_from_the_Desktop">
 				<title>Preferred Approach to Launching Applications from the Desktop</title>
 				 <para>
 					To start <command>gedit,</command> press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>gedit,</literal> and then press <keycap>Enter.</keycap>
@@ -116,12 +116,12 @@
 			</example>
 
 		</section>
-		 <section id="sect-Style_Guide-Writing_Style_Guide-Documenting_the_User_Interface-Documenting_Command_Syntax">
+		 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_the_User_Interface-Documenting_Command_Syntax">
 			<title>Documenting Command Syntax</title>
 			 <para>
 				See the <citetitle>Computer Interfaces</citetitle> chapter of <citetitle>The IBM Style Guide</citetitle> for initial guidance. The following examples are intended to highlight correct usage.
 			</para>
-			 <example id="exam-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository">
+			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
 					
@@ -131,7 +131,7 @@
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -161,14 +161,14 @@
 				</itemizedlist>
 
 			</para>
-			 <example id="exam-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
+			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
 				 
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -198,12 +198,12 @@
 				</itemizedlist>
 
 			</para>
-			 <section id="sect-Style_Guide-Writing_Style_Guide-Documenting_Command_Syntax-Documenting_Multiple_or_Long_Commands">
+			 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Documenting_Multiple_or_Long_Commands">
 				<title>Documenting Multiple or Long Commands</title>
 				 <para>
 					Sometimes you need to demonstrate how to use very long commands that extend over two or more lines, or include several commands in a single example. If the commands are relatively short and straightforward, include the commands on consecutive lines:
 				</para>
-				 <example id="exam-Style_Guide-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
+				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
 					 
 <screen>$ cd Documents
@@ -214,7 +214,7 @@ $ vi myFile.txt
 				 <para>
 					If the commands are long, complex, or wrap over multiple lines, use the following design to help optimize clarity, and to make it easy for users to copy and paste the command if required:
 				</para>
-				 <example id="exam-Style_Guide-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
+				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
 					 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
@@ -234,7 +234,7 @@ $ vi myFile.txt
 			</section>
 
 		</section>
-		 <section id="sect-Style_Guide-Writing_Style_Guide-Documenting_the_User_Interface-Using_Host_and_User_Names_Correctly">
+		 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_the_User_Interface-Using_Host_and_User_Names_Correctly">
 			<title>Using Host and User Names Correctly</title>
 			 <para>
 				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following: 
@@ -265,7 +265,7 @@ $ vi myFile.txt
 		</section>
 
 	</section>
-	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Documenting_Currencies">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Documenting_Currencies">
 		<title>Documenting Currencies</title>
 		 <para>
 			Use local currency symbols wherever possible. If symbol clash occurs (USD vs AUD, for example), disambiguate with the 2-character country code. For example, US$, AU$.
@@ -278,19 +278,19 @@ $ vi myFile.txt
 		</important>
 
 	</section>
-	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Using_Abbreviations_Acronyms_and_Initialisms_Correctly">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Abbreviations_Acronyms_and_Initialisms_Correctly">
 		<title>Using Abbreviations, Acronyms, and Initialisms Correctly</title>
 		 <para>
 			This section describes how to use abbreviations, acronyms, and initialisms correctly in Red&nbsp;Hat documentation.
 		</para>
-		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Abbreviations">
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Abbreviations">
 			<title>Abbreviations</title>
 			 <para>
 				An abbreviation is a shortened form of a word or phrase. For example, <abbrev>Pty.</abbrev> and <abbrev>Inc.</abbrev> are abbreviations for "proprietary" and "incorporated," respectively. Read them as the word for which they are an abbreviation.
 			</para>
 
 		</formalpara>
-		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Acronyms">
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Acronyms">
 			<title>Acronyms</title>
 			 <para>
 				What are acronyms anyway? They are similar to abbreviations and initialisms but they are pronounced as an actual word. For example, <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
@@ -303,7 +303,7 @@ $ vi myFile.txt
 		 <para>
 			Be sure to use correct capitalization for acronyms. Not all acronyms are capitalized (for example, "spool"); see <citetitle>The IBM Style Guide</citetitle> or another suitable reference if you are unsure.
 		</para>
-		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Initialisms">
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Initialisms">
 			<title>Initialisms</title>
 			 <para>
 				An initialism is an abbreviation that consists of the first letters of words in a phrase, syllables, or some combination thereof. Each character is pronounced separately. For example, <abbrev>FTP</abbrev> is an initialism for <systemitem class="protocol">File Transfer Protocol.</systemitem>
@@ -311,11 +311,11 @@ $ vi myFile.txt
 
 		</formalpara>
 		 <para>
-			Bear pronunciation in mind when using articles. See <xref linkend="form-Style_Guide-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Acronyms" /> for more information.
+			Bear pronunciation in mind when using articles. See <xref linkend="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Abbreviations_Acronyms_and_Initialisms_Correctly-Acronyms" /> for more information.
 		</para>
 
 	</section>
-	 <!--      
+	 <!--       
 	 <section role="internal" id="sect-Policy-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
@@ -395,7 +395,7 @@ $ vi myFile.txt
 
 		</para>
 
-	</section>             --> <!--      
+	</section>              --> <!--       
 	<section><title>Using Capitalization Correctly</title>
 		<para>
 			This section provides guidelines for how to correctly capitalize various words and phrases, especially group and team names, partner names, and related entities.
@@ -468,7 +468,7 @@ $ vi myFile.txt
 		</section>
 
 
-                </section>              --> <!--             <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
+                </section>               --> <!--              <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
 			The preferred format for product names includes only the major version number. For example:
@@ -524,7 +524,7 @@ $ vi myFile.txt
 
 		</important>
 
-	</section>             --> <section id="sect-Style_Guide-Writing_Style_Guide-Design-Using_Admonitions">
+	</section>              --> <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Admonitions">
 		<title>Using Admonitions</title>
 		 <para>
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
@@ -568,9 +568,9 @@ $ vi myFile.txt
 		</para>
 
 	</section>
-	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Citing_Other_Works">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Citing_Other_Works">
 		<title>Citing Other Works</title>
-		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Books">
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Books">
 			<title>Referencing Other Books</title>
 			 <para>
 				When referencing another book, either internal or external to Red&nbsp;Hat, use the following format:
@@ -597,7 +597,7 @@ $ vi myFile.txt
 			For subsequent references to the same work, do "this."
 		</para>
 		 <remark>Need to determine what "this" is.</remark>
-		 <formalpara id="form-Style_Guide-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites">
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites">
 			<title>Referencing Other Internet Sites</title>
 			 <para>
 				When referencing another internet site, use the following guidelines:
@@ -630,7 +630,7 @@ $ vi myFile.txt
 		</itemizedlist>
 
 	</section>
-	 <section id="sect-Style_Guide-Writing_Style_Guide-Design-Citing_Other_Authors">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Citing_Other_Authors">
 		<title>Citing Other Authors</title>
 		 <para>
 			DocBook provides the &lt;blockquote&gt; and &lt;attribution&gt; tags for this purpose, but how they should be rendered is currently being discussed. For example:

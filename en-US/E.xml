@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-E">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-E">
 	<title>E</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-Emacs">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-Emacs">
 			<term>Emacs</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-e_book_e_business_e_commerce_e_learning_email">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-e_book_e_business_e_commerce_e_learning_email">
 			<term>e-book, e-business, e-commerce, e-learning, email</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-e.g._i.e.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-e.g._i.e.">
 			<term>e.g., i.e.</term>
 			 <listitem>
 				<para>
@@ -43,27 +43,27 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-earlier">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-earlier">
 			<term>earlier</term>
 			 <listitem>
 				<para>
-					Use to refer to earlier releases of products. Do not use "older" or related terms. See also <xref linkend="varl-Style_Guide-Writing_Style_Guide-L-later" />.
+					Use to refer to earlier releases of products. Do not use "older" or related terms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-later" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-emdash">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-emdash">
 			<term>emdash</term>
 			 <listitem>
 				<para>
-					Used (informally) to indicate a pause or abrupt change in thought; for emphasis; or to set off a series in a phrase. See <xref linkend="varl-Style_Guide-Writing_Style_Guide-D-dash" /> for more information.
+					Used (informally) to indicate a pause or abrupt change in thought; for emphasis; or to set off a series in a phrase. See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dash" /> for more information.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-ensure">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-ensure">
 			<term>ensure</term>
 			 <listitem>
 				<para>
@@ -73,7 +73,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-enter">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-enter">
 			<term>enter</term>
 			 <listitem>
 				<para>
@@ -89,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-environment">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-environment">
 			<term>environment</term>
 			 <listitem>
 				<para>
@@ -105,7 +105,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-essentially">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-essentially">
 			<term>essentially</term>
 			 <listitem>
 				<para>
@@ -115,7 +115,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-Ethernet_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-Ethernet_n.">
 			<term>Ethernet (n.)</term>
 			 <listitem>
 				<para>
@@ -125,7 +125,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-event">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-event">
 			<term>event</term>
 			 <listitem>
 				<para>
@@ -135,7 +135,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-exclamation_points_">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-exclamation_points_">
 			<term>exclamation points (!)</term>
 			 <listitem>
 				<para>
@@ -145,7 +145,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-Exec_Shield">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-Exec_Shield">
 			<term>Exec-Shield</term>
 			 <listitem>
 				<para>
@@ -155,7 +155,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-execute">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-execute">
 			<term>execute</term>
 			 <listitem>
 				<para>
@@ -165,7 +165,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-Exif">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-Exif">
 			<term>Exif</term>
 			 <listitem>
 				<para>
@@ -175,7 +175,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-E-extranet">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-extranet">
 			<term>extranet</term>
 			 <listitem>
 				<para>

@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-D">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-D">
 	<title>D</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-daisy_chain">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-daisy_chain">
 			<term>daisy chain</term>
 			 <listitem>
 				<para>
@@ -19,7 +19,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-dash">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dash">
 			<term>dash</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-datacenter_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-datacenter_n.">
 			<term>datacenter (n.)</term>
 			 <listitem>
 				<para>
@@ -53,7 +53,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-data_mirroring">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_mirroring">
 			<term>data mirroring</term>
 			 <listitem>
 				<para>
@@ -63,7 +63,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-datasheet_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-datasheet_n.">
 			<term>datasheet (n.)</term>
 			 <listitem>
 				<para>
@@ -80,7 +80,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-datastore_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-datastore_n.">
 			<term>datastore (n.)</term>
 			 <listitem>
 				<para>
@@ -97,7 +97,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-data_type">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_type">
 			<term>data type</term>
 			 <listitem>
 				<para>
@@ -107,7 +107,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-dates">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dates">
 			<term>dates</term>
 			 <listitem>
 				<para>
@@ -118,7 +118,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-debug">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-debug">
 			<term>debug</term>
 			 <listitem>
 				<para>
@@ -128,7 +128,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-denial_of_service_DoS">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-denial_of_service_DoS">
 			<term>denial of service (DoS)</term>
 			 <listitem>
 				<para>
@@ -138,7 +138,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-desktop">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-desktop">
 			<term>desktop</term>
 			 <listitem>
 				<para>
@@ -148,7 +148,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-device">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-device">
 			<term>device</term>
 			 <listitem>
 				<para>
@@ -161,7 +161,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-DevOps_n._adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-DevOps_n._adj.">
 			<term>DevOps (n., adj.)</term>
 			 <listitem>
 				<para>
@@ -171,7 +171,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-dialog_box">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dialog_box">
 			<term>dialog box</term>
 			 <listitem>
 				<para>
@@ -181,7 +181,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-different">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-different">
 			<term>different</term>
 			 <listitem>
 				<para>
@@ -191,7 +191,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-Disk_Druid">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-Disk_Druid">
 			<term>Disk Druid</term>
 			 <listitem>
 				<para>
@@ -201,7 +201,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-disk_disc">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-disk_disc">
 			<term>disk, disc</term>
 			 <listitem>
 				<para>
@@ -211,7 +211,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-disk_label">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-disk_label">
 			<term>disk label</term>
 			 <listitem>
 				<para>
@@ -221,7 +221,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-DNS">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-DNS">
 			<term>DNS</term>
 			 <listitem>
 				<para>
@@ -231,7 +231,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-documentation">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-documentation">
 			<term>documentation</term>
 			 <listitem>
 				<para>
@@ -241,7 +241,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-domain_name">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-domain_name">
 			<term>domain name</term>
 			 <listitem>
 				<para>
@@ -254,7 +254,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-double_click">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-double_click">
 			<term>double-click</term>
 			 <listitem>
 				<para>
@@ -264,7 +264,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-downtime">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-downtime">
 			<term>downtime</term>
 			 <listitem>
 				<para>
@@ -274,7 +274,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-download_v._n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-download_v._n.">
 			<term>download (v., n.)</term>
 			 <listitem>
 				<para>
@@ -284,7 +284,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-dual_boot">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dual_boot">
 			<term>dual-boot</term>
 			 <listitem>
 				<para>
@@ -294,7 +294,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-D-DVD_writer">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-DVD_writer">
 			<term>DVD writer</term>
 			 <listitem>
 				<para>

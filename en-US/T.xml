@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-T">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-T">
 	<title>T</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-taskbar_n.">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-taskbar_n.">
 			<term>taskbar (n.)</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-tar_tarball_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-tar_tarball_n.">
 			<term>tar, tarball (n.)</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-telephone_numbers">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-telephone_numbers">
 			<term>telephone numbers</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-terminal_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-terminal_n.">
 			<term>terminal (n.)</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-terminal_emulation">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-terminal_emulation">
 			<term>terminal emulation</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-text_mode">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-text_mode">
 			<term>text mode</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-text_based_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-text_based_adj.">
 			<term>text-based (adj.)</term>
 			 <listitem>
 				<para>
@@ -82,7 +82,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-third_party_adj._third_party_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-third_party_adj._third_party_n.">
 			<term>third-party (adj.), third party (n.)</term>
 			 <listitem>
 				<para>
@@ -92,7 +92,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-through">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-through">
 			<term>through</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-throughput_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-throughput_n.">
 			<term>throughput (n.)</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-tier_1_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-tier_1_adj.">
 			<term>tier-1 (adj.)</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-time_frame_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-time_frame_n.">
 			<term>time frame (n.)</term>
 			 <listitem>
 				<para>
@@ -132,7 +132,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-time_zone_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-time_zone_n.">
 			<term>time zone (n.)</term>
 			 <listitem>
 				<para>
@@ -142,7 +142,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-token_ring_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-token_ring_n.">
 			<term>token ring (n.)</term>
 			 <listitem>
 				<para>
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-toolbar_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-toolbar_n.">
 			<term>toolbar (n.)</term>
 			 <listitem>
 				<para>
@@ -162,7 +162,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-totally">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-totally">
 			<term>totally</term>
 			 <listitem>
 				<para>
@@ -172,7 +172,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-troubleshoot_v.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-troubleshoot_v.">
 			<term>troubleshoot (v.)</term>
 			 <listitem>
 				<para>
@@ -182,7 +182,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-_TTL_">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-_TTL_">
 			<term> TTL </term>
 			 <listitem>
 				<para>
@@ -195,7 +195,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-T-type">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-type">
 			<term>type</term>
 			 <listitem>
 				<para>

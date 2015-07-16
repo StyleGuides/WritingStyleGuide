@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-R">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-R">
 	<title>R</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-RAM">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-RAM">
 			<term>RAM</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-RAM_disk">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-RAM_disk">
 			<term>RAM disk</term>
 			 <listitem>
 				<para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-raw">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-raw">
 			<term>raw</term>
 			 <listitem>
 				<para>
@@ -42,7 +42,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-raw_data">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-raw_data">
 			<term>raw data</term>
 			 <listitem>
 				<para>
@@ -52,7 +52,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-read">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-read">
 			<term>read</term>
 			 <listitem>
 				<para>
@@ -65,7 +65,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-read_only">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-read_only">
 			<term>read-only</term>
 			 <listitem>
 				<para>
@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-readwrite">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-readwrite">
 			<term>read/write</term>
 			 <listitem>
 				<para>
@@ -85,7 +85,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-real_timereal_time">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-real_timereal_time">
 			<term>real time/real-time</term>
 			 <listitem>
 				<para>
@@ -95,7 +95,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-reboot">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-reboot">
 			<term>reboot</term>
 			 <listitem>
 				<para>
@@ -105,7 +105,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-RedBoot">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-RedBoot">
 			<term>RedBoot</term>
 			 <listitem>
 				<para>
@@ -115,7 +115,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-RednbspHat_NetworknbspSatellitenbspServer_and_RednbspHat_NetworknbspProxynbspServer">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-RednbspHat_NetworknbspSatellitenbspServer_and_RednbspHat_NetworknbspProxynbspServer">
 			<term>Red&nbsp;Hat Network&nbsp;Satellite&nbsp;Server and Red&nbsp;Hat Network&nbsp;Proxy&nbsp;Server</term>
 			 <listitem>
 				<para>
@@ -132,7 +132,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-Red_Hat_Way">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-Red_Hat_Way">
 			<term>Red Hat Way</term>
 			 <listitem>
 				<para>
@@ -142,7 +142,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-refer_to">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-refer_to">
 			<term>refer to</term>
 			 <listitem>
 				<para>
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-remote_access">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-remote_access">
 			<term>remote access</term>
 			 <listitem>
 				<para>
@@ -162,7 +162,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-remote_access_server">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-remote_access_server">
 			<term>remote access server</term>
 			 <listitem>
 				<para>
@@ -172,7 +172,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-required">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-required">
 			<term>required</term>
 			 <listitem>
 				<para>
@@ -182,7 +182,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-return">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-return">
 			<term>return</term>
 			 <listitem>
 				<para>
@@ -192,7 +192,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-right_click">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-right_click">
 			<term>right-click</term>
 			 <listitem>
 				<para>
@@ -202,7 +202,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-right_now">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-right_now">
 			<term>right now</term>
 			 <listitem>
 				<para>
@@ -212,7 +212,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-ROM_PROM">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-ROM_PROM">
 			<term>ROM, PROM</term>
 			 <listitem>
 				<para>
@@ -225,7 +225,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-roundtable_n._adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-roundtable_n._adj.">
 			<term>roundtable (n., adj.)</term>
 			 <listitem>
 				<para>
@@ -235,7 +235,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-RPM">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-RPM">
 			<term>RPM</term>
 			 <listitem>
 				<para>
@@ -245,7 +245,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-runlevel">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-runlevel">
 			<term>runlevel</term>
 			 <listitem>
 				<para>
@@ -255,7 +255,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-R-runtime">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-runtime">
 			<term>runtime</term>
 			 <listitem>
 				<para>

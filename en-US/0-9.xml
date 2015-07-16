@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-a0_9">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-a0_9">
 	<title>0-9</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-a0_9-a24x7_24x7x365">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-a0_9-a24x7_24x7x365">
 			<term>24x7, 24x7x365</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-a0_9-a3_D_adj._n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-a0_9-a3_D_adj._n.">
 			<term>3-D (adj., n.)</term>
 			 <listitem>
 				<para>

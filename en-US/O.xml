@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-O">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-O">
 	<title>O</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-Objective_C">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-Objective_C">
 			<term>Objective C</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-object_oriented">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-object_oriented">
 			<term>object-oriented</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-OEM">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OEM">
 			<term>OEM</term>
 			 <listitem>
 				<para>
@@ -39,7 +39,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-offline">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-offline">
 			<term>offline</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-offline_backup">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-offline_backup">
 			<term>offline backup</term>
 			 <listitem>
 				<para>
@@ -65,7 +65,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-OK">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OK">
 			<term>OK</term>
 			 <listitem>
 				<para>
@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-on_board_adj._onboard_v.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-on_board_adj._onboard_v.">
 			<term>on-board (adj.), onboard (v.)</term>
 			 <listitem>
 				<para>
@@ -92,7 +92,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-online">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-online">
 			<term>online</term>
 			 <listitem>
 				<para>
@@ -102,22 +102,26 @@
 			</listitem>
 
 		</varlistentry>
-                <varlistentry>
-                    <term>on-premise (adj.)</term>
-                    <listitem>
-                        <para>
-                        Substitute "on-site" or "in-house" whenever possible. Although "on-premises" is grammatically correct, "on-premise" is preferred by the industry and the Red&nbsp;Hat Cloud business unit. Only capitalize when used as part of the name of the Red&nbsp;Hat product "Red&nbsp;Hat Storage&nbsp;Server for On-premise."
-                    </para>
-                        </listitem>
-                    </varlistentry>
-                    <varlistentry>
-                        <term>on-site (adj.)</term>
-                        <listitem>
-                            <para>
-                                Hyphenate when used as an adjective, as in "on-site labs."
-                                </para></listitem>
-                        </varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-on_the_fly">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-on_premise_adj.">
+			<term>on-premise (adj.)</term>
+			 <listitem>
+				<para>
+					Substitute "on-site" or "in-house" whenever possible. Although "on-premises" is grammatically correct, "on-premise" is preferred by the industry and the Red&nbsp;Hat Cloud business unit. Only capitalize when used as part of the name of the Red&nbsp;Hat product "Red&nbsp;Hat Storage&nbsp;Server for On-premise."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-on_site_adj.">
+			<term>on-site (adj.)</term>
+			 <listitem>
+				<para>
+					Hyphenate when used as an adjective, as in "on-site labs."
+				</para>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-on_the_fly">
 			<term>on-the-fly</term>
 			 <listitem>
 				<para>
@@ -127,7 +131,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-oops">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-oops">
 			<term>oops</term>
 			 <listitem>
 				<para>
@@ -137,7 +141,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-opcodes">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-opcodes">
 			<term>opcodes</term>
 			 <listitem>
 				<para>
@@ -147,7 +151,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-open_architecture">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_architecture">
 			<term>open architecture</term>
 			 <listitem>
 				<para>
@@ -157,7 +161,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-Open_InfiniBand">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-Open_InfiniBand">
 			<term>Open InfiniBand</term>
 			 <listitem>
 				<para>
@@ -167,7 +171,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-open_source">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_source">
 			<term>open source</term>
 			 <listitem>
 				<para>
@@ -177,7 +181,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-open_source_way">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_source_way">
 			<term>open source way</term>
 			 <listitem>
 				<para>
@@ -187,7 +191,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-operating_system">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-operating_system">
 			<term>operating system</term>
 			 <listitem>
 				<para>
@@ -197,7 +201,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-orientate">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-orientate">
 			<term>orientate</term>
 			 <listitem>
 				<para>
@@ -207,7 +211,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-output_device">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-output_device">
 			<term>output device</term>
 			 <listitem>
 				<para>
@@ -217,7 +221,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-O-override">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-override">
 			<term>override</term>
 			 <listitem>
 				<para>

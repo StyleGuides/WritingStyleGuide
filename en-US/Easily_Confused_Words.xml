@@ -3,12 +3,12 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<section id="sect-Style_Guide-Writing_Style_Guide-Easily_Confused_Words">
+<section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Easily_Confused_Words">
 	<title>Easily Confused Words</title>
 	 <para>
 		This section identifies some easily confused words and how to choose the correct term for your situation.
 	</para>
-	 <formalpara id="form-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-Affect_and_Effect">
+	 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Easily_Confused_Words-Affect_and_Effect">
 		<title>Affect and Effect</title>
 		 <para>
 			Each of these words can be used as a verb or a noun, but they are not always interchangeable.
@@ -16,7 +16,7 @@
 
 	</formalpara>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-affect_n._v.">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Easily_Confused_Words-affect_n._v.">
 			<term>affect (n., v.)</term>
 			 <listitem>
 				<para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-effect_n._v.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Easily_Confused_Words-effect_n._v.">
 			<term>effect (n., v.)</term>
 			 <listitem>
 				<para>
@@ -47,7 +47,7 @@
 		</varlistentry>
 
 	</variablelist>
-	 <formalpara id="form-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-Assure_Ensure_and_Insure">
+	 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Easily_Confused_Words-Assure_Ensure_and_Insure">
 		<title>Assure, Ensure, and Insure</title>
 		 <para>
 			These are relatively easy to get right, but here are some quick definitions.
@@ -55,7 +55,7 @@
 
 	</formalpara>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-assure_v.">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Easily_Confused_Words-assure_v.">
 			<term>assure (v.)</term>
 			 <listitem>
 				<para>
@@ -65,7 +65,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-ensure_v.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Easily_Confused_Words-ensure_v.">
 			<term>ensure (v.)</term>
 			 <listitem>
 				<para>
@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Easily_Confused_Words-insure_v.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Easily_Confused_Words-insure_v.">
 			<term>insure (v.)</term>
 			 <listitem>
 				<para>

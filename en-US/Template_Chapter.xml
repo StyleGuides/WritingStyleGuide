@@ -3,12 +3,12 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-Dummy_Title">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Dummy_Title">
 	<title>Dummy Title</title>
 	 <para>
 		dummy text
 	</para>
-	 <section id="sect-Style_Guide-Writing_Style_Guide-Dummy_Title-Dummy_Section_Title">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Dummy_Title-Dummy_Section_Title">
 		<title>Dummy Section Title</title>
 		 <para>
 			More dummy text.

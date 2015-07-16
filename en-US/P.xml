@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-P">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-P">
 	<title>P</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PaaS">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PaaS">
 			<term>PaaS</term>
 			 <listitem>
 				<para>
@@ -23,7 +23,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PC">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PC">
 			<term>PC</term>
 			 <listitem>
 				<para>
@@ -33,7 +33,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PHP">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PHP">
 			<term>PHP</term>
 			 <listitem>
 				<para>
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-Pico">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-Pico">
 			<term>Pico</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-plain_text">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-plain_text">
 			<term>plain text</term>
 			 <listitem>
 				<para>
@@ -69,7 +69,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-please">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-please">
 			<term>please</term>
 			 <listitem>
 				<para>
@@ -79,7 +79,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pluggable">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pluggable">
 			<term>pluggable</term>
 			 <listitem>
 				<para>
@@ -89,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-plug_in">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-plug_in">
 			<term>plug-in</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pop_up">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pop_up">
 			<term>pop-up</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PostScript">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PostScript">
 			<term>PostScript</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PowerPC">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PowerPC">
 			<term>PowerPC</term>
 			 <listitem>
 				<para>
@@ -138,7 +138,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-POSIX">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-POSIX">
 			<term>POSIX</term>
 			 <listitem>
 				<para>
@@ -151,7 +151,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PPP">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PPP">
 			<term>PPP</term>
 			 <listitem>
 				<para>
@@ -161,7 +161,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-press">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-press">
 			<term>press</term>
 			 <listitem>
 				<para>
@@ -171,7 +171,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-proof_of_concept">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-proof_of_concept">
 			<term>proof of concept</term>
 			 <listitem>
 				<para>
@@ -203,7 +203,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pseudo_ops">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pseudo_ops">
 			<term>pseudo-ops</term>
 			 <listitem>
 				<para>
@@ -213,7 +213,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pSeries">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pSeries">
 			<term>pSeries</term>
 			 <listitem>
 				<para>
@@ -223,7 +223,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-pulldown">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pulldown">
 			<term>pulldown</term>
 			 <listitem>
 				<para>
@@ -233,7 +233,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-P-PXE">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PXE">
 			<term>PXE</term>
 			 <listitem>
 				<para>

@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-C">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-C">
 	<title>C</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-can_may">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-can_may">
 			<term>can, may</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-canceled">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-canceled">
 			<term>canceled</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cannot">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cannot">
 			<term>cannot</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-CapEx_OpEx">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-CapEx_OpEx">
 			<term>CapEx, OpEx</term>
 			 <listitem>
 				<para>
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cd_CD">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cd_CD">
 			<term>cd, CD</term>
 			 <listitem>
 				<para>
@@ -62,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-CD_1">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-CD_1">
 			<term>CD #1</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-Ceph">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-Ceph">
 			<term>Ceph</term>
 			 <listitem>
 				<para>
@@ -85,7 +85,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cgroup">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cgroup">
 			<term>cgroup</term>
 			 <listitem>
 				<para>
@@ -98,7 +98,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-characters">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-characters">
 			<term>characters</term>
 			 <listitem>
 				<para>
@@ -111,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-check">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-check">
 			<term>check</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-check_box">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-check_box">
 			<term>check box</term>
 			 <listitem>
 				<para>
@@ -131,7 +131,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-chip_set">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-chip_set">
 			<term>chip set</term>
 			 <listitem>
 				<para>
@@ -141,7 +141,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-ciphertext">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-ciphertext">
 			<term>ciphertext</term>
 			 <listitem>
 				<para>
@@ -151,7 +151,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-clear_text">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-clear_text">
 			<term>clear text</term>
 			 <listitem>
 				<para>
@@ -161,7 +161,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-click">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-click">
 			<term>click</term>
 			 <listitem>
 				<para>
@@ -174,7 +174,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-client_sideclient_side">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-client_sideclient_side">
 			<term>client-side/client side</term>
 			 <listitem>
 				<para>
@@ -184,7 +184,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-clobber_or_clobbered">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-clobber_or_clobbered">
 			<term>clobber or clobbered</term>
 			 <listitem>
 				<para>
@@ -194,7 +194,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cloud">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cloud">
 			<term>cloud</term>
 			 <listitem>
 				<para>
@@ -204,7 +204,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cloudbursting">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cloudbursting">
 			<term>cloudbursting</term>
 			 <listitem>
 				<para>
@@ -220,7 +220,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cloudwashing">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cloudwashing">
 			<term>cloudwashing</term>
 			 <listitem>
 				<para>
@@ -233,7 +233,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cluster">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cluster">
 			<term>cluster</term>
 			 <listitem>
 				<para>
@@ -243,7 +243,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-code">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-code">
 			<term>code</term>
 			 <listitem>
 				<para>
@@ -253,7 +253,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-combo_box">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-combo_box">
 			<term>combo-box</term>
 			 <listitem>
 				<para>
@@ -263,7 +263,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-comma_delimited_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-comma_delimited_adj.">
 			<term>comma-delimited (adj.)</term>
 			 <listitem>
 				<para>
@@ -273,7 +273,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-command_button_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_button_n.">
 			<term>command button (n.)</term>
 			 <listitem>
 				<para>
@@ -283,7 +283,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-command_driven_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_driven_adj.">
 			<term>command-driven (adj.)</term>
 			 <listitem>
 				<para>
@@ -296,7 +296,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-command_language">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_language">
 			<term>command language</term>
 			 <listitem>
 				<para>
@@ -309,7 +309,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-command_line_command_prompt_command_line">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_line_command_prompt_command_line">
 			<term>command line, command prompt, command-line</term>
 			 <listitem>
 				<para>
@@ -319,7 +319,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-connectivity">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-connectivity">
 			<term>connectivity</term>
 			 <listitem>
 				<para>
@@ -329,7 +329,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-container_based">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-container_based">
 			<term>container-based</term>
 			 <listitem>
 				<para>
@@ -339,7 +339,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-containerized">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-containerized">
 			<term>containerized</term>
 			 <listitem>
 				<para>
@@ -349,7 +349,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-contractions">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-contractions">
 			<term>contractions</term>
 			 <listitem>
 				<para>
@@ -359,7 +359,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-control_character">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-control_character">
 			<term>control character</term>
 			 <listitem>
 				<para>
@@ -369,7 +369,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-control_key">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-control_key">
 			<term>control key</term>
 			 <listitem>
 				<para>
@@ -379,7 +379,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-control_program">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-control_program">
 			<term>control program</term>
 			 <listitem>
 				<para>
@@ -392,7 +392,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-convert">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-convert">
 			<term>convert</term>
 			 <listitem>
 				<para>
@@ -402,7 +402,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cookie">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cookie">
 			<term>cookie</term>
 			 <listitem>
 				<para>
@@ -418,7 +418,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-corrupted">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-corrupted">
 			<term>corrupted</term>
 			 <listitem>
 				<para>
@@ -428,7 +428,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-CR">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-CR">
 			<term>CR</term>
 			 <listitem>
 				<para>
@@ -438,7 +438,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-crash">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-crash">
 			<term>crash</term>
 			 <listitem>
 				<para>
@@ -448,7 +448,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cross_platform">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cross_platform">
 			<term>cross-platform</term>
 			 <listitem>
 				<para>
@@ -461,7 +461,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-cross_site_scripting">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cross_site_scripting">
 			<term>cross-site scripting</term>
 			 <listitem>
 				<para>
@@ -471,13 +471,16 @@
 			</listitem>
 
 		</varlistentry>
-                <varlistentry>
-                  <term>comma-separated values (CSV)</term>
-                  <listitem>
-                    <para>
-                      Use this in preference to "comma-delimited values" whenever possible. The initialism CSV is widely used to denote information broken up through use of commas. Often used to share data between different, but similar applications, wherein the comma is a translator of the data.</para></listitem>
-                  </varlistentry>
-		  <varlistentry id="varl-Style_Guide-Writing_Style_Guide-C-Cygmon">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-comma_separated_values_CSV">
+			<term>comma-separated values (CSV)</term>
+			 <listitem>
+				<para>
+					Use this in preference to "comma-delimited values" whenever possible. The initialism CSV is widely used to denote information broken up through use of commas. Often used to share data between different, but similar applications, wherein the comma is a translator of the data.
+				</para>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-Cygmon">
 			<term>Cygmon</term>
 			 <listitem>
 				<para>

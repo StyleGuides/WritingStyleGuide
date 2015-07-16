@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-Q">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Q">
 	<title>Q</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-Q-Q_and_A_n.">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Q-Q_and_A_n.">
 			<term>Q and A (n.)</term>
 			 <listitem>
 				<para>
@@ -22,7 +22,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Q-qeth">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Q-qeth">
 			<term>qeth</term>
 			 <listitem>
 				<para>
@@ -35,7 +35,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-Q-quiescent">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Q-quiescent">
 			<term>quiescent</term>
 			 <listitem>
 				<para>

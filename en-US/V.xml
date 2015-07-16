@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-V">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-V">
 	<title>V</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-VAR">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-VAR">
 			<term>VAR</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-VDSM">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-VDSM">
 			<term>VDSM</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-vi">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-vi">
 			<term>vi</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-Vim">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-Vim">
 			<term>Vim</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-video_mode">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-video_mode">
 			<term>video mode</term>
 			 <listitem>
 				<para>
@@ -62,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-virtual_console">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-virtual_console">
 			<term>virtual console</term>
 			 <listitem>
 				<para>
@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-virtual_machine_VM">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-virtual_machine_VM">
 			<term>virtual machine, VM</term>
 			 <listitem>
 				<para>
@@ -88,7 +88,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-virtualized_guest">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-virtualized_guest">
 			<term>virtualized guest</term>
 			 <listitem>
 				<para>
@@ -101,7 +101,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-virtual_router">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-virtual_router">
 			<term>virtual router</term>
 			 <listitem>
 				<para>
@@ -111,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-VNIC">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-VNIC">
 			<term>VNIC</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-V-VPN">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-V-VPN">
 			<term>VPN</term>
 			 <listitem>
 				<para>

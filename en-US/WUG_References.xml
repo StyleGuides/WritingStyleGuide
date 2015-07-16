@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-References">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-References">
 	<title>References</title>
 	 <para>
 		<citetitle>The IBM Style Guide</citetitle>

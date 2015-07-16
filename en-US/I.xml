@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-I">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-I">
 	<title>I</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IA64_or_ia64">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IA64_or_ia64">
 			<term>IA64 or ia64</term>
 			 <listitem>
 				<para>
@@ -16,17 +16,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IaaS">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IaaS">
 			<term>IaaS</term>
 			 <listitem>
 				<para>
-					See <xref linkend="varl-Style_Guide-Writing_Style_Guide-P-PaaS" />.
+					See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PaaS" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IBM_eServer_System_p">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IBM_eServer_System_p">
 			<term>IBM eServer System p</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IBM_System_z">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IBM_System_z">
 			<term>IBM System z</term>
 			 <listitem>
 				<para>
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-illegal">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-illegal">
 			<term>illegal</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-InfiniBand">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-InfiniBand">
 			<term>InfiniBand</term>
 			 <listitem>
 				<para>
@@ -69,7 +69,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-inline_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-inline_adj.">
 			<term>inline (adj.)</term>
 			 <listitem>
 				<para>
@@ -79,7 +79,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-insecure_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-insecure_adj.">
 			<term>insecure (adj.)</term>
 			 <listitem>
 				<para>
@@ -89,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-installation_program_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-installation_program_n.">
 			<term>installation program (n.)</term>
 			 <listitem>
 				<para>
@@ -99,7 +99,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Intelreg_CoreTM">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intelreg_CoreTM">
 			<term>Intel&reg; CoreTM</term>
 			 <listitem>
 				<para>
@@ -110,7 +110,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Intel_Tolapai_Intel_EP80579_Integrated_Processor">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intel_Tolapai_Intel_EP80579_Integrated_Processor">
 			<term>Intel Tolapai / Intel® EP80579 Integrated Processor</term>
 			 <listitem>
 				<para>
@@ -120,7 +120,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Intel_Virtualization_Technology_Intel_VT">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intel_Virtualization_Technology_Intel_VT">
 			<term>Intel Virtualization Technology (Intel VT)</term>
 			 <listitem>
 				<para>
@@ -133,7 +133,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Intelreg_Xeonreg">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intelreg_Xeonreg">
 			<term>Intel&reg; Xeon&reg;</term>
 			 <listitem>
 				<para>
@@ -144,7 +144,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-interesting">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-interesting">
 			<term>interesting</term>
 			 <listitem>
 				<para>
@@ -154,7 +154,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-internet_Internet_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-internet_Internet_n.">
 			<term>internet, Internet (n.)</term>
 			 <listitem>
 				<para>
@@ -164,7 +164,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Internet_of_Things_IoT">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Internet_of_Things_IoT">
 			<term>Internet of Things (IoT)</term>
 			 <listitem>
 				<para>
@@ -180,7 +180,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Intranet_and_intranet">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intranet_and_intranet">
 			<term>Intranet and intranet</term>
 			 <listitem>
 				<para>
@@ -190,7 +190,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IO">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IO">
 			<term>I/O</term>
 			 <listitem>
 				<para>
@@ -203,7 +203,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IOPS">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IOPS">
 			<term>IOPS</term>
 			 <listitem>
 				<para>
@@ -213,7 +213,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IP">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IP">
 			<term>IP</term>
 			 <listitem>
 				<para>
@@ -223,7 +223,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IP_Masquerade">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IP_Masquerade">
 			<term>IP Masquerade</term>
 			 <listitem>
 				<para>
@@ -236,7 +236,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IPsec">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IPsec">
 			<term>IPsec</term>
 			 <listitem>
 				<para>
@@ -246,7 +246,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-IP_switching">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IP_switching">
 			<term>IP switching</term>
 			 <listitem>
 				<para>
@@ -256,7 +256,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-ISV">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-ISV">
 			<term>ISV</term>
 			 <listitem>
 				<para>
@@ -266,7 +266,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-ITI.T.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-ITI.T.">
 			<term>IT/I.T.</term>
 			 <listitem>
 				<para>
@@ -276,7 +276,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Itanium">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Itanium">
 			<term>Itanium</term>
 			 <listitem>
 				<para>
@@ -295,7 +295,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-Itanium_2">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Itanium_2">
 			<term>Itanium 2</term>
 			 <listitem>
 				<para>
@@ -305,7 +305,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-ISeries">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-ISeries">
 			<term>ISeries</term>
 			 <listitem>
 				<para>
@@ -315,7 +315,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-I-its_and_its">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-its_and_its">
 			<term>it's and its</term>
 			 <listitem>
 				<para>

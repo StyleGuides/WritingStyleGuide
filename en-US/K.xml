@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-K">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-K">
 	<title>K</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-KB_kB">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-KB_kB">
 			<term>KB, kB</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kbps">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kbps">
 			<term>kbps</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kerberize">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kerberize">
 			<term>kerberize</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kernel">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kernel">
 			<term>kernel</term>
 			 <listitem>
 				<para>
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-Kernel_based_Virtual_Machine_KVM_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-Kernel_based_Virtual_Machine_KVM_n.">
 			<term>Kernel-based Virtual Machine (KVM) (n.)</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kernel_panic">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kernel_panic">
 			<term>kernel panic</term>
 			 <listitem>
 				<para>
@@ -66,7 +66,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kernel_space_n._kernel_space_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kernel_space_n._kernel_space_adj.">
 			<term>kernel space (n.), kernel-space (adj.)</term>
 			 <listitem>
 				<para>
@@ -76,7 +76,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-keyboard_key">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-keyboard_key">
 			<term>keyboard key</term>
 			 <listitem>
 				<para>
@@ -89,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-Kickstart">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-Kickstart">
 			<term>Kickstart</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-kill">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kill">
 			<term>kill</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-K-knowledgebase">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-knowledgebase">
 			<term>knowledgebase</term>
 			 <listitem>
 				<para>

@@ -3,17 +3,19 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-A">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-A">
 	<title>A</title>
 	 <variablelist>
-           <varlistentry>
-             <term>air gap</term>
-             <listitem>
-               <para>
-                 Use "air gap" to describe systems that are separated, not by software, but physically. Do not use "air wall." "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.</para></listitem>
-             </varlistentry>
-             
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-agile_agile_development_adj.">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-air_gap">
+			<term>air gap</term>
+			 <listitem>
+				<para>
+					Use "air gap" to describe systems that are separated, not by software, but physically. Do not use "air wall." "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.
+				</para>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-agile_agile_development_adj.">
 			<term>agile, agile development (adj.)</term>
 			 <listitem>
 				<para>
@@ -23,7 +25,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-a.m._and_p.m.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-a.m._and_p.m.">
 			<term>a.m. and p.m.</term>
 			 <listitem>
 				<para>
@@ -36,7 +38,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-AMD64_and_Intel_64">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-AMD64_and_Intel_64">
 			<term>AMD64 and Intel 64</term>
 			 <listitem>
 				<para>
@@ -58,7 +60,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-ATM">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-ATM">
 			<term>ATM</term>
 			 <listitem>
 				<para>
@@ -68,7 +70,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-above">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-above">
 			<term>above</term>
 			 <listitem>
 				<para>
@@ -78,7 +80,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-acronyms">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-acronyms">
 			<term>acronyms</term>
 			 <listitem>
 				<para>
@@ -94,7 +96,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-alrightall_right">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-alrightall_right">
 			<term>alright/all right</term>
 			 <listitem>
 				<para>
@@ -104,7 +106,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-alternate">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-alternate">
 			<term>alternate</term>
 			 <listitem>
 				<para>
@@ -114,7 +116,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-andor">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-andor">
 			<term>and/or</term>
 			 <listitem>
 				<para>
@@ -124,13 +126,13 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-applications">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-applications">
 			<term>applications</term>
 			 <listitem>
 				<para>
 					When used as a proper name, use the capitalization of the product, such as GNUPro, Source-Navigator, and Red&nbsp;Hat Enterprise&nbsp;Linux. When used as a command, use lowercase as appropriate, such as "To start GCC, type gcc."
 				</para>
-				 <formalpara id="form-Style_Guide-Writing_Style_Guide-applications-Note">
+				 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-applications-Note">
 					<title>Note:</title>
 					 <para>
 						"vi" is always lowercase.
@@ -141,7 +143,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-Applixware">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-Applixware">
 			<term>Applixware</term>
 			 <listitem>
 				<para>
@@ -151,7 +153,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-as_well_as">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-as_well_as">
 			<term>as well as</term>
 			 <listitem>
 				<para>
@@ -161,7 +163,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-auto_detect">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-auto_detect">
 			<term>auto-detect</term>
 			 <listitem>
 				<para>
@@ -171,7 +173,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-A-autofs">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-autofs">
 			<term>autofs</term>
 			 <listitem>
 				<para>

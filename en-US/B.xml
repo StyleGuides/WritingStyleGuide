@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-B">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-B">
 	<title>B</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-back_end_n._back_end_adj.">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-back_end_n._back_end_adj.">
 			<term>back end (n.), back-end (adj.)</term>
 			 <listitem>
 				<para>
@@ -25,7 +25,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-backup_adj._n._back_up_v.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-backup_adj._n._back_up_v.">
 			<term>backup (adj., n.), back up (v.)</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-backtrace">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-backtrace">
 			<term>backtrace</term>
 			 <listitem>
 				<para>
@@ -69,7 +69,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-backwards">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-backwards">
 			<term>backwards</term>
 			 <listitem>
 				<para>
@@ -86,7 +86,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-bandwidth">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bandwidth">
 			<term>bandwidth</term>
 			 <listitem>
 				<para>
@@ -96,7 +96,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-bare_metal">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bare_metal">
 			<term>bare metal</term>
 			 <listitem>
 				<para>
@@ -106,7 +106,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-basically">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-basically">
 			<term>basically</term>
 			 <listitem>
 				<para>
@@ -116,7 +116,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-because_or_since">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-because_or_since">
 			<term>because or since</term>
 			 <listitem>
 				<para>
@@ -126,7 +126,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-below">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-below">
 			<term>below</term>
 			 <listitem>
 				<para>
@@ -136,17 +136,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-big_data_n._adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-big_data_n._adj.">
 			<term>big data (n., adj.)</term>
 			 <listitem>
 				<para>
-					Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. See also <xref linkend="varl-Style_Guide-Writing_Style_Guide-C-cloud" />. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
+					Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cloud" />. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-bimonthly_biweekly_adj._adv.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bimonthly_biweekly_adj._adv.">
 			<term>bimonthly, biweekly (adj., adv.)</term>
 			 <listitem>
 				<para>
@@ -156,7 +156,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-BIND">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-BIND">
 			<term>BIND</term>
 			 <listitem>
 				<para>
@@ -166,7 +166,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-BIOS">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-BIOS">
 			<term>BIOS</term>
 			 <listitem>
 				<para>
@@ -176,7 +176,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-bit_rate">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bit_rate">
 			<term>bit rate</term>
 			 <listitem>
 				<para>
@@ -186,7 +186,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-Boolean">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-Boolean">
 			<term>Boolean</term>
 			 <listitem>
 				<para>
@@ -199,7 +199,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-boot">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-boot">
 			<term>boot</term>
 			 <listitem>
 				<para>
@@ -215,7 +215,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-boot_disk">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-boot_disk">
 			<term>boot disk</term>
 			 <listitem>
 				<para>
@@ -225,7 +225,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-boot_loader">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-boot_loader">
 			<term>boot loader</term>
 			 <listitem>
 				<para>
@@ -235,7 +235,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-bottleneck">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bottleneck">
 			<term>bottleneck</term>
 			 <listitem>
 				<para>
@@ -248,7 +248,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-bpp">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bpp">
 			<term>bpp</term>
 			 <listitem>
 				<para>
@@ -258,17 +258,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-Bps_bps">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-Bps_bps">
 			<term>Bps, bps</term>
 			 <listitem>
 				<para>
-					The abbreviation of bytes per second is Bps. The abbreviation of bits per second is bps. To avoid confusion, do not use at the beginning of a sentence. See also <xref linkend="varl-Style_Guide-Writing_Style_Guide-B-bandwidth" />
+					The abbreviation of bytes per second is Bps. The abbreviation of bits per second is bps. To avoid confusion, do not use at the beginning of a sentence. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bandwidth" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-bring_up">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bring_up">
 			<term>bring up</term>
 			 <listitem>
 				<para>
@@ -278,7 +278,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-Britain">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-Britain">
 			<term>Britain</term>
 			 <listitem>
 				<para>
@@ -288,7 +288,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-broadcast">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-broadcast">
 			<term>broadcast</term>
 			 <listitem>
 				<para>
@@ -301,7 +301,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-_Btrfs_">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-_Btrfs_">
 			<term> Btrfs </term>
 			 <listitem>
 				<para>
@@ -314,7 +314,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-bug_fix">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bug_fix">
 			<term>bug fix</term>
 			 <listitem>
 				<para>
@@ -324,7 +324,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-built_in_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-built_in_adj.">
 			<term>built-in (adj.)</term>
 			 <listitem>
 				<para>
@@ -334,7 +334,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-bunches_of">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bunches_of">
 			<term>bunches of</term>
 			 <listitem>
 				<para>
@@ -344,7 +344,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-B-button">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-button">
 			<term>button</term>
 			 <listitem>
 				<para>

@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-H">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-H">
 	<title>H</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hard_code_v._hard_coded_adj.">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_code_v._hard_coded_adj.">
 			<term>hard code (v.), hard-coded (adj.)</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hard_copy">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_copy">
 			<term>hard copy</term>
 			 <listitem>
 				<para>
@@ -27,7 +27,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hard_disk_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_disk_n.">
 			<term>hard disk (n.)</term>
 			 <listitem>
 				<para>
@@ -37,7 +37,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hard_disk_drive_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_disk_drive_n.">
 			<term>hard disk drive (n.)</term>
 			 <listitem>
 				<para>
@@ -47,7 +47,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-he_she">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-he_she">
 			<term>he, she</term>
 			 <listitem>
 				<para>
@@ -57,7 +57,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-help_desk">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-help_desk">
 			<term>help desk</term>
 			 <listitem>
 				<para>
@@ -68,7 +68,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-healthcare">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-healthcare">
 			<term>healthcare</term>
 			 <listitem>
 				<para>
@@ -79,7 +79,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-health_check_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-health_check_n.">
 			<term>health check (n.)</term>
 			 <listitem>
 				<para>
@@ -111,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hertz_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hertz_n.">
 			<term>hertz (n.)</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-high_availability_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-high_availability_adj.">
 			<term>high-availability (adj.)</term>
 			 <listitem>
 				<para>
@@ -131,7 +131,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-high_availability_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-high_availability_n.">
 			<term>high availability (n.)</term>
 			 <listitem>
 				<para>
@@ -141,7 +141,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-high_performance_computing_HPC_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-high_performance_computing_HPC_n.">
 			<term>high-performance computing (HPC) (n.)</term>
 			 <listitem>
 				<para>
@@ -151,7 +151,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-home_page_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-home_page_n.">
 			<term>home page (n.)</term>
 			 <listitem>
 				<para>
@@ -161,7 +161,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-host_group_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-host_group_n.">
 			<term>host group (n.)</term>
 			 <listitem>
 				<para>
@@ -171,7 +171,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-host_name_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-host_name_n.">
 			<term>host name (n.)</term>
 			 <listitem>
 				<para>
@@ -181,7 +181,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hot_add_v.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hot_add_v.">
 			<term>hot add (v.)</term>
 			 <listitem>
 				<para>
@@ -191,7 +191,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hotline_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hotline_n.">
 			<term>hotline (n.)</term>
 			 <listitem>
 				<para>
@@ -202,7 +202,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hot_plug_v.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hot_plug_v.">
 			<term>hot plug (v.)</term>
 			 <listitem>
 				<para>
@@ -212,7 +212,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hot_swap_v.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hot_swap_v.">
 			<term>hot swap (v.)</term>
 			 <listitem>
 				<para>
@@ -222,7 +222,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-HP_ProLiant">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-HP_ProLiant">
 			<term>HP ProLiant</term>
 			 <listitem>
 				<para>
@@ -232,7 +232,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-HTML">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-HTML">
 			<term>HTML</term>
 			 <listitem>
 				<para>
@@ -242,17 +242,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-huge_page_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-huge_page_adj.">
 			<term>huge-page (adj.)</term>
 			 <listitem>
 				<para>
-					Correct. Normal hyphenation rules apply. See <xref linkend="varl-Style_Guide-Writing_Style_Guide-H-huge_page_n." /> for capitalization rules.
+					Correct. Normal hyphenation rules apply. See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-huge_page_n." /> for capitalization rules.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-huge_page_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-huge_page_n.">
 			<term>huge page (n.)</term>
 			 <listitem>
 				<para>
@@ -262,7 +262,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-Hyper_Threading_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-Hyper_Threading_n.">
 			<term>Hyper-Threading (n.)</term>
 			 <listitem>
 				<para>
@@ -272,7 +272,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-H-hypervisor_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hypervisor_n.">
 			<term>hypervisor (n.)</term>
 			 <listitem>
 				<para>

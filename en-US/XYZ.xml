@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Style_Guide-Writing_Style_Guide-XYZ">
+<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ">
 	<title>XYZ</title>
 	 <variablelist>
-		<varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-X">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-X">
 			<term>X</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-XEmacs">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-XEmacs">
 			<term>XEmacs</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-Xen">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-Xen">
 			<term>Xen</term>
 			 <listitem>
 				<para>
@@ -42,7 +42,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-xterm">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-xterm">
 			<term>xterm</term>
 			 <listitem>
 				<para>
@@ -52,7 +52,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-X_Windows">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-X_Windows">
 			<term>X Windows</term>
 			 <listitem>
 				<para>
@@ -62,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-X_Window_System">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-X_Window_System">
 			<term>X Window System</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-YAML">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-YAML">
 			<term>YAML</term>
 			 <listitem>
 				<para>
@@ -82,7 +82,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-you">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-you">
 			<term>you</term>
 			 <listitem>
 				<para>
@@ -92,7 +92,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-you_may">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-you_may">
 			<term>you may</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-zip">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-zip">
 			<term>zip</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-Zip_Code">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-Zip_Code">
 			<term>Zip Code</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Style_Guide-Writing_Style_Guide-XYZ-zSeries">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-XYZ-zSeries">
 			<term>zSeries</term>
 			 <listitem>
 				<para>
