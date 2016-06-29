@@ -327,6 +327,14 @@
 				</listitem>
 
 			</varlistentry>
+                        <varlistentry>
+                            <term>happy path</term>
+                            <listitem>
+                                <para>
+                                    Do not use. Often understood to mean "a path or method of least resistance" or "the preferred way to solve the current issue", this is very localized slang and could easily be misunderstood. It could also produce problems for translation.
+                                </para>
+                            </listitem>
+                        </varlistentry>
 			 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Identifying_and_Avoiding_Slang-harness_the_power">
 				<term>harness the power</term>
 				 <listitem>
