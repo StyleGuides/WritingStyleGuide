@@ -477,6 +477,7 @@
 				<para>
 					Use this in preference to "comma-delimited values" whenever possible. The initialism CSV is widely used to denote information broken up through use of commas. Often used to share data between different, but similar applications, wherein the comma is a translator of the data.
 				</para>
+
 			</listitem>
 
 		</varlistentry>
