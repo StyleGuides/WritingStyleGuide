@@ -264,6 +264,16 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-downstream">
+			<term>downstream</term>
+			 <listitem>
+				<para>
+					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upstream" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-downtime">
 			<term>downtime</term>
 			 <listitem>
