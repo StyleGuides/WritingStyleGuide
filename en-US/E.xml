@@ -29,16 +29,10 @@
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-e.g._i.e.">
 			<term>e.g., i.e.</term>
 			 <listitem>
-				<para>
-					Use sparingly, and include a comma before the following word.
-				</para>
-				 <warning>
-					<title>ECS Exception</title>
-					 <para>
-						ECS adheres to <citetitle>The IBM Style Guide</citetitle> recommendation and always expands these abbreviations.
+                 <para>
+				Red&nbsp;Hat technical documentation always expands these
+abbreviations.
 					</para>
-
-				</warning>
 
 			</listitem>
 

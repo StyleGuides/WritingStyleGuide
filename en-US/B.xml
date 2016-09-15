@@ -73,16 +73,8 @@
 			<term>backwards</term>
 			 <listitem>
 				<para>
-					Use only in the sense of something being "backwards compatible."
-				</para>
-				 <warning>
-					<title>ECS Exception</title>
-					 <para>
-						ECS adheres to <citetitle>The IBM Style Guide</citetitle> recommendation and does not use this term. Instead, use "compatible with earlier versions."
+					Do not use. Instead, use "compatible with earlier versions."
 					</para>
-
-				</warning>
-
 			</listitem>
 
 		</varlistentry>

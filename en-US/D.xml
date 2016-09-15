@@ -22,30 +22,27 @@
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dash">
 			<term>dash</term>
 			 <listitem>
-				<para>
-					When possible, use em&nbsp;dashes (&mdash;) with no space on either side. If em&nbsp;dashes are not available, use two dashes, with no spaces on either side (--).
-				</para>
-				 <warning>
-					<title>Technical Publications Exception</title>
+
 					 <para>
 						In technical publications, <citetitle>The IBM Style Guide</citetitle> recommends not to use em&nbsp;dashes or en&nbsp;dashes at all. Use a colon or other suitable punctuation.
 					</para>
-
-				</warning>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-datacenter_n.">
-			<term>datacenter (n.)</term>
+			<term>data center (n.)</term>
 			 <listitem>
 				<para>
-					Use the one-word form unless referring to a product name or other proper noun where the two-word form is used.
+					Use the two-word form unless referring to a product name or
+other proper noun where the one-word form is used.
 				</para>
 				 <warning>
-					<title>Technical Publications Exception</title>
+					<title>Marketing Publications Exception</title>
 					 <para>
-						In technical publications, use the two-word form of this term unless referring to a product name or other proper noun where the one-word form is used.
+						In marketing publications, use the one-word form of
+this term unless referring to a product name or other proper noun where the
+two-word form is used.
 					</para>
 
 				</warning>
@@ -64,15 +61,16 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-datasheet_n.">
-			<term>datasheet (n.)</term>
+			<term>data sheet (n.)</term>
 			 <listitem>
 				<para>
-					Correct. Use the one-word form.
+					Correct. Use the two-word form.
 				</para>
 				 <warning>
-					<title>Technical Publications Exception</title>
+					<title>Marketing Publications Exception</title>
 					 <para>
-						In technical publications, <citetitle>The IBM Style Guide</citetitle> recommends the two-word form.
+						In marketing publications, the one-word form is
+recommended.
 					</para>
 
 				</warning>
@@ -81,15 +79,16 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-datastore_n.">
-			<term>datastore (n.)</term>
+			<term>data store (n.)</term>
 			 <listitem>
 				<para>
-					Correct. Use the one-word form.
+					Correct. Use the two-word form.
 				</para>
 				 <warning>
-					<title>Technical Publications Exception</title>
+					<title>Marketing Publications Exception</title>
 					 <para>
-						In technical publications, <citetitle>The IBM Style Guide</citetitle> recommends the two-word form.
+						In marketing publications, the two-word form is
+recommended.
 					</para>
 
 				</warning>
