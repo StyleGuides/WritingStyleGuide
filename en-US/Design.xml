@@ -102,11 +102,7 @@
 		 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_the_User_Interface-Launching_Applications_from_the_RednbspHat_EnterprisenbspLinux_Desktop">
 			<title>Launching Applications from the Red&nbsp;Hat Enterprise&nbsp;Linux Desktop</title>
 			 <para>
-				Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;7 introduces a new
-approach to launching applications from the desktop. In an effort to maintain
-consistency and to make translation easier, Red&nbsp; documentation assumes the
-customer is using GNOME Classic, the default user interface, and prefers a
-consistent approach to instructing customers how to launch applications.
+				Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;7 introduces a new approach to launching applications from the desktop. In an effort to maintain consistency and to make translation easier, Red&nbsp; documentation assumes the customer is using GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to launch applications.
 			</para>
 			 <para>
 				The preferred approach is to use the <keycap>Super</keycap> key to enter the Activities Overview, enter the name of the required application, and to press <keycap>Enter.</keycap> The <keycap>Super</keycap> key appears in a variety of guises, depending on the keyboard and other hardware, but often as either the <keysym>Windows</keysym> or <keysym>Command</keysym> key, and typically to the left of the <keycap>Spacebar.</keycap> For example:
@@ -128,14 +124,14 @@ consistent approach to instructing customers how to launch applications.
 			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-
+					
 <screen>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 
 				</para>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components:
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -167,12 +163,12 @@ consistent approach to instructing customers how to launch applications.
 			</para>
 			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
-
+				 
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -209,7 +205,7 @@ consistent approach to instructing customers how to launch applications.
 				</para>
 				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
-
+					 
 <screen>$ cd Documents
 $ vi myFile.txt
 </screen>
@@ -220,7 +216,7 @@ $ vi myFile.txt
 				</para>
 				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
-
+					 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
@@ -241,7 +237,7 @@ $ vi myFile.txt
 		 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_the_User_Interface-Using_Host_and_User_Names_Correctly">
 			<title>Using Host and User Names Correctly</title>
 			 <para>
-				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following:
+				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -319,7 +315,7 @@ $ vi myFile.txt
 		</para>
 
 	</section>
-	 <!--
+	 <!-- 
 	 <section role="internal" id="sect-Policy-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
@@ -399,7 +395,7 @@ $ vi myFile.txt
 
 		</para>
 
-	</section>               --> <!--
+	</section>                --> <!-- 
 	<section><title>Using Capitalization Correctly</title>
 		<para>
 			This section provides guidelines for how to correctly capitalize various words and phrases, especially group and team names, partner names, and related entities.
@@ -472,7 +468,7 @@ $ vi myFile.txt
 		</section>
 
 
-                </section>                --> <!--               <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
+                </section>                 --> <!--                <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
 			The preferred format for product names includes only the major version number. For example:
@@ -528,13 +524,13 @@ $ vi myFile.txt
 
 		</important>
 
-	</section>               --> <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Admonitions">
+	</section>                --> <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Admonitions">
 		<title>Using Admonitions</title>
 		 <para>
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions:
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -584,12 +580,12 @@ $ vi myFile.txt
 		 <para>
 			In XML:
 		</para>
-
+		 
 <programlisting>
 &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 </programlisting>
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by
+			For example, <citetitle>Maximum RPM</citetitle> by 
 			<author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>

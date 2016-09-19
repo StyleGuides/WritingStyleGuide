@@ -29,10 +29,9 @@
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-e.g._i.e.">
 			<term>e.g., i.e.</term>
 			 <listitem>
-                 <para>
-				Red&nbsp;Hat technical documentation always expands these
-abbreviations.
-					</para>
+				<para>
+					Red&nbsp;Hat technical documentation always expands these abbreviations.
+				</para>
 
 			</listitem>
 

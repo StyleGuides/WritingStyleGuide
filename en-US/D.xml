@@ -22,27 +22,23 @@
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dash">
 			<term>dash</term>
 			 <listitem>
-
-					 <para>
-						In technical publications, <citetitle>The IBM Style Guide</citetitle> recommends not to use em&nbsp;dashes or en&nbsp;dashes at all. Use a colon or other suitable punctuation.
-					</para>
+				<para>
+					In technical publications, <citetitle>The IBM Style Guide</citetitle> recommends not to use em&nbsp;dashes or en&nbsp;dashes at all. Use a colon or other suitable punctuation.
+				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-datacenter_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_center_n.">
 			<term>data center (n.)</term>
 			 <listitem>
 				<para>
-					Use the two-word form unless referring to a product name or
-other proper noun where the one-word form is used.
+					Use the two-word form unless referring to a product name or other proper noun where the one-word form is used.
 				</para>
 				 <warning>
 					<title>Marketing Publications Exception</title>
 					 <para>
-						In marketing publications, use the one-word form of
-this term unless referring to a product name or other proper noun where the
-two-word form is used.
+						In marketing publications, use the one-word form of this term unless referring to a product name or other proper noun where the two-word form is used.
 					</para>
 
 				</warning>
@@ -60,7 +56,7 @@ two-word form is used.
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-datasheet_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_sheet_n.">
 			<term>data sheet (n.)</term>
 			 <listitem>
 				<para>
@@ -69,8 +65,7 @@ two-word form is used.
 				 <warning>
 					<title>Marketing Publications Exception</title>
 					 <para>
-						In marketing publications, the one-word form is
-recommended.
+						In marketing publications, the one-word form is recommended.
 					</para>
 
 				</warning>
@@ -78,7 +73,7 @@ recommended.
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-datastore_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_store_n.">
 			<term>data store (n.)</term>
 			 <listitem>
 				<para>
@@ -87,8 +82,7 @@ recommended.
 				 <warning>
 					<title>Marketing Publications Exception</title>
 					 <para>
-						In marketing publications, the two-word form is
-recommended.
+						In marketing publications, the two-word form is recommended.
 					</para>
 
 				</warning>
