@@ -10,24 +10,20 @@
 			<term>24x7, 24x7x365</term>
 			 <listitem>
 				<para>
-					Use "24x7" in most instances. Use "24x7x365" only to
-differentiate from others or highlight specifically that a
-service is offered every day of the year, for example, providing 24x7x365 phone
-support.
+					Use "24x7" in most instances. Use "24x7x365" only to differentiate from others or highlight specifically that a service is offered every day of the year, for example, providing 24x7x365 phone support.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term>2-track (IT)</term>
-            <listitem>
-                <para>
-                    A less common way to refer to bimodal or hybrid
-IT. See <xref linkend="bimodal"/>
-</para>
-</listitem>
-</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-a0_9-a2_track_IT">
+			<term>2-track (IT)</term>
+			 <listitem>
+				<para>
+					A less common way to refer to bimodal or hybrid IT. See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bimodal_IT" />
+				</para>
+			</listitem>
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-a0_9-a3_D_adj._n.">
 			<term>3-D (adj., n.)</term>
 			 <listitem>
