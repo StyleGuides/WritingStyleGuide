@@ -732,8 +732,14 @@
 		</formalpara>
 		 <note>
 			<para>
-				Never hyphenate "open source," even when used as a complex adjective.
+				Do not hyphenate "open source," even when used as a complex
+adjective.
 			</para>
+            <para>
+                Do not hyphenate a compound that includes an adverb ending in
+-ly, whether it comes before or after the noun. This is described in
+Chicago Manual of Style 7.82.
+</para>
 
 		</note>
 		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Hyphenation-Hyphenate_Consecutive_Vowel_Sounds">
