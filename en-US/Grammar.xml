@@ -240,9 +240,13 @@
 					<para>
 						If the restatement contains the word he, she, they, I, or we, then use who or whoever. "Do you think he would mind?" "Who do you think would mind?" "She's walking in the door." "Who's walking in the door?"
 					</para>
+
 				</listitem>
+
 			</itemizedlist>
+
 		</note>
+
 	</section>
 	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Grammar-Sentence_Structure">
 		<title>Sentence Structure</title>
@@ -252,204 +256,228 @@
 		 <para>
 			The following are things to consider when constructing sentences:
 		</para>
-        <formalpara><title>Sentence Length</title>
-					<para>
-						Try not to pack too much information into one sentence.
-Keep it short. For example, the following sentence is a good example of how not
-to write:
-					</para>
-					</formalpara>
-							<para>
-								The <guibutton>Start</guibutton> button, which
-you can find in the bottom left corner of your screen (also activated by the
-"Windows key" on your keyboard, the one between the <keycap>Ctrl</keycap> and
-<keycap>Alt</keycap> keys), provides a central launching point for applications
-and tasks, and can be customized according to your individual preferences so
-that it presents menu items relevant to you instead of presenting the standard
-items that come with the default installation of the operating system, items
-which, in my opinion, are irrelevant for most users these days who really only
-need access to an internet browser such as Google Chrome or Mozilla Firefox.
-							</para>
-                <formalpara><title>Run-on Sentences</title>
-					<para>
-						Two or more complete ideas that are joined without
-punctuation create a <emphasis>run-on sentence</emphasis> (also called a
-<emphasis>fused sentence</emphasis>). The sentence does not have to be long to
-be a run-on sentence, although the longer the sentence the more difficult it is
-to read. You can:
-					</para>
-					</formalpara>
-					 <itemizedlist>
-						<listitem>
-							<para>
-								Separate independent clauses with a period. Doing so will form two sentences out of one.
-							</para>
-						</listitem>
-						 <listitem>
-							<para>
-								Use semicolons to form a compound sentence.
-Think of a semi-colon as an extended breather; longer than a comma.
-							</para>
-						</listitem>
-						 <listitem>
-							<para>
-								Insert a <firstterm>coordinating conjunction</firstterm>, such as "and" or "but", between the independent clauses to form a compound sentence. For example, "The process will start, but it will produce an error."
-							</para>
-						</listitem>
-						 <listitem>
-							<para>
-								Insert a <firstterm>subordinating conjunction</firstterm>, such as "although" or "because", which will form a compound sentence with a subordinate clause. For example, "Although the process will start, it will produce an error."
-							</para>
-						</listitem>
-					</itemizedlist>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-								</row>
-							</thead>
-							 <tbody>
-								<row>
-									<entry> The CDs both of which belonged to the developers were in the test lab. </entry>
-									 <entry> The CDs, both of which belonged to the developers, were in the test lab. </entry>
-								</row>
-								 <row>
-									<entry> To access your programs click the Start button. </entry>
-									 <entry> To access your programs, click the Start button. </entry>
-								</row>
-								 <row>
-									<entry>The CDs, both of which belonged to
-the developers, were in the test lab, because they were the only available CDs
-for the new release, the developers were anxious about keeping them clean. (This
-sentence exhibits a <firstterm>comma splice</firstterm> which is also often
-regarded as a run-on sentence.) </entry>
-									 <entry>The CDs, both of which belonged to
-the developers, were in the test lab. Because they were the only available CDs
-for the new release, the developers were anxious about keeping them clean.
-</entry>
-								</row>
-							</tbody>
-						</tgroup>
-					</table>
-                <formalpara><title>Sentence Fragments</title>
-					<para>
-						A <emphasis>sentence fragment</emphasis> is an
-incomplete sentence. For example, "We will release no
-upgrade before its time." is a complete sentence, whereas in "We will release no
-upgrade. At least, before its time." the second of the two sentences is a
-fragment. Repair sentence fragments by making them complete sentences.
-					</para>
-                </formalpara>
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Sentence_Length">
+			<title>Sentence Length</title>
+			 <para>
+				Try not to pack too much information into one sentence. Keep it short. For example, the following sentence is a good example of how not to write:
+			</para>
 
-					 <note>
-						<para>
-							Read your sentences aloud, as if each sentence were the *only* sentence on a piece of paper. If you hear a sentence which does not make any sense by itself, then it is probably a sentence fragment.
-						</para>
-					</note>
-                    <formalpara><title>Telegraphic Style</title>
-					<para>
-						Extreme cases of word economy can result in a telegraphic style, omitting words that can clarify the meaning of a sentence, such as articles, prepositions, and verbs used with gerunds.
-					</para>
-                </formalpara>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-								</row>
-							</thead>
-							 <tbody>
-								<row>
-									<entry> Click button to start. </entry>
-									 <entry> Click
-<guibutton>Initiate</guibutton> to start the process. </entry>
-								</row>
-							</tbody>
-						</tgroup>
-					</table>
-					 <para>
-						This problem is often encountered in the Revision History. It is important that wording in the Revision History is clear for translators and customers to understand.
-					</para>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-								</row>
-							</thead>
-							 <tbody>
-								<row>
-									<entry> Minor revision - missing element items </entry>
-									 <entry> Minor revision - added missing element items </entry>
-								</row>
-								 <row>
-									<entry> Some further work required to avoid 404s at lower levels of the SDK. </entry>
-									 <entry> Some further work required to avoid 404 errors at lower levels of the SDK. </entry>
-								</row>
-							</tbody>
-						</tgroup>
-					</table>
-                    <formalpara><title> Verbosity </title>
-					<para>
-						Avoid unnecessary words. Keep it succinct.
-					</para>
-                </formalpara>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-								</row>
-							</thead>
-							 <tbody>
-								<row>
-									<entry> The individual member of the social community often receives his information via visual, symbolic channels. </entry>
-									 <entry> People read. (Translation by Richard Feynman.) </entry>
-								</row>
-							</tbody>
-						</tgroup>
-					</table>
-                    <formalpara><title> Word Ordering </title>
-					<para>
-						When two or more correct arrangements are possible, choose the order that will create the least ambiguity. Generally, this is the standard subject-verb-object, with modifiers before or immediately following what they modify.
-					</para>
-                </formalpara>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-								</row>
-							</thead>
-							 <tbody>
-								<row>
-									<entry> To update the address lists may be your primary concern. </entry>
-									 <entry> Your primary concern may be to update the address lists. </entry>
-								</row>
-							</tbody>
-						</tgroup>
-					</table>
+		</formalpara>
+		 <para>
+			The <guibutton>Start</guibutton> button, which you can find in the bottom left corner of your screen (also activated by the "Windows key" on your keyboard, the one between the <keycap>Ctrl</keycap> and <keycap>Alt</keycap> keys), provides a central launching point for applications and tasks, and can be customized according to your individual preferences so that it presents menu items relevant to you instead of presenting the standard items that come with the default installation of the operating system, items which, in my opinion, are irrelevant for most users these days who really only need access to an internet browser such as Google Chrome or Mozilla Firefox.
+		</para>
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Run_on_Sentences">
+			<title>Run-on Sentences</title>
+			 <para>
+				Two or more complete ideas that are joined without punctuation create a <emphasis>run-on sentence</emphasis> (also called a <emphasis>fused sentence</emphasis>). The sentence does not have to be long to be a run-on sentence, although the longer the sentence the more difficult it is to read. You can:
+			</para>
+
+		</formalpara>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					Separate independent clauses with a period. Doing so will form two sentences out of one.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Use semicolons to form a compound sentence. Think of a semi-colon as an extended breather; longer than a comma.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Insert a <firstterm>coordinating conjunction</firstterm>, such as "and" or "but", between the independent clauses to form a compound sentence. For example, "The process will start, but it will produce an error."
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Insert a <firstterm>subordinating conjunction</firstterm>, such as "although" or "because", which will form a compound sentence with a subordinate clause. For example, "Although the process will start, it will produce an error."
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> The CDs both of which belonged to the developers were in the test lab. </entry>
+						 <entry> The CDs, both of which belonged to the developers, were in the test lab. </entry>
+
+					</row>
+					 <row>
+						<entry> To access your programs click the Start button. </entry>
+						 <entry> To access your programs, click the Start button. </entry>
+
+					</row>
+					 <row>
+						<entry>The CDs, both of which belonged to the developers, were in the test lab, because they were the only available CDs for the new release, the developers were anxious about keeping them clean. (This sentence exhibits a <firstterm>comma splice</firstterm> which is also often regarded as a run-on sentence.) </entry>
+						 <entry>The CDs, both of which belonged to the developers, were in the test lab. Because they were the only available CDs for the new release, the developers were anxious about keeping them clean. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Sentence_Fragments">
+			<title>Sentence Fragments</title>
+			 <para>
+				A <emphasis>sentence fragment</emphasis> is an incomplete sentence. For example, "We will release no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade. At least, before its time." the second of the two sentences is a fragment. Repair sentence fragments by making them complete sentences.
+			</para>
+
+		</formalpara>
+		 <note>
+			<para>
+				Read your sentences aloud, as if each sentence were the *only* sentence on a piece of paper. If you hear a sentence which does not make any sense by itself, then it is probably a sentence fragment.
+			</para>
+
+		</note>
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Telegraphic_Style">
+			<title>Telegraphic Style</title>
+			 <para>
+				Extreme cases of word economy can result in a telegraphic style, omitting words that can clarify the meaning of a sentence, such as articles, prepositions, and verbs used with gerunds.
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Click button to start. </entry>
+						 <entry> Click <guibutton>Initiate</guibutton> to start the process. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+		 <para>
+			This problem is often encountered in the Revision History. It is important that wording in the Revision History is clear for translators and customers to understand.
+		</para>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Minor revision - missing element items </entry>
+						 <entry> Minor revision - added missing element items </entry>
+
+					</row>
+					 <row>
+						<entry> Some further work required to avoid 404s at lower levels of the SDK. </entry>
+						 <entry> Some further work required to avoid 404 errors at lower levels of the SDK. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-_Verbosity_">
+			<title> Verbosity </title>
+			 <para>
+				Avoid unnecessary words. Keep it succinct.
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> The individual member of the social community often receives his information via visual, symbolic channels. </entry>
+						 <entry> People read. (Translation by Richard Feynman.) </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-_Word_Ordering_">
+			<title> Word Ordering </title>
+			 <para>
+				When two or more correct arrangements are possible, choose the order that will create the least ambiguity. Generally, this is the standard subject-verb-object, with modifiers before or immediately following what they modify.
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> To update the address lists may be your primary concern. </entry>
+						 <entry> Your primary concern may be to update the address lists. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
 	</section>
 	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Grammar-Avoiding_Ambiguities">
 		<title>Avoiding Ambiguities</title>
@@ -493,11 +521,7 @@ fragment. Repair sentence fragments by making them complete sentences.
 				<term> Homographic Verbs </term>
 				 <listitem>
 					<para>
-						The verb "may" can be used to express possibility as
-well as to grant permissions. Similarly, "should" can be used to make
-recommendations as well as to express obligation or expectation. A sentence
-containing one of these verbs often has a double meaning. Avoid these types of
-words.
+						The verb "may" can be used to express possibility as well as to grant permissions. Similarly, "should" can be used to make recommendations as well as to express obligation or expectation. A sentence containing one of these verbs often has a double meaning. Avoid these types of words.
 					</para>
 					 <table>
 						<title></title>
@@ -669,14 +693,11 @@ words.
 		</formalpara>
 		 <note>
 			<para>
-				Do not hyphenate "open source," even when used as a complex
-adjective.
+				Do not hyphenate "open source," even when used as a complex adjective.
 			</para>
-            <para>
-                Do not hyphenate a compound that includes an adverb ending in
--ly, whether it comes before or after the noun. This is described in
-Chicago Manual of Style 7.82.
-</para>
+			 <para>
+				Do not hyphenate a compound that includes an adverb ending in -ly, whether it comes before or after the noun. This is described in Chicago Manual of Style 7.82.
+			</para>
 
 		</note>
 		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Hyphenation-Hyphenate_Consecutive_Vowel_Sounds">
