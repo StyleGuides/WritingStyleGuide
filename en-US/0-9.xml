@@ -16,6 +16,15 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term>2-track (IT)</term>
+            <listitem>
+                <para>
+                    A less common way to refer to bimodal or hybrid
+IT. See <xref linkend="bimodal"/>
+</para>
+</listitem>
+</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-a0_9-a3_D_adj._n.">
 			<term>3-D (adj., n.)</term>
 			 <listitem>
