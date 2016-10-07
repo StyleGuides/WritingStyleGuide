@@ -6,21 +6,35 @@
 <chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-A">
 	<title>A</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-air_gap">
-			<term>air gap</term>
-			 <listitem>
-				<para>
-					Use "air gap" to describe systems that are separated, not by software, but physically. Do not use "air wall." "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
+		<varlistentry>
+            <term>"&amp;" and "+"</term>
+            <listitem>
+                <para>
+                    Ampersands or plus signs can be used in design elements and
+graphics when space is limited, and when either referring to or quoting
+third-party content that uses them. Do not use them in original
+body copy.</para></listitem>
+            </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-agile_agile_development_adj.">
 			<term>agile, agile development (adj.)</term>
 			 <listitem>
 				<para>
 					Use only as an adjective. It is not a proper noun, nor is it owned or trademarked and should not be capitalized.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+        <varlistentry
+id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-air_gap">
+			<term>air gap</term>
+			 <listitem>
+				<para>
+					Use "air gap" to describe systems that are separated, not by
+software, but physically. Do not use "air wall." "Air gap" is preferred in
+technical publications because there is no actual wall that you need to breach,
+but rather a gap that you need to bridge. You cannot break through something
+that does not exist.
 				</para>
 
 			</listitem>
