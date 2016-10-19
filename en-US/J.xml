@@ -46,16 +46,14 @@
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term>jsvc</term>
-            <listitem>
-                <para>
-                    The Apache Commons Daemon jsvc is a set of libraries and
-applications for making Java applications run on UNIX more easily. At the
-beginning of a sentence, use "Jsvc", otherwise all lowercase.
-</para>
-</listitem>
-</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-jsvc">
+			<term>jsvc</term>
+			 <listitem>
+				<para>
+					The Apache Commons Daemon jsvc is a set of libraries and applications for making Java applications run on UNIX more easily. At the beginning of a sentence, use "Jsvc", otherwise all lowercase.
+				</para>
+			</listitem>
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-just">
 			<term>just</term>
 			 <listitem>
