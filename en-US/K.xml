@@ -113,10 +113,12 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-knowledgebase">
-			<term>knowledgebase</term>
+			<term>knowledge base</term>
 			 <listitem>
 				<para>
-					Incorrect. Use "knowledge base," unless referring specifically to the "Red Hat Knowledgebase." In this case, capitalize the "K." Do not capitalize the "b."
+					Correct. Use the two-word form unless referring
+specifically to the "Red Hat Knowledgebase." In this case, capitalize the "K."
+Do not capitalize the "b."
 				</para>
 
 			</listitem>
