@@ -30,7 +30,7 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_center_n.">
-			<term>data center (n.)</term>
+			<term>data center, datacenter (n.)</term>
 			 <listitem>
 				<para>
 					Use the two-word form unless referring to a product name or other proper noun where the one-word form is used.
@@ -57,10 +57,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_sheet_n.">
-			<term>data sheet (n.)</term>
+			<term>data sheet, datasheet (n.)</term>
 			 <listitem>
 				<para>
-					Correct. Use the two-word form.
+					Use the two-word form.
 				</para>
 				 <warning>
 					<title>Marketing Publications Exception</title>
@@ -74,7 +74,7 @@
 
 		</varlistentry>
         <varlistentry>
-            <term>data source, datasource (n.)</term>
+            <term>data source (n.)</term>
             <listitem>
                 <para>
                     Use the two-word form unless referring to a proper noun, argument, variable, or other case where the one-word form is required.
@@ -82,10 +82,10 @@
             </listitem>
         </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_store_n.">
-			<term>data store (n.)</term>
+			<term>data store, datastore (n.)</term>
 			 <listitem>
 				<para>
-					Correct. Use the two-word form.
+					Use the two-word form.
 				</para>
 				 <warning>
 					<title>Marketing Publications Exception</title>
@@ -269,7 +269,7 @@
 			<term>downstream</term>
 			 <listitem>
 				<para>
-					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upstream" />.
+					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upstream" />. Do not use "down-stream" or "down stream."
 				</para>
 
 			</listitem>
