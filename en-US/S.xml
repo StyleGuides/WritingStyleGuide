@@ -143,7 +143,7 @@
 			<term>server-side/server side</term>
 			 <listitem>
 				<para>
-					See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-client_sideclient_side"/>.
+					See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-client_side_adj._client_side_n." />.
 				</para>
 
 			</listitem>
@@ -539,7 +539,7 @@
 				<para>
 					Correct. Do not use "sub-command." A subcommand refers to a "secondary" or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
 				</para>
-
+				 
 <screen>hammer import organization --help</screen>
 				 <para>
 					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.

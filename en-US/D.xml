@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_center_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_center_datacenter_n.">
 			<term>data center, datacenter (n.)</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_sheet_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_sheet_datasheet_n.">
 			<term>data sheet, datasheet (n.)</term>
 			 <listitem>
 				<para>
@@ -73,15 +73,17 @@
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term>data source (n.)</term>
-            <listitem>
-                <para>
-                    Use the two-word form unless referring to a proper noun, argument, variable, or other case where the one-word form is required.
-                </para>
-            </listitem>
-        </varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_store_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_source_n.">
+			<term>data source (n.)</term>
+			 <listitem>
+				<para>
+					Use the two-word form unless referring to a proper noun, argument, variable, or other case where the one-word form is required.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_store_datastore_n.">
 			<term>data store, datastore (n.)</term>
 			 <listitem>
 				<para>

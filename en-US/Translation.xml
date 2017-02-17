@@ -195,9 +195,9 @@
 			</tgroup>
 
 		</table>
-		 <!-- <para>
+		 <!--  <para>
 			See the <ulink url="http://file.bne.redhat.com/~daobrien/DocBookXMLGuide/"><citetitle>Red&nbsp;Hat DocBook Usage Guide</citetitle></ulink> for more information about correct tag usage.
-		</para> --> <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Tags-Tagged_Terms_in_Sentences">
+		</para>  --> <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Tags-Tagged_Terms_in_Sentences">
 			<title>Tagged Terms in Sentences</title>
 			 <para>
 				Many tagged terms are not translatable, so they should not be used as structural parts of a sentence. Otherwise, translators have to fill in the blanks or tag terms themselves.
