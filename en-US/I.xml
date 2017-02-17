@@ -155,10 +155,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-internet_Internet_n.">
-			<term>internet, Internet (n.)</term>
+			<term>internet (n.)</term>
 			 <listitem>
 				<para>
-					Use as a proper noun only to refer to the global, publicly-accessible group of interconnected networks that use the Internet suite of protocols. Otherwise, use the common noun. See <citetitle>The IBM Style Guide</citetitle> for more information.
+					Always lowercase except in some specific exceptions, for example <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Internet_of_Things_IoT"/>.
 				</para>
 
 			</listitem>
@@ -171,7 +171,7 @@
 					Correct. Capitalize as shown, spell out on the first occurrence, and use the initialism thereafter.
 				</para>
 				 <para>
-					The Internet of Things (IoT) refers to uniquely identifiable objects and their virtual representations in an Internet-like structure.<footnote> <para>
+					The Internet of Things (IoT) refers to uniquely identifiable objects and their virtual representations in an internet-like structure.<footnote> <para>
 						<ulink url="http://en.wikipedia.org/wiki/Internet_of_things">http://en.wikipedia.org/wiki/Internet_of_things</ulink>
 					</para>
 					 </footnote>
@@ -227,7 +227,7 @@
 			<term>IP Masquerade</term>
 			 <listitem>
 				<para>
-					A Linux networking function. IP Masquerade, also called IPMASQ or MASQ, allows one or more computers in a network without assigned IP addresses to communicate with the Internet using the Linux server's assigned IP address. The IPMASQ server acts as a gateway, and the other devices are invisible behind it, so to other machines on the Internet the outgoing traffic appears to be coming from the IPMASQ server and not the internal PCs.
+					A Linux networking function. IP Masquerade, also called IPMASQ or MASQ, allows one or more computers in a network without assigned IP addresses to communicate with the internet using the Linux server's assigned IP address. The IPMASQ server acts as a gateway, and the other devices are invisible behind it, so to other machines on the internet the outgoing traffic appears to be coming from the IPMASQ server and not the internal PCs.
 				</para>
 				 <para>
 					Because IPMASQ is a generic technology, the server can be connected to other computers through LAN technologies such as Ethernet, Token Ring, and FDDI, as well as dial-up connections such as PPP or SLIP.
@@ -286,7 +286,7 @@
 					In 64-bit mode, Itanium is able to calculate two bundles of a maximum of three instructions at a time. In 32-bit mode, it is much slower. Decoders must first translate 32-bit instruction sets into 64-bit instruction sets, which results in extra-clock cycle use.
 				</para>
 				 <para>
-					Itanium's primary use is driving large applications that require more than 4 GB of memory, such as databases, ERP, and future Internet applications.
+					Itanium's primary use is driving large applications that require more than 4 GB of memory, such as databases, ERP, and future internet applications.
 				</para>
 				 <para>
 					Do not use the term IA64. (It can be used in file names since they are printed in the content.)
