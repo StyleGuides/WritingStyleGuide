@@ -154,11 +154,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-internet_Internet_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-internet_n.">
 			<term>internet (n.)</term>
 			 <listitem>
 				<para>
-					Always lowercase except in some specific exceptions, for example <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Internet_of_Things_IoT"/>.
+					Always lowercase except in some specific exceptions, for example <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Internet_of_Things_IoT" />.
 				</para>
 
 			</listitem>

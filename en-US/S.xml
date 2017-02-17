@@ -486,12 +486,12 @@
 				<para>
 					A legacy Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office."
 				</para>
-				<para>
-				  The successors of StarOffice are
-				  <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LibreOffice" />
-				  and <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OpenOffice" />.
+				 <para>
+					The successors of StarOffice are <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LibreOffice" /> and <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OpenOffice" />.
 				</para>
+
 			</listitem>
+
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-starts_up">
 			<term>starts up</term>
@@ -539,7 +539,7 @@
 				<para>
 					Correct. Do not use "sub-command." A subcommand refers to a "secondary" or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
 				</para>
-
+				 
 <screen>hammer import organization --help</screen>
 				 <para>
 					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.
