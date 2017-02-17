@@ -484,11 +484,14 @@
 			<term>StarOffice</term>
 			 <listitem>
 				<para>
-					A Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office."
+					A legacy Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office."
 				</para>
-
+				<para>
+				  The successors of StarOffice are
+				  <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LibreOffice" />
+				  and <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OpenOffice" />.
+				</para>
 			</listitem>
-
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-starts_up">
 			<term>starts up</term>

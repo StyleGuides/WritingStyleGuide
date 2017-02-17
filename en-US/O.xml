@@ -170,8 +170,19 @@
 				</para>
 
 			</listitem>
-
-		</varlistentry>
+		 </varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OpenOffice">
+		   <term>OpenOffice</term>
+		   <listitem>
+		     <para>
+		       A Linux desktop suite. Do not use "Openoffice,"
+		       "Open Office," or "ooo."
+		     </para>
+		     <para>
+		       See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LibreOffice" />
+		     </para>
+			 </listitem>
+				 </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_source">
 			<term>open source</term>
 			 <listitem>
