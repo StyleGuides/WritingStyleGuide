@@ -195,9 +195,9 @@
 			</tgroup>
 
 		</table>
-		 <para>
+		 <!--<para>
 			See the <ulink url="http://file.bne.redhat.com/~daobrien/DocBookXMLGuide/"><citetitle>Red&nbsp;Hat DocBook Usage Guide</citetitle></ulink> for more information about correct tag usage.
-		</para>
+		</para>-->
 		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Tags-Tagged_Terms_in_Sentences">
 			<title>Tagged Terms in Sentences</title>
 			 <para>
@@ -245,7 +245,7 @@
 		 <para>
 			For example, consider the word "Usage" in the following:
 		</para>
-		 
+
 <screen>Usage: <command>rhevm-iso-uploader <replaceable>[options]</replaceable> list</command>
 <command>rhevm-iso-uploader <replaceable>[options] </replaceable>upload <replaceable>[file1] [file2] [file3]</replaceable></command></screen>
 
@@ -262,7 +262,7 @@
 			Entities can be helpful in some cases, but they are more of a hindrance when used for terms that need translation; translators need to compare the string with the built document in order to find out what the entity stands for, or translators might even overlook these entities and not translate them at all.
 		</para>
 		 <para>
-			In order to avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities required to actually build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates required entities with default values when you create a book. Required entities vary by brand, but only the following are required for a standard book: 
+			In order to avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities required to actually build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates required entities with default values when you create a book. Required entities vary by brand, but only the following are required for a standard book:
 			<itemizedlist>
 				<listitem>
 					<para>
