@@ -73,6 +73,14 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term>data source, datasource (n.)</term>
+            <listitem>
+                <para>
+                    Use the two-word form unless referring to a proper noun, argument, variable, or other case where the one-word form is required.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_store_n.">
 			<term>data store (n.)</term>
 			 <listitem>
