@@ -115,23 +115,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-RednbspHat_NetworknbspSatellitenbspServer_and_RednbspHat_NetworknbspProxynbspServer">
-			<term>Red&nbsp;Hat Network&nbsp;Satellite&nbsp;Server and Red&nbsp;Hat Network&nbsp;Proxy&nbsp;Server</term>
-			 <listitem>
-				<para>
-					Correct. Write these names in full the first time that you use them in a document. Subsequently, you can write "RHN Satellite Server" and "RHN Proxy Server," or omit the word "Server" from any of the previous constructions.
-				</para>
-				 <para>
-					With sufficient context, you can refer to "Satellite" and "Proxy" - for example, "RHN Satellite and Proxy" instead of "RHN Satellite and RHN Proxy."
-				</para>
-				 <para>
-					Do not use "Red Hat Satellite (Server)" or "Red Hat Proxy (Server)."
-				</para>
-				 <remark>Under review.</remark>
 
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-Red_Hat_Way">
 			<term>Red Hat Way</term>
 			 <listitem>
