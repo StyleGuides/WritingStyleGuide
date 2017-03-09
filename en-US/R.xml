@@ -255,16 +255,6 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-runtime">
-			<term>runtime</term>
-			 <listitem>
-				<para>
-					Correct. Do not use "run time" or "run-time."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 
 	</variablelist>
 </chapter>
