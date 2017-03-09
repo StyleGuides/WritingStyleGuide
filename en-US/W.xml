@@ -52,14 +52,16 @@
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term>webhook (n.)</term>
-            <listitem>
-                <para>
-                    One word. Common noun. Capitalize only at the beginning of a sentence. Use alternative capitalization only if it appears as a proper noun.
-                </para>
-            </listitem>
-        </varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-webhook_n.">
+			<term>webhook (n.)</term>
+			 <listitem>
+				<para>
+					One word. Common noun. Capitalize only at the beginning of a sentence. Use alternative capitalization only if it appears as a proper noun.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-web_UI">
 			<term>web UI</term>
 			 <listitem>
