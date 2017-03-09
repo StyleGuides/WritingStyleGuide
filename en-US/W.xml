@@ -36,7 +36,7 @@
 			<term>want</term>
 			 <listitem>
 				<para>
-					Use instead of "wish" or "would like." Better is to avoid it entirely by rewriting. For example, "If you want to use the debugger..." can be rewritten as "To use the debugger..."
+					Use instead of "wish" or "would like." Better to avoid it entirely by rewriting. For example, "If you want to use the debugger..." can be rewritten as "To use the debugger..."
 				</para>
 
 			</listitem>
@@ -46,12 +46,20 @@
 			<term>we suggest</term>
 			 <listitem>
 				<para>
-					Do not use. Use a more direct construction, or use "recommend." For example, instead of "We suggest that you make a backup of your data disk," write "Back up your data disk," or "It is recommended that you back up your data disk."
+					Do not use. Use a more direct construction, or use "recommend." For example, instead of "We suggest that you make a backup of your data disk," write "Back up your data disk."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term>webhook (n.)</term>
+            <listitem>
+                <para>
+                    One word. Common noun. Capitalize only at the beginning of a sentence. Use alternative capitalization only if it appears as a proper noun.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-web_UI">
 			<term>web UI</term>
 			 <listitem>
