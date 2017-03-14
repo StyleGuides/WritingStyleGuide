@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<book><xi:include href="Book_Info.xml"
+		  xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+
+<xi:include href="Preface.xml"
+	    xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+
+<!-- lessons start here -->
+
+<xi:include href="minimalism.xml"
+	    xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+
+<xi:include href="active.xml"
+	    xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+
+<xi:include href="articles.xml"
+	    xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+
+
+
+<xi:include href="pronouns.xml"
+	    xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+
+<xi:include href="Revision_History.xml"
+	    xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+
+<index>
+<!-- nothing yet --> 
+</index>
+
+</book>

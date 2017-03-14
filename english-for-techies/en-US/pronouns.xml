@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<chapter>
+  <title>
+    Pronouns
+  </title>
+
+  <para>
+    Pronouns are pointers to a noun. These are some common singular pronouns&#58;
+  </para>
+
+  <itemizedlist>
+    <listitem>
+      <para>
+	you
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+	it
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+	this
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+	that
+      </para>
+    </listitem>
+  </itemizedlist>
+
+  <para>
+    These are some common plural pronouns&#58;
+  </para>
+
+  <itemizedlist>
+    <listitem>
+      <para>
+	they
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+	these
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+	those
+      </para>
+    </listitem>
+  </itemizedlist>
+
+  <para>
+    In technical writing, pronouns are simplified because English
+    doesn't assign gender to inorganic things.
+  </para>
+
+  <note>
+    <para>
+      If you are writing a use case and need to reference a fictional
+      human, it's common to use generic terms, such as a job title
+      instead of an arbitrary name, such as &#34;John&#34; or
+      &#34;Jane&#34;, and the pronoun &#34;they&#34; instead of
+      &#34;him&#34; or &#34;her&#34;.
+    </para>
+  </note>
+  
+  <section id="pronouns_tutorial">
+    <title>How to use pronouns</title>
+
+  <para>
+    For pronouns to work as designed, they require two things&#58;
+  </para>
+
+  <orderedlist>
+    <listitem>
+      <para>
+	The reader must know what noun the pronoun references.
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+	The tense of the pronoun and its noun and verb must match.
+      </para>
+    </listitem>
+  </orderedlist>
+
+  <para>
+    Here are some examples&#58;
+  </para>
+  
+    <formalpara>
+      <title>Singular noun</title>
+      
+      <para>
+	When referring back to a singular noun, use the pronoun
+	<emphasis>it</emphasis>. For example&#58;
+      </para>
+    </formalpara>
+      <para>
+	The server is running RHEL 7, and it has 8 TB of storage.
+      </para>	
+    
+    <formalpara>
+      <title>Plural pronouns</title>
+
+      <para>
+	When referring back to a plural noun, use the pronoun
+	<emphasis>they</emphasis>. For example&#58;
+      </para>
+    </formalpara>      
+      <para>
+	Desktop computers often get used for office tasks, but they
+	can also be configured as servers for a small network.
+      </para>
+
+    <formalpara>
+      <title>Possessive pronouns</title>
+      
+      <para>
+	To indicate that a pronoun possesses something, use a
+	the possessive form of the appropriate pronoun. For example&#58;
+      </para>
+    </formalpara>
+    
+      <para>
+	Emacs is a text editor, but its real power is its LISP
+	interpreter.
+      </para>
+
+      <para>
+	The same applies for plural forms&#58;
+      </para>
+
+      <para>
+	Open source programmers are brave to subject their code to the
+	scrutiny of anyone who wants to look at it.
+      </para>
+
+
+    <formalpara>
+      <title>Pronouns in context</title>
+      
+      <para>
+	Sometimes a pronoun is used in a separate sentence from the
+	one that establishes the noun it references. This relies on
+	the reader to understand from context which noun the pronoun most
+	likely refers to. 
+      </para>
+</formalpara>
+      <para>
+	Sometimes it is very obvious. In the phrase &#34;I like drinking coffee
+	while I sit and type at my computer. Sometimes, I even dunk a
+	doughnut into it,&#34; the reader knows from contextual clues
+	that the writer means &#34;Sometimes, I even dunk a doughnut
+	into my coffee&#34; and not &#34;Sometimes, I even dunk a
+	doughnut into my computer.&#34;
+      </para>
+
+      <para>
+	Sometimes it is less obvious. In the phrase &#34;The foo
+	command is working to replace the bar command. It is installed
+	by default, and it has a bug in it that erases all of your
+	data permanently, so must not be used,&#34; the reader cannot
+	know definitively which command erases all of their data and
+	which command is safe. Sometimes, using a pronoun is not as
+	effective as being explicit.
+      </para>
+    
+
+    <formalpara>
+      <title>Verify your pronouns</title>
+
+      <para>
+	To verify that a pronoun makes sense, reread a sentence or
+	paragraph, replacing the pronoun you chose with the subject&#58;
+	For example&#58;
+      </para>
+    </formalpara>    
+      <para>
+	Desktop computers often get used for office tasks, but desktop
+	computers can also be configured as servers for a small
+	network.
+      </para>
+
+      <para>
+	If it still says what you meant to say, then you have placed
+	the pronoun in the correct place. If it does not make sense,
+	or if it impossible to read back with its subject replaced
+	because there is no indication of what the correct subject is,
+	then the pronoun has not been used correctly.
+      </para>
+
+  </section>
+
+  <section id="pronouns_exercise">
+    <title>Exercise</title>
+
+    <para>
+      Correct these pronouns as needed&#58;
+    </para>
+
+    <orderedlist>
+      <listitem>
+	<para>
+	  The systems administrators imaged the computers so that
+	  its host names followed a logical naming scheme.
+	</para>
+      </listitem>
+
+      <listitem>
+	<para>
+	  Return the laptop to the store and get refunded for them.
+	</para>
+      </listitem>
+
+      <listitem>
+	<para>
+	  Okular is the best PDF viewer on the market. Admittedly,
+	  it's not the best format for digital releases compared to
+	  EPUB, but it's great for printing.
+	</para>
+      </listitem>
+
+      <listitem>
+	<para>
+	  The systems administrators imaged each computer so that
+	  its host name followed a logical naming scheme.
+	</para>
+      </listitem>
+    </orderedlist>
+      
+  </section>
+</chapter>

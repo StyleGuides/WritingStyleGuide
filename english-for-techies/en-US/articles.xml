@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<chapter>
+  <title>
+    Definite and indefinite articles
+  </title>
+
+  <para>
+    The word <emphasis>the</emphasis> is a definite article. Use it to&#58;
+  </para>
+
+  <itemizedlist>
+    <listitem>
+      <para>
+	refer to a specific instance of something. For example:
+      </para>
+      <para>
+	Click the <guibutton>OK</guibutton> button.
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+	refer to a all instances of something. For example:
+      </para>
+      <para>
+	Use the <code>for</code> loop from the code sample to iterate
+	over each file.
+      </para>
+    </listitem>
+  </itemizedlist>
+
+  <para>
+    The words <emphasis>a</emphasis> and <emphasis>an</emphasis> are
+    indefinite articles. Use them to&#58;
+
+  <itemizedlist>
+    <listitem>
+      <para>
+	refer to a classification of something, but not a specific
+	instance of one. Two examples&#58;
+      </para>
+      <para>
+	Press a key to continue.
+      </para>
+      <para>
+	Use a compiler to build this code.
+      </para>
+    </listitem>
+    <listitem>
+      <para>
+	refer to something generically. For example:
+      </para>
+      <para>
+	An image from the video is displayed.
+      </para>
+      <para>
+	When the task is complete, a new window opens.
+      </para>
+    </listitem>
+  </itemizedlist>
+    
+  </para>
+
+  <para>
+    There are two indefinite articles. Which one you use depends on
+    the object it precedes.
+  </para>
+
+  <variablelist>
+    <varlistentry>
+      <term>
+    Use <emphasis>a</emphasis> when the object
+    begins with a consonant, or sounds like it begins with a consonant
+    when pronounced aloud&#58;
+      </term>
+      <listitem>
+	<para>
+	  a UNIX system
+	</para>
+	<para>
+	  a window
+	</para>
+	<para>
+	  a button
+	</para>
+	<para>
+	  a TCP port
+	</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>
+	Use <emphasis>an</emphasis> when the object begins with a
+	vowel, or sounds like it begins with a vowel when pronounced
+	aloud&#58;
+      </term>
+      <listitem>
+	<para>
+	  an MPEG stream
+	</para>
+	<para>
+	  an application
+	</para>
+	<para>
+	  an error message
+	</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+
+  <section id="articles_exercise">
+    <title>Exercise</title>
+
+    <para>
+      Identify the incorrect articles in these sentences&#58;
+    </para>
+
+    <orderedlist>
+      <listitem>
+	<para>
+	  Log in to the workstation VM and open the window to
+	  /home/student/code.
+	</para>
+      </listitem>
+
+      <listitem>
+	<para>
+	  Click an <guibutton>Next</guibutton> button to continue.
+	</para>
+      </listitem>
+
+      <listitem>
+	<para>
+	  By default, there are three windows on the desktop. Read a
+	  title bar of each window to find the window called
+	  <guilabel>Foo</guilabel>. In this window, enter your
+	  password in a text field.
+	</para>
+      </listitem>
+    </orderedlist>
+    
+  </section>
+</chapter>
