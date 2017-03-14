@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE bookinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<bookinfo><title>English for Techies</title>
+<subtitle>English Lessons for Tech Writers</subtitle>
+<productname>Documentation</productname>
+<productnumber>0.1</productnumber>
+<edition>1</edition>
+<pubsnumber>0</pubsnumber>
+<abstract>
+  <para>
+    This class covers common grammar that all writers should be
+    familiar with, some writing practices specific to Red Hat, and
+    some specific to GLS. All are important for an effective technical
+    writer.
+  </para>
+</abstract>
+<corpauthor><inlinemediaobject><imageobject><imagedata fileref="Common_Content/images/title_logo.svg" format="SVG"></imagedata></imageobject></inlinemediaobject></corpauthor><xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include><xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include></bookinfo>

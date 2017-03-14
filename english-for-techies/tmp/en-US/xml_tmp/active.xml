@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<chapter>
+  <title>
+    Active Voice
+  </title>
+
+  <para>
+    Writing in the <firstterm>active voice</firstterm> creates
+    powerful and engaging content. The active voice suggests that the
+    written word is &#34;speaking&#34; directly to the reader,
+    enabling the reader to learn quickly, and to take action an
+    exercise requires it. For technical writing, the active voice is
+    the clearest way to demonstrate action and
+    result, or cause and effect.
+  </para>
+
+  <para>
+    In the active voice, the subject of the sentence is also
+    the person or thing performing an action:
+  </para>
+
+  <formalpara>
+    <title>Active voice</title>
+    <para>
+      I compiled the code.
+    </para>
+  </formalpara>
+  
+  <para>
+    The <firstterm>passive voice</firstterm> is the opposite of active
+    voice. In the passive voice, the subject of the sentence is the
+    person or thing receiving action:
+  </para>
+
+  <formalpara>
+    <title>Passive voice</title>
+    <para>
+      The code was compiled by me.
+    </para>
+  </formalpara>
+    
+  <para>
+    While the passive voice is not grammatically incorrect, it is less
+    efficient than the active voice and also tends to cause confusion
+    about who is doing what.
+  </para>
+
+  <para>
+    For instance, it is impossible for a
+    reader to know with certainty whether the sentence &#34;A key
+    being pressed prompts the computer to continue,&#34; is an
+    instruction to press a key, or just a footnote about what happens
+    when a key is pressed.
+  </para>
+
+  <para>
+    The active voice is both clearer and more concise&#58;
+    &#34;Press any key to continue.&#34;
+  </para>  
+
+  <section id="active_tutorial">
+    <title>How to write in the active voice</title>
+
+    <para>
+      Use the active voice by writing as if you're composing a list of
+      instructions for your reader. You are not writing a description
+      of what the reader would see if the reader were sitting in front
+      of your computer, seeing what you see as you write. The reader
+      is seeing what is on the screen, and they are doing what you
+      tell them to do.
+    </para>
+
+    <para>
+      Here are some examples of sentences written in the passive
+      voice, and how to rewrite them in the active voice&#58;
+    </para>
+
+    <variablelist>
+      <title>Convert paragraphs to minimalism</title>
+
+      <varlistentry>
+	<term>
+	  Passive voice&#58;
+	</term>
+	<listitem>
+	  <para>
+	    The values of the XML configuration can be found by
+	    parsing the file with the Xerces library in C++.
+	  </para>
+	</listitem>
+      </varlistentry>
+
+      <varlistentry>
+	<term>
+	  Active voice&#58;
+	</term>
+	<listitem>
+	  <para>
+	    Parse the XML configuration file using the <ulink
+	    url="https://xerces.apache.org/xerces-c/">Xerces</ulink>
+	    C++ library.
+	  </para>
+	</listitem>	
+      </varlistentry>
+
+      <varlistentry>
+	<term>
+	  Passive voice&#58;
+	</term>
+	<listitem>
+	  <para>
+	     Open XYZ Viewer by double-clicking the XYZ Tools icon from
+	     the workstation desktop.
+	  </para>
+	</listitem>
+      </varlistentry>
+
+      <varlistentry>
+	<term>
+	  Active voice&#58;
+	</term>
+	<listitem>
+	  <para>
+	    Double-click the <guibutton>XYZ Tools</guibutton> icon on
+	    the workstation desktop to open <application>XYZ
+	    Viewer</application>.
+	  </para>
+	</listitem>	
+      </varlistentry>
+
+      <varlistentry>
+	<term>
+	  Passive voice&#58;
+	</term>
+	<listitem>
+	  <para>
+	    It was presented earlier in this book the syntax for using
+	    XML configuration files with a Python module imported into
+	    the <application>PyFoo</application> code base.
+	  </para>
+	</listitem>
+      </varlistentry>
+
+      <varlistentry>
+	<term>
+	  Active voice&#58;
+	</term>
+	<listitem>
+	  <para>
+	    The syntax for XML configuration, and the steps to import
+	    the required module into 
+	    <application>PyFoo</application>, were explained in
+	    the <emphasis>Importing the BeautifulSoup module</emphasis>
+	    section.
+	  </para>
+	</listitem>
+      </varlistentry>
+
+    </variablelist>
+  </section>
+
+  <section id="active_exercise">
+      <title>Exercise</title>
+
+      <para>
+	Rewrite each paragraph in the active voice.
+      </para>
+
+      <orderedlist>
+	<listitem>
+	  <para>
+	    <!-- Do NOT correct this. It is intentionally wrong. -->
+	    The QTextEdit field should be placed in the right corner
+	    of the QMainWindow.
+	  </para>
+	</listitem>
+
+	<listitem>
+	  <para>
+	    <!-- Do NOT correct this. It is intentionally wrong. -->
+	    To begin the code compilation process, GCC is used.
+	  </para>
+	</listitem>
+
+	<listitem>
+	  <para>
+	    <!-- Do NOT correct this. It is intentionally wrong. -->
+	    The previous three steps should be repeated to complete
+	    RHSM registration on each machine.
+	  </para>
+	</listitem>
+      </orderedlist>
+
+  </section>
+</chapter>

@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+]>
+<chapter>
+  <title>
+    Minimalism
+  </title>
+
+  <para>
+    &#34;Minimalism&#34;, in the context of technical writing, is
+    writing less to write clearly.
+  </para>
+
+  <para>
+    That definition, rewritten the <emphasis>wrong</emphasis> way:
+  </para>
+
+  <para>
+    &#34;Minimalism&#34; is an artistic discipline that can appear in
+    any medium, even technical writing. When writing technical
+    documentation, you may want to use minimalism. You should write
+    fewer words in order to reach your central point, but without the
+    loss of useful or important information.
+  </para>
+
+  <para>
+    The first version, while terse, is better. It is simple, it states
+    exactly the information the author wants to convey, it leaves no
+    room for questions. This is typical of minimalism.
+  </para>
+
+  <para>
+    Advantages of minimalism are:
+  </para>
+
+  <itemizedlist>
+    <listitem>
+      <para>
+	Writing fewer words provide fewer opportunities for you to
+	make writing mistakes.
+      </para>
+    </listitem>
+
+    <listitem>
+      <para>
+	Readers are less likely to misinterpret the intent of a
+	message when your writing is direct and concise.
+      </para>
+    </listitem>
+
+    <listitem>
+      <para>
+	Maintenance and updates are easier when there is less to
+	maintain and update.
+      </para>
+    </listitem>
+
+    <listitem>
+      <para>
+	Translation of your writing to other languages is easier when
+	the meaning of your writing is obvious.
+      </para>
+    </listitem>
+
+    <listitem>
+      <para>
+	Tech editing is faster when there are fewer words to review.
+      </para>
+    </listitem>
+
+    <listitem>
+      <para>
+	It is more efficient to write less to communicate more.
+      </para>
+    </listitem>
+
+  </itemizedlist>
+
+  <section id="minimalism_tutorial">
+    <title>How to implement minimalism</title>
+
+    <para>
+      Humans tend to think verbosely, so minimalism does not usually
+      occur in a first draft. That's expected, but during your
+      self-edit, look for sentences that use idiomatic phrases,
+      "filler" words, or that restate a point that has already been
+      made, and rewrite them using fewer words.
+    </para>
+
+    <para>
+      Here are some examples of how to use minimalism by
+      rewriting verbose sentences&#58;
+    </para>
+
+    <variablelist>
+      <title>Convert paragraphs to minimalism</title>
+
+      <varlistentry>
+	<term>
+	  Bad &#40;21 words&#41;&#58;
+	</term>
+	<listitem>
+	  <para>
+	    A static IP address should be set on the server in order
+	    to log in to it remotely from the client.
+	  </para>
+	</listitem>
+      </varlistentry>
+
+      <varlistentry>
+	<term>
+	  Better &#40;12 words&#41;&#58;
+	</term>
+	<listitem>
+	  <para>
+	    Set a static IP address on the server to enable remote login.
+	  </para>
+	</listitem>
+      </varlistentry>
+      
+      <varlistentry>
+	<term>
+	  Bad &#40;47 words&#41;&#58;
+	</term>
+	<listitem>
+	  <para>
+	    The standard XYZ solution for the granularity concern
+	    these concerns would be XYZ Bundle Repository (XBR), but
+	    XBR failed to get traction in the market. Another example
+	    of a popular software system that relies on XYZ but
+	    choose to not rely on XBR is the Emacs editor.
+	  </para>
+	</listitem>
+      </varlistentry>
+
+      <varlistentry>
+	<term>
+	  Better &#40;20 words&#41;&#58;
+	</term>
+	<listitem>
+	  <para>
+	    <application>Emacs</application> is an XYZ-compliant
+	    editor allowing developers to create and modify XYZ
+	    bundles without installing XYZ Bundle Repository.
+	  </para>
+	</listitem>
+      </varlistentry>
+    </variablelist>
+
+    <para>
+      Ideally, minimalism doesn't just shorten a sentence, but makes
+      the point of the sentence clearer. It allows the reader to focus
+      on what is important.
+    </para>
+
+  </section>
+
+    <section id="minimalism_exercise">
+      <title>Exercise</title>
+
+      <para>
+	Rewrite each paragraph, bearing minimalism in mind:
+      </para>
+      
+      <orderedlist>
+	<listitem>
+	  <para>
+	    <!-- Do NOT correct this. It is intentionally wrong. -->
+	    Click on the <guibutton>OK</guibutton> button to confirm
+	    the action and close the dialogue box.
+	  </para>
+	</listitem>
+
+	<listitem>
+	  <para>
+	    <!-- Do NOT correct this. It is intentionally wrong. -->
+	    Look through each menu item to familiarize yourself with
+	    all the options available to you throughout the interface
+	    before attempting to utilize the API so that you have some
+	    idea of what functions users expect to have available to
+	    them.
+	  </para>
+	</listitem>
+	
+	<listitem>
+	  <para>
+	    <!-- Do NOT correct this. It is intentionally wrong. -->
+	    Click on the <guibutton>OX</guibutton> button to confirm
+	    the action and close the dialogue box.
+	  </para>
+	</listitem>
+	
+	<listitem>
+	  <para>
+	    <!-- Do NOT correct this. It is intentionally wrong. -->
+	    In the right panel, you should see that the
+	    <guilabel>XYZ</guilabel> view will show that the most
+	    recent task has been completed and is waiting for you to
+	    continue. In order to verify this, click the
+	    <guibutton>OK</guibutton> in the lower left corner of the
+	    interface in your web browser. This will display a
+	    verification message confirming that the test passed and
+	    that it is safe for you to continue to the next phase of
+	    the exercise.
+	  </para>
+	</listitem>
+
+	<listitem>
+	  <para>
+	    <!-- Do NOT correct this. It is intentionally wrong. -->
+	   As you will see later in this chapter, both the
+	   <application>foo</application> and
+	   <application>bar</application> applications work with a
+	   pipeline concept, which is sequential. However, you may
+	   want to use <application>foo</application> when it's
+	   available, since it also has the ability to trigger an
+	   exchange to multiple destinations simultaneously, utilizing
+	   parallel processing where possible.
+	 </para>
+	</listitem>
+      </orderedlist>
+      
+    </section>
+  </chapter>
