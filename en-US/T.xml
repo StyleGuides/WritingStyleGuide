@@ -162,6 +162,14 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry id="tooltip">
+            <term>tooltip (n.)</term>
+            <listitem>
+                <para>
+                    Correct. One word. Use the term "tooltip" to refer to a brief, textual description that is displayed when a cursor is moved over a graphical image, such as an icon or button. Do not use the term "hover help".
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-totally">
 			<term>totally</term>
 			 <listitem>
