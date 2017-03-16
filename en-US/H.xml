@@ -86,7 +86,7 @@
 					Two words. This is a change from the previous style standard (one word) to take advantage of the better search ranking of the two-word variation, and is used in product names that are similar to competitive offerings in the same space.
 				</para>
 				 <para>
-					This term is only capitalized when part of a product name, for example: 
+					This term is only capitalized when part of a product name, for example:
 					<itemizedlist>
 						<listitem>
 							<para>
@@ -222,6 +222,14 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term>hover help</term>
+            <listitem>
+                <para>
+                    See <xref linkend="tooltip"/>.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-HP_ProLiant">
 			<term>HP ProLiant</term>
 			 <listitem>
