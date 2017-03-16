@@ -27,26 +27,34 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GB_abbreviation_of_gigabyte">
-			<term>GB (abbreviation of gigabyte)</term>
+			<term>GB</term>
 			 <listitem>
 				<para>
-					Depending on the type of content you are writing, refer either to <citetitle>The AP Style Guide</citetitle> or <citetitle>The IBM Style Guide.</citetitle>
+					Abbreviation of gigabyte. Depending on the type of content you are writing, refer either to <citetitle>The AP Style Guide</citetitle> or <citetitle>The IBM Style Guide.</citetitle>
 				</para>
 				 <para>
 					AP style: Do not use a space between the value and the abbreviation. For example, "a 2GB file."
 				</para>
 				 <para>
-					IBM style: Use a space between the value and the abbreviation. For example, "a 2 GB file."
+					IBM style: Use a non-breaking space between the value and the abbreviation. For example, "a 2&nbsp;GB file."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term id="gbe">GbE</term>
+            <listitem>
+                <para>
+                    Correct. Approved abbreviation of Gigabit Ethernet. Do not use GigE or any other variations. Use a non-breaking space between the unit and any value to prevent widows and orphans.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-Gbps">
 			<term>Gbps</term>
 			 <listitem>
 				<para>
-					Short for Gigabits per second, a data transfer speed measurement for high-speed networks such as Gigabit Ethernet. When used to describe data transfer rates, a gigabit equals 1,000,000,000 bits.
+					Abbreviation of Gigabits per second, a data transfer speed measurement for high-speed networks such as Gigabit Ethernet. When used to describe data transfer rates, a gigabit equals 1,000,000,000 bits. Use a non-breaking space between the unit and any value to prevent widows and orphans.
 				</para>
 
 			</listitem>
@@ -112,11 +120,19 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term>GigE</term>
+            <listitem>
+                <para>
+                    See <xref linkend="gbe"/>.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gigabyte">
 			<term>gigabyte</term>
 			 <listitem>
 				<para>
-					2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB."
+					2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB." Use a non-breaking space between the unit and any value to prevent widows and orphans.
 				</para>
 
 			</listitem>
