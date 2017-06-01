@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GB_abbreviation_of_gigabyte">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GB">
 			<term>GB</term>
 			 <listitem>
 				<para>
@@ -42,14 +42,16 @@
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term id="gbe">GbE</term>
-            <listitem>
-                <para>
-                    Correct. Approved abbreviation of Gigabit Ethernet. Do not use GigE or any other variations. Use a non-breaking space between the unit and any value to prevent widows and orphans.
-                </para>
-            </listitem>
-        </varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GbE">
+			<term id="gbe">GbE</term>
+			 <listitem>
+				<para>
+					Correct. Approved abbreviation of Gigabit Ethernet. Do not use GigE or any other variations. Use a non-breaking space between the unit and any value to prevent widows and orphans.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-Gbps">
 			<term>Gbps</term>
 			 <listitem>
@@ -120,14 +122,16 @@
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term>GigE</term>
-            <listitem>
-                <para>
-                    See <xref linkend="gbe"/>.
-                </para>
-            </listitem>
-        </varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GigE">
+			<term>GigE</term>
+			 <listitem>
+				<para>
+					See <xref linkend="gbe" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gigabyte">
 			<term>gigabyte</term>
 			 <listitem>
