@@ -132,6 +132,14 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry id="microservice">
+            <term>microservice <emphasis>(n.)</emphasis></term>
+            <listitem>
+                <para>
+                    Correct. One word, common noun. Do not use "micro-service" or "micro service". Only capitalize at the beginning of a sentence or in a title. See <ulink url="https://en.wikipedia.org/wiki/Microservices">https://en.wikipedia.org/wiki/Microservices</ulink> for a definition.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Microsoft">
 			<term>Microsoft</term>
 			 <listitem>
