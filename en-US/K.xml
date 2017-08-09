@@ -106,10 +106,18 @@
             </listitem>
         </varlistentry>
         <varlistentry>
+            <term>keytab</term>
+            <listitem>
+                <para>
+                     <emphasis>n.</emphasis> <emphasis>(Kerberos)</emphasis> Correct. A keytab (short for "key table") stores long-term keys for one or more principals. See <ulink url="https://web.mit.edu/kerberos/krb5-1.12/doc/basic/keytab_def.html"></ulink> for full details.
+                </para>
+            </listitem>
+        </varlistentry>
+        <varlistentry>
             <term>key-value</term>
             <listitem>
                 <para>
-                    <emphasis>adj.</emphasis> Correct when referring to a data representation in computing systems and applications, for example a "key-value pair." Do not use "key/value" or any other variations.
+                     <emphasis>adj.</emphasis> Correct when referring to a data representation in computing systems and applications, for example a "key-value pair." Do not use "key/value" or any other variations.
                 </para>
             </listitem>
         </varlistentry>
