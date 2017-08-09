@@ -70,8 +70,10 @@
 			<term>kernel space (n.), kernel-space (adj.)</term>
 			 <listitem>
 				<para>
-					Correct when used as a noun. When used as a modifier, use the hyphenated form, "kernel-space." Do not use "kernelspace."
+					<emphasis>n.</emphasis> Correct when used as a noun.
 				</para>
+                <para>
+                    <emphasis>adj.</emphasis> When used as a modifier, use the hyphenated form, "kernel-space." Do not use "kernelspace."</para>
 
 			</listitem>
 
@@ -83,12 +85,20 @@
 					When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X." When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S."
 				</para>
 				 <para>
-					See also Spacebar.
+					See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-Spacebar"/>.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term>key-value</term>
+            <listitem>
+                <para>
+                    <emphasis>adj.</emphasis> Correct when referring to a data representation in computing systems and applications, for example a "key-value pair." Do not use "key/value" or any other variations.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-Kickstart">
 			<term>Kickstart</term>
 			 <listitem>
