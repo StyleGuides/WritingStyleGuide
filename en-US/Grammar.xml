@@ -344,7 +344,7 @@
 		</formalpara>
 		 <note>
 			<para>
-				Read your sentences aloud, as if each sentence were the *only* sentence on a piece of paper. If you hear a sentence which does not make any sense by itself, then it is probably a sentence fragment.
+				Read your sentences aloud, as if each sentence were the *only* sentence on a piece of paper. If you hear a sentence that does not make any sense by itself, then it is probably a sentence fragment.
 			</para>
 
 		</note>
@@ -446,7 +446,7 @@
 
 		</table>
 		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-_Word_Ordering_">
-			<title> Word Ordering </title>
+			<title>Word Order</title>
 			 <para>
 				When two or more correct arrangements are possible, choose the order that will create the least ambiguity. Generally, this is the standard subject-verb-object, with modifiers before or immediately following what they modify.
 			</para>
