@@ -16,16 +16,6 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-canceled">
-			<term>canceled</term>
-			 <listitem>
-				<para>
-					This is the preferred en-US spelling. Do not use "cancelled."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cannot">
 			<term>cannot</term>
 			 <listitem>
@@ -175,7 +165,7 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-client_side_adj._client_side_n.">
-			<term>client-side (adj.) client side (n.)</term>
+			<term>client-side, client side</term>
 			 <listitem>
 				<para>
 					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example: "Winbind is a client-side service used to connect to Windows NT servers."
@@ -257,17 +247,17 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-comma_delimited_adj.">
-			<term>comma-delimited (adj.)</term>
+			<term>comma-delimited</term>
 			 <listitem>
 				<para>
-					Correct (compound adjective). A data format in which each piece of data is separated by a comma. This is a popular format for transferring data from one application to another, because most database systems are able to import and export comma-delimited data.
+                    <emphasis>adj.</emphasis> Correct (compound adjective). A data format in which each piece of data is separated by a comma. This is a popular format for transferring data from one application to another, because most database systems are able to import and export comma-delimited data.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_button_n.">
-			<term>command button (n.)</term>
+			<term>command button</term>
 			 <listitem>
 				<para>
 					Use "button" instead.
@@ -277,10 +267,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_driven_adj.">
-			<term>command-driven (adj.)</term>
+			<term>command-driven</term>
 			 <listitem>
 				<para>
-					Correct (compound adjective). Do not use "command driven" or "commanddriven."
+                    <emphasis>adj.</emphasis> Correct (compound adjective). Do not use "command driven" or "commanddriven."
 				</para>
 				 <para>
 					Refers to programs and operating systems that accept commands in the form of special words or letters. In contrast, programs that provide a list of options in a menu are said to be menu-driven.
@@ -293,7 +283,7 @@
 			<term>command language</term>
 			 <listitem>
 				<para>
-					The programming language through which a user communicates with the operating system or an application. For example, the DOS command language includes the commands DIR, COPY, and DEL, to name a few. The part of an operating system that responds to operating system commands is called the command processor.
+					<emphasis>n.</emphasis> The programming language through which a user communicates with the operating system or an application. For example, the DOS command language includes the commands DIR, COPY, and DEL, to name a few. The part of an operating system that responds to operating system commands is called the command processor.
 				</para>
 				 <para>
 					With graphical user interfaces, the command language consists of operations you perform with a mouse or similar input device.
@@ -322,6 +312,14 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry id="caas">
+            <term>Containers-as-a-Service</term>
+            <listitem>
+                <para>
+                    The term "Containers-as-a-Service" is owned by Docker and should only be used when referring to that company's offering. See also <xref linkend="aas"/>.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-container_based">
 			<term>container-based</term>
 			 <listitem>

@@ -17,10 +17,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-agile_agile_development_adj.">
-			<term>agile, agile development (adj.)</term>
+			<term>agile, agile development</term>
 			 <listitem>
 				<para>
-					Use only as an adjective. It is not a proper noun, nor is it owned or trademarked and should not be capitalized.
+					<emphasis>adj.</emphasis> Use only as an adjective. It is not a proper noun, nor is it owned or trademarked and should not be capitalized.
 				</para>
 
 			</listitem>
@@ -30,7 +30,7 @@
 			<term>air gap</term>
 			 <listitem>
 				<para>
-					Use "air gap" to describe systems that are separated, not by software, but physically. Do not use "air wall." "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.
+					<emphasis>n.</emphasis> Use "air gap" to describe systems that are separated, not by software, but physically. Do not use "air wall." "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.
 				</para>
 
 			</listitem>
@@ -131,7 +131,7 @@
 			<term>and/or</term>
 			 <listitem>
 				<para>
-					Do not use. If tempted to use it, rewrite to make the available options explicit and clear. Do not write <emphasis>this and/or that</emphasis>. Write <emphasis>this or that or both</emphasis>.
+					Avoid if possible. Try to rewrite to make the available options explicit and clear. Do not write <emphasis>this and/or that</emphasis>. Write <emphasis>this or that or both</emphasis>.
 				</para>
 
 			</listitem>
@@ -143,14 +143,11 @@
 				<para>
 					When used as a proper name, use the capitalization of the product, such as GNUPro, Source-Navigator, and Red&nbsp;Hat Enterprise&nbsp;Linux. When used as a command, use lowercase as appropriate, such as "To start GCC, type gcc."
 				</para>
-				 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-applications-Note">
-					<title>Note:</title>
-					 <para>
-						"vi" is always lowercase.
-					</para>
-
-				</formalpara>
-
+                <note>
+                    <para>
+                        "vi" is always lowercase.
+                    </para>
+                </note>
 			</listitem>
 
 		</varlistentry>
@@ -174,6 +171,34 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term id="aas">as-a-Service</term>
+            <listitem>
+                <para>
+                    Be aware that there is a great deal of overlap in as-a-Service acronyms. To avoid confusion, always spell out the full term on first possible use.
+                </para>
+                <itemizedlist>
+<listitem><para>DRaaS (Disaster Recovery-as-a-Service)</para></listitem>
+<listitem><para>CaaS (Cloud-as-a-Service, Communications-as-a-Service, <xref linkend="caas"/>)</para></listitem>
+<listitem><para>UCaaS (Unified Communications-as-a-Service)</para></listitem>
+<listitem><para>FaaS (Function[s]-as-a-Service)</para></listitem>
+<listitem><para>SaaS (Search-as-a-Service, Security-as-a-Service, Storage-as-a-Service, or Software-as-a-Service)</para></listitem>
+<listitem><para>PaaS (Payments-as-a-Service, Platform-as-a-Service)</para></listitem>
+<listitem><para>MaaS (Messaging-as-a-Service)</para></listitem>
+<listitem><para>SECaaS (Security-as-a-Service)</para></listitem>
+<listitem><para>TDBaaS (Time-series Database as a Service)</para></listitem>
+                    </itemizedlist>
+                    <para>
+                        When using as-a-Service acronyms:
+                    </para>
+                    <itemizedlist>
+<listitem><para>Capitalize the noun (e.g., Platform, Software, Infrastructure) and Service, both when abbreviated and written out.</para></listitem>
+<listitem><para>When in all capitals, such as a title or headline, the aa in the acronym remains lowercase (e.g., INTRODUCTION TO PaaS SOLUTIONS).</para> </listitem>
+<listitem><para>Hyphenate when written out: Thing-as-a-Service. For two-word prefixes, do not include a hyphen between the first and second words: Mobile Backend-as-a-Service. Can be used as an adjective to describe multiple (e.g., when referring to an IaaS, PaaS, and SaaS, use as-a-Service offerings, as-a-Service products, or similar wording).</para></listitem>
+<listitem><para>Avoid an acronym if it could stand for more than one term in a single asset (e.g., if you're writing content that discusses both Cloud-as-a-Service and Containers-as-a-Service).</para></listitem>
+                        </itemizedlist>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-auto_detect">
 			<term>auto-detect</term>
 			 <listitem>
@@ -188,7 +213,7 @@
 			<term>autofs</term>
 			 <listitem>
 				<para>
-					todo
+					Always lowercase. This refers to the kernel-based automount utility. No other forms are recognized.
 				</para>
 
 			</listitem>
