@@ -85,12 +85,26 @@
 			<term>license</term>
 			 <listitem>
 				<para>
-					Correct. Use this form for both the noun and the verb.
+					<emphasis>n., vb.</emphasis> Correct. Use this form for both the noun and the verb.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term>life cycle, life-cycle, lifecycle</term>
+            <listitem>
+                <para>
+                    <emphasis>n.</emphasis> Two words. Only use the one-word form if it is an established part of a software interface, part of a proper noun, or an external standard.
+                </para>
+                <para>
+                    <emphasis>adj.</emphasis> Hyphenate.
+                </para>
+                <para>
+                    See <citetitle>The IBM Style Guide</citetitle> for more information.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-Linux">
 			<term>Linux</term>
 			 <listitem>
@@ -146,7 +160,7 @@
 			<term>logical topology</term>
 			 <listitem>
 				<para>
-					Also called signal topology. Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The way that the workstations are connected to the network through the actual cables that transmit data - the physical structure of the network - is called the physical topology. The logical topology, in contrast, is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices.
+					Also called signal topology. Every LAN has a topology, or the way that the devices on a network are arranged and how they communicate with each other. The physical topology is the way that the workstations are connected to the network through the actual cables that transmit data - the physical structure of the network. The logical topology, in contrast, is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices.
 				</para>
 
 			</listitem>
@@ -205,7 +219,7 @@
 			<term>LPAR</term>
 			 <listitem>
 				<para>
-					Short for logical partitioning, a system of taking a computer's total resources — processors, memory and storage — and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client/server actions or systems that serve multiple time zones and/or languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Since the partitions in effect act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
+					Abbreviation of logical partitioning, a system of taking a computer's total resources — processors, memory and storage — and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client/server actions or systems that serve multiple time zones and/or languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Since the partitions in effect act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
 				</para>
 
 			</listitem>
