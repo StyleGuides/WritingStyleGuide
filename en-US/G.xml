@@ -7,7 +7,7 @@
 	<title>G</title>
 	 <variablelist>
 		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-g_or_G">
-			<term>g++ or G++</term>
+			<term>g++, G++</term>
 			 <listitem>
 				<para>
 					When referring to the command, use g++. When referring to the program, use G++.
@@ -17,7 +17,7 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gas_or_GAS">
-			<term>gas or GAS</term>
+			<term>gas, GAS</term>
 			 <listitem>
 				<para>
 					When referring to the command, use gas. When referring to the program, use GAS.
@@ -63,7 +63,7 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gcc_or_GCC">
-			<term>gcc or GCC</term>
+			<term>gcc, GCC</term>
 			 <listitem>
 				<para>
 					When referring to the command, use gcc. When referring to the program, use GCC.
@@ -73,7 +73,7 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gcj_or_GCJ">
-			<term>gcj or GCJ</term>
+			<term>gcj, GCJ</term>
 			 <listitem>
 				<para>
 					When referring to the command, use gcj. When referring to the program, use GCJ.
@@ -83,7 +83,7 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gdb_or_GDB">
-			<term>gdb or GDB</term>
+			<term>gdb, GDB</term>
 			 <listitem>
 				<para>
 					When referring to the command, use gdb. When referring to the program, use GDB.
@@ -102,6 +102,14 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term>GEO</term>
+            <listitem>
+                <para>
+                    Do not use. Use "region" or "geographical location" according to your needs.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GFS_GFS2">
 			<term>GFS, GFS2</term>
 			 <listitem>
@@ -213,10 +221,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-grayscale_n.">
-			<term>grayscale (n.)</term>
+			<term>grayscale</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized.
+                    <emphasis>n.</emphasis> Correct. Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized.
 				</para>
 
 			</listitem>
