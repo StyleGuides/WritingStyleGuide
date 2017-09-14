@@ -180,9 +180,9 @@
 				<para>
 					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example: "Winbind is a client-side service used to connect to Windows NT servers."
 				</para>
-                <para>
-                    <emphasis>n.</emphasis> Use the two-word form as a noun. For example: "Winbind runs on the client side of a client/server Samba implementation."
-                </para>
+				 <para>
+					<emphasis>n.</emphasis> Use the two-word form as a noun. For example: "Winbind runs on the client side of a client/server Samba implementation."
+				</para>
 
 			</listitem>
 
@@ -236,7 +236,6 @@
 			</listitem>
 
 		</varlistentry>
-
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-code">
 			<term>code</term>
 			 <listitem>

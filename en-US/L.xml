@@ -91,20 +91,22 @@
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term>life cycle, life-cycle, lifecycle</term>
-            <listitem>
-                <para>
-                    <emphasis>n.</emphasis> Two words. Only use the one-word form if it is an established part of a software interface, part of a proper noun, or an external standard.
-                </para>
-                <para>
-                    <emphasis>adj.</emphasis> Hyphenate.
-                </para>
-                <para>
-                    See <citetitle>The IBM Style Guide</citetitle> for more information.
-                </para>
-            </listitem>
-        </varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-life_cycle_life_cycle_lifecycle">
+			<term>life cycle, life-cycle, lifecycle</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Two words. Only use the one-word form if it is an established part of a software interface, part of a proper noun, or an external standard.
+				</para>
+				 <para>
+					<emphasis>adj.</emphasis> Hyphenate.
+				</para>
+				 <para>
+					See <citetitle>The IBM Style Guide</citetitle> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-Linux">
 			<term>Linux</term>
 			 <listitem>

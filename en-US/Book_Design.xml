@@ -9,7 +9,7 @@
 		This section describes a general approach to the overall layout and design of technical documentation. This design was developed specifically for technical documentation and may not suit content produced by other groups.
 	</para>
 	 <para>
-		This section covers the following topics:
+		This section covers the following topics: 
 		<itemizedlist>
 			<listitem>
 				<para>
@@ -71,7 +71,7 @@
 			 </footnote>
 		</para>
 		 <para>
-			A suitable abstract covers the high-level topics of the book, and is probably a good place to mention the audience. It should cover the following basics:
+			A suitable abstract covers the high-level topics of the book, and is probably a good place to mention the audience. It should cover the following basics: 
 			<itemizedlist>
 				<listitem>
 					<para>

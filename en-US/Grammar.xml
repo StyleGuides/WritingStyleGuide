@@ -445,7 +445,7 @@
 			</tgroup>
 
 		</table>
-		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-_Word_Ordering_">
+		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Word_Order">
 			<title>Word Order</title>
 			 <para>
 				When two or more correct arrangements are possible, choose the order that will create the least ambiguity. Generally, this is the standard subject-verb-object, with modifiers before or immediately following what they modify.
