@@ -43,7 +43,7 @@
 					When referring to the change directory command, use <command>cd</command>.
 				</para>
 				 <para>
-					When referring to a compact disk, use "CD," for example, "Insert the CD into the CD drive." The plural is "CDs."
+					When referring to a compact disk, use "CD." For example, "Insert the CD into the CD drive." The plural is "CDs."
 				</para>
 				 <para>
 					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle> for more information.
@@ -131,6 +131,17 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term>CI/CD</term>
+            <listitem>
+                <para>
+                    Define on first use; generally continuous integration/continuous delivery. This is not continuous development, a term with questionable usefulness and only marginal adoption.
+                </para>
+                <para>
+                    See also <xref linkend="ci"/>, <xref linkend="cd"/>, <xref linkend="cdeploy"/>.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-ciphertext">
 			<term>ciphertext</term>
 			 <listitem>
@@ -302,16 +313,36 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-connectivity">
-			<term>connectivity</term>
-			 <listitem>
-				<para>
-					A computer buzzword that refers to a program or device's ability to link with other programs and devices. For example, a program that can import data from a wide variety of other programs and can export data in many different formats is said to have good connectivity. On the other hand, computers that have difficulty linking into a network (many laptop computers, for example) have poor connectivity.
-				</para>
+        <varlistentry>
+            <term>commodity</term>
+            <listitem>
+                <para>
+                    Avoid using "commodity" when referring to hardware, including servers or storage, because it implies that the hardware is undifferentiated and can make conservative readers think it is cheap. Use instead:
+                </para>
+                <itemizedlist>
+                    <listitem>
+                        <para>
+                            Volume
+                        </para>
+                    </listitem>
+                    <listitem>
+                        <para>
+                            Industry-standard
+                        </para>
+                    </listitem>
+                </itemizedlist>
+            </listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>communication service provider (CSP)</term>
+            <listitem>
+                <para>
+                    Another way to refer to a telecommunications provider. See also telecommunications, telco.
+                </para>
+            </listitem>
+        </varlistentry>
 
-			</listitem>
 
-		</varlistentry>
         <varlistentry id="caas">
             <term>Containers-as-a-Service</term>
             <listitem>
@@ -340,6 +371,30 @@
 			</listitem>
 
 		</varlistentry>
+        <varlistentry>
+            <term id="cd">continuous delivery (CD)</term>
+            <listitem>
+                <para>
+                    A software implementation architecture that ensures all approved code can be easily pushed to production.
+                </para>
+            </listitem>
+        </varlistentry>
+        <varlistentry>
+            <term id="cdeploy">continuous deployment</term>
+            <listitem>
+                <para>
+                    A special case of continuous delivery, where approved code is automatically pushed to production. Do not use "CD" to refer to this practice.
+                </para>
+            </listitem>
+        </varlistentry>
+        <varlistentry>
+            <term id="ci">continuous integration (CI)</term>
+            <listitem>
+                <para>
+                    A software development architecture where the developer code branch is synchronized with the main code branch or master multiple times per day. Development always works with the current code base.
+                </para>
+            </listitem>
+        </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-contractions">
 			<term>contractions</term>
 			 <listitem>
@@ -443,7 +498,7 @@
 			<term>cross-platform</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "crossplatform" or "cross platform."
+					<emphasis>adj.</emphasis> Hyphenate. Do not use "crossplatform" or "cross platform."
 				</para>
 				 <para>
 					Refers to the capability of software or hardware to run identically on different platforms.
