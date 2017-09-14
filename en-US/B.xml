@@ -7,7 +7,7 @@
 	<title>B</title>
 	 <variablelist>
 		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-back_end_n._back_end_adj.">
-			<term>back end (n.), back-end (adj.)</term>
+			<term>back end, back-end</term>
 			 <listitem>
 				<para>
                     <emphasis>n.</emphasis> Two words. Refers to software that performs the final stages of a process, or tasks that are not visible to the user. For example, "each back end provides a set of calls."
