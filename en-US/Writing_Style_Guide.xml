@@ -6,7 +6,7 @@
 <book>
 	<xi:include href="Book_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <xi:include href="Preface.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <!--                             <xi:include href="Chapter_Punctuation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                        --> <part id="part-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Style_Guide" label="I">
+	 <!--                              <xi:include href="Chapter_Punctuation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                         --> <part id="part-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Style_Guide" label="I">
 		<title>Writing Style Guide</title>
 		 <partintro>
 			<para>
@@ -57,9 +57,9 @@
 		 <xi:include href="W.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 		 <xi:include href="XYZ.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 		 <xi:include href="WUG_References.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-		 <!--                              <xi:include href="WUG_Intro.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                               -->
+		 <!--                               <xi:include href="WUG_Intro.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                -->
 	</part>
 	 <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <!--                             <index />                              -->
+	 <!--                              <index />                               -->
 </book>
 

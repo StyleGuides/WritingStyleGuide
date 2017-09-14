@@ -131,17 +131,19 @@
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term>CI/CD</term>
-            <listitem>
-                <para>
-                    Define on first use; generally continuous integration/continuous delivery. This is not continuous development, a term with questionable usefulness and only marginal adoption.
-                </para>
-                <para>
-                    See also <xref linkend="ci"/>, <xref linkend="cd"/>, <xref linkend="cdeploy"/>.
-                </para>
-            </listitem>
-        </varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-CICD">
+			<term>CI/CD</term>
+			 <listitem>
+				<para>
+					Define on first use; generally continuous integration/continuous delivery. This is not continuous development, a term with questionable usefulness and only marginal adoption.
+				</para>
+				 <para>
+					See also <xref linkend="ci" />, <xref linkend="cd" />, <xref linkend="cdeploy" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-ciphertext">
 			<term>ciphertext</term>
 			 <listitem>
@@ -175,7 +177,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-client_side_adj._client_side_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-client_side_client_side">
 			<term>client-side, client side</term>
 			 <listitem>
 				<para>
@@ -257,17 +259,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-comma_delimited_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-comma_delimited">
 			<term>comma-delimited</term>
 			 <listitem>
 				<para>
-                    <emphasis>adj.</emphasis> Correct (compound adjective). A data format in which each piece of data is separated by a comma. This is a popular format for transferring data from one application to another, because most database systems are able to import and export comma-delimited data.
+					<emphasis>adj.</emphasis> Correct (compound adjective). A data format in which each piece of data is separated by a comma. This is a popular format for transferring data from one application to another, because most database systems are able to import and export comma-delimited data.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_button_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_button">
 			<term>command button</term>
 			 <listitem>
 				<para>
@@ -277,11 +279,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_driven_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_driven">
 			<term>command-driven</term>
 			 <listitem>
 				<para>
-                    <emphasis>adj.</emphasis> Correct (compound adjective). Do not use "command driven" or "commanddriven."
+					<emphasis>adj.</emphasis> Correct (compound adjective). Do not use "command driven" or "commanddriven."
 				</para>
 				 <para>
 					Refers to programs and operating systems that accept commands in the form of special words or letters. In contrast, programs that provide a list of options in a menu are said to be menu-driven.
@@ -313,44 +315,51 @@
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term>commodity</term>
-            <listitem>
-                <para>
-                    Avoid using "commodity" when referring to hardware, including servers or storage, because it implies that the hardware is undifferentiated and can make conservative readers think it is cheap. Use instead:
-                </para>
-                <itemizedlist>
-                    <listitem>
-                        <para>
-                            Volume
-                        </para>
-                    </listitem>
-                    <listitem>
-                        <para>
-                            Industry-standard
-                        </para>
-                    </listitem>
-                </itemizedlist>
-            </listitem>
-        </varlistentry>
-        <varlistentry>
-            <term>communication service provider (CSP)</term>
-            <listitem>
-                <para>
-                    Another way to refer to a telecommunications provider. See also telecommunications, telco.
-                </para>
-            </listitem>
-        </varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-commodity">
+			<term>commodity</term>
+			 <listitem>
+				<para>
+					Avoid using "commodity" when referring to hardware, including servers or storage, because it implies that the hardware is undifferentiated and can make conservative readers think it is cheap. Use instead:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Volume
+						</para>
 
+					</listitem>
+					 <listitem>
+						<para>
+							Industry-standard
+						</para>
 
-        <varlistentry id="caas">
-            <term>Containers-as-a-Service</term>
-            <listitem>
-                <para>
-                    The term "Containers-as-a-Service" is owned by Docker and should only be used when referring to that company's offering. See also <xref linkend="aas"/>.
-                </para>
-            </listitem>
-        </varlistentry>
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-communication_service_provider_CSP">
+			<term>communication service provider (CSP)</term>
+			 <listitem>
+				<para>
+					Another way to refer to a telecommunications provider. See also telecommunications, telco.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-Containers_as_a_Service">
+			<term>Containers-as-a-Service</term>
+			 <listitem>
+				<para>
+					The term "Containers-as-a-Service" is owned by Docker and should only be used when referring to that company's offering. See also <xref linkend="aas" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-container_based">
 			<term>container-based</term>
 			 <listitem>
@@ -371,30 +380,36 @@
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term id="cd">continuous delivery (CD)</term>
-            <listitem>
-                <para>
-                    A software implementation architecture that ensures all approved code can be easily pushed to production.
-                </para>
-            </listitem>
-        </varlistentry>
-        <varlistentry>
-            <term id="cdeploy">continuous deployment</term>
-            <listitem>
-                <para>
-                    A special case of continuous delivery, where approved code is automatically pushed to production. Do not use "CD" to refer to this practice.
-                </para>
-            </listitem>
-        </varlistentry>
-        <varlistentry>
-            <term id="ci">continuous integration (CI)</term>
-            <listitem>
-                <para>
-                    A software development architecture where the developer code branch is synchronized with the main code branch or master multiple times per day. Development always works with the current code base.
-                </para>
-            </listitem>
-        </varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-continuous_delivery_CD">
+			<term id="cd">continuous delivery (CD)</term>
+			 <listitem>
+				<para>
+					A software implementation architecture that ensures all approved code can be easily pushed to production.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-continuous_deployment">
+			<term id="cdeploy">continuous deployment</term>
+			 <listitem>
+				<para>
+					A special case of continuous delivery, where approved code is automatically pushed to production. Do not use "CD" to refer to this practice.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-continuous_integration_CI">
+			<term id="ci">continuous integration (CI)</term>
+			 <listitem>
+				<para>
+					A software development architecture where the developer code branch is synchronized with the main code branch or master multiple times per day. Development always works with the current code base.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-contractions">
 			<term>contractions</term>
 			 <listitem>

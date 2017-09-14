@@ -6,7 +6,7 @@
 <chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-G">
 	<title>G</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-g_or_G">
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-g_G">
 			<term>g++, G++</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gas_or_GAS">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gas_GAS">
 			<term>gas, GAS</term>
 			 <listitem>
 				<para>
@@ -62,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gcc_or_GCC">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gcc_GCC">
 			<term>gcc, GCC</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gcj_or_GCJ">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gcj_GCJ">
 			<term>gcj, GCJ</term>
 			 <listitem>
 				<para>
@@ -82,7 +82,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gdb_or_GDB">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gdb_GDB">
 			<term>gdb, GDB</term>
 			 <listitem>
 				<para>
@@ -102,14 +102,16 @@
 			</listitem>
 
 		</varlistentry>
-        <varlistentry>
-            <term>GEO</term>
-            <listitem>
-                <para>
-                    Do not use. Use "region" or "geographical location" according to your needs.
-                </para>
-            </listitem>
-        </varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GEO">
+			<term>GEO</term>
+			 <listitem>
+				<para>
+					Do not use. Use "region" or "geographical location" according to your needs.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GFS_GFS2">
 			<term>GFS, GFS2</term>
 			 <listitem>
@@ -220,11 +222,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-grayscale_n.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-grayscale">
 			<term>grayscale</term>
 			 <listitem>
 				<para>
-                    <emphasis>n.</emphasis> Correct. Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized.
+					<emphasis>n.</emphasis> Correct. Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized.
 				</para>
 
 			</listitem>
