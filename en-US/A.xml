@@ -184,46 +184,55 @@
 						<para>
 							DRaaS (Disaster Recovery-as-a-Service)
 						</para>
+
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							CaaS (Cloud-as-a-Service, Communications-as-a-Service, <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-Containers_as_a_Service" />)
 						</para>
+
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							UCaaS (Unified Communications-as-a-Service)
 						</para>
+
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							FaaS (Function[s]-as-a-Service)
 						</para>
+
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							SaaS (Search-as-a-Service, Security-as-a-Service, Storage-as-a-Service, or Software-as-a-Service)
 						</para>
+
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							PaaS (Payments-as-a-Service, Platform-as-a-Service)
 						</para>
+
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							MaaS (Messaging-as-a-Service)
 						</para>
+
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							SECaaS (Security-as-a-Service)
 						</para>
+
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							TDBaaS (Time-series Database as a Service)
 						</para>
+
 					</listitem>
 
 				</itemizedlist>
@@ -235,22 +244,25 @@
 						<para>
 							Capitalize the noun (e.g., Platform, Software, Infrastructure) and Service, both when abbreviated and written out.
 						</para>
+
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							When in all capitals, such as a title or headline, the aa in the acronym remains lowercase (e.g., INTRODUCTION TO PaaS SOLUTIONS).
 						</para>
 
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							Hyphenate when written out: Thing-as-a-Service. For two-word prefixes, do not include a hyphen between the first and second words: Mobile Backend-as-a-Service. Can be used as an adjective to describe multiple (e.g., when referring to an IaaS, PaaS, and SaaS, use as-a-Service offerings, as-a-Service products, or similar wording).
 						</para>
+
 					</listitem>
-					<listitem>
+					 <listitem>
 						<para>
 							Avoid an acronym if it could stand for more than one term in a single asset (e.g., if you're writing content that discusses both Cloud-as-a-Service and Containers-as-a-Service).
 						</para>
+
 					</listitem>
 
 				</itemizedlist>

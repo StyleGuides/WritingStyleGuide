@@ -105,7 +105,7 @@
 			<term>check</term>
 			 <listitem>
 				<para>
-					Do not use. Use "verify," "make sure," "ensure," or "read," depending on the context.
+					Avoid. Use "verify," "make sure," "ensure," or "read," depending on the context.
 				</para>
 
 			</listitem>
@@ -115,7 +115,7 @@
 			<term>check box</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "checkbox."
+					<emphasis>n.</emphasis> Two words. Do not use "checkbox" or "check-box."
 				</para>
 
 			</listitem>
@@ -125,7 +125,7 @@
 			<term>chip set</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "chipset."
+					<emphasis>n.</emphasis> Two words. Do not use "chipset" or "chip-set."
 				</para>
 
 			</listitem>
@@ -148,17 +148,7 @@
 			<term>ciphertext</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "cipher text" or "cipher-text" or other variants.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-clear_text">
-			<term>clear text</term>
-			 <listitem>
-				<para>
-					Do not use. Use "plain text" instead.
+					<emphasis>n.</emphasis> One word. Do not use "cipher text" or "cipher-text" or other variants.
 				</para>
 
 			</listitem>
@@ -168,7 +158,7 @@
 			<term>click</term>
 			 <listitem>
 				<para>
-					Use when referring to a GUI control button, for example, "Click <guibutton>OK</guibutton>."
+					<emphasis>v.</emphasis> Use when referring to a GUI control button, for example, "Click <guibutton>OK</guibutton>."
 				</para>
 				 <para>
 					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle> for more information.
@@ -269,6 +259,16 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-comma_separated_values_CSV">
+			<term>comma-separated values (CSV)</term>
+			 <listitem>
+				<para>
+					Use this in preference to "comma-delimited values" whenever possible. The initialism CSV is widely used to denote information broken up through use of commas. Often used to share data between different, but similar applications, wherein the comma is a translator of the data.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-command_button">
 			<term>command button</term>
 			 <listitem>
@@ -341,10 +341,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-communication_service_provider_CSP">
-			<term>communication service provider (CSP)</term>
+			<term id="csp">communication service provider (CSP)</term>
 			 <listitem>
 				<para>
-					Another way to refer to a telecommunications provider. See also telecommunications, telco.
+					Another way to refer to a telecommunications provider. See also <xref linkend="telecoms" />, <xref linkend="telco" />.
 				</para>
 
 			</listitem>
@@ -527,16 +527,6 @@
 			 <listitem>
 				<para>
 					Correct. When referring to cross-site scripting attacks, use "cross-site scripting attack." Acceptable use is also "cross-site scripting (XSS) attack."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-comma_separated_values_CSV">
-			<term>comma-separated values (CSV)</term>
-			 <listitem>
-				<para>
-					Use this in preference to "comma-delimited values" whenever possible. The initialism CSV is widely used to denote information broken up through use of commas. Often used to share data between different, but similar applications, wherein the comma is a translator of the data.
 				</para>
 
 			</listitem>

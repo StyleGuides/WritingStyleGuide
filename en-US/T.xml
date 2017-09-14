@@ -10,17 +10,37 @@
 			<term>taskbar (n.)</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "task bar."
+					<emphasis>n.</emphasis> Two words. Do not use "task bar."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-tar_tarball_n.">
-			<term>tar, tarball (n.)</term>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-tar_tarball">
+			<term>tar, tarball</term>
 			 <listitem>
 				<para>
-					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle>.
+					<emphasis>n.</emphasis> See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-telco">
+			<term id="telco">telco</term>
+			 <listitem>
+				<para>
+					Preferred abbreviation for "telecommunications company." Do not use "telecom." See also <xref linkend="csp" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-telecommunications">
+			<term id="telecoms">telecommunications</term>
+			 <listitem>
+				<para>
+					Vertical for communication service providers. Preferred abbreviation is "telco."
 				</para>
 
 			</listitem>

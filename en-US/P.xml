@@ -60,10 +60,10 @@
 			<term>plain text</term>
 			 <listitem>
 				<para>
-					Correct in almost all cases. Do not use "plaintext," "plain-text," "cleartext" or "clear text."
+					<emphasis>n.</emphasis> Two words. In most cases, do not use "plaintext," "cleartext" or other variants.
 				</para>
 				 <para>
-					Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm). We use "plain text" as a plain English denotation of all unencrypted information, whether it is sitting about just being stored or is being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext."
+					Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm). Red&nbsp;Hat uses "plain text" as a plain English denotation of all unencrypted information, whether it is sitting about just being stored or is being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext."
 				</para>
 
 			</listitem>

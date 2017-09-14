@@ -132,13 +132,13 @@
 					</listitem>
 					 <listitem>
 						<para>
-							In programming, load means to copy data from main memory into a data register.
+							<emphasis>v.</emphasis> In programming, "to load" means to move from one storage type to another storage type for use.
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							In networking, load refers to the amount of data (traffic) being carried by the network.
+							<emphasis>n.</emphasis> The measurement of how any finite resource is being used. For example, the amount of data (traffic) being carried by the network, or the amount of CPU being used at any given time.
 						</para>
 
 					</listitem>
