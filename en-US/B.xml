@@ -10,23 +10,21 @@
 			<term>back end (n.), back-end (adj.)</term>
 			 <listitem>
 				<para>
-					"Back end" is a noun, "back-end" is an adjective. Refers to software that performs the final stages of a process, or tasks that are not visible to the user.
+                    <emphasis>n.</emphasis> Two words. Refers to software that performs the final stages of a process, or tasks that are not visible to the user. For example, "each back end provides a set of calls."
+				</para>
+
+				 <para>
+					<emphasis>adj.</emphasis> Hyphenate. For example, "when the back-end database processes a search operation…"
 				</para>
 				 <para>
-					Example of noun: "Each back end provides a set of calls."
-				</para>
-				 <para>
-					Example of adjective: "When the back-end database processes a search operation…"
-				</para>
-				 <para>
-					Do not use "backend" as either a noun or an adjective.
+					Do not use "backend."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-backup_adj._n._back_up_v.">
-			<term>backup (adj., n.), back up (v.)</term>
+			<term>backup, back up</term>
 			 <listitem>
 				<para>
 					Depending on usage, this could appear in either of two ways:
@@ -34,19 +32,19 @@
 				 <itemizedlist>
 					<listitem>
 						<para>
-							Adjective: Store the backup copies of important files in a secure location.
+							<emphasis>adj.</emphasis> One word. For example, "store the backup copies of important files in a secure location."
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							Noun: Create a backup of your important files.
+							<emphasis>n.</emphasis> One word. For example, "create a backup of your important files."
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							Verb: Always back up important files.
+							<emphasis>v.</emphasis> Two words. For example, "always back up important files."
 						</para>
 
 					</listitem>
@@ -63,7 +61,7 @@
 			<term>backtrace</term>
 			 <listitem>
 				<para>
-					Correct. "Backtrace" is the most common term used to refer to a stack trace (or stack backtrace), which is a report of the active stack frames (that is, function calls) at a certain point in time during the execution of a program. In contrast, the Python programming language calls its stack trace a "traceback," possibly because the stack frames are printed in the opposite order of those presented by gdb, the GNU Debugger. "Traceback" is the preferred term when referring to a Python stack trace.
+					<emphasis>n.</emphasis> "Backtrace" is the most common term used to refer to a stack trace (or stack backtrace), which is a report of the active stack frames (that is, function calls) at a certain point in time during the execution of a program. In contrast, the Python programming language calls its stack trace a "traceback," possibly because the stack frames are printed in the opposite order of those presented by gdb, the GNU Debugger. "Traceback" is the preferred term when referring to a Python stack trace.
 				</para>
 
 			</listitem>
@@ -93,8 +91,11 @@
 			<term>bare metal</term>
 			 <listitem>
 				<para>
-					As a noun, use two words: "bare metal". As an adjective, use a hyphen: "bare-metal".
+					<emphasis>n.</emphasis> Two words.
 				</para>
+                <para>
+                    <emphasis>adj.</emphasis> Hyphenate.
+                </para>
 
 			</listitem>
 
@@ -130,10 +131,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-big_data_n._adj.">
-			<term>big data (n., adj.)</term>
+			<term>big data</term>
 			 <listitem>
 				<para>
-					Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cloud" />. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
+					<emphasis>n., adj.</emphasis> Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-cloud" />. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
 				</para>
 
 			</listitem>
@@ -152,21 +153,25 @@
 					<para>
 						Hybrid IT is a more general term, e.g. it could mean on-premise plus public cloud. Agile and modern IT can both carry an implication of "mode 2"--so when using those terms, be specific about the exact technology combination you mean.
 					</para>
-
 				</note>
-
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bimonthly_biweekly_adj._adv.">
-			<term>bimonthly, biweekly (adj., adv.)</term>
+			<term>bimonthly, biweekly, semiweekly, semimonthly</term>
 			 <listitem>
 				<para>
-					Correct. Every other week or month.
+					People have trouble remembering if biweekly means "every two weeks" or "twice a week."  Semiweekly has a similar problem. Even though both terms have clear dictionary definitions, we recommend that you avoid them in favor of clear communication.
 				</para>
 
-			</listitem>
+                <para>
+                    Instead of biweekly, write: "every two weeks" or "every other week."
+                </para>
 
+                <para>
+                    Instead of semiweekly or semimonthly, write: "twice a week."
+                </para>
+            </listitem>
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-BIND">
 			<term>BIND</term>
@@ -215,10 +220,10 @@
 			<term>boot</term>
 			 <listitem>
 				<para>
-					Verb: To load the first piece of software that starts a computer. Because the operating system is essential for running all other programs, it is usually the first piece of software loaded during the boot process.
+					<emphasis>v.</emphasis> To load the first piece of software that starts a computer. Because the operating system is essential for running all other programs, it is usually the first piece of software loaded during the boot process.
 				</para>
 				 <para>
-					Noun: Refers to the starting-up of a computer, which involves loading the operating system and other basic software. A cold boot refers to starting a computer that is turned off. A warm boot refers to resetting a computer that is already running.
+					<emphasis>n.</emphasis> Refers to the starting-up of a computer, which involves loading the operating system and other basic software. A cold boot refers to starting a computer that is turned off. A warm boot refers to resetting a computer that is already running.
 				</para>
 				 <para>
 					Boot is an abbreviation of bootstrap, which in olden days was a strap attached to the top of your boot that you could pull to help get your boot on. Hence, the expression "pull oneself up by the bootstraps." Similarly, bootstrap utilities help the computer get started.
@@ -231,7 +236,7 @@
 			<term>boot disk</term>
 			 <listitem>
 				<para>
-					Correct. Two words. Do not use "boot diskette."
+					Two words. Do not use "boot diskette."
 				</para>
 
 			</listitem>
@@ -241,7 +246,7 @@
 			<term>boot loader</term>
 			 <listitem>
 				<para>
-					Correct. Two words. Do not use "bootloader."
+					Two words. Do not use "bootloader."
 				</para>
 
 			</listitem>
@@ -251,7 +256,7 @@
 			<term>bottleneck</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "bottle neck" or "bottle-neck."
+					One word. Do not use "bottle neck" or "bottle-neck."
 				</para>
 				 <para>
 					A bottleneck refers to the delay in transmission of data through the circuits of a computer's microprocessor or over a TCP/IP network. The delay typically occurs when a system's bandwidth cannot support the amount of information being relayed at the speed it is being processed. There are, however, many factors that can create a bottleneck in a system.
@@ -330,17 +335,17 @@
 			<term>bug fix</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "bugfix."
+					Two words. Do not use "bugfix."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-built_in_adj.">
-			<term>built-in (adj.)</term>
+			<term>built-in</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "builtin."
+					<emphasis>adj.</emphasis> Hyphenate. Do not use "builtin."
 				</para>
 
 			</listitem>
@@ -363,7 +368,7 @@
 					Describe a GUI button as a "button," not a "pushbutton" or "push-button."
 				</para>
 				 <para>
-					Ordinarily you would not need to include the text "button" in a procedure or description. For example, "Click <guibutton>OK</guibutton> to continue" is perfectly acceptable. It may be necessary to distinguish between buttons and links; for example, "Click the <guibutton>Unload</guibutton> button."
+					Ordinarily you would not include the text "button" in a procedure or description. For example, "Click <guibutton>OK</guibutton> to continue" is perfectly acceptable. It may be necessary to distinguish between buttons and links; for example, "Click the <guibutton>Unload</guibutton> button."
 				</para>
 
 			</listitem>
