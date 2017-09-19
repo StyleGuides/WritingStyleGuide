@@ -6,7 +6,7 @@
 <chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Grammar">
 	<title>Grammar</title>
 	 <para>
-		This section contains information on a few common grammar topics. For subjects not covered here, consult The Chicago Manual of Style, 16th Edition.
+		This section contains information on a few common grammar topics. For subjects not covered here, consult The Chicago Manual of Style, 17th Edition.
 	</para>
 	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Grammar-Active_Voice">
 		<title>Active Voice</title>
@@ -663,6 +663,7 @@
 		</para>
 
 	</section>
+    <xi:include href="Punctuation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Grammar-Hyphenation">
 		<title>Hyphenation</title>
 		 <para>
