@@ -238,31 +238,91 @@ $ vi myFile.txt
 			<title>Using Host and User Names Correctly</title>
 			 <para>
 				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following:
-				<itemizedlist>
-					<listitem>
-						<para>
-							Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem class="domainname">example.com,</systemitem> <systemitem class="domainname">example.net,</systemitem> <systemitem class="domainname">example.org,</systemitem> and <systemitem class="domainname">example.edu.</systemitem>
-						</para>
+            </para>
+            <itemizedlist>
+                <listitem>
+                    <para>
+                        Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem class="domainname">example.com,</systemitem> <systemitem class="domainname">example.net,</systemitem> <systemitem class="domainname">example.org,</systemitem> and <systemitem class="domainname">example.edu.</systemitem>
+                    </para>
+                </listitem>
+                <listitem>
+                <para>
+                    As much as possible, use <systemitem class="username">user,</systemitem> <systemitem class="username">username,</systemitem> <systemitem class="username">root,</systemitem> <systemitem class="username">admin</systemitem> or similar names to identify classes of users. Do not invent names such as Joe, Mary, Mac, and so on.
+                </para>
+                <para>
+                    If a more extensive list of user names is required, see <xref linkend="extended-usernames"/>.
+                </para>
+            </listitem>
+            <listitem>
+                <para>
+                    Do not use valid, public IP addresses in any examples.
+                </para>
+            </listitem>
+        </itemizedlist>
+        <section id="extended-usernames"><title>Using Extended User, Group, and Project Names</title>
+            <para>
+                Sometimes, the recommended list of user, group, or project names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable:
+            </para>
+            <note>
+                <para>
+                    All names are lowercase. Do not use white space in any part of the name.
+                </para>
+            </note>
+            <formalpara><title>User Names</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>
+                                <systemitem>operator1</systemitem> to <systemitem>operator9</systemitem>
+                            </para>
+                        </listitem>
+                            <listitem>
+                            <para>
+                                <systemitem>deverloper1</systemitem> to <systemitem>developer9</systemitem>
+                            </para>
+                        </listitem>
+                            <listitem>
+                            <para>
+                                <systemitem>architect1</systemitem> to <systemitem>architect9</systemitem>
+                            </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara><title>Project Names</title>
+                <para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>
+                                <systemitem>operations</systemitem>
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                <systemitem>research</systemitem>
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                <systemitem>marketing</systemitem>
+                            </para>
+                        </listitem>
+                        <listitem>
+                            <para>
+                                <systemitem>finance</systemitem>
+                            </para>
+                        </listitem>
+                    </itemizedlist>
+                </para>
+            </formalpara>
+            <formalpara><title>Group Names</title>
+                <para>
+                    Any lowercase, hyphenated combination of a project name and an extended user name, without the numerical suffix. For example, <systemitem>operations-architect</systemitem>, <systemitem>research-developer</systemitem>, <systemitem>marketing-operator</systemitem>.
+                </para>
+            </formalpara>
+        </section>
 
-					</listitem>
-					 <listitem>
-						<para>
-							Use <systemitem class="username">user,</systemitem> <systemitem class="username">username,</systemitem> <systemitem class="username">root,</systemitem> <systemitem class="username">admin</systemitem> or similar names to identify classes of users. Do not invent names such as Joe, Mary, Mac, and so on.
-						</para>
-
-					</listitem>
-					 <listitem>
-						<para>
-							Do not use valid IP addresses in any examples.
-						</para>
-
-					</listitem>
-
-				</itemizedlist>
-
-			</para>
-
-		</section>
+	</section>
 
 	</section>
 	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Documenting_Currencies">
