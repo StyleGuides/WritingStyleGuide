@@ -175,7 +175,7 @@
 			<term>proof of concept</term>
 			 <listitem>
 				<para>
-					Use the following rules to form the plural of this phrase: 
+					Use the following rules to form the plural of this phrase:
 					<itemizedlist>
 						<listitem>
 							<para>
@@ -224,10 +224,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pulldown">
-			<term>pulldown</term>
+			<term>pull-down</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "pull-down."
+                    <emphasis>adj.</emphasis> Correct. Use only if you must specify the type of menu or list. Do not use "pulldown."
 				</para>
 
 			</listitem>
