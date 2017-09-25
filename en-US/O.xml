@@ -199,10 +199,10 @@
 			<term>open source way</term>
 			 <listitem>
 				<para>
-					A phrase adopted by Red Hat branding and opensource.com in 2009. It is a reference to an "open source method", as in "Let's develop this the open source way."
+					A phrase coined by the Red&nbsp;Hat community and adopted by opensource.com in 2009. It is a reference to an "open source method", as in "Let's develop this the open source way."
 				</para>
 				<para>
-				  Do not use to suggest that something is being done in the "spirit" of open source, since this threatens to dilute the term "open source". Use only when describing how a project with a legitimate open source license operates.
+				  Do not use to suggest that something is being done only in the "spirit" of open source without actually having an open source policy as defined by <ulink url="http://opensource.org/osd">Open Source Initiative</ulink> to avoid diluting the legal meaning of the term "open source".
 				</para>
 			</listitem>
 
