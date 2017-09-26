@@ -126,18 +126,16 @@
 			<term>PowerPC</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "PPC," "P-PC" or variations thereof.
+				  The name of the Power architecture is "Power", but the designation of individual chips tend to be either "PowerPC" or "POWER". Refer to IBM marketing or the <ulink url="http://openpowerfoundation.org">Open Power Foundation</ulink> if unsure.
 				</para>
 				 <para>
-					Do not use the "PPC64" shorthand either. Depending on context either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM POWER Series" (which covers the IBM POWER2 and IBM POWER8 series) is correct.
-				</para>
+				   Do not use the "PPC64" or "ppc64le" shorthand. Depending on context either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct. Additional ABI features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
+				 </para>
 				 <para>
-					NB: the PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM POWER series hardware in almost all cases.
+					NB: the PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM Power Series hardware in almost all cases.
 				</para>
-
 			</listitem>
-
-		</varlistentry>
+		 </varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-POSIX">
 			<term>POSIX</term>
 			 <listitem>
