@@ -4,298 +4,298 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation">
-	<title>Writing for Translation</title>
-	 <para>
-		This chapter provides guidelines, tips, and techniques to help make your writing easier to translate.
-	</para>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Sentence_Structure">
-		<title>Sentence Structure</title>
-		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Lists">
-			<title>Lists</title>
-			 <para>
-				Avoid using bullet point lists to format a single sentence. Some translation tools, for example Zanata, display list items and the introductory sentence (or <firstterm>sentence stem</firstterm>) as individual sentences for translation. If these are not complete sentences, they will be difficult to translate.
-			</para>
+  <title>Writing Clearly and Succinctly</title>
+   <para>
+    This chapter provides guidelines, tips, and techniques to help make your writing easier to read and understand, and also to translate.
+  </para>
+   <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Sentence_Structure">
+    <title>Sentence Structure</title>
+     <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Lists">
+      <title>Lists</title>
+       <para>
+        Avoid using bullet point lists to format a single sentence. Some translation tools, for example Zanata, display list items and the introductory sentence (or <firstterm>sentence stem</firstterm>) as individual sentences for translation. If these are not complete sentences, they will be difficult to translate.
+      </para>
 
-		</formalpara>
-		 <table>
-			<title></title>
-			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
-				 <thead>
-					<row>
-						<entry> Example </entry>
-						 <entry> Improvement </entry>
+    </formalpara>
+     <table>
+      <title></title>
+       <tgroup cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1"></colspec>
+         <colspec colname="c2"></colspec>
+         <thead>
+          <row>
+            <entry> Example </entry>
+             <entry> Improvement </entry>
 
-					</row>
+          </row>
 
-				</thead>
-				 <tbody>
-					<row>
-						<entry> <para>
-							Before you start the installation, make sure you have
-						</para>
-						 <itemizedlist>
-							<listitem>
-								<para>
-									enough free storage on your system
-								</para>
+        </thead>
+         <tbody>
+          <row>
+            <entry> <para>
+              Before you start the installation, make sure you have
+            </para>
+             <itemizedlist>
+              <listitem>
+                <para>
+                  enough free storage on your system
+                </para>
 
-							</listitem>
-							 <listitem>
-								<para>
-									backed up any data that you want to keep
-								</para>
+              </listitem>
+               <listitem>
+                <para>
+                  backed up any data that you want to keep
+                </para>
 
-							</listitem>
+              </listitem>
 
-						</itemizedlist>
-						 <para>
-							to ensure a smooth installation.
-						</para>
-						 </entry>
-						 <entry> <para>
-							Before you start the installation, follow these steps to ensure a smooth installation:
-						</para>
-						 <itemizedlist>
-							<listitem>
-								<para>
-									Ensure you have enough free storage on your system.
-								</para>
+            </itemizedlist>
+             <para>
+              to ensure a smooth installation.
+            </para>
+             </entry>
+             <entry> <para>
+              Before you start the installation, follow these steps to ensure a smooth installation:
+            </para>
+             <itemizedlist>
+              <listitem>
+                <para>
+                  Ensure you have enough free storage on your system.
+                </para>
 
-							</listitem>
-							 <listitem>
-								<para>
-									Back up any data that you want to keep.
-								</para>
+              </listitem>
+               <listitem>
+                <para>
+                  Back up any data that you want to keep.
+                </para>
 
-							</listitem>
+              </listitem>
 
-						</itemizedlist>
-						 </entry>
+            </itemizedlist>
+             </entry>
 
-					</row>
+          </row>
 
-				</tbody>
+        </tbody>
 
-			</tgroup>
+      </tgroup>
 
-		</table>
-		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Noun_Stacking">
-			<title>Noun Stacking</title>
-			 <para>
-				Modifier strings (modifier + noun + noun sentence format), over-modified nouns (or noun stacks), are especially difficult to translate, particularly when several different combinations could make sense.
-			</para>
+    </table>
+     <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Noun_Stacking">
+      <title>Noun Stacking</title>
+       <para>
+        Modifier strings (modifier + noun + noun sentence format), over-modified nouns (or noun stacks), are especially difficult to translate, particularly when several different combinations could make sense.
+      </para>
 
-		</formalpara>
-		 <table>
-			<title></title>
-			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
-				 <thead>
-					<row>
-						<entry> Example </entry>
-						 <entry> Improvement </entry>
+    </formalpara>
+     <table>
+      <title></title>
+       <tgroup cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1"></colspec>
+         <colspec colname="c2"></colspec>
+         <thead>
+          <row>
+            <entry> Example </entry>
+             <entry> Improvement </entry>
 
-					</row>
+          </row>
 
-				</thead>
-				 <tbody>
-					<row>
-						<entry> Plastic tubing and syringe tips. </entry>
-						 <entry> Plastic tubing and plastic syringe tips. </entry>
+        </thead>
+         <tbody>
+          <row>
+            <entry> Plastic tubing and syringe tips. </entry>
+             <entry> Plastic tubing and plastic syringe tips. </entry>
 
-					</row>
-					 <row>
-						<entry> Set default printer configuration parameters for new users. Enter the maximum length of time that you want to keep the automatic synchronization address list updates in days and press ENTER. </entry>
-						 <entry> For new users, set the parameters to the default printer configuration. Enter the maximum length of time, in number of days, that you want to keep the address lists updated by automatic synchronization. Then press ENTER. </entry>
+          </row>
+           <row>
+            <entry> Set default printer configuration parameters for new users. Enter the maximum length of time that you want to keep the automatic synchronization address list updates in days and press ENTER. </entry>
+             <entry> For new users, set the parameters to the default printer configuration. Enter the maximum length of time, in number of days, that you want to keep the address lists updated by automatic synchronization. Then press ENTER. </entry>
 
-					</row>
+          </row>
 
-				</tbody>
+        </tbody>
 
-			</tgroup>
+      </tgroup>
 
-		</table>
+    </table>
 
-	</section>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Grammatical_Genders">
-		<title>Grammatical Genders</title>
-		 <para>
-			When using ambiguous pronouns such as "they" or "it" it is not always clear what they refer to. For languages that have different genders for nouns, it is important to know exactly what each pronoun refers to. For example, the word "it" can be translated in several different ways and may require other grammatical adjustments.
-		</para>
-		 <para>
-			Further, an initialism such as RPM might refer to the package or the package manager. In German, manager is a masculine noun, and so RPM requires the masculine article "der" when it refers to the RPM Package Manager. Package is a neuter noun, and requires the neuter article "das" when it refers to an RPM package.
-		</para>
-		 <table>
-			<title></title>
-			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
-				 <thead>
-					<row>
-						<entry> Example </entry>
-						 <entry> Improvement </entry>
+  </section>
+   <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Grammatical_Genders">
+    <title>Grammatical Genders</title>
+     <para>
+      When using ambiguous pronouns such as "they" or "it" it is not always clear what they refer to. For languages that have different genders for nouns, it is important to know exactly what each pronoun refers to. For example, the word "it" can be translated in several different ways and may require other grammatical adjustments.
+    </para>
+     <para>
+      Further, an initialism such as RPM might refer to the package or the package manager. In German, manager is a masculine noun, and so RPM requires the masculine article "der" when it refers to the RPM Package Manager. Package is a neuter noun, and requires the neuter article "das" when it refers to an RPM package.
+    </para>
+     <table>
+      <title></title>
+       <tgroup cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1"></colspec>
+         <colspec colname="c2"></colspec>
+         <thead>
+          <row>
+            <entry> Example </entry>
+             <entry> Improvement </entry>
 
-					</row>
+          </row>
 
-				</thead>
-				 <tbody>
-					<row>
-						<entry> Set the parameter XYZ to 1 in the configuration file /etc/config.conf. It configures the way the Gateway application handles incoming network traffic. </entry>
-						 <entry> Set the XYZ parameter to 1 in the configuration /etc/config.conf file. This parameter configures how the Gateway application handles incoming network traffic. </entry>
+        </thead>
+         <tbody>
+          <row>
+            <entry> Set the parameter XYZ to 1 in the configuration file /etc/config.conf. It configures the way the Gateway application handles incoming network traffic. </entry>
+             <entry> Set the XYZ parameter to 1 in the configuration /etc/config.conf file. This parameter configures how the Gateway application handles incoming network traffic. </entry>
 
-					</row>
-					 <row>
-						<entry> The RPM is useful. </entry>
-						 <entry> The RPM package is useful. <emphasis>OR</emphasis> The RPM Package Manager is useful. </entry>
+          </row>
+           <row>
+            <entry> The RPM is useful. </entry>
+             <entry> The RPM package is useful. <emphasis>OR</emphasis> The RPM Package Manager is useful. </entry>
 
-					</row>
+          </row>
 
-				</tbody>
+        </tbody>
 
-			</tgroup>
+      </tgroup>
 
-		</table>
+    </table>
 
-	</section>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Tags">
-		<title>Tags</title>
-		 <para>
-			Use the correct DocBook tags to help translators understand the meaning of and to identify translatable and non-translatable terms.
-		</para>
-		 <table>
-			<title></title>
-			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
-				 <thead>
-					<row>
-						<entry> Example </entry>
-						 <entry> Improvement </entry>
+  </section>
+   <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Tags">
+    <title>Tags</title>
+     <para>
+      Use the correct DocBook tags to help translators understand the meaning of and to identify translatable and non-translatable terms.
+    </para>
+     <table>
+      <title></title>
+       <tgroup cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1"></colspec>
+         <colspec colname="c2"></colspec>
+         <thead>
+          <row>
+            <entry> Example </entry>
+             <entry> Improvement </entry>
 
-					</row>
+          </row>
 
-				</thead>
-				 <tbody>
-					<row>
-						<entry> &lt;literal&gt;ApplicationName&lt;/literal&gt; </entry>
-						 <entry> &lt;application&gt;ApplicationName&lt;/application&gt; </entry>
+        </thead>
+         <tbody>
+          <row>
+            <entry> &lt;literal&gt;ApplicationName&lt;/literal&gt; </entry>
+             <entry> &lt;application&gt;ApplicationName&lt;/application&gt; </entry>
 
-					</row>
-					 <row>
-						<entry> &lt;literal&gt;/path/to/file&lt;/literal&gt; </entry>
-						 <entry> &lt;filename&gt;/path/to/file&lt;/filename&gt; </entry>
+          </row>
+           <row>
+            <entry> &lt;literal&gt;/path/to/file&lt;/literal&gt; </entry>
+             <entry> &lt;filename&gt;/path/to/file&lt;/filename&gt; </entry>
 
-					</row>
+          </row>
 
-				</tbody>
+        </tbody>
 
-			</tgroup>
+      </tgroup>
 
-		</table>
-		 <!--          <para>
-			See the <ulink url="http://file.bne.redhat.com/~daobrien/DocBookXMLGuide/"><citetitle>Red&nbsp;Hat DocBook Usage Guide</citetitle></ulink> for more information about correct tag usage.
-		</para>          --> <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Tags-Tagged_Terms_in_Sentences">
-			<title>Tagged Terms in Sentences</title>
-			 <para>
-				Many tagged terms are not translatable, so they should not be used as structural parts of a sentence. Otherwise, translators have to fill in the blanks or tag terms themselves.
-			</para>
+    </table>
+     <!--          <para>
+      See the <ulink url="http://file.bne.redhat.com/~daobrien/DocBookXMLGuide/"><citetitle>Red&nbsp;Hat DocBook Usage Guide</citetitle></ulink> for more information about correct tag usage.
+    </para>          --> <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Tags-Tagged_Terms_in_Sentences">
+      <title>Tagged Terms in Sentences</title>
+       <para>
+        Many tagged terms are not translatable, so they should not be used as structural parts of a sentence. Otherwise, translators have to fill in the blanks or tag terms themselves.
+      </para>
 
-		</formalpara>
-		 <table>
-			<title></title>
-			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
-				 <thead>
-					<row>
-						<entry> Example </entry>
-						 <entry> Improvement </entry>
+    </formalpara>
+     <table>
+      <title></title>
+       <tgroup cols="2" colsep="1" rowsep="1">
+        <colspec colname="c1"></colspec>
+         <colspec colname="c2"></colspec>
+         <thead>
+          <row>
+            <entry> Example </entry>
+             <entry> Improvement </entry>
 
-					</row>
+          </row>
 
-				</thead>
-				 <tbody>
-					<row>
-						<entry> In <filename>/some/path/</filename>, grep for XYZ. </entry>
-						 <entry> In the <filename>/some/path/</filename> directory, use the <command>grep</command> command to search for "XYZ". </entry>
+        </thead>
+         <tbody>
+          <row>
+            <entry> In <filename>/some/path/</filename>, grep for XYZ. </entry>
+             <entry> In the <filename>/some/path/</filename> directory, use the <command>grep</command> command to search for "XYZ". </entry>
 
-					</row>
-					 <row>
-						<entry> <literal>param-2</literal> contains a reference to the hostname <literal>return</literal> value from <literal>instance-2</literal>. </entry>
-						 <entry> The parameter <literal>param-2</literal> contains a reference to the hostname return value from your second server instance <literal>instance-2</literal>. </entry>
+          </row>
+           <row>
+            <entry> <literal>param-2</literal> contains a reference to the hostname <literal>return</literal> value from <literal>instance-2</literal>. </entry>
+             <entry> The parameter <literal>param-2</literal> contains a reference to the hostname return value from your second server instance <literal>instance-2</literal>. </entry>
 
-					</row>
+          </row>
 
-				</tbody>
+        </tbody>
 
-			</tgroup>
+      </tgroup>
 
-		</table>
+    </table>
 
-	</section>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Code_Blocks">
-		<title>Code Blocks</title>
-		 <para>
-			If possible, avoid including words that require translation within the same box as command input or output. These can be accidentally overlooked and left in English.
-		</para>
-		 <para>
-			For example, consider the word "Usage" in the following:
-		</para>
-		 
+  </section>
+   <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Code_Blocks">
+    <title>Code Blocks</title>
+     <para>
+      If possible, avoid including words that require translation within the same box as command input or output. These can be accidentally overlooked and left in English.
+    </para>
+     <para>
+      For example, consider the word "Usage" in the following:
+    </para>
+
 <screen>Usage: <command>rhevm-iso-uploader <replaceable>[options]</replaceable> list</command>
 <command>rhevm-iso-uploader <replaceable>[options] </replaceable>upload <replaceable>[file1] [file2] [file3]</replaceable></command></screen>
 
-	</section>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Entities">
-		<title>Entities</title>
-		 <para>
-			An entity is a primitive data type, which associates a string with either a unique alias (such as a user-specified name) or an SGML reserved word (such as #DEFAULT)<footnote> <para>
-				<ulink url="http://en.wikipedia.org/wiki/SGML_entity" />
-			</para>
-			 </footnote>. Entities are called by reference, and take the form &amp;name; (both the ampersand and the semicolon are required).
-		</para>
-		 <para>
-			Entities can be helpful in some cases, but they are more of a hindrance when used for terms that need translation; translators need to compare the string with the built document in order to find out what the entity stands for, or translators might even overlook these entities and not translate them at all.
-		</para>
-		 <para>
-			In order to avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities required to actually build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates required entities with default values when you create a book. Required entities vary by brand, but only the following are required for a standard book: 
-			<itemizedlist>
-				<listitem>
-					<para>
-						PRODUCT
-					</para>
+  </section>
+   <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Entities">
+    <title>Entities</title>
+     <para>
+      An entity is a primitive data type, which associates a string with either a unique alias (such as a user-specified name) or an SGML reserved word (such as #DEFAULT)<footnote> <para>
+        <ulink url="http://en.wikipedia.org/wiki/SGML_entity" />
+      </para>
+       </footnote>. Entities are called by reference, and take the form &amp;name; (both the ampersand and the semicolon are required).
+    </para>
+     <para>
+      Entities can be helpful in some cases, but they are more of a hindrance when used for terms that need translation; translators need to compare the string with the built document in order to find out what the entity stands for, or translators might even overlook these entities and not translate them at all.
+    </para>
+     <para>
+      In order to avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities required to actually build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates required entities with default values when you create a book. Required entities vary by brand, but only the following are required for a standard book:
+      <itemizedlist>
+        <listitem>
+          <para>
+            PRODUCT
+          </para>
 
-				</listitem>
-				 <listitem>
-					<para>
-						BOOKID
-					</para>
+        </listitem>
+         <listitem>
+          <para>
+            BOOKID
+          </para>
 
-				</listitem>
-				 <listitem>
-					<para>
-						YEAR
-					</para>
+        </listitem>
+         <listitem>
+          <para>
+            YEAR
+          </para>
 
-				</listitem>
-				 <listitem>
-					<para>
-						HOLDER
-					</para>
+        </listitem>
+         <listitem>
+          <para>
+            HOLDER
+          </para>
 
-				</listitem>
+        </listitem>
 
-			</itemizedlist>
+      </itemizedlist>
 
-		</para>
-		 <para>
-			Do not include entities such as &amp;PRODNAME; or &amp;VERSION; and so on, or things like &amp;BIBLE; to represent "The St. James Bible". To learn more about entities, see the relevant chapter in <ulink url="http://jfearn.fedorapeople.org/en-US/Publican/4.0/html/Users_Guide/index.html" />
-		</para>
+    </para>
+     <para>
+      Do not include entities such as &amp;PRODNAME; or &amp;VERSION; and so on, or things like &amp;BIBLE; to represent "The St. James Bible". To learn more about entities, see the relevant chapter in <ulink url="http://jfearn.fedorapeople.org/en-US/Publican/4.0/html/Users_Guide/index.html" />
+    </para>
 
-	</section>
+  </section>
 
 </chapter>
 
