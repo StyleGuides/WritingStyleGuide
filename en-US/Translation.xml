@@ -11,12 +11,19 @@
    <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Sentence_Structure">
     <title>Sentence Structure</title>
      <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Lists">
-      <title>Lists</title>
+      <title>Using Lists Correctly</title>
        <para>
-        Avoid using bullet point lists to format a single sentence. Some translation tools, for example Zanata, display list items and the introductory sentence (or <firstterm>sentence stem</firstterm>) as individual sentences for translation. If these are not complete sentences, they will be difficult to translate.
+        Lists appear in a range of formats, such as series, ordered, unordered (itemized), and so on. Avoid using itemized lists to format a single sentence. Some translation tools, such as Zanata, display list items and the introductory sentence (or <firstterm>sentence stem</firstterm>) as individual sentences for translation. If these are not complete sentences, they can be difficult to translate.
       </para>
-
     </formalpara>
+      <para>
+          Use an ordered list when the order of entries is important, or if you need to refer to one of the entries from elsewhere in your document.
+    </para>
+    <para>
+        The following discussion provides some initial insight into using lists correctly. See <citetitle>The IBM Style Guide</citetitle> for a full discussion.
+    </para>
+
+
      <table>
       <title></title>
        <tgroup cols="2" colsep="1" rowsep="1">
@@ -84,7 +91,7 @@
      <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Noun_Stacking">
       <title>Noun Stacking</title>
        <para>
-        Modifier strings (modifier + noun + noun sentence format), over-modified nouns (or noun stacks), are especially difficult to translate, particularly when several different combinations could make sense.
+        Modifier strings (modifier + noun + noun sentence format), over-modified nouns (or <firstterm>noun stacks</firstterm>), are especially difficult to translate, particularly when several different combinations could make sense.
       </para>
 
     </formalpara>
@@ -161,9 +168,9 @@
 
   </section>
    <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Tags">
-    <title>Tags</title>
+    <title>DocBook Elements</title>
      <para>
-      Use the correct DocBook tags to help translators understand the meaning of and to identify translatable and non-translatable terms.
+      Use the correct DocBook elements to help translators understand the meaning of and to identify translatable and non-translatable terms.
     </para>
      <table>
       <title></title>
@@ -195,12 +202,10 @@
       </tgroup>
 
     </table>
-     <!--          <para>
-      See the <ulink url="http://file.bne.redhat.com/~daobrien/DocBookXMLGuide/"><citetitle>Red&nbsp;Hat DocBook Usage Guide</citetitle></ulink> for more information about correct tag usage.
-    </para>          --> <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Tags-Tagged_Terms_in_Sentences">
+     <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Tags-Tagged_Terms_in_Sentences">
       <title>Tagged Terms in Sentences</title>
        <para>
-        Many tagged terms are not translatable, so they should not be used as structural parts of a sentence. Otherwise, translators have to fill in the blanks or tag terms themselves.
+        Many tagged terms are not translatable, and so they should not be used as structural parts of a sentence. Otherwise, translators have to fill in the blanks or tag terms themselves.
       </para>
 
     </formalpara>
@@ -219,15 +224,41 @@
         </thead>
          <tbody>
           <row>
-            <entry> In <filename>/some/path/</filename>, grep for XYZ. </entry>
-             <entry> In the <filename>/some/path/</filename> directory, use the <command>grep</command> command to search for "XYZ". </entry>
-
+            <entry>
+                In <filename>/some/path/</filename>, grep for XYZ.
+            </entry>
+             <entry>
+                 In the <filename>/some/path/</filename> directory, use the <command>grep</command> command to search for "XYZ".
+            </entry>
           </row>
+
            <row>
-            <entry> <literal>param-2</literal> contains a reference to the hostname <literal>return</literal> value from <literal>instance-2</literal>. </entry>
-             <entry> The parameter <literal>param-2</literal> contains a reference to the hostname return value from your second server instance <literal>instance-2</literal>. </entry>
-
+            <entry>
+                <option>param-2</option> contains a reference to the hostname return value from <systemitem>instance-2</systemitem>.
+            </entry>
+             <entry>
+                 The <option>param-2</option> parameter contains a reference to the hostname return value from your second server instance, <systemitem>instance-2</systemitem>.
+            </entry>
           </row>
+
+          <row>
+              <entry>
+                  Troubleshooting Glance.
+            </entry>
+            <entry>
+                Troubleshooting the Glance image service.
+            </entry>
+        </row>
+
+        <row>
+              <entry>
+                  Installing the <package>maven-changelog-plugin</package>.
+            </entry>
+            <entry>
+                Installing the <package>maven-changelog-plugin</package> package.
+            </entry>
+        </row>
+
 
         </tbody>
 
@@ -239,7 +270,7 @@
    <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Code_Blocks">
     <title>Code Blocks</title>
      <para>
-      If possible, avoid including words that require translation within the same box as command input or output. These can be accidentally overlooked and left in English.
+      Avoid including commentary within the same box as command input or output. These might be confused with part of the output, and during translation might be accidentally overlooked and left in English.
     </para>
      <para>
       For example, consider the word "Usage" in the following:
@@ -258,10 +289,11 @@
        </footnote>. Entities are called by reference, and take the form &amp;name; (both the ampersand and the semicolon are required).
     </para>
      <para>
-      Entities can be helpful in some cases, but they are more of a hindrance when used for terms that need translation; translators need to compare the string with the built document in order to find out what the entity stands for, or translators might even overlook these entities and not translate them at all.
+      Entities can be helpful in some cases, but they are more of a hindrance when used for terms that need translation. Translators need to compare the string with the built document to determine what the entity stands for. These entities might even be overlooked and not translated at all.
     </para>
      <para>
-      In order to avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities required to actually build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates required entities with default values when you create a book. Required entities vary by brand, but only the following are required for a standard book:
+      To avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities required to actually build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates the required entities with default values when you create a book. Required entities vary by brand, but only the following are required for a standard book:
+  </para>
       <itemizedlist>
         <listitem>
           <para>
@@ -290,7 +322,6 @@
 
       </itemizedlist>
 
-    </para>
      <para>
       Do not include entities such as &amp;PRODNAME; or &amp;VERSION; and so on, or things like &amp;BIBLE; to represent "The St. James Bible". To learn more about entities, see the relevant chapter in <ulink url="http://jfearn.fedorapeople.org/en-US/Publican/4.0/html/Users_Guide/index.html" />
     </para>
