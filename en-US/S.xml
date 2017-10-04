@@ -47,30 +47,30 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-screen_capture_n.">
-      <term>screen capture (n.)</term>
+      <term>screen capture</term>
        <listitem>
         <para>
-          Correct. Do not use "screen shot," "screenshot," or other terms or variations. See the relevant entry in <citetitle>The IBM Style Guide.</citetitle>
+          <emphasis>n.</emphasis> Do not use "screen shot," "screenshot," or other terms or variations. See the relevant entry in <citetitle>The IBM Style Guide.</citetitle>
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-screen_saver_n.">
-      <term>screen saver (n.)</term>
+      <term>screen saver</term>
        <listitem>
         <para>
-          Correct. Do not use "screensaver."
+          <emphasis>n.</emphasis> Do not use "screensaver."
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-scrollbar_n.">
-      <term>scrollbar (n.)</term>
+      <term>scrollbar</term>
        <listitem>
         <para>
-          Correct. Do not use "scroll bar" or "scroll-bar."
+          <emphasis>n.</emphasis> Do not use "scroll bar" or "scroll-bar."
         </para>
 
       </listitem>
@@ -87,10 +87,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-segmentation_fault_n.">
-      <term>segmentation fault (n.)</term>
+      <term>segmentation fault</term>
        <listitem>
         <para>
-          Correct. Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
+          <emphasis>n.</emphasis> Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
         </para>
          <para>
           See also <ulink url="https://access.redhat.com/site/articles/372743 ">"What is a segfault?"</ulink> on the Red&nbsp;Hat Customer Portal for more information.
@@ -237,7 +237,7 @@
             <term>shebang</term>
             <listitem>
                 <para>
-                    <emphasis>(n.)</emphasis> Refers to the character sequence consisting of the number sign and exclamation mark (#!) at the beginning of a script. Do not use hashbang or pound-bang or other variations.
+                    <emphasis>n.</emphasis> Refers to the character sequence consisting of the number sign and exclamation mark (#!) at the beginning of a script. Do not use hashbang or pound-bang or other variations.
                 </para>
             </listitem>
         </varlistentry>
@@ -304,10 +304,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-skill_set_skills_knowledge_n.">
-      <term>skill set, skills, knowledge (n.)</term>
+      <term>skill set, skills, knowledge</term>
        <listitem>
         <para>
-          Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective (because it is a noun). Do not use "skill-set knowledge;" it is redundant. See the following examples:
+          <emphasis>n.</emphasis> Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective. Do not use "skill-set knowledge;" it is redundant. See the following examples:
         </para>
          <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-skill_set_skills_knowledge_n.-Example_Use_of_Term_Skillset_Versus_Skills">
           <title>Example Use of Term "Skillset" Versus "Skills"</title>
@@ -337,7 +337,7 @@
       <term>smart card</term>
        <listitem>
         <para>
-          Correct. Do not use smartcard or smart-card.
+          <emphasis>n.</emphasis> Do not use smartcard or smart-card.
         </para>
 
       </listitem>
@@ -377,7 +377,7 @@
       <term>sound card</term>
        <listitem>
         <para>
-          Correct. Do not use "soundcard" or "sound-card."
+          <emphasis>n.</emphasis> Do not use "soundcard" or "sound-card."
         </para>
 
       </listitem>
@@ -407,7 +407,7 @@
       <term>Spacebar</term>
        <listitem>
         <para>
-          Use when referring to the keyboard key, such as "Press the <keycap>Spacebar</keycap> key to continue."
+          <emphasis>n.</emphasis> Use when referring to the keyboard key, such as "Press the <keycap>Spacebar</keycap> key to continue."
         </para>
 
       </listitem>
@@ -417,7 +417,7 @@
       <term>spec file</term>
        <listitem>
         <para>
-          Correct. When referring to the RPM spec file, do not use "specfile."
+          <emphasis>n.</emphasis> Use to refer to an RPM spec file. Do not use "specfile."
         </para>
 
       </listitem>
@@ -434,13 +434,13 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-spelt">
-      <term>spelt</term>
+      <term>spelled</term>
        <listitem>
         <para>
-          Incorrect. Use "spelled" instead.
+          Correct. Do not use "spelt."
         </para>
          <para>
-          "Spelt" is the standard spelling in Commonwealth English but US English prefers "spelled," although "spelt" is occasionally seen in US English.
+          "Spelt" is the standard spelling in Commonwealth English. US English prefers "spelled," although "spelt" is occasionally seen.
         </para>
 
       </listitem>
@@ -482,7 +482,7 @@
           Initialism for Secure Shell, a network protocol that allows data exchange using a secure channel. When referring to the protocol, do not use "ssh," "Ssh," or other variants. When referring to the command, use <command>ssh</command>.
         </para>
          <para>
-          Do not use as a verb. For example, instead of "ssh to the remote server," write "Use SSH to connect to the remote server," or something similar.
+          Do not use as a verb. For example, instead of "ssh to the remote server," write "Use SSH to connect to the remote server," "Open an SSH connection," or something similar.
         </para>
 
       </listitem>
@@ -499,10 +499,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-stand_alone_adj.">
-      <term>stand-alone (adj.)</term>
+      <term>stand-alone</term>
        <listitem>
         <para>
-          Correct. Do not use "standalone."
+          <emphasis>adj.</emphasis> Correct. Do not use "standalone."
         </para>
          <para>
           Refers to something that is self-contained, or that does not require any other devices to function. For example, a fax machine is a stand-alone device because it does not require a computer, printer, modem, or other device. A printer, on the other hand, is not a stand-alone device because it requires a computer to feed it data.
@@ -548,7 +548,7 @@
       <term>straightforward (adj., adv.)</term>
        <listitem>
         <para>
-          Correct. Accepted references prescribe the use of the one-word form in all cases. Do not use "straight-forward."
+          <emphasis>adj., adv.</emphasis> Accepted references prescribe the use of the one-word form in all cases. Do not use "straight-forward."
         </para>
 
       </listitem>
