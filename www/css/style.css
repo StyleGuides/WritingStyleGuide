@@ -39,6 +39,10 @@ header strong {
     padding-top: 5%;
 }
 
+#main > img {
+    padding-top: 5%;
+}
+
 #main p {
     width: 50%;
     font-size: 1.33em;
