@@ -242,12 +242,12 @@ $ vi myFile.txt
             <itemizedlist>
                 <listitem>
                     <para>
-                        Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem class="domainname">example.com,</systemitem> <systemitem class="domainname">example.net,</systemitem> <systemitem class="domainname">example.org,</systemitem> and <systemitem class="domainname">example.edu.</systemitem>
+                        Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
                     </para>
                 </listitem>
                 <listitem>
                 <para>
-                    As much as possible, use <systemitem class="username">user,</systemitem> <systemitem class="username">username,</systemitem> <systemitem class="username">root,</systemitem> <systemitem class="username">admin</systemitem> or similar names to identify classes of users. Do not invent names such as Joe, Mary, Mac, and so on.
+                    As much as possible, use <systemitem>user</systemitem>, <systemitem>username</systemitem>, <systemitem>root</systemitem>, <systemitem>admin</systemitem>, or similar names to identify classes of users. Do not invent names such as Joe, Mary, Mac, and so on.
                 </para>
                 <para>
                     If a more extensive list of user names is required, see <xref linkend="extended-usernames"/>.
@@ -259,9 +259,9 @@ $ vi myFile.txt
                 </para>
             </listitem>
         </itemizedlist>
-        <section id="extended-usernames"><title>Using Extended User, Group, and Project Names</title>
+        <section id="extended-usernames"><title>Using Extended User and Group Names</title>
             <para>
-                Sometimes, the recommended list of user, group, or project names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable:
+                Sometimes, the recommended list of user and group names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable:
             </para>
             <note>
                 <para>
@@ -289,35 +289,10 @@ $ vi myFile.txt
                     </itemizedlist>
                 </para>
             </formalpara>
-            <formalpara><title>Project Names</title>
-                <para>
-                    <itemizedlist>
-                        <listitem>
-                            <para>
-                                <systemitem>operations</systemitem>
-                            </para>
-                        </listitem>
-                        <listitem>
-                            <para>
-                                <systemitem>research</systemitem>
-                            </para>
-                        </listitem>
-                        <listitem>
-                            <para>
-                                <systemitem>marketing</systemitem>
-                            </para>
-                        </listitem>
-                        <listitem>
-                            <para>
-                                <systemitem>finance</systemitem>
-                            </para>
-                        </listitem>
-                    </itemizedlist>
-                </para>
-            </formalpara>
+
             <formalpara><title>Group Names</title>
                 <para>
-                    Any lowercase, hyphenated combination of a project name and an extended user name, without the numerical suffix. For example, <systemitem>operations-architect</systemitem>, <systemitem>research-developer</systemitem>, <systemitem>marketing-operator</systemitem>.
+                    Any lowercase name that is a logical extension of the accepted user names, without the numerical suffix. For example, <systemitem>architects</systemitem>, <systemitem>developers</systemitem>, <systemitem>operators</systemitem>.
                 </para>
             </formalpara>
         </section>
