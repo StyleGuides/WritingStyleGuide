@@ -450,7 +450,7 @@
       <term>SQL</term>
        <listitem>
         <para>
-          When referring to the ISO standard (ISO 9075 and its descendants), this is pronounced as an initialism: "ess queue ell." Consequently, it takes "an" as in indefinite article.
+          When referring to the ISO standard (ISO 9075 and its descendants), this is pronounced as an initialism: ĕs kyü ĕl. Consequently, it takes "an" as in indefinite article.
         </para>
          <para>
           When referring to Microsoft's proprietary product, SQL Server, this is pronounced as a word: "sequel." In this case, therefore, it takes "a" as an indefinite article.
@@ -459,7 +459,7 @@
           NB: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
         </para>
          <para>
-          More generally, avoid using "SQL" as a generic marker if at all possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced "postgress queue ell"), write "PostgreSQL."
+          More generally, avoid using "SQL" as a generic marker if at all possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced pŏstgrĕs kyü ĕl), write "PostgreSQL."
         </para>
 
       </listitem>
