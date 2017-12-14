@@ -208,17 +208,20 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-front_end_n._front_end_adj.">
-			<term>front end (n.), front-end (adj.)</term>
+			<term>front end, front-end</term>
 			 <listitem>
 				<para>
-					Example of noun: "PRCS is a front end for a version control toolset."
+					<emphasis>n.</emphasis> Two words. For example, "PRCS is a front end for a version control toolset."
 				</para>
 				 <para>
-					Example of adjective: "This chapter explains how to use the front-end API functions."
+					<emphasis>adj.</emphasis> Hyphenate. For example, "This chapter explains how to use the front-end API functions."
 				</para>
 				 <para>
 					Do not use "frontend" as a noun or adjective.
 				</para>
+                <para>
+                    See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-back_end_back_end"/>
+                </para>
 
 			</listitem>
 
