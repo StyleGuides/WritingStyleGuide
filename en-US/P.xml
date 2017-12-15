@@ -126,16 +126,18 @@
 			<term>PowerPC</term>
 			 <listitem>
 				<para>
-				  The name of the Power architecture is "Power", but the designation of individual chips tend to be either "PowerPC" or "POWER". Refer to IBM marketing or the <ulink url="http://openpowerfoundation.org">Open Power Foundation</ulink> if unsure.
+					The name of the Power architecture is "Power", but the designation of individual chips tend to be either "PowerPC" or "POWER". Refer to IBM marketing or the <ulink url="http://openpowerfoundation.org">Open Power Foundation</ulink> if unsure.
 				</para>
 				 <para>
-				   Do not use the "PPC64" or "ppc64le" shorthand. Depending on context either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct. Additional ABI features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
-				 </para>
+					Do not use the "PPC64" or "ppc64le" shorthand. Depending on context either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct. Additional ABI features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
+				</para>
 				 <para>
 					NB: the PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM Power Series hardware in almost all cases.
 				</para>
+
 			</listitem>
-		 </varlistentry>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-POSIX">
 			<term>POSIX</term>
 			 <listitem>
@@ -173,7 +175,7 @@
 			<term>proof of concept</term>
 			 <listitem>
 				<para>
-					Use the following rules to form the plural of this phrase:
+					Use the following rules to form the plural of this phrase: 
 					<itemizedlist>
 						<listitem>
 							<para>
@@ -221,11 +223,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pulldown">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pull_down">
 			<term>pull-down</term>
 			 <listitem>
 				<para>
-                    <emphasis>adj.</emphasis> Correct. Use only if you must specify the type of menu or list. Do not use "pulldown."
+					<emphasis>adj.</emphasis> Correct. Use only if you must specify the type of menu or list. Do not use "pulldown."
 				</para>
 
 			</listitem>

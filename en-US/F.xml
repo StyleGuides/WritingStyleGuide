@@ -207,7 +207,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-front_end_n._front_end_adj.">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-front_end_front_end">
 			<term>front end, front-end</term>
 			 <listitem>
 				<para>
@@ -219,9 +219,9 @@
 				 <para>
 					Do not use "frontend" as a noun or adjective.
 				</para>
-                <para>
-                    See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-back_end_back_end"/>
-                </para>
+				 <para>
+					See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-back_end_back_end" />
+				</para>
 
 			</listitem>
 

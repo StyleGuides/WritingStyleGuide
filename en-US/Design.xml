@@ -62,7 +62,7 @@
 					</table>
 					 <important>
 						<para>
-							Gerunds should be avoided elsewhere. Refer to <xref linkend="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Sentence_Structure" />.
+							Gerunds should be avoided elsewhere. Refer to <xref linkend="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Clearly_and_Succinctly-Sentence_Structure" />.
 						</para>
 
 					</important>
@@ -124,14 +124,14 @@
 			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-
+					
 <screen>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 
 				</para>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components:
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -163,12 +163,12 @@
 			</para>
 			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
-
+				 
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -205,7 +205,7 @@
 				</para>
 				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
-
+					 
 <screen>$ cd Documents
 $ vi myFile.txt
 </screen>
@@ -216,7 +216,7 @@ $ vi myFile.txt
 				</para>
 				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
-
+					 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
@@ -238,66 +238,81 @@ $ vi myFile.txt
 			<title>Using Host and User Names Correctly</title>
 			 <para>
 				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following:
-            </para>
-            <itemizedlist>
-                <listitem>
-                    <para>
-                        Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
-                    </para>
-                </listitem>
-                <listitem>
-                <para>
-                    As much as possible, use <systemitem>user</systemitem>, <systemitem>username</systemitem>, <systemitem>root</systemitem>, <systemitem>admin</systemitem>, or similar names to identify classes of users. Do not invent names such as Joe, Mary, Mac, and so on.
-                </para>
-                <para>
-                    If a more extensive list of user names is required, see <xref linkend="extended-usernames"/>.
-                </para>
-            </listitem>
-            <listitem>
-                <para>
-                    Do not use valid, public IP addresses in any examples.
-                </para>
-            </listitem>
-        </itemizedlist>
-        <section id="extended-usernames"><title>Using Extended User and Group Names</title>
-            <para>
-                Sometimes, the recommended list of user and group names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable:
-            </para>
-            <note>
-                <para>
-                    All names are lowercase. Do not use white space in any part of the name.
-                </para>
-            </note>
-            <formalpara><title>User Names</title>
-                <para>
-                    <itemizedlist>
-                        <listitem>
-                            <para>
-                                <systemitem>operator1</systemitem> to <systemitem>operator9</systemitem>
-                            </para>
-                        </listitem>
-                            <listitem>
-                            <para>
-                                <systemitem>developer1</systemitem> to <systemitem>developer9</systemitem>
-                            </para>
-                        </listitem>
-                            <listitem>
-                            <para>
-                                <systemitem>architect1</systemitem> to <systemitem>architect9</systemitem>
-                            </para>
-                        </listitem>
-                    </itemizedlist>
-                </para>
-            </formalpara>
+			</para>
+			 <itemizedlist>
+				<listitem>
+					<para>
+						Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
+					</para>
 
-            <formalpara><title>Group Names</title>
-                <para>
-                    Any lowercase name that is a logical extension of the accepted user names, without the numerical suffix. For example, <systemitem>architects</systemitem>, <systemitem>developers</systemitem>, <systemitem>operators</systemitem>.
-                </para>
-            </formalpara>
-        </section>
+				</listitem>
+				 <listitem>
+					<para>
+						As much as possible, use <systemitem>user</systemitem>, <systemitem>username</systemitem>, <systemitem>root</systemitem>, <systemitem>admin</systemitem>, or similar names to identify classes of users. Do not invent names such as Joe, Mary, Mac, and so on.
+					</para>
+					 <para>
+						If a more extensive list of user names is required, see <xref linkend="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Host_and_User_Names_Correctly-Using_Extended_User_and_Group_Names" />.
+					</para>
 
-	</section>
+				</listitem>
+				 <listitem>
+					<para>
+						Do not use valid, public IP addresses in any examples.
+					</para>
+
+				</listitem>
+
+			</itemizedlist>
+			 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Host_and_User_Names_Correctly-Using_Extended_User_and_Group_Names">
+				<title>Using Extended User and Group Names</title>
+				 <para>
+					Sometimes, the recommended list of user and group names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable:
+				</para>
+				 <note>
+					<para>
+						All names are lowercase. Do not use white space in any part of the name.
+					</para>
+
+				</note>
+				 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Extended_User_and_Group_Names-User_Names">
+					<title>User Names</title>
+					 <para>
+						<itemizedlist>
+							<listitem>
+								<para>
+									<systemitem>operator1</systemitem> to <systemitem>operator9</systemitem>
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									<systemitem>developer1</systemitem> to <systemitem>developer9</systemitem>
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									<systemitem>architect1</systemitem> to <systemitem>architect9</systemitem>
+								</para>
+
+							</listitem>
+
+						</itemizedlist>
+
+					</para>
+
+				</formalpara>
+				 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Extended_User_and_Group_Names-Group_Names">
+					<title>Group Names</title>
+					 <para>
+						Any lowercase name that is a logical extension of the accepted user names, without the numerical suffix. For example, <systemitem>architects</systemitem>, <systemitem>developers</systemitem>, <systemitem>operators</systemitem>.
+					</para>
+
+				</formalpara>
+
+			</section>
+
+		</section>
 
 	</section>
 	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Documenting_Currencies">
@@ -350,7 +365,7 @@ $ vi myFile.txt
 		</para>
 
 	</section>
-	 <!--
+	 <!-- 
 	 <section role="internal" id="sect-Policy-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
@@ -430,7 +445,7 @@ $ vi myFile.txt
 
 		</para>
 
-	</section>                              --> <!--
+	</section>                               --> <!-- 
 	<section><title>Using Capitalization Correctly</title>
 		<para>
 			This section provides guidelines for how to correctly capitalize various words and phrases, especially group and team names, partner names, and related entities.
@@ -503,7 +518,7 @@ $ vi myFile.txt
 		</section>
 
 
-                </section>                               --> <!--                              <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
+                </section>                                --> <!--                               <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
 			The preferred format for product names includes only the major version number. For example:
@@ -559,13 +574,13 @@ $ vi myFile.txt
 
 		</important>
 
-	</section>                              --> <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Admonitions">
+	</section>                               --> <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Admonitions">
 		<title>Using Admonitions</title>
 		 <para>
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions:
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -615,12 +630,12 @@ $ vi myFile.txt
 		 <para>
 			In XML:
 		</para>
-
+		 
 <programlisting>
 &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 </programlisting>
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by
+			For example, <citetitle>Maximum RPM</citetitle> by 
 			<author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>

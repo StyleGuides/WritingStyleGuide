@@ -595,7 +595,7 @@
 					</table>
 					 <note>
 						<para>
-							See also <xref linkend="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_for_Translation-Grammatical_Genders" />.
+							See also <xref linkend="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Clearly_and_Succinctly-Grammatical_Genders" />.
 						</para>
 
 					</note>
@@ -663,7 +663,7 @@
 		</para>
 
 	</section>
-    <xi:include href="Punctuation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Punctuation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Grammar-Hyphenation">
 		<title>Hyphenation</title>
 		 <para>
