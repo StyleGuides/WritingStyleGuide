@@ -274,10 +274,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-shut_down_vb.">
-      <term>shut down (vb.)</term>
+      <term>shut down</term>
        <listitem>
         <para>
-          Correct. Do not use "shut-down." Only use "shutdown" when referring to the <command>/sbin/shutdown</command> system command.
+            <emphasis>v.</emphasis> Correct. Do not use "shut-down." Only use "shutdown" when referring to the <command>/sbin/shutdown</command> system command.
         </para>
 
       </listitem>
@@ -294,10 +294,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-since_or_because">
-      <term>since or because</term>
+      <term>since, as, because</term>
        <listitem>
         <para>
-          Do not use "since" to mean "because," it is ambiguous. Use "because" to refer to a reason. Use "since" to refer to the passage of time.
+          Do not use "since" or "as" to mean "because," it is ambiguous. Use "because" to refer to a reason. Use "since" or "as" to refer to the passage of time.
         </para>
 
       </listitem>
@@ -427,7 +427,7 @@
       <term>specific</term>
        <listitem>
         <para>
-          When used as a modifier, put a hyphen before specific, such as "MIPS-specific," "Linux-specific," and "chip-specific."
+          When used as a modifier, put a hyphen before "specific," such as "MIPS-specific," "Linux-specific," and "chip-specific."
         </para>
 
       </listitem>
@@ -450,10 +450,10 @@
       <term>SQL</term>
        <listitem>
         <para>
-          When referring to the ISO standard (ISO 9075 and its descendants), this is pronounced as an initialism: ĕs kyü ĕl. Consequently, it takes "an" as in indefinite article.
+          When referring to the ISO standard (ISO 9075 and its descendants), this is pronounced as an initialism: ĕs kyü ĕl. Consequently, it takes "an" as an indefinite article.
         </para>
          <para>
-          When referring to Microsoft's proprietary product, SQL Server, this is pronounced as a word: "sequel." In this case, therefore, it takes "a" as an indefinite article.
+          When referring to Microsoft's proprietary product, SQL Server, pronounce it as a word: "sequel." In this case, it takes "a" as an indefinite article.
         </para>
          <para>
           NB: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
