@@ -30,10 +30,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_center_datacenter_n.">
-      <term>data center, datacenter (n.)</term>
+      <term>data center, datacenter</term>
        <listitem>
         <para>
-          Use the two-word form unless referring to a product name or other proper noun where the one-word form is used.
+          <emphasis>n.</emphasis> Use the two-word form unless referring to a product name or other proper noun where the one-word form is used.
         </para>
          <warning>
           <title>Marketing Publications Exception</title>
@@ -57,10 +57,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_sheet_datasheet_n.">
-      <term>data sheet, datasheet (n.)</term>
+      <term>data sheet, datasheet</term>
        <listitem>
         <para>
-          Use the two-word form.
+          <emphasis>n.</emphasis> Use the two-word form.
         </para>
          <warning>
           <title>Marketing Publications Exception</title>
@@ -74,20 +74,20 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_source_n.">
-      <term>data source (n.)</term>
+      <term>data source</term>
        <listitem>
         <para>
-          Use the two-word form unless referring to a proper noun, argument, variable, or other case where the one-word form is required.
+          <emphasis>n.</emphasis> Use the two-word form unless referring to a proper noun, argument, variable, or other case where the one-word form is required.
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_store_datastore_n.">
-      <term>data store, datastore (n.)</term>
+      <term>data store, datastore</term>
        <listitem>
         <para>
-          Use the two-word form.
+          <emphasis>n.</emphasis> Use the two-word form.
         </para>
          <warning>
           <title>Marketing Publications Exception</title>
@@ -104,7 +104,7 @@
       <term>data type</term>
        <listitem>
         <para>
-          Correct. Do not use "datatype" or "data-type" unless they are actually variable names or some other literal value.
+          <emphasis>n.</emphasis> Do not use "datatype" or "data-type" unless they are actually variable names or some other literal value.
         </para>
 
       </listitem>
@@ -165,10 +165,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-DevOps_n._adj.">
-      <term>DevOps (n., adj.)</term>
+      <term>DevOps</term>
        <listitem>
         <para>
-          A portmanteau that combines "development" and "operations." It refers to a specific method or organizational approach where developers and IT operations work together to create the applications that run the business. DevOps may also refer to the engineers and developers who work within these modern IT organizations.
+          <emphasis>n., adj.</emphasis> A portmanteau that combines "development" and "operations." It refers to a specific method or organizational approach where developers and IT operations work together to create the applications that run the business. DevOps may also refer to the engineers and developers who work within these modern IT organizations.
         </para>
 
       </listitem>
@@ -261,7 +261,7 @@
       <term>double-click</term>
        <listitem>
         <para>
-          Correct. Do not use "double click."
+          <emphasis>v.</emphasis> Do not use "double click."
         </para>
 
       </listitem>
@@ -288,10 +288,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-download_v._n.">
-      <term>download (v., n.)</term>
+      <term>download</term>
        <listitem>
         <para>
-          Correct. Do not use "down load" or "down-load."
+          <emphasis>v., n.</emphasis> Do not use "down load" or "down-load."
         </para>
 
       </listitem>
@@ -301,7 +301,7 @@
       <term>dual-boot</term>
        <listitem>
         <para>
-          (adj.) Correct. Do not use "dualboot" or "dual boot."
+          <emphasis>adj.</emphasis> Do not use "dualboot" or "dual boot."
         </para>
 
       </listitem>
