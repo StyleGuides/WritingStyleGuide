@@ -10,7 +10,7 @@
       <term>IA64 or ia64</term>
        <listitem>
         <para>
-          Do not use. Always use the term Itanium instead. (It can be used in file names since they are not visible in the content.)
+          Do not use. Always use the term Itanium instead. It can be used in file names because they are not visible in the content.
         </para>
 
       </listitem>
@@ -30,7 +30,7 @@
       <term>IBM eServer System p</term>
        <listitem>
         <para>
-          IBM eServer System p is correct for the first reference in a manual; use IBM System p or System p for subsequent references. Do not use "pSeries."
+          "IBM eServer System p" is correct for the first reference in a manual. Use "IBM System p" or "System p" for subsequent references. Do not use "pSeries."
         </para>
 
       </listitem>
@@ -50,7 +50,7 @@
       <term>illegal</term>
        <listitem>
         <para>
-          Illegal means "prohibited by law," not "incorrect" or "not permitted." Try "invalid" or a related word.
+          Illegal means "prohibited by law," not "incorrect" or "not permitted." Use "invalid" or a related word.
         </para>
 
       </listitem>
@@ -70,30 +70,30 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-inline_adj.">
-      <term>inline (adj.)</term>
+      <term>inline</term>
        <listitem>
         <para>
-          Correct. Always one word. Do not hyphenate.
+          <emphasis>adj.</emphasis> Always one word. Do not hyphenate.
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-insecure_adj.">
-      <term>insecure (adj.)</term>
+      <term>insecure</term>
        <listitem>
         <para>
-          Correct. Do not use "nonsecure" or "non-secure."
+          <emphasis>adj.</emphasis> Correct. Do not use "nonsecure" or "non-secure."
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-installation_program_n.">
-      <term>installation program (n.)</term>
+      <term>installation program</term>
        <listitem>
         <para>
-          Correct. Do not use "installer."
+          <emphasis>n.</emphasis> Correct. Do not use "installer" unless it is a formal part of the product or technology.
         </para>
 
       </listitem>
@@ -155,10 +155,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-internet_n.">
-      <term>internet (n.)</term>
+      <term>internet</term>
        <listitem>
         <para>
-          Always lowercase except in some specific exceptions, for example <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Internet_of_Things_IoT" />.
+          <emphasis>n.</emphasis> Always lowercase except in some specific exceptions, for example <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Internet_of_Things_IoT" />.
         </para>
 
       </listitem>
@@ -181,7 +181,7 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intranet_and_intranet">
-      <term>Intranet and intranet</term>
+      <term>Intranet, intranet</term>
        <listitem>
         <para>
           See the "Word usage" appendix of <citetitle>The IBM Style Guide</citetitle> for guidance.
@@ -207,7 +207,7 @@
       <term>IOPS</term>
        <listitem>
         <para>
-          Correct. All caps. Stands for Input/output operations per second.
+          Correct. All caps. Stands for input/output operations per second.
         </para>
 
       </listitem>
@@ -289,7 +289,7 @@
           Itanium's primary use is driving large applications that require more than 4 GB of memory, such as databases, ERP, and future internet applications.
         </para>
          <para>
-          Do not use the term IA64. (It can be used in file names since they are printed in the content.)
+          Do not use the term IA64. It can be used in file names because they are not printed in the content.
         </para>
 
       </listitem>
@@ -299,7 +299,7 @@
       <term>Itanium 2</term>
        <listitem>
         <para>
-          Itanium 2 is correct. Do not use "Itanium2" without the space between Itanium and 2.
+          Itanium 2 is correct. Do not use "Itanium2" and always use a non-breaking space between "Itanium" and "2."
         </para>
 
       </listitem>
@@ -310,16 +310,6 @@
        <listitem>
         <para>
           IBM eServer System i is correct for the first reference in a manual; use IBM System i or System i for subsequent references. Do not use "iSeries."
-        </para>
-
-      </listitem>
-
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-its_and_its">
-      <term>it's and its</term>
-       <listitem>
-        <para>
-          "It's" is a contraction of "it is." Use "it is" instead of "it's." "Its" is a possessive pronoun (for example, "the store is known for its low prices").
         </para>
 
       </listitem>
