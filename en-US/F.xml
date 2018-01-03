@@ -113,7 +113,7 @@
       <term>firmware</term>
        <listitem>
         <para>
-          Correct. Do not use "firm ware" or "firm-ware."
+          <emphasis>n.</emphasis> Do not use "firm ware" or "firm-ware."
         </para>
          <para>
           Software (programs or data) that has been written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs, and EPROMs that have data or programs recorded on them are firmware.
@@ -136,7 +136,7 @@
       <term>floppy disk</term>
        <listitem>
         <para>
-          Do not use. Instead, use "diskette," and also state the size of the diskette, such as "3.5in. diskette."
+          Do not use. Use "diskette," and also state the size of the diskette, such as "3.5&nbsp;in. diskette."
         </para>
 
       </listitem>
@@ -146,7 +146,7 @@
       <term>floppy drive</term>
        <listitem>
         <para>
-          Do not use. Instead use "diskette drive."
+          Do not use. Use "diskette drive."
         </para>
 
       </listitem>
@@ -155,7 +155,7 @@
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-foreground">
       <term>foreground</term>
        <listitem>
-        <orderedlist>
+        <itemizedlist>
           <listitem>
             <para>
               In multiprocessing systems, the process that is currently accepting input from the keyboard or other input device is sometimes called the foreground process.
@@ -169,10 +169,18 @@
 
           </listitem>
 
-        </orderedlist>
+        </itemizedlist>
 
       </listitem>
 
+    </varlistentry>
+    <varlistentry>
+      <term>fortnight</term>
+      <listitem>
+        <para>
+          A period of two weeks (14 nights). Avoid using. This term is not common in American English and may also be unfamiliar to non-native speakers.
+        </para>
+      </listitem>
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FORTRAN">
       <term>FORTRAN</term>
@@ -206,6 +214,14 @@
 
       </listitem>
 
+    </varlistentry>
+    <varlistentry>
+      <term>frictionless</term>
+      <listitem>
+        <para>
+          Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bimodal_IT"/>.
+        </para>
+      </listitem>
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-front_end_front_end">
       <term>front end, front-end</term>
