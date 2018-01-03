@@ -6,16 +6,7 @@
 <chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-E">
   <title>E</title>
    <variablelist>
-    <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-Emacs">
-      <term>Emacs</term>
-       <listitem>
-        <para>
-          If referring to the program, use "Emacs." For example, "Source-Navigator supports Emacs or vi commands." If referring to the shell prompt command, use "emacs." For example, "At the prompt, type emacs." The complete and correct name is "GNU Emacs."
-        </para>
 
-      </listitem>
-
-    </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-e_book_e_business_e_commerce_e_learning_email">
       <term>e-book, e-business, e-commerce, e-learning, email</term>
        <listitem>
@@ -41,6 +32,16 @@
        <listitem>
         <para>
           Use to refer to earlier releases of products. Do not use "older" or related terms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-later" />.
+        </para>
+
+      </listitem>
+
+    </varlistentry>
+    <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-Emacs">
+      <term>Emacs</term>
+       <listitem>
+        <para>
+          If referring to the program, use "Emacs." For example, "Source-Navigator supports Emacs or vi commands." If referring to the shell prompt command, use "emacs." For example, "At the prompt, type emacs." The complete and correct name is "GNU Emacs."
         </para>
 
       </listitem>
@@ -109,10 +110,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-Ethernet_n.">
-      <term>Ethernet (n.)</term>
+      <term>Ethernet</term>
        <listitem>
         <para>
-          Uppercase "E" at all times.
+          <emphasis>n.</emphasis> Uppercase "E" at all times.
         </para>
 
       </listitem>
