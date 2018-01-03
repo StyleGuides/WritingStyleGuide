@@ -4,79 +4,79 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-J">
-	<title>J</title>
-	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JavaScript_">
-			<term>JavaScript </term>
-			 <listitem>
-				<para>
-					"JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file written using this language, use all lowercase; for example, "...copy the IPA javascript file to the <filename>/temp</filename> directory."
-				</para>
+  <title>J</title>
+   <variablelist>
+    <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JavaScript_">
+      <term>JavaScript </term>
+       <listitem>
+        <para>
+          "JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file written using this language, use all lowercase; for example, "...copy the IPA javascript file to the <filename>/temp</filename> directory."
+        </para>
 
-			</listitem>
+      </listitem>
 
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JBoss_Community">
-			<term>JBoss Community</term>
-			 <listitem>
-				<para>
-					No longer referred to as "JBoss.org." Use when referring to the community of users and contributors.
-				</para>
+    </varlistentry>
+     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JBoss_Community">
+      <term>JBoss Community</term>
+       <listitem>
+        <para>
+          No longer referred to as "JBoss.org." Use when referring to the community of users and contributors.
+        </para>
 
-			</listitem>
+      </listitem>
 
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JBoss_Way">
-			<term>JBoss Way</term>
-			 <listitem>
-				<para>
-					When referring specifically to the JBoss cultural and business climate or practices as the subject of your sentence, capitalize "JBoss Way" as a formal, branded concept. However, if the reference is generic or the "way" is further specified, do not capitalize. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-Red_Hat_Way" /> and <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_source_way" />.
-				</para>
+    </varlistentry>
+     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JBoss_Way">
+      <term>JBoss Way</term>
+       <listitem>
+        <para>
+          When referring specifically to the JBoss cultural and business climate or practices as the subject of your sentence, capitalize "JBoss Way" as a formal, branded concept. However, if the reference is generic or the "way" is further specified, do not capitalize. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-Red_Hat_Way" /> and <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_source_way" />.
+        </para>
 
-			</listitem>
+      </listitem>
 
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-job">
-			<term>job</term>
-			 <listitem>
-				<para>
-					A task performed by a computer system. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.
-				</para>
+    </varlistentry>
+     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-job">
+      <term>job</term>
+       <listitem>
+        <para>
+          A task performed by a computer system. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.
+        </para>
 
-			</listitem>
+      </listitem>
 
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-jsvc">
-			<term>jsvc</term>
-			 <listitem>
-				<para>
-					The Apache Commons Daemon jsvc is a set of libraries and applications for making Java applications run on UNIX more easily. At the beginning of a sentence, use "Jsvc", otherwise all lowercase.
-				</para>
+    </varlistentry>
+     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-jsvc">
+      <term>jsvc</term>
+       <listitem>
+        <para>
+          The Apache Commons Daemon jsvc is a set of libraries and applications for making Java applications run on UNIX more easily. At the beginning of a sentence, use "Jsvc", otherwise all lowercase.
+        </para>
 
-			</listitem>
+      </listitem>
 
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-just">
-			<term>just</term>
-			 <listitem>
-				<para>
-					Use sparingly. In the phrase, "Just open the file...", the word "just" can be omitted.
-				</para>
+    </varlistentry>
+     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-just">
+      <term>just</term>
+       <listitem>
+        <para>
+          Use sparingly. In the phrase, "Just open the file...", the word "just" can be omitted.
+        </para>
 
-			</listitem>
+      </listitem>
 
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JVM">
-			<term>JVM</term>
-			 <listitem>
-				<para>
-					Initialism for Java Virtual Machine, and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine," or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity, because most people know it as such, for example, "Java Virtual Machine (JVM)." Do not use Jvm or jvm.
-				</para>
+    </varlistentry>
+     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JVM">
+      <term>JVM</term>
+       <listitem>
+        <para>
+          Initialism for Java Virtual Machine, and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine," or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity, because most people know it as such, for example, "Java Virtual Machine (JVM)." Do not use Jvm or jvm.
+        </para>
 
-			</listitem>
+      </listitem>
 
-		</varlistentry>
+    </varlistentry>
 
-	</variablelist>
+  </variablelist>
 </chapter>
 
