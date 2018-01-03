@@ -4,275 +4,279 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-F">
-  <title>F</title>
-   <variablelist>
-    <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fail_back_v._failback_n.">
-      <term>fail back (v.), failback (n.)</term>
-       <listitem>
-        <para>
-          No hyphenated form is currently recognized.
-        </para>
+	<title>F</title>
+	 <variablelist>
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fail_back_v._failback_n.">
+			<term>fail back (v.), failback (n.)</term>
+			 <listitem>
+				<para>
+					No hyphenated form is currently recognized.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fail_over_v._failover_n._adj.">
-      <term>fail over (v.), failover (n., adj.)</term>
-       <listitem>
-        <para>
-          No hyphenated form is currently recognized.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fail_over_v._failover_n._adj.">
+			<term>fail over (v.), failover (n., adj.)</term>
+			 <listitem>
+				<para>
+					No hyphenated form is currently recognized.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FAQ">
-      <term>FAQ</term>
-       <listitem>
-        <para>
-          When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an F-A-Q") not "a FAQ." The plural form is "FAQs."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FAQ">
+			<term>FAQ</term>
+			 <listitem>
+				<para>
+					When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an F-A-Q") not "a FAQ." The plural form is "FAQs."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fault_tolerance_n._fault_tolerant_adj.">
-      <term>fault tolerance (n.), fault-tolerant (adj.)</term>
-       <listitem>
-        <para>
-          The ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of fault tolerance, the lowest being the ability to continue operation in the event of a power failure. Many fault-tolerant computer systems mirror all operations; that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fault_tolerance_n._fault_tolerant_adj.">
+			<term>fault tolerance (n.), fault-tolerant (adj.)</term>
+			 <listitem>
+				<para>
+					The ability of a system to respond gracefully to an unexpected hardware or software failure. There are many levels of fault tolerance, the lowest being the ability to continue operation in the event of a power failure. Many fault-tolerant computer systems mirror all operations; that is, every operation is performed on two or more duplicate systems, so if one fails the other can take over.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Fedoratrade_Project">
-      <term>Fedora&trade; Project</term>
-       <listitem>
-        <para>
-          Correct.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Fedoratrade_Project">
+			<term>Fedora&trade; Project</term>
+			 <listitem>
+				<para>
+					Correct.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fiber">
-      <term>fiber</term>
-       <listitem>
-        <para>
-          Correct. Despite the alternative spelling used in Fibre Channel, "fiber" is the correct form to use in all other cases.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fiber">
+			<term>fiber</term>
+			 <listitem>
+				<para>
+					Correct. Despite the alternative spelling used in Fibre Channel, "fiber" is the correct form to use in all other cases.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Fibre_Channel">
-      <term>Fibre Channel</term>
-       <listitem>
-        <para>
-          A serial data transfer architecture developed by a consortium of computer and mass storage device manufacturers and now being standardized by ANSI. The most prominent Fibre Channel standard is Fibre Channel Arbitrated Loop (FC-AL).
-        </para>
-         <para>
-          FC-AL was designed for new mass storage devices and other peripheral devices that require very high bandwidth. Using optical fiber to connect devices, FC-AL supports full-duplex data transfer rates of 100MBps. FC-AL is compatible with, and is expected to eventually replace, SCSI for high-performance storage systems.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Fibre_Channel">
+			<term>Fibre Channel</term>
+			 <listitem>
+				<para>
+					A serial data transfer architecture developed by a consortium of computer and mass storage device manufacturers and now being standardized by ANSI. The most prominent Fibre Channel standard is Fibre Channel Arbitrated Loop (FC-AL).
+				</para>
+				 <para>
+					FC-AL was designed for new mass storage devices and other peripheral devices that require very high bandwidth. Using optical fiber to connect devices, FC-AL supports full-duplex data transfer rates of 100MBps. FC-AL is compatible with, and is expected to eventually replace, SCSI for high-performance storage systems.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-file_extensions_general_usage">
-      <term>file extensions (general usage)</term>
-       <listitem>
-        <para>
-          Write file extensions in all caps and without periods (for example, "a PDF file"), unless the file name is also referenced (for example, "Save as example.pdf").
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-file_extensions_general_usage">
+			<term>file extensions (general usage)</term>
+			 <listitem>
+				<para>
+					Write file extensions in all caps and without periods (for example, "a PDF file"), unless the file name is also referenced (for example, "Save as example.pdf").
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-file_mode_file_name_file_system_file_type">
-      <term>file mode, file name, file system, file type</term>
-       <listitem>
-        <para>
-          Write as shown, two words, unless used as a variable. See <citetitle>The IBM Style Guide</citetitle> for more information.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-file_mode_file_name_file_system_file_type">
+			<term>file mode, file name, file system, file type</term>
+			 <listitem>
+				<para>
+					Write as shown, two words, unless used as a variable. See <citetitle>The IBM Style Guide</citetitle> for more information.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FireWire">
-      <term>FireWire</term>
-       <listitem>
-        <para>
-          Correct. Do not use "Firewire" or "firewire." Although FireWire is a trademark of Apple Computer, it does not need to be listed with a trademark symbol when mentioned. Only when talking about Apple's FireWire software license or specific logos should the symbol be used (which is almost never). See <ulink url="http://developer.apple.com/softwarelicensing/agreements/firewire.html">http ://developer.apple.com/softwarelicensing/agreements/firewire.html</ulink> for full details.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FireWire">
+			<term>FireWire</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Firewire" or "firewire." Although FireWire is a trademark of Apple Computer, it does not need to be listed with a trademark symbol when mentioned. Only when talking about Apple's FireWire software license or specific logos should the symbol be used (which is almost never). See <ulink url="http://developer.apple.com/softwarelicensing/agreements/firewire.html">http ://developer.apple.com/softwarelicensing/agreements/firewire.html</ulink> for full details.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-firmware">
-      <term>firmware</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> Do not use "firm ware" or "firm-ware."
-        </para>
-         <para>
-          Software (programs or data) that has been written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs, and EPROMs that have data or programs recorded on them are firmware.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-firmware">
+			<term>firmware</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Do not use "firm ware" or "firm-ware."
+				</para>
+				 <para>
+					Software (programs or data) that has been written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs, and EPROMs that have data or programs recorded on them are firmware.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-floating_point">
-      <term>floating point</term>
-       <listitem>
-        <para>
-          Correct. Do not hyphenate.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-floating_point">
+			<term>floating point</term>
+			 <listitem>
+				<para>
+					Correct. Do not hyphenate.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-floppy_disk">
-      <term>floppy disk</term>
-       <listitem>
-        <para>
-          Do not use. Use "diskette," and also state the size of the diskette, such as "3.5&nbsp;in. diskette."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-floppy_disk">
+			<term>floppy disk</term>
+			 <listitem>
+				<para>
+					Do not use. Use "diskette," and also state the size of the diskette, such as "3.5&nbsp;in. diskette."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-floppy_drive">
-      <term>floppy drive</term>
-       <listitem>
-        <para>
-          Do not use. Use "diskette drive."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-floppy_drive">
+			<term>floppy drive</term>
+			 <listitem>
+				<para>
+					Do not use. Use "diskette drive."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-foreground">
-      <term>foreground</term>
-       <listitem>
-        <itemizedlist>
-          <listitem>
-            <para>
-              In multiprocessing systems, the process that is currently accepting input from the keyboard or other input device is sometimes called the foreground process.
-            </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-foreground">
+			<term>foreground</term>
+			 <listitem>
+				<itemizedlist>
+					<listitem>
+						<para>
+							In multiprocessing systems, the process that is currently accepting input from the keyboard or other input device is sometimes called the foreground process.
+						</para>
 
-          </listitem>
-           <listitem>
-            <para>
-              On display screens, the foreground consists of the characters and pictures that appear on the screen. The background is the uniform canvas behind the characters and pictures.
-            </para>
+					</listitem>
+					 <listitem>
+						<para>
+							On display screens, the foreground consists of the characters and pictures that appear on the screen. The background is the uniform canvas behind the characters and pictures.
+						</para>
 
-          </listitem>
+					</listitem>
 
-        </itemizedlist>
+				</itemizedlist>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-    <varlistentry>
-      <term>fortnight</term>
-      <listitem>
-        <para>
-          A period of two weeks (14 nights). Avoid using. This term is not common in American English and may also be unfamiliar to non-native speakers.
-        </para>
-      </listitem>
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FORTRAN">
-      <term>FORTRAN</term>
-       <listitem>
-        <para>
-          Correct. Do not use "Fortran."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fortnight">
+			<term>fortnight</term>
+			 <listitem>
+				<para>
+					A period of two weeks (14 nights). Avoid using. This term is not common in American English and may also be unfamiliar to non-native speakers.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-forward">
-      <term>forward</term>
-       <listitem>
-        <para>
-          Correct. Avoid using "forwards."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FORTRAN">
+			<term>FORTRAN</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Fortran."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FQDN">
-      <term>FQDN</term>
-       <listitem>
-        <para>
-          A fully qualified domain name consists of a host and domain name, including top-level domain. For example, www.redhat.com is a fully qualified domain name. www is the host, redhat is the second-level domain, and .com is the top level domain.
-        </para>
-         <para>
-          A FQDN always starts with a host name and continues all the way up to the top-level domain name, so www.parc.xerox.com is also a FQDN.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-forward">
+			<term>forward</term>
+			 <listitem>
+				<para>
+					Correct. Avoid using "forwards."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-    <varlistentry>
-      <term>frictionless</term>
-      <listitem>
-        <para>
-          Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bimodal_IT"/>.
-        </para>
-      </listitem>
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-front_end_front_end">
-      <term>front end, front-end</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> Two words. For example, "PRCS is a front end for a version control toolset."
-        </para>
-         <para>
-          <emphasis>adj.</emphasis> Hyphenate. For example, "This chapter explains how to use the front-end API functions."
-        </para>
-         <para>
-          Do not use "frontend" as a noun or adjective.
-        </para>
-         <para>
-          See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-back_end_back_end" />
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FQDN">
+			<term>FQDN</term>
+			 <listitem>
+				<para>
+					A fully qualified domain name consists of a host and domain name, including top-level domain. For example, www.redhat.com is a fully qualified domain name. www is the host, redhat is the second-level domain, and .com is the top level domain.
+				</para>
+				 <para>
+					A FQDN always starts with a host name and continues all the way up to the top-level domain name, so www.parc.xerox.com is also a FQDN.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FTP">
-      <term>FTP</term>
-       <listitem>
-        <para>
-          Use all caps when referring to the protocol. Use lowercase when referring to the command-line program.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-frictionless">
+			<term>frictionless</term>
+			 <listitem>
+				<para>
+					Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bimodal_IT" />.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Futexes">
-      <term>Futexes</term>
-       <listitem>
-        <para>
-          Correct. "Futex" is an abbreviation of "fast user-space mutex." Consequently, "futexes" is the correct plural form.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-front_end_front_end">
+			<term>front end, front-end</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Two words. For example, "PRCS is a front end for a version control toolset."
+				</para>
+				 <para>
+					<emphasis>adj.</emphasis> Hyphenate. For example, "This chapter explains how to use the front-end API functions."
+				</para>
+				 <para>
+					Do not use "frontend" as a noun or adjective.
+				</para>
+				 <para>
+					See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-back_end_back_end" />
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Fuzzy">
-      <term>Fuzzy</term>
-       <listitem>
-        <para>
-          Correct only when referring to fuzzy searches. See <xref linkend="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language" /> for details and examples.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FTP">
+			<term>FTP</term>
+			 <listitem>
+				<para>
+					Use all caps when referring to the protocol. Use lowercase when referring to the command-line program.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Futexes">
+			<term>Futexes</term>
+			 <listitem>
+				<para>
+					Correct. "Futex" is an abbreviation of "fast user-space mutex." Consequently, "futexes" is the correct plural form.
+				</para>
 
-  </variablelist>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Fuzzy">
+			<term>Fuzzy</term>
+			 <listitem>
+				<para>
+					Correct only when referring to fuzzy searches. See <xref linkend="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language" /> for details and examples.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
 </chapter>
 
