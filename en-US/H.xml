@@ -7,10 +7,16 @@
   <title>H</title>
    <variablelist>
     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_code_v._hard_coded_adj.">
-      <term>hard code (v.), hard-coded (adj.)</term>
+      <term>hard code, hard-coded</term>
        <listitem>
         <para>
-          Correct. Do not use the one-word form. No nominal form is currently recognized.
+          <emphasis>v.</emphasis> Two words.
+        </para>
+        <para>
+            <emphasis>adj.</emphasis> Hypenate.
+        </para>
+        <para>
+            Do not use the one-word form. No nominal form is currently recognized.
         </para>
 
       </listitem>
@@ -28,20 +34,20 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_disk_n.">
-      <term>hard disk (n.)</term>
+      <term>hard disk</term>
        <listitem>
         <para>
-          Correct. Do not use "harddisk" or "hard-disk."
+          <emphasis>n.</emphasis> Correct. Do not use "harddisk" or "hard-disk."
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_disk_drive_n.">
-      <term>hard disk drive (n.)</term>
+      <term>hard disk drive</term>
        <listitem>
         <para>
-          Correct. Do not use "harddrive" or "hard-drive."
+          <emphasis>n.</emphasis> Correct. Do not use "harddrive" or "hard-drive."
         </para>
 
       </listitem>
@@ -51,7 +57,7 @@
       <term>he, she</term>
        <listitem>
         <para>
-          Do not use. Reword to avoid.
+          Do not use. Reword to avoid. In most cases, "they" is acceptable as a singular pronoun.
         </para>
 
       </listitem>
@@ -80,10 +86,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-health_check_n.">
-      <term>health check (n.)</term>
+      <term>health check</term>
        <listitem>
         <para>
-          Two words. This is a change from the previous style standard (one word) to take advantage of the better search ranking of the two-word variation, and is used in product names that are similar to competitive offerings in the same space.
+          <emphasis>n.</emphasis> Two words. This is a change from the previous style standard (one word) to take advantage of the better search ranking of the two-word variation, and is used in product names that are similar to competitive offerings in the same space.
         </para>
          <para>
           This term is only capitalized when part of a product name, for example:
@@ -112,90 +118,84 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hertz_n.">
-      <term>hertz (n.)</term>
+      <term>hertz</term>
        <listitem>
         <para>
-          Correct. Capitalize the initial "H" only at the beginning of a sentence. The correct abbreviation is "Hz."
+          <emphasis>n.</emphasis> Correct. Capitalize the "H" only at the beginning of a sentence. The correct abbreviation is "Hz."
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-high_availability_adj.">
-      <term>high-availability (adj.)</term>
+      <term>high-availability, high availability</term>
        <listitem>
         <para>
-          Correct. For example, "high-availability cluster." Do not use "high availability."
+          <emphasis>adj.</emphasis> Hyphenate. For example, "high-availability cluster." Do not use "high availability."
+        </para>
+        <para>
+          <emphasis>n.</emphasis> Two words. For example, "Support is available 24x7 to help maintain high availability."
         </para>
 
       </listitem>
 
     </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-high_availability_n.">
-      <term>high availability (n.)</term>
-       <listitem>
-        <para>
-          Correct. For example, "Support is available 24x7 to help maintain high availability."
-        </para>
 
-      </listitem>
-
-    </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-high_performance_computing_HPC_n.">
-      <term>high-performance computing (HPC) (n.)</term>
+      <term>high-performance computing (HPC)</term>
        <listitem>
         <para>
-          Correct. Use standard hyphenation guidelines to maintain clarity.
+          <emphasis>n.</emphasis> Use standard hyphenation guidelines to maintain clarity.
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-home_page_n.">
-      <term>home page (n.)</term>
+      <term>home page</term>
        <listitem>
         <para>
-          Correct. Two words, and only capitalize the initial "H" at the beginning of a sentence. If part of a proper noun, capitalize accordingly. See <citetitle>The IBM Style Guide</citetitle> for more information.
+          <emphasis>n.</emphasis> Two words. Capitalize the "H" at the beginning of a sentence. If part of a proper noun, capitalize accordingly. See <citetitle>The IBM Style Guide</citetitle> for more information.
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-host_group_n.">
-      <term>host group (n.)</term>
+      <term>host group</term>
        <listitem>
         <para>
-          Correct. Two words, and only capitalize the initial "H" at the beginning of a sentence. See RFC 966 for more details.
+          <emphasis>n.</emphasis> Two words. Capitalize the "H" at the beginning of a sentence. See RFC 966 for more details.
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-host_name_n.">
-      <term>host name (n.)</term>
+      <term>host name</term>
        <listitem>
         <para>
-          Correct. Two words, and only capitalize the initial "H" at the beginning of a sentence. See <citetitle>The IBM Style Guide</citetitle> for more information.
+          <emphasis>n.</emphasis> Two words in most cases. Capitalize the "H" at the beginning of a sentence. See <citetitle>The IBM Style Guide</citetitle> for more information.
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hot_add_v.">
-      <term>hot add (v.)</term>
+      <term>hot add</term>
        <listitem>
         <para>
-          Correct. Two words, lowercase. Capitalize only at the beginning of a sentence. Do not use "hotadd" or "hot-add."
+          <emphasis>v.</emphasis> Two words, lowercase. Capitalize only at the beginning of a sentence. Do not use "hotadd" or "hot-add."
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hotline_n.">
-      <term>hotline (n.)</term>
+      <term>hotline</term>
        <listitem>
         <para>
-          Correct. One word, lowercase. Capitalize only at the beginning of a sentence. <remark>Under review. Need context and example.</remark>
+          <emphasis>n.</emphasis> One word, lowercase. Capitalize only at the beginning of a sentence. <remark>Under review. Need context and example.</remark>
 
         </para>
 
@@ -203,20 +203,20 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hot_plug_v.">
-      <term>hot plug (v.)</term>
+      <term>hot plug</term>
        <listitem>
         <para>
-          Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use "hotplug" or "hot-plug."
+          <emphasis>v.</emphasis> Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use "hotplug" or "hot-plug."
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hot_swap_v.">
-      <term>hot swap (v.)</term>
+      <term>hot swap</term>
        <listitem>
         <para>
-          Correct. Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use "hotswap" or "hot-swap."
+          <emphasis>v.</emphasis> Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use "hotswap" or "hot-swap."
         </para>
 
       </listitem>
@@ -253,40 +253,42 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-huge_page_adj.">
-      <term>huge-page (adj.)</term>
+      <term>huge-page, huge page</term>
        <listitem>
         <para>
-          Correct. Normal hyphenation rules apply. See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-huge_page_n." /> for capitalization rules.
+          <emphasis>adj.</emphasis> Hyphenate. Normal hyphenation rules apply.
+        </para>
+        <para>
+          <emphasis>n.</emphasis> Use the two-word version in all cases. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization used in that interface.
         </para>
 
       </listitem>
 
     </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-huge_page_n.">
-      <term>huge page (n.)</term>
-       <listitem>
-        <para>
-          Correct. Use the two-word version in all cases. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization used in that interface.
-        </para>
-
-      </listitem>
-
+    <varlistentry>
+        <term>hybrid IT</term>
+        <listitem>
+            <para>
+                The preferred term when talking about IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of these. Because hybrid can indicate either infrastructure or environment or both, be specific about the underlying combination. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bimodal_IT"/>.
+            </para>
+        </listitem>
     </varlistentry>
+
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-Hyper_Threading_n.">
-      <term>Hyper-Threading (n.)</term>
+      <term>Hyper-Threading</term>
        <listitem>
         <para>
-          Hyper-Threading is Intel's implementation of simultaneous multithreading. Do not use hyperthreading or hyper-threading. If you are not referring specifically to Intel's implementation, use "simultaneous multithreading" or "SMT" instead.
+          <emphasis>n.</emphasis> Hyper-Threading is Intel's implementation of simultaneous multithreading. Do not use hyperthreading or hyper-threading. If you are not referring specifically to Intel's implementation, use "simultaneous multithreading" or "SMT" instead.
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hypervisor_n.">
-      <term>hypervisor (n.)</term>
+      <term>hypervisor</term>
        <listitem>
         <para>
-          Capitalize only at the beginning of a sentence or as part of Red&nbsp;Hat Virtualization&nbsp;Hypervisor. Do not use "HyperVisor" or "Hyperviser."
+          <emphasis>n.</emphasis> Capitalize only at the beginning of a sentence or as part of Red&nbsp;Hat Virtualization&nbsp;Hypervisor. Do not use "HyperVisor" or "Hyperviser."
         </para>
 
       </listitem>
