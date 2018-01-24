@@ -10,17 +10,20 @@
       <term>KB, kB</term>
        <listitem>
         <para>
-          KB is the initialism of kilobyte, equal to 1024 bytes. kB is also the initialism of kilobyte, but is equal to 1000 bytes.
+          Refer to <citetitle>The IBM Style Guide</citetitle> for the correct abbreviation to use for specific use cases.
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kbps">
-      <term>kbps</term>
+      <term>kbps, KBps, kBps</term>
        <listitem>
         <para>
-          Initialism for kilobits per second, or 1000 bits per second.
+          kbps is the accepted abbreviation for kilobit per second, or 1000 bits per second.
+        </para>
+        <para>
+          KBps and kBps are accepted abbreviations for kilobyte per second, or 1000 bytes per second.
         </para>
 
       </listitem>
