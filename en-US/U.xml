@@ -10,7 +10,7 @@
       <term>UID</term>
        <listitem>
         <para>
-          UID and User ID are abbreviations of <emphasis>user identifier</emphasis>. Do not use "uid."
+          <emphasis>n.</emphasis> UID and user ID are abbreviations of <emphasis>user identifier</emphasis>. Do not use "uid" or "User ID" or other variations unless specifically referring to a variable, argument, parameter, UI label, or similar.
         </para>
 
       </listitem>
@@ -30,10 +30,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-uninterruptible_adj.">
-      <term>uninterruptible (adj.)</term>
+      <term>uninterruptible</term>
        <listitem>
         <para>
-          Despite not appearing in the <citetitle>American Heritage Dictionary,</citetitle> this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary,</citetitle> and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)."
+          <emphasis>adj.</emphasis> Despite not appearing in the <citetitle>American Heritage Dictionary</citetitle>, this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary</citetitle>, and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)."
         </para>
 
       </listitem>
@@ -62,7 +62,7 @@
           Incorrect. Use "Clear" instead.
         </para>
          <para>
-          To disable the <application>Wobbly Widget</application>, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> check box.
+          To disable the <application>Wobbly Widget</application> application, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> check box.
         </para>
          <para>
           This rule only matches TCP packets that have the <guilabel>SYN</guilabel> flag set and the <guilabel>ACK</guilabel> flag cleared.
@@ -85,7 +85,7 @@
       <term>upgrade</term>
        <listitem>
         <para>
-          Correct. Do not use "up-grade" or "up grade."
+          <emphasis>v.</emphasis> Correct. Do not use "up-grade" or "up grade."
         </para>
 
       </listitem>
@@ -132,20 +132,20 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-uptime_n.">
-      <term>uptime (n.)</term>
+      <term>uptime</term>
        <listitem>
         <para>
-          Correct. Do not use "up-time" or "up time."
+          <emphasis>n.</emphasis> Correct. Do not use "up-time" or "up time."
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-URL_n.">
-      <term>URL (n.)</term>
+      <term>URL</term>
        <listitem>
         <para>
-          Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
+          <emphasis>n.</emphasis> Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
         </para>
          <para>
           See <xref linkend="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
@@ -155,23 +155,23 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-usable_adj.">
-      <term>usable (adj.)</term>
+      <term>usable</term>
        <listitem>
         <para>
-          Correct. Do not use "useable."
+          <emphasis>adj.</emphasis> Correct. Do not use "useable."
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_n.">
-      <term>user (n.)</term>
+      <term>user</term>
        <listitem>
         <para>
-          When referring to the reader, use "you" instead of "user." For example, "The user must..." is incorrect. Use "You must..." instead.
+          <emphasis>n.</emphasis> When referring to the reader, use "you" instead of "user." For example, "The user must..." is incorrect. Use "You must..." instead.
         </para>
          <para>
-          If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may wish to access your database."
+          If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may want to access your database."
         </para>
 
       </listitem>
@@ -179,10 +179,10 @@
     </varlistentry>
 
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_interface_n.">
-      <term>user interface (n.)</term>
+      <term>user interface</term>
        <listitem>
         <para>
-          Correct. Do not use "user-interface" or "userinterface."
+          <emphasis>n.</emphasis> Correct. Do not use "user-interface" or "userinterface."
         </para>
          <para>
           The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. A command-driven interface is one in which you enter commands. A menu-driven interface is one in which you select command choices from various menus displayed on the screen.
@@ -192,20 +192,20 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_name_n.">
-      <term>user name (n.)</term>
+      <term>user name</term>
        <listitem>
         <para>
-          Correct. Do not use "username" unless you are using it as a variable.
+          <emphasis>n.</emphasis> Correct. Do not use "username" unless you are using it as a variable.
         </para>
 
       </listitem>
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_space_n.">
-      <term>user space (n.)</term>
+      <term>user space</term>
        <listitem>
         <para>
-          Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space." Do not use "userspace."
+          <emphasis>n.</emphasis> Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space." Do not use "userspace."
         </para>
 
       </listitem>
