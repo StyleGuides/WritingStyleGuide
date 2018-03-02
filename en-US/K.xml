@@ -4,167 +4,167 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-K">
-  <title>K</title>
-   <variablelist>
-    <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-KB_kB">
-      <term>KB, kB</term>
-       <listitem>
-        <para>
-          Refer to <citetitle>The IBM Style Guide</citetitle> for the correct abbreviation to use for specific use cases.
-        </para>
+	<title>K</title>
+	 <variablelist>
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-KB_kB">
+			<term>KB, kB</term>
+			 <listitem>
+				<para>
+					Refer to <citetitle>The IBM Style Guide</citetitle> for the correct abbreviation to use for specific use cases.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kbps">
-      <term>kbps, KBps, kBps</term>
-       <listitem>
-        <para>
-          kbps is the accepted abbreviation for kilobit per second, or 1000 bits per second.
-        </para>
-        <para>
-          KBps and kBps are accepted abbreviations for kilobyte per second, or 1000 bytes per second.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kbps_KBps_kBps">
+			<term>kbps, KBps, kBps</term>
+			 <listitem>
+				<para>
+					kbps is the accepted abbreviation for kilobit per second, or 1000 bits per second.
+				</para>
+				 <para>
+					KBps and kBps are accepted abbreviations for kilobyte per second, or 1000 bytes per second.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kerberize">
-      <term>kerberize</term>
-       <listitem>
-        <para>
-          Incorrect. Do not use "kerberize," "kerberized," or other variants to refer to applications or services that use Kerberos authentication. Refer to such applications as "Kerberos-aware" or "Kerberos-enabled," or rewrite the sentence.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kerberize">
+			<term>kerberize</term>
+			 <listitem>
+				<para>
+					Incorrect. Do not use "kerberize," "kerberized," or other variants to refer to applications or services that use Kerberos authentication. Refer to such applications as "Kerberos-aware" or "Kerberos-enabled," or rewrite the sentence.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kernel">
-      <term>kernel</term>
-       <listitem>
-        <para>
-          The central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the kernel is responsible for memory management, process and task management, and disk management.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kernel">
+			<term>kernel</term>
+			 <listitem>
+				<para>
+					The central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the kernel is responsible for memory management, process and task management, and disk management.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-Kernel_based_Virtual_Machine_KVM">
-      <term>Kernel-based Virtual Machine (KVM)</term>
-       <listitem>
-        <para>
-          Spell out on first use, capitalized. Use the initialism (KVM) thereafter. It is an industry standard, and a proper noun.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-Kernel_based_Virtual_Machine_KVM">
+			<term>Kernel-based Virtual Machine (KVM)</term>
+			 <listitem>
+				<para>
+					Spell out on first use, capitalized. Use the initialism (KVM) thereafter. It is an industry standard, and a proper noun.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kernel_panic">
-      <term>kernel panic</term>
-       <listitem>
-        <para>
-          Correct. Numerous circumstances may cause a kernel panic, but unlike a kernel oops, when confronted with a kernel panic the operating system shuts down to prevent the possibility of further damage or security breaches.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kernel_panic">
+			<term>kernel panic</term>
+			 <listitem>
+				<para>
+					Correct. Numerous circumstances may cause a kernel panic, but unlike a kernel oops, when confronted with a kernel panic the operating system shuts down to prevent the possibility of further damage or security breaches.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kernel_space_kernel_space">
-      <term>kernel space, kernel-space</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> Two words when used as a noun.
-        </para>
-         <para>
-          <emphasis>adj.</emphasis> Hyphenate as an adjective, "kernel-space." Do not use "kernelspace."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kernel_space_kernel_space">
+			<term>kernel space, kernel-space</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Two words when used as a noun.
+				</para>
+				 <para>
+					<emphasis>adj.</emphasis> Hyphenate as an adjective, "kernel-space." Do not use "kernelspace."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-keyboard_key">
-      <term>keyboard key</term>
-       <listitem>
-        <para>
-          When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X." When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S."
-        </para>
-         <para>
-          See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-Spacebar" />.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-keyboard_key">
+			<term>keyboard key</term>
+			 <listitem>
+				<para>
+					When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X." When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S."
+				</para>
+				 <para>
+					See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-Spacebar" />.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-key_ring">
-      <term>key ring</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> Use the two-word form as a noun. For example, "add your new key to the key ring."
-        </para>
-         <para>
-          <emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example, "copy the key-ring file to the server."
-        </para>
-         <para>
-          Only use the one-word form, "keyring," if it is the actual name of a command, package, or other proper noun.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-key_ring">
+			<term>key ring</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Use the two-word form as a noun. For example, "add your new key to the key ring."
+				</para>
+				 <para>
+					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example, "copy the key-ring file to the server."
+				</para>
+				 <para>
+					Only use the one-word form, "keyring," if it is the actual name of a command, package, or other proper noun.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-keytab">
-      <term>keytab</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> <emphasis>(Kerberos)</emphasis> Correct. A keytab (short for "key table") stores long-term keys for one or more principals. See <ulink url="https://web.mit.edu/kerberos/krb5-1.12/doc/basic/keytab_def.html" /> for full details.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-keytab">
+			<term>keytab</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> <emphasis>(Kerberos)</emphasis> Correct. A keytab (short for "key table") stores long-term keys for one or more principals. See <ulink url="https://web.mit.edu/kerberos/krb5-1.12/doc/basic/keytab_def.html" /> for full details.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-key_value">
-      <term>key-value</term>
-       <listitem>
-        <para>
-          <emphasis>adj.</emphasis> Correct when referring to a data representation in computing systems and applications, for example a "key-value pair." Do not use "key/value" or any other variations.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-key_value">
+			<term>key-value</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Correct when referring to a data representation in computing systems and applications, for example a "key-value pair." Do not use "key/value" or any other variations.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-Kickstart">
-      <term>Kickstart</term>
-       <listitem>
-        <para>
-          <emphasis>adj.</emphasis> A network installation system for some Linux distributions. <footnote> <para>
-            <ulink url="http://en.wikipedia.org/wiki/Kickstart_%28Linux%29">http://en.wikipedia.org/wiki/Kickstart (Linux)</ulink>
-          </para>
-           </footnote>
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-Kickstart">
+			<term>Kickstart</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> A network installation system for some Linux distributions. <footnote> <para>
+						<ulink url="http://en.wikipedia.org/wiki/Kickstart_%28Linux%29">http://en.wikipedia.org/wiki/Kickstart (Linux)</ulink>
+					</para>
+					 </footnote>
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kill">
-      <term>kill</term>
-       <listitem>
-        <para>
-          If terminating a UNIX process, use "kill." For example, to terminate the process, type <command>kill <replaceable>&lt;PID&gt;</replaceable></command>. If terminating a Windows process, use "terminate." For example, "To terminate the process, press <keycap>Q</keycap>."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-kill">
+			<term>kill</term>
+			 <listitem>
+				<para>
+					If terminating a UNIX process, use "kill." For example, to terminate the process, type <command>kill <replaceable>&lt;PID&gt;</replaceable></command>. If terminating a Windows process, use "terminate." For example, "To terminate the process, press <keycap>Q</keycap>."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-knowledge_base">
-      <term>knowledge base</term>
-       <listitem>
-        <para>
-          Correct. Use the two-word form unless referring specifically to the "Red&nbsp;Hat Knowledgebase." In this case, use the one-word form and capitalize the "K." Do not capitalize the "b."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-K-knowledge_base">
+			<term>knowledge base</term>
+			 <listitem>
+				<para>
+					Correct. Use the two-word form unless referring specifically to the "Red&nbsp;Hat Knowledgebase." In this case, use the one-word form and capitalize the "K." Do not capitalize the "b."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
+		</varlistentry>
 
-  </variablelist>
+	</variablelist>
 </chapter>
 

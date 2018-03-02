@@ -4,286 +4,293 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-M">
-  <title>M</title>
-   <variablelist>
-    <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-make_sure">
-      <term>make sure</term>
-       <listitem>
-        <para>
-          This means "be careful to remember, attend to, or find out something." For example, "make sure the rhedk group is listed in the output."
-        </para>
-         <para>
-          You may be able to use "verify" or "ensure" instead.
-        </para>
+	<title>M</title>
+	 <variablelist>
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-make_sure">
+			<term>make sure</term>
+			 <listitem>
+				<para>
+					This means "be careful to remember, attend to, or find out something." For example, "make sure the rhedk group is listed in the output."
+				</para>
+				 <para>
+					You may be able to use "verify" or "ensure" instead.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-manualman_page">
-      <term>manual/man page</term>
-       <listitem>
-        <para>
-          Correct. Two words. Do not use "manpage."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-manualman_page">
+			<term>manual/man page</term>
+			 <listitem>
+				<para>
+					Correct. Two words. Do not use "manpage."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-matrixes">
-      <term>matrixes</term>
-       <listitem>
-        <para>
-          Correct. This is the correct plural form for U.S. English spelling. Do not use "matrices."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-matrixes">
+			<term>matrixes</term>
+			 <listitem>
+				<para>
+					Correct. This is the correct plural form for U.S. English spelling. Do not use "matrices."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MB">
-      <term>MB</term>
-       <listitem>
-        <itemizedlist>
-          <listitem>
-            <para>
-              When written as MB, stands for megabyte (1,000,000 or 1,048,576 bytes, depending on the context).
-            </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MB">
+			<term>MB</term>
+			 <listitem>
+				<itemizedlist>
+					<listitem>
+						<para>
+							When written as MB, stands for megabyte (1,000,000 or 1,048,576 bytes, depending on the context).
+						</para>
 
-          </listitem>
-           <listitem>
-            <para>
-              When written as Mb, stands for megabit.
-            </para>
+					</listitem>
+					 <listitem>
+						<para>
+							When written as Mb, stands for megabit.
+						</para>
 
-          </listitem>
+					</listitem>
 
-        </itemizedlist>
+				</itemizedlist>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MBps">
-      <term>MBps</term>
-       <listitem>
-        <para>
-          Initialism for megabytes per second, a measure of data transfer speed. Mass storage devices are generally measured in MBps.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MBps">
+			<term>MBps</term>
+			 <listitem>
+				<para>
+					Initialism for megabytes per second, a measure of data transfer speed. Mass storage devices are generally measured in MBps.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MBR">
-      <term>MBR</term>
-       <listitem>
-        <para>
-          Initialism for Master Boot Record, a small program that is executed when a computer boots up. Typically, the MBR resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process. In DOS and Windows systems, you can create the MBR with the FDISK /MBR command.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MBR">
+			<term>MBR</term>
+			 <listitem>
+				<para>
+					Initialism for Master Boot Record, a small program that is executed when a computer boots up. Typically, the MBR resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process. In DOS and Windows systems, you can create the MBR with the FDISK /MBR command.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-media">
-      <term>media</term>
-       <listitem>
-        <itemizedlist>
-          <listitem>
-            <para>
-              Objects on which data can be stored. These include hard disks, diskettes, CDs, and tapes.
-            </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-media">
+			<term>media</term>
+			 <listitem>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Objects on which data can be stored. These include hard disks, diskettes, CDs, and tapes.
+						</para>
 
-          </listitem>
-           <listitem>
-            <para>
-              In computer networks, media refers to the cables linking workstations together. There are many different types of transmission media, the most popular being twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fibre optic cable (cables made out of glass).
-            </para>
+					</listitem>
+					 <listitem>
+						<para>
+							In computer networks, media refers to the cables linking workstations together. There are many different types of transmission media, the most popular being twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fibre optic cable (cables made out of glass).
+						</para>
 
-          </listitem>
-           <listitem>
-            <para>
-              The form and technology used to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media.
-            </para>
+					</listitem>
+					 <listitem>
+						<para>
+							The form and technology used to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media.
+						</para>
 
-          </listitem>
+					</listitem>
 
-        </itemizedlist>
+				</itemizedlist>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-menu_driven">
-      <term>menu-driven</term>
-       <listitem>
-        <para>
-         <emphasis>adj.</emphasis> Correct. Do not use "menu driven" or "menudriven."
-        </para>
-         <para>
-          Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-menu_driven">
+			<term>menu-driven</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Correct. Do not use "menu driven" or "menudriven."
+				</para>
+				 <para>
+					Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-    <varlistentry>
-      <term>message</term>
-      <listitem>
-        <para>
-          <emphasis>n.</emphasis> Write "the system displays a message" or "send an instant message."
-        </para>
-        <para>
-          <emphasis>adj.</emphasis> For example, "A messaging system."
-        </para>
-        <para>
-          Do not use as a verb.
-        </para>
-      </listitem>
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-metadata">
-      <term>metadata</term>
-       <listitem>
-        <para>
-          Correct. Do not use "meta data" or "meta-data."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-message">
+			<term>message</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Write "the system displays a message" or "send an instant message."
+				</para>
+				 <para>
+					<emphasis>adj.</emphasis> For example, "A messaging system."
+				</para>
+				 <para>
+					Do not use as a verb.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-microservice_n.">
-      <term>microservice </term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> Correct. One word, common noun. Do not use "micro-service" or "micro service". Only capitalize at the beginning of a sentence or in a title. See <ulink url="https://en.wikipedia.org/wiki/Microservices">https://en.wikipedia.org/wiki/Microservices</ulink> for a definition.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-metadata">
+			<term>metadata</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "meta data" or "meta-data."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Microsoft">
-      <term>Microsoft</term>
-       <listitem>
-        <para>
-          Correct. Do not use "MS," "MSFT," or "MicroSoft."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-microservice_">
+			<term>microservice </term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Correct. One word, common noun. Do not use "micro-service" or "micro service". Only capitalize at the beginning of a sentence or in a title. See <ulink url="https://en.wikipedia.org/wiki/Microservices">https://en.wikipedia.org/wiki/Microservices</ulink> for a definition.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-misconfigure_v.">
-      <term>misconfigure</term>
-       <listitem>
-        <para>
-          <emphasis>v.</emphasis> This term is in common use and does appear in some dictionaries, but try to avoid it if possible. Do not hyphenate.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Microsoft">
+			<term>Microsoft</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "MS," "MSFT," or "MicroSoft."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Montecito">
-      <term>Montecito</term>
-       <listitem>
-        <para>
-          Do not use. This is a code name for the "Intel Itanium Processor 9000 Sequence." This latter phrase should be used instead.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-misconfigure">
+			<term>misconfigure</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> This term is in common use and does appear in some dictionaries, but try to avoid it if possible. Do not hyphenate.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-mount">
-      <term>mount</term>
-       <listitem>
-            <para>
-             <emphasis>v.</emphasis>
-             </para>
-             <orderedlist><listitem><para>
-               To make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called mounting the floppy.
-            </para></listitem>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Montecito">
+			<term>Montecito</term>
+			 <listitem>
+				<para>
+					Do not use. This is a code name for the "Intel Itanium Processor 9000 Sequence." This latter phrase should be used instead.
+				</para>
 
-            <listitem><para>
-              To install a device, such as a disk drive or expansion board.
-            </para></listitem>
-</orderedlist>
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-mouse_button">
-      <term>mouse button</term>
-       <listitem>
-        <para>
-         <emphasis>n.</emphasis> Two words. Do not use "mouse-button" or "mousebutton." If you need to indicate which mouse button, use "right," "left," or "center," such as "right mouse button." Do not hyphenate.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-mount">
+			<term>mount</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis>
+				</para>
+				 <orderedlist>
+					<listitem>
+						<para>
+							To make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called mounting the floppy.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							To install a device, such as a disk drive or expansion board.
+						</para>
+					</listitem>
+				</orderedlist>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Mozilla_Firefox">
-      <term>Mozilla Firefox</term>
-       <listitem>
-        <para>
-          Correct. First reference must be "Mozilla Firefox." Subsequent references can be "Firefox."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-mouse_button">
+			<term>mouse button</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Two words. Do not use "mouse-button" or "mousebutton." If you need to indicate which mouse button, use "right," "left," or "center," such as "right mouse button." Do not hyphenate.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Mozilla_Thunderbird">
-      <term>Mozilla Thunderbird</term>
-       <listitem>
-        <para>
-          Correct. First reference must be "Mozilla Thunderbird." Subsequent references can be "Thunderbird."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Mozilla_Firefox">
+			<term>Mozilla Firefox</term>
+			 <listitem>
+				<para>
+					Correct. First reference must be "Mozilla Firefox." Subsequent references can be "Firefox."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MS_DOS">
-      <term>MS-DOS</term>
-       <listitem>
-        <para>
-          Correct. Do not use "ms-dos," "MSDOS," or "msdos."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Mozilla_Thunderbird">
+			<term>Mozilla Thunderbird</term>
+			 <listitem>
+				<para>
+					Correct. First reference must be "Mozilla Thunderbird." Subsequent references can be "Thunderbird."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-multiprocessing">
-      <term>multiprocessing</term>
-       <listitem>
-        <para>
-          Correct. Do not use "multi-processing."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MS_DOS">
+			<term>MS-DOS</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "ms-dos," "MSDOS," or "msdos."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-must">
-      <term>must</term>
-       <listitem>
-        <para>
-          Use when referring to a task that a user is required to do. For example, "You must make a backup" is a requirement, but "You should make a backup" is a suggestion.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-multiprocessing">
+			<term>multiprocessing</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "multi-processing."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Mutexes">
-      <term>Mutexes</term>
-       <listitem>
-        <para>
-          Correct. "Mutex" is an abbreviation of "mutual exclusion." Consequently, "mutexes" is the correct plural form.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-must">
+			<term>must</term>
+			 <listitem>
+				<para>
+					Use when referring to a task that a user is required to do. For example, "You must make a backup" is a requirement, but "You should make a backup" is a suggestion.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MySQL">
-      <term>MySQL</term>
-       <listitem>
-        <para>
-          Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with an <firstterm>R-ball</firstterm> (®) to denote a registered trademark.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Mutexes">
+			<term>Mutexes</term>
+			 <listitem>
+				<para>
+					Correct. "Mutex" is an abbreviation of "mutual exclusion." Consequently, "mutexes" is the correct plural form.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MySQL">
+			<term>MySQL</term>
+			 <listitem>
+				<para>
+					Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with an <firstterm>R-ball</firstterm> (®) to denote a registered trademark.
+				</para>
 
-  </variablelist>
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
 </chapter>
 

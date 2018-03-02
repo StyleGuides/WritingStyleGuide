@@ -4,224 +4,223 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-U">
-  <title>U</title>
-   <variablelist>
-    <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UID">
-      <term>UID</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> UID and user ID are abbreviations of <emphasis>user identifier</emphasis>. Do not use "uid" or "User ID" or other variations unless specifically referring to a variable, argument, parameter, UI label, or similar.
-        </para>
+	<title>U</title>
+	 <variablelist>
+		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UID">
+			<term>UID</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> UID and user ID are abbreviations of <emphasis>user identifier</emphasis>. Do not use "uid" or "User ID" or other variations unless specifically referring to a variable, argument, parameter, UI label, or similar.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UltraSPARC">
-      <term>UltraSPARC</term>
-       <listitem>
-        <para>
-          Correct. Do not use "ULTRASPARC," "UltraSparc," or other variations.
-        </para>
-         <para>
-          UltraSPARC is a trademark of SPARC International, Inc., and is used under license by Sun Microsystems, Inc. Products bearing the SPARC trademarks are based upon an architecture developed by Sun Microsystems, Inc.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UltraSPARC">
+			<term>UltraSPARC</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "ULTRASPARC," "UltraSparc," or other variations.
+				</para>
+				 <para>
+					UltraSPARC is a trademark of SPARC International, Inc., and is used under license by Sun Microsystems, Inc. Products bearing the SPARC trademarks are based upon an architecture developed by Sun Microsystems, Inc.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-uninterruptible_adj.">
-      <term>uninterruptible</term>
-       <listitem>
-        <para>
-          <emphasis>adj.</emphasis> Despite not appearing in the <citetitle>American Heritage Dictionary</citetitle>, this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary</citetitle>, and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-uninterruptible">
+			<term>uninterruptible</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Despite not appearing in the <citetitle>American Heritage Dictionary</citetitle>, this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary</citetitle>, and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UNIX">
-      <term>UNIX</term>
-       <listitem>
-        <para>
-          Correct. Do not use "Unix" or "unix."
-        </para>
-         <para>
-          UNIX is a registered trademark of The Open Group.
-        </para>
-         <para>
-          Do not use "UNIX-like." Use an expression such as "Linux, UNIX, and similar operating systems" instead.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UNIX">
+			<term>UNIX</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Unix" or "unix."
+				</para>
+				 <para>
+					UNIX is a registered trademark of The Open Group.
+				</para>
+				 <para>
+					Do not use "UNIX-like." Use an expression such as "Linux, UNIX, and similar operating systems" instead.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-unset">
-      <term>unset</term>
-       <listitem>
-        <para>
-          Incorrect. Use "Clear" instead.
-        </para>
-         <para>
-          To disable the <application>Wobbly Widget</application> application, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> check box.
-        </para>
-         <para>
-          This rule only matches TCP packets that have the <guilabel>SYN</guilabel> flag set and the <guilabel>ACK</guilabel> flag cleared.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-unset">
+			<term>unset</term>
+			 <listitem>
+				<para>
+					Incorrect. Use "Clear" instead.
+				</para>
+				 <para>
+					To disable the <application>Wobbly Widget</application> application, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> check box.
+				</para>
+				 <para>
+					This rule only matches TCP packets that have the <guilabel>SYN</guilabel> flag set and the <guilabel>ACK</guilabel> flag cleared.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-untrusted">
-      <term>untrusted</term>
-       <listitem>
-        <para>
-          Use only in the context of security relationships. For example, web browsers often indicate that a site is "untrusted" if it cannot verify that site's security certificate.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-untrusted">
+			<term>untrusted</term>
+			 <listitem>
+				<para>
+					Use only in the context of security relationships. For example, web browsers often indicate that a site is "untrusted" if it cannot verify that site's security certificate.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upgrade">
-      <term>upgrade</term>
-       <listitem>
-        <para>
-          <emphasis>v.</emphasis> Correct. Do not use "up-grade" or "up grade."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upgrade">
+			<term>upgrade</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Correct. Do not use "up-grade" or "up grade."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UPS">
-      <term>UPS</term>
-       <listitem>
-        <para>
-          Abbreviation of uninterruptible power supply, a power supply that includes a battery to maintain power in the event of a power outage.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UPS">
+			<term>UPS</term>
+			 <listitem>
+				<para>
+					Abbreviation of uninterruptible power supply, a power supply that includes a battery to maintain power in the event of a power outage.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upsell_v._upselling_n.">
-      <term>upsell (v.), upselling (n.)</term>
-       <listitem>
-        <warning>
-          <title>Marketing Use Only</title>
-           <para>
-            "The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.<footnote> <para>
-              http://www.ahdictionary.com/word/search.html?q=upsell
-            </para>
-             </footnote>"
-          </para>
-           <para>
-            Do not hyphenate or use as two words. No adjectival form is currently recognized.
-          </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upsell_v._upselling_n.">
+			<term>upsell (v.), upselling (n.)</term>
+			 <listitem>
+				<warning>
+					<title>Marketing Use Only</title>
+					 <para>
+						"The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.<footnote> <para>
+							http://www.ahdictionary.com/word/search.html?q=upsell
+						</para>
+						 </footnote>"
+					</para>
+					 <para>
+						Do not hyphenate or use as two words. No adjectival form is currently recognized.
+					</para>
 
-        </warning>
+				</warning>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upstream">
-      <term>upstream</term>
-       <listitem>
-        <para>
-          Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-downstream" />. Do not use "up-stream" or "up stream."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upstream">
+			<term>upstream</term>
+			 <listitem>
+				<para>
+					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-downstream" />. Do not use "up-stream" or "up stream."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-uptime_n.">
-      <term>uptime</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> Correct. Do not use "up-time" or "up time."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-uptime">
+			<term>uptime</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Correct. Do not use "up-time" or "up time."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-URL_n.">
-      <term>URL</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
-        </para>
-         <para>
-          See <xref linkend="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-URL">
+			<term>URL</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
+				</para>
+				 <para>
+					See <xref linkend="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-usable_adj.">
-      <term>usable</term>
-       <listitem>
-        <para>
-          <emphasis>adj.</emphasis> Correct. Do not use "useable."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-usable">
+			<term>usable</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Correct. Do not use "useable."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_n.">
-      <term>user</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> When referring to the reader, use "you" instead of "user." For example, "The user must..." is incorrect. Use "You must..." instead.
-        </para>
-         <para>
-          If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may want to access your database."
-        </para>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user">
+			<term>user</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> When referring to the reader, use "you" instead of "user." For example, "The user must..." is incorrect. Use "You must..." instead.
+				</para>
+				 <para>
+					If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may want to access your database."
+				</para>
 
-      </listitem>
+			</listitem>
 
-    </varlistentry>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_interface">
+			<term>user interface</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Correct. Do not use "user-interface" or "userinterface."
+				</para>
+				 <para>
+					The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. A command-driven interface is one in which you enter commands. A menu-driven interface is one in which you select command choices from various menus displayed on the screen.
+				</para>
 
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_interface_n.">
-      <term>user interface</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> Correct. Do not use "user-interface" or "userinterface."
-        </para>
-         <para>
-          The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. A command-driven interface is one in which you enter commands. A menu-driven interface is one in which you select command choices from various menus displayed on the screen.
-        </para>
+			</listitem>
 
-      </listitem>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_name">
+			<term>user name</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Correct. Do not use "username" unless you are using it as a variable.
+				</para>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_name_n.">
-      <term>user name</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> Correct. Do not use "username" unless you are using it as a variable.
-        </para>
+			</listitem>
 
-      </listitem>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_space">
+			<term>user space</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space." Do not use "userspace."
+				</para>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_space_n.">
-      <term>user space</term>
-       <listitem>
-        <para>
-          <emphasis>n.</emphasis> Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space." Do not use "userspace."
-        </para>
+			</listitem>
 
-      </listitem>
+		</varlistentry>
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-utilize">
+			<term>utilize</term>
+			 <listitem>
+				<para>
+					Avoid this term. Write "use" instead.
+				</para>
 
-    </varlistentry>
-     <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-utilize">
-      <term>utilize</term>
-       <listitem>
-        <para>
-          Avoid this term. Write "use" instead.
-        </para>
+			</listitem>
 
-      </listitem>
+		</varlistentry>
 
-    </varlistentry>
-
-  </variablelist>
+	</variablelist>
 </chapter>
 
