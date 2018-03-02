@@ -15,6 +15,9 @@
 					<para>
 						The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles. Diagram labels, table headings, procedure and formal paragraph titles all fall under this heading, and consequently, standard title case capitalization rules apply. Titles should not include punctuation marks. The currently accepted reference for determining title case is <ulink url="http://titlecase.com">http://titlecase.com.</ulink>
 					</para>
+          <para>
+            Use sentence case for table column headers. These are not classified as titles.
+          </para>
 					 <warning>
 						<title>Marketing and Brand Capitalization Guide</title>
 						 <para>
@@ -50,8 +53,8 @@
 							</thead>
 							 <tbody>
 								<row>
-									<entry> Install JBoss Enterprise Application Platform Using the ZIP Download </entry>
-									 <entry> Installing JBoss Enterprise Application Platform Using the ZIP Download <emphasis>OR</emphasis> Installation of JBoss Enterprise Application Platform Using the ZIP Download </entry>
+									<entry> Install Widget Enterprise Application Using the ZIP Download </entry>
+									 <entry> Installing Widget Enterprise Application Using the ZIP Download <emphasis>or</emphasis> Installation of Widget Enterprise Application Using the ZIP Download </entry>
 
 								</row>
 
@@ -77,7 +80,7 @@
 	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Documenting_Fonts">
 		<title>Documenting Fonts</title>
 		 <para>
-			The preferred way to refer to each type of postscript font is "PostScript Type x," with "x" substituted with either 1, 2, or 3, if the problem is specific to a particular type.
+			The preferred way to refer to each type of postscript font is "PostScript Type x," substituting "x" with either 1, 2, or 3, if the problem is specific to a particular type.
 		</para>
 
 	</section>
@@ -124,18 +127,18 @@
 			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-					
+
 <screen>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 
 				</para>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components:
 				<itemizedlist>
 					<listitem>
 						<para>
-							<prompt>$</prompt> Indicates that a normal user can run the command, as compared to the <systemitem class="username">root</systemitem> user, indicated by the number sign (<prompt>#</prompt>).
+							<prompt>$</prompt> Indicates that a normal user can run the command, as compared to the <systemitem>root</systemitem> user, indicated by the number sign (<prompt>#</prompt>).
 						</para>
 
 					</listitem>
@@ -163,16 +166,16 @@
 			</para>
 			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
-				 
+
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
 				<itemizedlist>
 					<listitem>
 						<para>
-							<prompt>$</prompt> Indicates that a normal user can run the command, as compared to the <systemitem class="username">root</systemitem> user, indicated by the number sign (<prompt>#</prompt>).
+							<prompt>$</prompt> Indicates that a normal user can run the command, as compared to the <systemitem>root</systemitem> user, indicated by the number sign (<prompt>#</prompt>).
 						</para>
 
 					</listitem>
@@ -205,7 +208,7 @@
 				</para>
 				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
-					 
+
 <screen>$ cd Documents
 $ vi myFile.txt
 </screen>
@@ -216,7 +219,7 @@ $ vi myFile.txt
 				</para>
 				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
-					 
+
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
@@ -365,14 +368,12 @@ $ vi myFile.txt
 		</para>
 
 	</section>
-	 <!--   
-	 <section role="internal" id="sect-Policy-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
+
+	 <section id="sect-Policy-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
 		<title>Using Company, Product, and Brand Names Correctly</title>
+
 		 <para>
-			For general information, see <ulink url="https://home.corp.redhat.com/wiki/writing-style-branding" />.
-		</para>
-		 <para>
-			The following points in particular should be noted:
+			Note in particular the following points:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -399,12 +400,8 @@ $ vi myFile.txt
 				<listitem>
 				<para>
 						Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name. Consider the following examples:
+          </para>
 						<itemizedlist>
-							<listitem>
-								<para>
-									Navigate to the Red&amp;nbsp;Hat home page at <ulink url="https://access.redhat.com/home">https://access.redhat.com/home</ulink> and click <guimenu>Downloads.</guimenu>
-								</para>
-							</listitem>
 							<listitem>
 								<para>
 									Standardize on Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux.
@@ -416,7 +413,7 @@ $ vi myFile.txt
 								</para>
 							</listitem>
 						</itemizedlist>
-					</para>
+
 				</listitem>
 				<listitem>
 					<para>
@@ -445,87 +442,17 @@ $ vi myFile.txt
 
 		</para>
 
-	</section>                                 --> <!--   
-	<section><title>Using Capitalization Correctly</title>
-		<para>
-			This section provides guidelines for how to correctly capitalize various words and phrases, especially group and team names, partner names, and related entities.
-		</para>
-
-		<section role="internal"><title>Department Naming</title>
-			<para>
-				The preferred word is team, regardless of size or function. Do not use "business unit" in external-facing documents. Use "organization" to distinguish a department from its sub-teams or to otherwise call attention to its large, multi-team nature. For example, "The OpenShift Engineering team is part of the Red Hat Engineering organization."
-			</para>
-			<para>
-				When used as a title or caption, capitalize all words, including "team" and "organization." For example:
-				<itemizedlist>
-					<listitem><para>Red Hat Finance Team</para></listitem>
-					<listitem><para>Red Hat IT Organization</para></listitem>
-				</itemizedlist>
-			</para>
-			<para>
-				When used in context or in a sentence, do not capitalize words such as "team" or "organization." For example:
-				<itemizedlist>
-					<listitem><para>As a member of the Red Hat Finance team...</para></listitem>
-					<listitem><para>...with our Global Workplace Solutions team.</para></listitem></itemizedlist></para>
-                </section>
+	</section>
 
 
-		<section role="internal"><title>Partner Naming</title>
-			<para>
-				When referring to Red&nbsp;Hat partners, only capitalize the following:
-				<itemizedlist>
-					<listitem>
-						<para>
-							The full, formal, proper name of the program (program designation).
-						</para>
-					</listitem>
-					<listitem>
-						<para>
-							The full, formal, proper name of the partner (partner designation).
-						</para>
-					</listitem>
-				</itemizedlist>
-			</para>
-			<para>
-				Always use the full partner or program name. For a list of current partner names, see <ulink url="https://mojo.redhat.com/docs/DOC-938543"></ulink>
-			</para>
-			<para>
-				Do not capitalize the following:
-				<itemizedlist>
-					<listitem>
-						<para>
-							Red&nbsp;Hat partners
-						</para>
-					</listitem>
-					<listitem>
-						<para>
-							Red&nbsp;Hat partnerships
-						</para>
-					</listitem>
-					<listitem>
-						<para>
-							Partner or partnerships by themselves
-						</para>
-					</listitem>
-					<listitem>
-						<para>
-							Partial names of the programs, when used descriptively
-						</para>
-					</listitem>
-				</itemizedlist>
-			</para>
-
-		</section>
-
-
-                </section>                                  --> <!--                                 <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
+  <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
 			The preferred format for product names includes only the major version number. For example:
 			<itemizedlist>
 				<listitem>
 					<para>
-						Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;5
+						Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;7
 					</para>
 
 				</listitem>
@@ -574,13 +501,15 @@ $ vi myFile.txt
 
 		</important>
 
-	</section>                                 --> <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Admonitions">
+	</section>
+
+  <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Admonitions">
 		<title>Using Admonitions</title>
 		 <para>
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -630,12 +559,12 @@ $ vi myFile.txt
 		 <para>
 			In XML:
 		</para>
-		 
+
 <programlisting>
 &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 </programlisting>
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by 
+			For example, <citetitle>Maximum RPM</citetitle> by
 			<author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
