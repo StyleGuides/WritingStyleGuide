@@ -45,13 +45,13 @@
         <itemizedlist>
           <listitem>
             <para>
-              When spelled MB, short for megabyte (1,000,000 or 1,048,576 bytes, depending on the context).
+              When written as MB, stands for megabyte (1,000,000 or 1,048,576 bytes, depending on the context).
             </para>
 
           </listitem>
            <listitem>
             <para>
-              When spelled Mb, short for megabit.
+              When written as Mb, stands for megabit.
             </para>
 
           </listitem>
@@ -84,7 +84,7 @@
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-media">
       <term>media</term>
        <listitem>
-        <orderedlist>
+        <itemizedlist>
           <listitem>
             <para>
               Objects on which data can be stored. These include hard disks, diskettes, CDs, and tapes.
@@ -104,7 +104,7 @@
 
           </listitem>
 
-        </orderedlist>
+        </itemizedlist>
 
       </listitem>
 
@@ -113,7 +113,7 @@
       <term>menu-driven</term>
        <listitem>
         <para>
-          Correct. Do not use "menu driven" or "menudriven."
+         <emphasis>adj.</emphasis> Correct. Do not use "menu driven" or "menudriven."
         </para>
          <para>
           Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program.
@@ -121,6 +121,20 @@
 
       </listitem>
 
+    </varlistentry>
+    <varlistentry>
+      <term>message</term>
+      <listitem>
+        <para>
+          <emphasis>n.</emphasis> Write "the system displays a message" or "send an instant message."
+        </para>
+        <para>
+          <emphasis>adj.</emphasis> For example, "A messaging system."
+        </para>
+        <para>
+          Do not use as a verb.
+        </para>
+      </listitem>
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-metadata">
       <term>metadata</term>
@@ -133,10 +147,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-microservice_n.">
-      <term>microservice <emphasis>(n.)</emphasis></term>
+      <term>microservice </term>
        <listitem>
         <para>
-          Correct. One word, common noun. Do not use "micro-service" or "micro service". Only capitalize at the beginning of a sentence or in a title. See <ulink url="https://en.wikipedia.org/wiki/Microservices">https://en.wikipedia.org/wiki/Microservices</ulink> for a definition.
+          <emphasis>n.</emphasis> Correct. One word, common noun. Do not use "micro-service" or "micro service". Only capitalize at the beginning of a sentence or in a title. See <ulink url="https://en.wikipedia.org/wiki/Microservices">https://en.wikipedia.org/wiki/Microservices</ulink> for a definition.
         </para>
 
       </listitem>
@@ -153,10 +167,10 @@
 
     </varlistentry>
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-misconfigure_v.">
-      <term>misconfigure (v.)</term>
+      <term>misconfigure</term>
        <listitem>
         <para>
-          This term is in common use and does appear in some dictionaries, but try to avoid it if possible. Do not hyphenate.
+          <emphasis>v.</emphasis> This term is in common use and does appear in some dictionaries, but try to avoid it if possible. Do not hyphenate.
         </para>
 
       </listitem>
@@ -175,22 +189,17 @@
      <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-mount">
       <term>mount</term>
        <listitem>
-        <itemizedlist>
-          <listitem>
             <para>
-              To make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called mounting the floppy.
-            </para>
+             <emphasis>v.</emphasis>
+             </para>
+             <orderedlist><listitem><para>
+               To make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called mounting the floppy.
+            </para></listitem>
 
-          </listitem>
-           <listitem>
-            <para>
+            <listitem><para>
               To install a device, such as a disk drive or expansion board.
-            </para>
-
-          </listitem>
-
-        </itemizedlist>
-
+            </para></listitem>
+</orderedlist>
       </listitem>
 
     </varlistentry>
@@ -198,7 +207,7 @@
       <term>mouse button</term>
        <listitem>
         <para>
-          Two words. Do not use "mouse-button" or "mousebutton." If you need to indicate which mouse button, use "right," "left," or "center," such as "right mouse button." Do not hyphenate.
+         <emphasis>n.</emphasis> Two words. Do not use "mouse-button" or "mousebutton." If you need to indicate which mouse button, use "right," "left," or "center," such as "right mouse button." Do not hyphenate.
         </para>
 
       </listitem>
@@ -248,7 +257,7 @@
       <term>must</term>
        <listitem>
         <para>
-          Use when referring to a task that is necessary for the user to do. For example, "You must make a backup" is a requirement, while "You should make a backup" is a suggestion.
+          Use when referring to a task that a user is required to do. For example, "You must make a backup" is a requirement, but "You should make a backup" is a suggestion.
         </para>
 
       </listitem>
@@ -268,7 +277,7 @@
       <term>MySQL</term>
        <listitem>
         <para>
-          Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with a ® to denote a registered trademark.
+          Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with an <firstterm>R-ball</firstterm> (®) to denote a registered trademark.
         </para>
 
       </listitem>
