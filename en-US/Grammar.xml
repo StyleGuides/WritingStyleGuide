@@ -320,8 +320,8 @@
 
 					</row>
 					 <row>
-						<entry> To access your programs click the Start button. </entry>
-						 <entry> To access your programs, click the Start button. </entry>
+						<entry> To access your programs click the <guibutton>Start</guibutton> button. </entry>
+						 <entry> To access your programs, click <guibutton>Start</guibutton>. </entry>
 
 					</row>
 					 <row>
@@ -338,7 +338,7 @@
 		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Sentence_Fragments">
 			<title>Sentence Fragments</title>
 			 <para>
-				A <emphasis>sentence fragment</emphasis> is an incomplete sentence. For example, "We will release no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade. At least, before its time." the second of the two sentences is a fragment. Repair sentence fragments by making them complete sentences.
+				A <firstterm>sentence fragment</firstterm> is an incomplete sentence. For example, "We will release no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade. At least, before its time." the second of the two sentences is a fragment. Repair sentence fragments by making them complete sentences.
 			</para>
 
 		</formalpara>
