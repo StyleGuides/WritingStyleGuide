@@ -69,11 +69,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-backwards">
+		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-backwards_compatible">
 			<term>backwards compatible</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "compatible with earlier versions." See also <xref linkend="fwd-compatible"/>.
+					Do not use. Instead, use "compatible with earlier versions." See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-forwards_compatible" />.
 				</para>
 
 			</listitem>

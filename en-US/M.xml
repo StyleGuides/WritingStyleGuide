@@ -199,12 +199,15 @@
 						<para>
 							To make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called mounting the floppy.
 						</para>
+
 					</listitem>
 					 <listitem>
 						<para>
 							To install a device, such as a disk drive or expansion board.
 						</para>
+
 					</listitem>
+
 				</orderedlist>
 
 			</listitem>

@@ -255,7 +255,7 @@
 				</revdescription>
 
 			</revision>
-			 <!--                                                <revision><remark>Comment this until the section  passes QA</remark>
+			 <!--                                                 <revision><remark>Comment this until the section  passes QA</remark>
 				<revnumber>1.6-3</revnumber>
 				 <date>Mon Apr 29 2013</date>
 				 <author>
@@ -274,7 +274,7 @@
 
 				</revdescription>
 
-			</revision>                                                --> <revision>
+			</revision>                                                 --> <revision>
 				<revnumber>1.6-2</revnumber>
 				 <date>Tue Mar 19 2013</date>
 				 <author>

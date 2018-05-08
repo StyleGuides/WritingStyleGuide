@@ -15,9 +15,9 @@
 					<para>
 						The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles. Diagram labels, table headings, procedure and formal paragraph titles all fall under this heading, and consequently, standard title case capitalization rules apply. Titles should not include punctuation marks. The currently accepted reference for determining title case is <ulink url="http://titlecase.com">http://titlecase.com.</ulink>
 					</para>
-          <para>
-            Use sentence case for table column headers. These are not classified as titles.
-          </para>
+					 <para>
+						Use sentence case for table column headers. These are not classified as titles.
+					</para>
 					 <warning>
 						<title>Marketing and Brand Capitalization Guide</title>
 						 <para>
@@ -127,14 +127,14 @@
 			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-
+					
 <screen>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 
 				</para>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components:
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -166,12 +166,12 @@
 			</para>
 			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
-
+				 
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -208,7 +208,7 @@
 				</para>
 				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
-
+					 
 <screen>$ cd Documents
 $ vi myFile.txt
 </screen>
@@ -219,7 +219,7 @@ $ vi myFile.txt
 				</para>
 				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
-
+					 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
@@ -368,12 +368,10 @@ $ vi myFile.txt
 		</para>
 
 	</section>
-
-	 <section id="sect-Policy-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
 		<title>Using Company, Product, and Brand Names Correctly</title>
-
 		 <para>
-			Note in particular the following points:
+			Note in particular the following points: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -391,64 +389,66 @@ $ vi myFile.txt
 					<para>
 						Use non-breaking spaces to avoid breaking the company name over multiple lines. This also applies to product names and their versions. For example, use a non-breaking space between "Red" and "Hat," and also between "Enterprise," "Linux," and the version number.
 					</para>
-
 					 <para>
 						If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
 					</para>
 
 				</listitem>
-				<listitem>
-				<para>
+				 <listitem>
+					<para>
 						Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name. Consider the following examples:
-          </para>
-						<itemizedlist>
-							<listitem>
-								<para>
-									Standardize on Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux.
-								</para>
-							</listitem>
-							<listitem>
-								<para>
-									The latest version is Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux&amp;nbsp;7.0
-								</para>
-							</listitem>
-						</itemizedlist>
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								Standardize on Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								The latest version is Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux&amp;nbsp;7.0
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
 
 				</listitem>
-				<listitem>
+				 <listitem>
 					<para>
 						Do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise&nbsp;Linux OpenStack Platform" does not require a non-breaking space between "Linux" and "OpenStack" nor between "OpenStack" and "Platform."
 					</para>
+
 				</listitem>
-				<listitem>
+				 <listitem>
 					<para>
 						Do not use non-breaking spaces with other companies' product names.
 					</para>
+
 				</listitem>
 				 <listitem>
 					<para>
 						Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was..."
 					</para>
-					<note>
+					 <note>
 						<para>
 							In this case, "Platform" is part of the product name. In other cases, words like "platform," "manager," and so on may not be part of the product name, in which case an article is acceptable, if not necessary.
 						</para>
+
 					</note>
 
 				</listitem>
-
 
 			</itemizedlist>
 
 		</para>
 
 	</section>
-
-
-  <section id="sect-Policy-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
-			The preferred format for product names includes only the major version number. For example:
+			The preferred format for product names includes only the major version number. For example: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -470,7 +470,7 @@ $ vi myFile.txt
 			When writing about a product line, product release, or product family, use major version numbers. This includes all the releases (past, present, and future) of that major version.
 		</para>
 		 <para>
-			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example:
+			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -502,14 +502,13 @@ $ vi myFile.txt
 		</important>
 
 	</section>
-
-  <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Admonitions">
+	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Admonitions">
 		<title>Using Admonitions</title>
 		 <para>
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions:
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -559,12 +558,12 @@ $ vi myFile.txt
 		 <para>
 			In XML:
 		</para>
-
+		 
 <programlisting>
 &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 </programlisting>
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by
+			For example, <citetitle>Maximum RPM</citetitle> by 
 			<author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
