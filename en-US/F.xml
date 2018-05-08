@@ -204,6 +204,16 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry id="fwd-compatible">
+			<term>forwards compatible</term>
+			 <listitem>
+				<para>
+					Do not use. Instead, use "compatible with later versions." See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-backwards"/>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FQDN">
 			<term>FQDN</term>
 			 <listitem>

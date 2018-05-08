@@ -70,10 +70,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-backwards">
-			<term>backwards</term>
+			<term>backwards compatible</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "compatible with earlier versions."
+					Do not use. Instead, use "compatible with earlier versions." See also <xref linkend="fwd-compatible"/>.
 				</para>
 
 			</listitem>
