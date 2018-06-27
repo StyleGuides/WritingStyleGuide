@@ -127,14 +127,14 @@
 			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-					
+
 <screen>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 
 				</para>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components:
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -166,12 +166,12 @@
 			</para>
 			 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
-				 
+
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
+				In <xref linkend="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -208,7 +208,7 @@
 				</para>
 				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
-					 
+
 <screen>$ cd Documents
 $ vi myFile.txt
 </screen>
@@ -219,7 +219,7 @@ $ vi myFile.txt
 				</para>
 				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
-					 
+
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
@@ -247,40 +247,28 @@ $ vi myFile.txt
 					<para>
 						Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
 					</para>
+          <important>
+            <para>
+              Do not use valid, public IP addresses in any examples.
+            </para>
+          </important>
 
 				</listitem>
 				 <listitem>
 					<para>
-						As much as possible, use <systemitem>user</systemitem>, <systemitem>username</systemitem>, <systemitem>root</systemitem>, <systemitem>admin</systemitem>, or similar names to identify classes of users. Do not invent names such as Joe, Mary, Mac, and so on.
+						As much as possible, use <systemitem>user</systemitem>, <systemitem>username</systemitem>, <systemitem>root</systemitem>, <systemitem>admin</systemitem>, or similar names to identify classes of users.
+          </para>
+            <para>
+             Use these generic names when you refer to users outside of a case study.
+             This helps students identify which part of a command can and should be replaced by establishing a consistent format for names of users and system items.
+             For example:
+           </para>
+           <screen><prompt>[root@fedora ~]# </prompt><userinput>setfacl -m u:user1:rw /project/file1</userinput>
+          </screen>
+           <para>
+            The following list provides further alternatives:
 					</para>
-					 <para>
-						If a more extensive list of user names is required, see <xref linkend="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Host_and_User_Names_Correctly-Using_Extended_User_and_Group_Names" />.
-					</para>
-
-				</listitem>
-				 <listitem>
-					<para>
-						Do not use valid, public IP addresses in any examples.
-					</para>
-
-				</listitem>
-
-			</itemizedlist>
-			 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Host_and_User_Names_Correctly-Using_Extended_User_and_Group_Names">
-				<title>Using Extended User and Group Names</title>
-				 <para>
-					Sometimes, the recommended list of user and group names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable:
-				</para>
-				 <note>
-					<para>
-						All names are lowercase. Do not use white space in any part of the name.
-					</para>
-
-				</note>
-				 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Extended_User_and_Group_Names-User_Names">
-					<title>User Names</title>
-					 <para>
-						<itemizedlist>
+          <itemizedlist>
 							<listitem>
 								<para>
 									<systemitem>operator1</systemitem> to <systemitem>operator9</systemitem>
@@ -302,13 +290,98 @@ $ vi myFile.txt
 
 						</itemizedlist>
 
+					 <para>
+						If a more extensive list of user names is required, see <xref linkend="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Host_and_User_Names_Correctly-Using_Extended_User_and_Group_Names" />.
 					</para>
 
+				</listitem>
+
+			</itemizedlist>
+			 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Host_and_User_Names_Correctly-Using_Extended_User_and_Group_Names">
+				<title>Using Extended User and Group Names</title>
+				 <para>
+					Sometimes, the recommended list of user and group names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable:
+				</para>
+				 <note>
+					<para>
+						All names are lowercase. Do not use white space in any part of the name.
+					</para>
+				</note>
+				 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Extended_User_and_Group_Names-User_Names">
+					<title>Using Realistic User Names</title>
+					 <para>
+             When you are writing a detailed case study, such as training exercises, reviews, and similar material, use realistic names.
+             These names should not be real people.
+             In other words, do not use the name of an employee, a well-known person, or your neighbor.
+            </para>
 				</formalpara>
+        <para>
+          For example, you are the system administrator at Global Banking and you have been asked to set up permissions to the accounting directory for the following users: John Doe, Sunni Koning, Huong Sabo, and Jerlene Paluch.
+          John is a department manager and needs to be able to read from the accounting directory, Sunni is the lead accountant and needs both read and write access.
+        </para>
+						<formalpara><title>Choosing a Realistic Name</title>
+              <para>
+                Consider the following when choosing a realistic name:
+                <footnote>
+                  <para>
+                    Examples taken from <citetitle>The IBM Style Guide</citetitle> and the <citetitle>Google Developer Documentation Style Guide</citetitle>.
+                  </para>
+                </footnote>
+              </para>
+            </formalpara>
+            <itemizedlist>
+              <listitem>
+                <para>
+                  In examples or scenarios, you can use a person's name and then use a gender-specific pronoun to refer to that name.
+                  Vary the use of proper names in documentation.
+                  Use names that represent various ethnic backgrounds, genders, and locations.
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  Do not use copyrighted fictional characters in examples, and do not use real people.
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  Include a diverse set of names in your examples to reflect the diversity of the real world.
+                  For example, use female and other names that suggest a variety of backgrounds in examples, to avoid implying that only certain groups have specific skills.
+                </para>
+              </listitem>
+            </itemizedlist>
+            <formalpara><title>Sourcing Realistic Names</title>
+              <para>
+                You can use any of the following name generators to create realistic names for users:
+              </para>
+            </formalpara>
+            <itemizedlist>
+              <listitem>
+                <para>
+                  <ulink url="https://uinames.com/">https://uinames.com/</ulink>
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  <ulink url="http://listofrandomnames.com/">http://listofrandomnames.com/</ulink>
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  <ulink url="http://www.behindthename.com/random/">http://www.behindthename.com/random/</ulink>
+                </para>
+              </listitem>
+              <listitem>
+                <para>
+                  <ulink url="http://random-name-generator.info/">http://random-name-generator.info/</ulink>
+                </para>
+              </listitem>
+            </itemizedlist>
+
+
 				 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Using_Extended_User_and_Group_Names-Group_Names">
 					<title>Group Names</title>
 					 <para>
-						Any lowercase name that is a logical extension of the accepted user names, without the numerical suffix. For example, <systemitem>architects</systemitem>, <systemitem>developers</systemitem>, <systemitem>operators</systemitem>.
+						Use any lowercase name that is a logical extension of the accepted user names, without the numerical suffix. For example, <systemitem>architects</systemitem>, <systemitem>developers</systemitem>, <systemitem>operators</systemitem>.
 					</para>
 
 				</formalpara>
@@ -371,7 +444,7 @@ $ vi myFile.txt
 	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Company_Product_and_Brand_Names_Correctly">
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
-			Note in particular the following points: 
+			Note in particular the following points:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -448,7 +521,7 @@ $ vi myFile.txt
 	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
-			The preferred format for product names includes only the major version number. For example: 
+			The preferred format for product names includes only the major version number. For example:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -470,7 +543,7 @@ $ vi myFile.txt
 			When writing about a product line, product release, or product family, use major version numbers. This includes all the releases (past, present, and future) of that major version.
 		</para>
 		 <para>
-			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example: 
+			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -508,7 +581,7 @@ $ vi myFile.txt
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -558,12 +631,12 @@ $ vi myFile.txt
 		 <para>
 			In XML:
 		</para>
-		 
+
 <programlisting>
 &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 </programlisting>
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by 
+			For example, <citetitle>Maximum RPM</citetitle> by
 			<author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
