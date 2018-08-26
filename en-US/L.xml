@@ -188,7 +188,7 @@
 			<term>look at</term>
 			 <listitem>
 				<para>
-					Do not use. Use "examine" instead.
+					Do not use. Use "examine" or "inspect" or some other more precise term instead.
 				</para>
 
 			</listitem>
@@ -221,7 +221,7 @@
 			<term>LPAR</term>
 			 <listitem>
 				<para>
-					Abbreviation of logical partitioning, a system of taking a computer's total resources — processors, memory and storage — and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client/server actions or systems that serve multiple time zones and/or languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Since the partitions in effect act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
+					Abbreviation of logical partitioning, a system of taking a computer's total resources, such as processors, memory, and storage, and splitting them into smaller units that can be run with their own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client/server actions, or systems that serve multiple time zones or languages. Logical partitioning can also be used to keep testing environments separated from production environments. Because the partitions act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
 				</para>
 
 			</listitem>

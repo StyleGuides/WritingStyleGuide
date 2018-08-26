@@ -148,7 +148,7 @@
 			<term>interesting</term>
 			 <listitem>
 				<para>
-					Avoid using, as this is a substitute for showing the reader why something is of interest. For example, instead of writing "It is interesting to note...", consider using a "Note" admonition.
+					Avoid this term, because it is a substitute for showing the reader why something is of interest. For example, instead of writing "It is interesting to note...", consider using a "Note" admonition.
 				</para>
 
 			</listitem>
