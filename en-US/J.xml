@@ -26,16 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JBoss_Way">
-			<term>JBoss Way</term>
-			 <listitem>
-				<para>
-					When referring specifically to the JBoss cultural and business climate or practices as the subject of your sentence, capitalize "JBoss Way" as a formal, branded concept. However, if the reference is generic or the "way" is further specified, do not capitalize. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-Red_Hat_Way" /> and <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_source_way" />.
-				</para>
 
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-job">
 			<term>job</term>
 			 <listitem>

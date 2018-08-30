@@ -56,10 +56,10 @@
 			<term>read</term>
 			 <listitem>
 				<para>
-					(v.) To copy data to a place where it can be used by a program. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory. Also used to refer to the act of determining the contents of a variable or parameter.
+					<emphasis>v.</emphasis> To copy data to a place where it can be used by a program. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory. Also used to refer to the act of determining the contents of a variable or parameter.
 				</para>
 				 <para>
-					(n.) The act of reading. For example, a fast disk drive performs 100 reads per second.
+					<emphasis>n.</emphasis> The act of reading. For example, a fast disk drive performs 100 reads per second.
 				</para>
 
 			</listitem>
@@ -89,7 +89,10 @@
 			<term>real time/real-time</term>
 			 <listitem>
 				<para>
-					If used as a noun, it is the actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March." If used as an adjective, "real-time" is appropriate. For example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
+					<emphasis>n.</emphasis> The actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March."
+        </para>
+        <para>
+          <emphasis>adj.</emphasis> Use the hyphenated version. For example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
 				</para>
 
 			</listitem>
@@ -114,15 +117,6 @@
 
 			</listitem>
 
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-Red_Hat_Way">
-			<term>Red Hat Way</term>
-			 <listitem>
-				<para>
-					To do
-				</para>
-
-			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-refer_to">
@@ -159,7 +153,7 @@
 			<term>required</term>
 			 <listitem>
 				<para>
-					See "must."
+					See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-must"/>.
 				</para>
 
 			</listitem>
@@ -169,7 +163,7 @@
 			<term>return</term>
 			 <listitem>
 				<para>
-					When referring to the keyboard key on Solaris or Mac, use <keycap>Return</keycap> or <keycap>return</keycap>, respectively. See "enter" for other platforms.
+					When referring to the keyboard key on Solaris or Mac, use <keycap>Return</keycap> or <keycap>return</keycap>, respectively. See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-enter"/> for other platforms.
 				</para>
 
 			</listitem>
@@ -179,7 +173,7 @@
 			<term>right-click</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "right click."
+					<emphasis>v.</emphasis> Correct. Do not use "right click."
 				</para>
 
 			</listitem>
@@ -209,11 +203,14 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-roundtable_n._adj.">
-			<term>roundtable (n., adj.)</term>
+			<term>roundtable, round table</term>
 			 <listitem>
 				<para>
-					Use "roundtable" when referring to a type of event or gathering. Use "round table" when referring to a circular table.
+					<emphasis>v.</emphasis> Use the one-word form to refer to a type of event or gathering.
 				</para>
+        <para>
+          <emphasis>n.</emphasis>  Use the two-word form to refer to a circular table.
+        </para>
 
 			</listitem>
 

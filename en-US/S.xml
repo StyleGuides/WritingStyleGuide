@@ -545,7 +545,7 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-straightforward_adj._adv.">
-			<term>straightforward (adj., adv.)</term>
+			<term>straightforward</term>
 			 <listitem>
 				<para>
 					<emphasis>adj., adv.</emphasis> Accepted references prescribe the use of the one-word form in all cases. Do not use "straight-forward."
@@ -558,7 +558,7 @@
 			<term>su</term>
 			 <listitem>
 				<para>
-					Correct. Linux command to change to the <systemitem class="username">root</systemitem> user. Do not use SU (all caps).
+					Correct. Linux command to change to a named user. Do not use SU (all caps).
 				</para>
 
 			</listitem>
@@ -570,7 +570,7 @@
 				<para>
 					Correct. Do not use "sub-command" or "verb." A subcommand refers to a "secondary" or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
 				</para>
-				 
+
 <screen>hammer import organization --help</screen>
 				 <para>
 					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.
@@ -622,7 +622,7 @@
 			<term>superuser</term>
 			 <listitem>
 				<para>
-					A synonym for the root user. More common in Solaris documentation than Linux. If and when used, this is the correct spelling. Do not use "super user" or "super-user."
+					A synonym for the <systemitem>root</systemitem> user. More common in Solaris documentation than Linux. If and when used, this is the correct spelling. Do not use "super user" or "super-user."
 				</para>
 
 			</listitem>
