@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-A">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A">
 	<title>A</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-amp_and_">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-amp_and_">
 			<term>"&amp;" and "+"</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-agile_agile_development">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-agile_agile_development">
 			<term>agile, agile development</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-air_gap">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-air_gap">
 			<term>air gap</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-a.m._and_p.m.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-a.m._and_p.m.">
 			<term>a.m. and p.m.</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-AMD64_and_Intel_64">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-AMD64_and_Intel_64">
 			<term>AMD64 and Intel 64</term>
 			 <listitem>
 				<para>
@@ -71,7 +71,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-ATM">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-ATM">
 			<term>ATM</term>
 			 <listitem>
 				<para>
@@ -81,7 +81,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-above">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-above">
 			<term>above</term>
 			 <listitem>
 				<para>
@@ -91,7 +91,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-acronyms">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-acronyms">
 			<term>acronyms</term>
 			 <listitem>
 				<para>
@@ -107,7 +107,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-alrightall_right">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-alrightall_right">
 			<term>alright/all right</term>
 			 <listitem>
 				<para>
@@ -117,7 +117,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-alternate">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-alternate">
 			<term>alternate</term>
 			 <listitem>
 				<para>
@@ -127,7 +127,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-andor">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-andor">
 			<term>and/or</term>
 			 <listitem>
 				<para>
@@ -137,7 +137,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-applications">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-applications">
 			<term>applications</term>
 			 <listitem>
 				<para>
@@ -153,7 +153,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-Applixware">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-Applixware">
 			<term>Applixware</term>
 			 <listitem>
 				<para>
@@ -163,7 +163,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-as_well_as">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-as_well_as">
 			<term>as well as</term>
 			 <listitem>
 				<para>
@@ -173,7 +173,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-as_a_Service">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-as_a_Service">
 			<term id="aas">as-a-Service</term>
 			 <listitem>
 				<para>
@@ -188,7 +188,7 @@
 					</listitem>
 					 <listitem>
 						<para>
-							CaaS (Cloud-as-a-Service, Communications-as-a-Service, <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-Containers_as_a_Service" />)
+							CaaS (Cloud-as-a-Service, Communications-as-a-Service, <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-Containers_as_a_Service" />)
 						</para>
 
 					</listitem>
@@ -270,7 +270,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-auto_detect">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-auto_detect">
 			<term>auto-detect</term>
 			 <listitem>
 				<para>
@@ -280,7 +280,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-A-autofs">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-autofs">
 			<term>autofs</term>
 			 <listitem>
 				<para>

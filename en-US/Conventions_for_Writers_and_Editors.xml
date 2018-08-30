@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
 <book>
 	<xi:include href="Book_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <xi:include href="Preface.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <part id="part-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Style_Guide" label="I">
+	 <part id="part-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Writing_Style_Guide" label="I">
 		<title>Writing Style Guide</title>
 		 <partintro>
 			<para>
@@ -23,7 +23,7 @@
 		 <xi:include href="Resources.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 
 	</part>
-	 <part id="part-Red_Hat_Technical_Publications-Writing_Style_Guide-Usage_Dictionary" label="II">
+	 <part id="part-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Usage_Dictionary" label="II">
 		<title>Usage Dictionary</title>
 		 <partintro>
 			<para>
@@ -57,9 +57,9 @@
 		 <xi:include href="W.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 		 <xi:include href="XYZ.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 		 <xi:include href="WUG_References.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-		 <!--                                     <xi:include href="WUG_Intro.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                      -->
+		 <!--                                      <xi:include href="WUG_Intro.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                       -->
 	</part>
 	 <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <!--                                    <index />                                     -->
+	 <!--                                     <index />                                      -->
 </book>
 

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-M">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M">
 	<title>M</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-make_sure">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-make_sure">
 			<term>make sure</term>
 			 <listitem>
 				<para>
@@ -19,7 +19,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-manualman_page">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-manualman_page">
 			<term>manual/man page</term>
 			 <listitem>
 				<para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-matrixes">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-matrixes">
 			<term>matrixes</term>
 			 <listitem>
 				<para>
@@ -39,7 +39,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MB">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-MB">
 			<term>MB</term>
 			 <listitem>
 				<itemizedlist>
@@ -61,7 +61,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MBps">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-MBps">
 			<term>MBps</term>
 			 <listitem>
 				<para>
@@ -71,7 +71,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MBR">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-MBR">
 			<term>MBR</term>
 			 <listitem>
 				<para>
@@ -81,7 +81,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-media">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-media">
 			<term>media</term>
 			 <listitem>
 				<itemizedlist>
@@ -109,7 +109,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-menu_driven">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-menu_driven">
 			<term>menu-driven</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-message">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-message">
 			<term>message</term>
 			 <listitem>
 				<para>
@@ -138,7 +138,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-metadata">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-metadata">
 			<term>metadata</term>
 			 <listitem>
 				<para>
@@ -148,7 +148,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-microservice_">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-microservice_">
 			<term>microservice </term>
 			 <listitem>
 				<para>
@@ -158,7 +158,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Microsoft">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-Microsoft">
 			<term>Microsoft</term>
 			 <listitem>
 				<para>
@@ -168,7 +168,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-misconfigure">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-misconfigure">
 			<term>misconfigure</term>
 			 <listitem>
 				<para>
@@ -178,7 +178,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Montecito">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-Montecito">
 			<term>Montecito</term>
 			 <listitem>
 				<para>
@@ -188,7 +188,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-mount">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-mount">
 			<term>mount</term>
 			 <listitem>
 				<para>
@@ -213,7 +213,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-mouse_button">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-mouse_button">
 			<term>mouse button</term>
 			 <listitem>
 				<para>
@@ -223,7 +223,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Mozilla_Firefox">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-Mozilla_Firefox">
 			<term>Mozilla Firefox</term>
 			 <listitem>
 				<para>
@@ -233,7 +233,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Mozilla_Thunderbird">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-Mozilla_Thunderbird">
 			<term>Mozilla Thunderbird</term>
 			 <listitem>
 				<para>
@@ -243,7 +243,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MS_DOS">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-MS_DOS">
 			<term>MS-DOS</term>
 			 <listitem>
 				<para>
@@ -253,7 +253,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-multiprocessing">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-multiprocessing">
 			<term>multiprocessing</term>
 			 <listitem>
 				<para>
@@ -263,7 +263,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-must">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-must">
 			<term>must</term>
 			 <listitem>
 				<para>
@@ -273,7 +273,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-Mutexes">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-Mutexes">
 			<term>Mutexes</term>
 			 <listitem>
 				<para>
@@ -283,7 +283,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-M-MySQL">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-MySQL">
 			<term>MySQL</term>
 			 <listitem>
 				<para>

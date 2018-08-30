@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-W">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W">
 	<title>W</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-WAN">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-WAN">
 			<term>WAN</term>
 			 <listitem>
 				<para>
@@ -19,7 +19,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-WCA">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-WCA">
 			<term>WCA</term>
 			 <listitem>
 				<para>
@@ -32,7 +32,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-want">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-want">
 			<term>want</term>
 			 <listitem>
 				<para>
@@ -42,7 +42,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-we_suggest">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-we_suggest">
 			<term>we suggest</term>
 			 <listitem>
 				<para>
@@ -52,7 +52,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-webhook_n.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-webhook_n.">
 			<term>webhook (n.)</term>
 			 <listitem>
 				<para>
@@ -62,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-web_UI">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-web_UI">
 			<term>web UI</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-whowhom">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-whowhom">
 			<term>who/whom</term>
 			 <listitem>
 				<para>
@@ -85,7 +85,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-will">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-will">
 			<term>will</term>
 			 <listitem>
 				<para>
@@ -95,7 +95,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-W-Window_Maker">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-Window_Maker">
 			<term>Window Maker</term>
 			 <listitem>
 				<para>

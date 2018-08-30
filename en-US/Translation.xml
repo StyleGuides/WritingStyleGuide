@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Clearly_and_Succinctly">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Writing_Clearly_and_Succinctly">
 	<title>Writing Clearly and Succinctly</title>
 	 <para>
 		This chapter provides guidelines, tips, and techniques to help make your writing easier to read and understand, and also to translate.
 	</para>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Clearly_and_Succinctly-Sentence_Structure">
+	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Writing_Clearly_and_Succinctly-Sentence_Structure">
 		<title>Sentence Structure</title>
-		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Using_Lists_Correctly">
+		 <formalpara id="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Sentence_Structure-Using_Lists_Correctly">
 			<title>Using Lists Correctly</title>
 			 <para>
 				Lists appear in a range of formats, such as series, ordered, unordered (itemized), and so on. Avoid using itemized lists to format a single sentence. Some translation tools, such as Zanata, display list items and the introductory sentence (or <firstterm>sentence stem</firstterm>) as individual sentences for translation. If these are not complete sentences, they can be difficult to translate.
@@ -87,7 +87,7 @@
 			</tgroup>
 
 		</table>
-		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Sentence_Structure-Noun_Stacking">
+		 <formalpara id="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Sentence_Structure-Noun_Stacking">
 			<title>Noun Stacking</title>
 			 <para>
 				Modifier strings (modifier + noun + noun sentence format), over-modified nouns (or <firstterm>noun stacks</firstterm>), are especially difficult to translate, particularly when several different combinations could make sense.
@@ -126,7 +126,7 @@
 		</table>
 
 	</section>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Clearly_and_Succinctly-Grammatical_Genders">
+	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Writing_Clearly_and_Succinctly-Grammatical_Genders">
 		<title>Grammatical Genders</title>
 		 <para>
 			When using ambiguous pronouns such as "they" or "it" it is not always clear what they refer to. For languages that have different genders for nouns, it is important to know exactly what each pronoun refers to. For example, the word "it" can be translated in several different ways and may require other grammatical adjustments.
@@ -166,7 +166,7 @@
 		</table>
 
 	</section>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Clearly_and_Succinctly-DocBook_Elements">
+	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Writing_Clearly_and_Succinctly-DocBook_Elements">
 		<title>DocBook Elements</title>
 		 <para>
 			Use the correct DocBook elements to help translators understand the meaning of and to identify translatable and non-translatable terms.
@@ -201,7 +201,7 @@
 			</tgroup>
 
 		</table>
-		 <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-DocBook_Elements-Tagged_Terms_in_Sentences">
+		 <formalpara id="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-DocBook_Elements-Tagged_Terms_in_Sentences">
 			<title>Tagged Terms in Sentences</title>
 			 <para>
 				Many tagged terms are not translatable, and so they should not be used as structural parts of a sentence. Otherwise, translators have to fill in the blanks or tag terms themselves.
@@ -250,7 +250,7 @@
 		</table>
 
 	</section>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Clearly_and_Succinctly-Code_Blocks">
+	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Writing_Clearly_and_Succinctly-Code_Blocks">
 		<title>Code Blocks</title>
 		 <para>
 			Avoid including commentary within the same box as command input or output. These might be confused with part of the output, and during translation might be accidentally overlooked and left in English.
@@ -263,7 +263,7 @@
 <command>rhevm-iso-uploader <replaceable>[options] </replaceable>upload <replaceable>[file1] [file2] [file3]</replaceable></command></screen>
 
 	</section>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Clearly_and_Succinctly-Entities">
+	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Writing_Clearly_and_Succinctly-Entities">
 		<title>Entities</title>
 		 <para>
 			An entity is a primitive data type, which associates a string with either a unique alias (such as a user-specified name) or an SGML reserved word (such as #DEFAULT)<footnote> <para>

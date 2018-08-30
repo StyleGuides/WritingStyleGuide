@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-G">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G">
 	<title>G</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-g_G">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-g_G">
 			<term>g++, G++</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gas_GAS">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-gas_GAS">
 			<term>gas, GAS</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GB">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GB">
 			<term>GB</term>
 			 <listitem>
 				<para>
@@ -42,7 +42,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GbE">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GbE">
 			<term id="gbe">GbE</term>
 			 <listitem>
 				<para>
@@ -52,7 +52,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-Gbps">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-Gbps">
 			<term>Gbps</term>
 			 <listitem>
 				<para>
@@ -62,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gcc_GCC">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-gcc_GCC">
 			<term>gcc, GCC</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gcj_GCJ">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-gcj_GCJ">
 			<term>gcj, GCJ</term>
 			 <listitem>
 				<para>
@@ -82,7 +82,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gdb_GDB">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-gdb_GDB">
 			<term>gdb, GDB</term>
 			 <listitem>
 				<para>
@@ -92,7 +92,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GDBTK">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GDBTK">
 			<term>GDBTK</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GEO">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GEO">
 			<term>GEO</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GFS_GFS2">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GFS_GFS2">
 			<term>GFS, GFS2</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GID">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GID">
 			<term>GID</term>
 			 <listitem>
 				<para>
@@ -132,7 +132,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GigE">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GigE">
 			<term>GigE</term>
 			 <listitem>
 				<para>
@@ -142,7 +142,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-gigabyte">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-gigabyte">
 			<term>gigabyte</term>
 			 <listitem>
 				<para>
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GIMP">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GIMP">
 			<term>GIMP</term>
 			 <listitem>
 				<para>
@@ -162,17 +162,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GNOME">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GNOME">
 			<term>GNOME</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GNOME_Classic" />
+					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GNOME_Classic" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GNOME_Classic">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GNOME_Classic">
 			<term>GNOME Classic</term>
 			 <listitem>
 				<para>
@@ -182,7 +182,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GNU">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GNU">
 			<term>GNU</term>
 			 <listitem>
 				<para>
@@ -192,7 +192,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GNUPro">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GNUPro">
 			<term>GNUPro</term>
 			 <listitem>
 				<para>
@@ -202,7 +202,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-got">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-got">
 			<term>got</term>
 			 <listitem>
 				<para>
@@ -212,7 +212,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GPL">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GPL">
 			<term>GPL</term>
 			 <listitem>
 				<para>
@@ -222,7 +222,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-grayscale">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-grayscale">
 			<term>grayscale</term>
 			 <listitem>
 				<para>
@@ -232,7 +232,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GRUB">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GRUB">
 			<term>GRUB</term>
 			 <listitem>
 				<para>
@@ -242,7 +242,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-GTK">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GTK">
 			<term>GTK+</term>
 			 <listitem>
 				<para>
@@ -252,7 +252,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-G-guest_operating_system">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-guest_operating_system">
 			<term>guest operating system</term>
 			 <listitem>
 				<para>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-F">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F">
 	<title>F</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fail_back_v._failback_n.">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-fail_back_v._failback_n.">
 			<term>fail back (v.), failback (n.)</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fail_over_v._failover_n._adj.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-fail_over_v._failover_n._adj.">
 			<term>fail over (v.), failover (n., adj.)</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FAQ">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-FAQ">
 			<term>FAQ</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fault_tolerance_n._fault_tolerant_adj.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-fault_tolerance_n._fault_tolerant_adj.">
 			<term>fault tolerance (n.), fault-tolerant (adj.)</term>
 			 <listitem>
 				<para>
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Fedoratrade_Project">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-Fedoratrade_Project">
 			<term>Fedora&trade; Project</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fiber">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-fiber">
 			<term>fiber</term>
 			 <listitem>
 				<para>
@@ -66,7 +66,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Fibre_Channel">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-Fibre_Channel">
 			<term>Fibre Channel</term>
 			 <listitem>
 				<para>
@@ -79,7 +79,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-file_extensions_general_usage">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-file_extensions_general_usage">
 			<term>file extensions (general usage)</term>
 			 <listitem>
 				<para>
@@ -89,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-file_mode_file_name_file_system_file_type">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-file_mode_file_name_file_system_file_type">
 			<term>file mode, file name, file system, file type</term>
 			 <listitem>
 				<para>
@@ -99,7 +99,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FireWire">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-FireWire">
 			<term>FireWire</term>
 			 <listitem>
 				<para>
@@ -109,7 +109,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-firmware">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-firmware">
 			<term>firmware</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-floating_point">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-floating_point">
 			<term>floating point</term>
 			 <listitem>
 				<para>
@@ -132,7 +132,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-floppy_disk">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-floppy_disk">
 			<term>floppy disk</term>
 			 <listitem>
 				<para>
@@ -142,7 +142,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-floppy_drive">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-floppy_drive">
 			<term>floppy drive</term>
 			 <listitem>
 				<para>
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-foreground">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-foreground">
 			<term>foreground</term>
 			 <listitem>
 				<itemizedlist>
@@ -174,7 +174,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-fortnight">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-fortnight">
 			<term>fortnight</term>
 			 <listitem>
 				<para>
@@ -184,7 +184,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FORTRAN">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-FORTRAN">
 			<term>FORTRAN</term>
 			 <listitem>
 				<para>
@@ -194,7 +194,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-forward">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-forward">
 			<term>forward</term>
 			 <listitem>
 				<para>
@@ -204,17 +204,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-forwards_compatible">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-forwards_compatible">
 			<term>forwards compatible</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "compatible with later versions." See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-backwards_compatible" />.
+					Do not use. Instead, use "compatible with later versions." See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-backwards_compatible" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FQDN">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-FQDN">
 			<term>FQDN</term>
 			 <listitem>
 				<para>
@@ -227,17 +227,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-frictionless">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-frictionless">
 			<term>frictionless</term>
 			 <listitem>
 				<para>
-					Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bimodal_IT" />.
+					Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bimodal_IT" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-front_end_front_end">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-front_end_front_end">
 			<term>front end, front-end</term>
 			 <listitem>
 				<para>
@@ -250,13 +250,13 @@
 					Do not use "frontend" as a noun or adjective.
 				</para>
 				 <para>
-					See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-back_end_back_end" />
+					See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-back_end_back_end" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-FTP">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-FTP">
 			<term>FTP</term>
 			 <listitem>
 				<para>
@@ -266,7 +266,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Futexes">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-Futexes">
 			<term>Futexes</term>
 			 <listitem>
 				<para>
@@ -276,11 +276,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-F-Fuzzy">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-Fuzzy">
 			<term>Fuzzy</term>
 			 <listitem>
 				<para>
-					Correct only when referring to fuzzy searches. See <xref linkend="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Avoiding_Slang_Metaphors_and_Misleading_Language" /> for details and examples.
+					Correct only when referring to fuzzy searches. See <xref linkend="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language" /> for details and examples.
 				</para>
 
 			</listitem>

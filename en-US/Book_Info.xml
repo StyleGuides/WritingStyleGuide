@@ -1,18 +1,17 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE bookinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<bookinfo id="book-Red_Hat_Technical_Publications-Writing_Style_Guide-Writing_Style_Guide">
+<bookinfo id="book-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Conventions_for_Writers_and_Editors">
 	<title>Conventions for Writers and Editors</title>
-<!-- 	 <subtitle>How to stay on the Yellow Brick Road</subtitle> -->
-	 <productname>The Red Hat Style Guide</productname>
+	<!--  	 <subtitle>How to stay on the Yellow Brick Road</subtitle>  --> <productname>The Red Hat Style Guide</productname>
 	 <productnumber></productnumber>
 	 <edition>3</edition>
 	 <pubsnumber>1</pubsnumber>
 	 <abstract>
 		<para>
-			The Red&nbsp;Hat Style Guide and Word Usage Dictionary is a joint effort by various groups within Red&nbsp;Hat. It is intended as a supplement to the titles listed in <xref linkend="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Resources" />
+			The Red&nbsp;Hat Style Guide and Word Usage Dictionary is a joint effort by various groups within Red&nbsp;Hat. It is intended as a supplement to the titles listed in <xref linkend="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Resources" />
 		</para>
 
 	</abstract>
@@ -26,6 +25,6 @@
 
 	</corpauthor>
 	 <xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <!-- <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                   -->
+	 <!--  <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                    -->
 </bookinfo>
 

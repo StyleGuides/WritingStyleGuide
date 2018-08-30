@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-S">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S">
 	<title>S</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-S390">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-S390">
 			<term>S/390</term>
 			 <listitem>
 				<para>
@@ -16,17 +16,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-SaaS">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-SaaS">
 			<term>SaaS</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct abbreviation for "Software-as-a-Service." See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PaaS" />.
+					Correct. This is the correct abbreviation for "Software-as-a-Service." See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PaaS" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-Samba">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-Samba">
 			<term>Samba</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-S_record">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-S_record">
 			<term>S-record</term>
 			 <listitem>
 				<para>
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-screen_capture">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-screen_capture">
 			<term>screen capture</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-screen_saver">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-screen_saver">
 			<term>screen saver</term>
 			 <listitem>
 				<para>
@@ -66,7 +66,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-scrollbar">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-scrollbar">
 			<term>scrollbar</term>
 			 <listitem>
 				<para>
@@ -76,7 +76,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-see">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-see">
 			<term>see</term>
 			 <listitem>
 				<para>
@@ -86,7 +86,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-segmentation_fault">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-segmentation_fault">
 			<term>segmentation fault</term>
 			 <listitem>
 				<para>
@@ -99,7 +99,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-select_vb.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-select_vb.">
 			<term>select (vb.)</term>
 			 <listitem>
 				<para>
@@ -109,7 +109,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-SELinux">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-SELinux">
 			<term>SELinux</term>
 			 <listitem>
 				<para>
@@ -119,7 +119,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-sends_out">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-sends_out">
 			<term>sends out</term>
 			 <listitem>
 				<para>
@@ -129,7 +129,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-server_farm">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-server_farm">
 			<term>server farm</term>
 			 <listitem>
 				<para>
@@ -139,17 +139,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-server_sideserver_side">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-server_sideserver_side">
 			<term>server-side/server side</term>
 			 <listitem>
 				<para>
-					See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-C-client_side_client_side" />.
+					See <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-client_side_client_side" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-setup">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-setup">
 			<term>setup</term>
 			 <listitem>
 				<para>
@@ -180,7 +180,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-SHA_1_SHA_2">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-SHA_1_SHA_2">
 			<term>SHA-1, SHA-2</term>
 			 <listitem>
 				<para>
@@ -190,7 +190,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-Shadowman">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-Shadowman">
 			<term>Shadowman</term>
 			 <listitem>
 				<para>
@@ -200,7 +200,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-shadow_passwords">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-shadow_passwords">
 			<term>shadow passwords</term>
 			 <listitem>
 				<para>
@@ -213,7 +213,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-shadow_utilities">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-shadow_utilities">
 			<term>shadow utilities</term>
 			 <listitem>
 				<para>
@@ -223,7 +223,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-share_name">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-share_name">
 			<term>share name</term>
 			 <listitem>
 				<para>
@@ -233,7 +233,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-shebang">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-shebang">
 			<term>shebang</term>
 			 <listitem>
 				<para>
@@ -243,7 +243,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-shell">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-shell">
 			<term>shell</term>
 			 <listitem>
 				<para>
@@ -253,7 +253,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-shell_prompt">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-shell_prompt">
 			<term>shell prompt</term>
 			 <listitem>
 				<para>
@@ -263,7 +263,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-should">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-should">
 			<term>should</term>
 			 <listitem>
 				<para>
@@ -273,7 +273,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-shut_down">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-shut_down">
 			<term>shut down</term>
 			 <listitem>
 				<para>
@@ -283,7 +283,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-simply">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-simply">
 			<term>simply</term>
 			 <listitem>
 				<para>
@@ -293,7 +293,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-since_as_because">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-since_as_because">
 			<term>since, as, because</term>
 			 <listitem>
 				<para>
@@ -303,13 +303,13 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-skill_set_skills_knowledge">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-skill_set_skills_knowledge">
 			<term>skill set, skills, knowledge</term>
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective. Do not use "skill-set knowledge;" it is redundant. See the following examples:
 				</para>
-				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-skill_set_skills_knowledge-Example_Use_of_Term_Skillset_Versus_Skills">
+				 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-skill_set_skills_knowledge-Example_Use_of_Term_Skillset_Versus_Skills">
 					<title>Example Use of Term "Skillset" Versus "Skills"</title>
 					 <para>
 						Incorrect: Do you have the right skillset to be an RHCE?
@@ -319,7 +319,7 @@
 					</para>
 
 				</example>
-				 <example id="exam-Red_Hat_Technical_Publications-Writing_Style_Guide-skill_set_skills_knowledge-Example_Use_of_Term_Knowledge">
+				 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-skill_set_skills_knowledge-Example_Use_of_Term_Knowledge">
 					<title>Example Use of Term "Knowledge"</title>
 					 <para>
 						Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.
@@ -333,7 +333,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-smart_card">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-smart_card">
 			<term>smart card</term>
 			 <listitem>
 				<para>
@@ -343,7 +343,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-snippet">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-snippet">
 			<term>snippet</term>
 			 <listitem>
 				<para>
@@ -353,7 +353,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-SOCKS">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-SOCKS">
 			<term>SOCKS</term>
 			 <listitem>
 				<para>
@@ -363,7 +363,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-softcopy">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-softcopy">
 			<term>softcopy</term>
 			 <listitem>
 				<para>
@@ -373,7 +373,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-sound_card">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-sound_card">
 			<term>sound card</term>
 			 <listitem>
 				<para>
@@ -383,7 +383,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-Source_Navigator">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-Source_Navigator">
 			<term>Source-Navigator™</term>
 			 <listitem>
 				<para>
@@ -393,7 +393,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-space">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-space">
 			<term>space</term>
 			 <listitem>
 				<para>
@@ -403,7 +403,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-Spacebar">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-Spacebar">
 			<term>Spacebar</term>
 			 <listitem>
 				<para>
@@ -413,7 +413,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-spec_file">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-spec_file">
 			<term>spec file</term>
 			 <listitem>
 				<para>
@@ -423,7 +423,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-specific">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-specific">
 			<term>specific</term>
 			 <listitem>
 				<para>
@@ -433,7 +433,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-spelled">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-spelled">
 			<term>spelled</term>
 			 <listitem>
 				<para>
@@ -446,7 +446,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-SQL">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-SQL">
 			<term>SQL</term>
 			 <listitem>
 				<para>
@@ -465,7 +465,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-SR_IOV">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-SR_IOV">
 			<term>SR-IOV</term>
 			 <listitem>
 				<para>
@@ -475,7 +475,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-SSH">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-SSH">
 			<term>SSH</term>
 			 <listitem>
 				<para>
@@ -488,7 +488,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-SSL">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-SSL">
 			<term>SSL</term>
 			 <listitem>
 				<para>
@@ -498,7 +498,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-stand_alone">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-stand_alone">
 			<term>stand-alone</term>
 			 <listitem>
 				<para>
@@ -511,20 +511,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-StarOffice">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-StarOffice">
 			<term>StarOffice</term>
 			 <listitem>
 				<para>
 					A legacy Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office."
 				</para>
 				 <para>
-					The successors of StarOffice are <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LibreOffice" /> and <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OpenOffice" />.
+					The successors of StarOffice are <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-LibreOffice" /> and <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-OpenOffice" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-starts_up">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-starts_up">
 			<term>starts up</term>
 			 <listitem>
 				<para>
@@ -534,7 +534,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-startx">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-startx">
 			<term>startx</term>
 			 <listitem>
 				<para>
@@ -544,7 +544,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-straightforward_adj._adv.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-straightforward">
 			<term>straightforward</term>
 			 <listitem>
 				<para>
@@ -554,7 +554,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-su">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-su">
 			<term>su</term>
 			 <listitem>
 				<para>
@@ -564,13 +564,13 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-subcommand">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-subcommand">
 			<term>subcommand</term>
 			 <listitem>
 				<para>
 					Correct. Do not use "sub-command" or "verb." A subcommand refers to a "secondary" or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
 				</para>
-
+				 
 <screen>hammer import organization --help</screen>
 				 <para>
 					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.
@@ -579,7 +579,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-subdirectory">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-subdirectory">
 			<term>subdirectory</term>
 			 <listitem>
 				<para>
@@ -589,7 +589,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-submenu">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-submenu">
 			<term>submenu</term>
 			 <listitem>
 				<para>
@@ -599,7 +599,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-subpackage">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-subpackage">
 			<term>subpackage</term>
 			 <listitem>
 				<para>
@@ -618,7 +618,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-superuser">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-superuser">
 			<term>superuser</term>
 			 <listitem>
 				<para>
@@ -628,7 +628,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-swap_space">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-swap_space">
 			<term>swap space</term>
 			 <listitem>
 				<para>
@@ -638,7 +638,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-Sybase_Adaptive_Server_Enterprise_ASE">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-Sybase_Adaptive_Server_Enterprise_ASE">
 			<term>Sybase Adaptive Server Enterprise (ASE)</term>
 			 <listitem>
 				<para>
@@ -651,7 +651,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-SysV">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-SysV">
 			<term>SysV</term>
 			 <listitem>
 				<para>
@@ -661,7 +661,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-S-symmetric_encryption">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-symmetric_encryption">
 			<term>symmetric encryption</term>
 			 <listitem>
 				<para>

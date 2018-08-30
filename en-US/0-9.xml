@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-a0_9">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-a0_9">
 	<title>0-9</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-a0_9-a24x7_24x7x365">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-a0_9-a24x7_24x7x365">
 			<term>24x7, 24x7x365</term>
 			 <listitem>
 				<para>
@@ -16,17 +16,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-a0_9-a2_track_IT">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-a0_9-a2_track_IT">
 			<term>2-track (IT)</term>
 			 <listitem>
 				<para>
-					A less common way to refer to bimodal or hybrid IT. See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bimodal_IT" />
+					A less common way to refer to bimodal or hybrid IT. See <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bimodal_IT" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-a0_9-a3_D_adj._n.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-a0_9-a3_D_adj._n.">
 			<term>3-D (adj., n.)</term>
 			 <listitem>
 				<para>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-We_Need_Feedback">
+<section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-We_Need_Feedback">
 	<title>We Need Feedback</title>
 	 <para>
 		Send email to <email>updates@stylepedia.net</email> with suggestions for improvements, requests for additions, recommendations, and any other updates. Alternatively, raise an issue at <ulink url="https://github.com/StyleGuides/WritingStyleGuide" />.

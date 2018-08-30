@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-L">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L">
 	<title>L</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LAN">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-LAN">
 			<term>LAN</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-latency">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-latency">
 			<term>latency</term>
 			 <listitem>
 				<itemizedlist>
@@ -38,17 +38,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-later">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-later">
 			<term>later</term>
 			 <listitem>
 				<para>
-					Use to refer to later or more recent releases of products. Do not use "newer" or related terms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-earlier" />.
+					Use to refer to later or more recent releases of products. Do not use "newer" or related terms. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-earlier" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-leave_out">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-leave_out">
 			<term>leave out</term>
 			 <listitem>
 				<para>
@@ -58,7 +58,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-left_click">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-left_click">
 			<term>left-click</term>
 			 <listitem>
 				<para>
@@ -68,20 +68,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LibreOffice">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-LibreOffice">
 			<term>LibreOffice</term>
 			 <listitem>
 				<para>
 					A Linux desktop suite. Do not use "Libre," "Libreoffice," or "Libre Office."
 				</para>
 				 <para>
-					See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OpenOffice" />
+					See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-OpenOffice" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-license">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-license">
 			<term>license</term>
 			 <listitem>
 				<para>
@@ -91,7 +91,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-life_cycle_life_cycle_lifecycle">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-life_cycle_life_cycle_lifecycle">
 			<term>life cycle, life-cycle, lifecycle</term>
 			 <listitem>
 				<para>
@@ -107,7 +107,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-Linux">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-Linux">
 			<term>Linux</term>
 			 <listitem>
 				<para>
@@ -120,7 +120,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-load">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-load">
 			<term>load</term>
 			 <listitem>
 				<itemizedlist>
@@ -148,7 +148,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-load_balancing">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-load_balancing">
 			<term>load balancing</term>
 			 <listitem>
 				<para>
@@ -158,7 +158,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-logical_topology">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-logical_topology">
 			<term>logical topology</term>
 			 <listitem>
 				<para>
@@ -168,7 +168,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-lookup_look_up_look_up">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-lookup_look_up_look_up">
 			<term>lookup, look-up, look up</term>
 			 <listitem>
 				<para>
@@ -184,7 +184,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-look_at">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-look_at">
 			<term>look at</term>
 			 <listitem>
 				<para>
@@ -194,7 +194,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-loopback_address">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-loopback_address">
 			<term>loopback address</term>
 			 <listitem>
 				<para>
@@ -207,7 +207,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-lots_of">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-lots_of">
 			<term>lots of</term>
 			 <listitem>
 				<para>
@@ -217,7 +217,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LPAR">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-LPAR">
 			<term>LPAR</term>
 			 <listitem>
 				<para>

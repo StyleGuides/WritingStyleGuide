@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Objectives_of_this_Guide">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Objectives_of_this_Guide">
 	<title>Objectives of this Guide</title>
 	 <para>
 		The objective of the Red&nbsp;Hat Style Guide is to help authors communicate information in a clear, transparent fashion, and to facilitate consistency in tone and delivery. We write documentation for a variety of audiences, across multiple geographies and with very different skill sets. We write for end users as well as expert users. Red&nbsp;Hat documentation is: 
 		<itemizedlist>
-			<!--                                  <listitem>
+			<!--                                   <listitem>
 				<para>
 					Legally compliant
 				</para>
 
-			</listitem>                                  --> <listitem>
+			</listitem>                                   --> <listitem>
 				<para>
 					Accurate and consistent
 				</para>
@@ -41,13 +41,13 @@
 		</itemizedlist>
 
 	</para>
-	 <!--                                    <formalpara id="form-Policy-Writing_Style_Guide-Objectives_of_this_Guide-Legal_Compliance">
+	 <!--                                     <formalpara id="form-Policy-Writing_Style_Guide-Objectives_of_this_Guide-Legal_Compliance">
 		<title>Legal Compliance</title>
 		 <para>
 			Red Hat documentation must meet Red Hat's legal standards. See <ulink url="https://home.corp.redhat.com/wiki/marketing-guidelines" /> This page is maintained by Marketing, and the legal guidelines must be followed.
 		</para>
 
-	</formalpara>                                   --> <formalpara id="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Objectives_of_this_Guide-Readability">
+	</formalpara>                                    --> <formalpara id="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Objectives_of_this_Guide-Readability">
 		<title>Readability</title>
 		 <para>
 			Technical documents should be readable by the targeted audience. In this instance, we expect our audiences to have the minimum reading and comprehension level of an eighth-grade student, of an age between 14 and 15 years. The Flesch-Kincaid and Gunning Fog index provide measurable grades. A Red&nbsp;Hat guide should have a Gunning Fog index of 9-12.

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-H">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H">
 	<title>H</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_code_hard_coded">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hard_code_hard_coded">
 			<term>hard code, hard-coded</term>
 			 <listitem>
 				<para>
@@ -22,7 +22,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_copy">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hard_copy">
 			<term>hard copy</term>
 			 <listitem>
 				<para>
@@ -33,7 +33,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_disk">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hard_disk">
 			<term>hard disk</term>
 			 <listitem>
 				<para>
@@ -43,7 +43,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hard_disk_drive">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hard_disk_drive">
 			<term>hard disk drive</term>
 			 <listitem>
 				<para>
@@ -53,7 +53,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-he_she">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-he_she">
 			<term>he, she</term>
 			 <listitem>
 				<para>
@@ -63,7 +63,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-help_desk">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-help_desk">
 			<term>help desk</term>
 			 <listitem>
 				<para>
@@ -74,7 +74,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-healthcare">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-healthcare">
 			<term>healthcare</term>
 			 <listitem>
 				<para>
@@ -85,7 +85,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-health_check">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-health_check">
 			<term>health check</term>
 			 <listitem>
 				<para>
@@ -117,7 +117,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hertz">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hertz">
 			<term>hertz</term>
 			 <listitem>
 				<para>
@@ -127,7 +127,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-high_availability_high_availability">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-high_availability_high_availability">
 			<term>high-availability, high availability</term>
 			 <listitem>
 				<para>
@@ -140,7 +140,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-high_performance_computing_HPC">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-high_performance_computing_HPC">
 			<term>high-performance computing (HPC)</term>
 			 <listitem>
 				<para>
@@ -150,7 +150,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-home_page">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-home_page">
 			<term>home page</term>
 			 <listitem>
 				<para>
@@ -160,7 +160,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-host_group">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-host_group">
 			<term>host group</term>
 			 <listitem>
 				<para>
@@ -170,7 +170,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-host_name">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-host_name">
 			<term>host name</term>
 			 <listitem>
 				<para>
@@ -180,7 +180,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hot_add">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hot_add">
 			<term>hot add</term>
 			 <listitem>
 				<para>
@@ -190,7 +190,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hotline">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hotline">
 			<term>hotline</term>
 			 <listitem>
 				<para>
@@ -201,7 +201,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hot_plug">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hot_plug">
 			<term>hot plug</term>
 			 <listitem>
 				<para>
@@ -211,7 +211,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hot_swap">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hot_swap">
 			<term>hot swap</term>
 			 <listitem>
 				<para>
@@ -221,17 +221,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hover_help">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hover_help">
 			<term>hover help</term>
 			 <listitem>
 				<para>
-					See <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-T-tooltip_n." />.
+					See <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-tooltip_n." />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-HP_ProLiant">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-HP_ProLiant">
 			<term>HP ProLiant</term>
 			 <listitem>
 				<para>
@@ -241,7 +241,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-HTML">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-HTML">
 			<term>HTML</term>
 			 <listitem>
 				<para>
@@ -251,7 +251,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-huge_page_huge_page">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-huge_page_huge_page">
 			<term>huge-page, huge page</term>
 			 <listitem>
 				<para>
@@ -264,17 +264,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hybrid_IT">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hybrid_IT">
 			<term>hybrid IT</term>
 			 <listitem>
 				<para>
-					The preferred term when talking about IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of these. Because hybrid can indicate either infrastructure or environment or both, be specific about the underlying combination. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-B-bimodal_IT" />.
+					The preferred term when talking about IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of these. Because hybrid can indicate either infrastructure or environment or both, be specific about the underlying combination. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bimodal_IT" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-Hyper_Threading">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-Hyper_Threading">
 			<term>Hyper-Threading</term>
 			 <listitem>
 				<para>
@@ -284,7 +284,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-H-hypervisor">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hypervisor">
 			<term>hypervisor</term>
 			 <listitem>
 				<para>

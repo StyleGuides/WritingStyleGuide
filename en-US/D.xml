@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-D">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D">
 	<title>D</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-daisy_chain">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-daisy_chain">
 			<term>daisy chain</term>
 			 <listitem>
 				<para>
@@ -19,7 +19,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dash">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-dash">
 			<term>dash</term>
 			 <listitem>
 				<para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_center_datacenter">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-data_center_datacenter">
 			<term>data center, datacenter</term>
 			 <listitem>
 				<para>
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_mirroring">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-data_mirroring">
 			<term>data mirroring</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_sheet_datasheet">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-data_sheet_datasheet">
 			<term>data sheet, datasheet</term>
 			 <listitem>
 				<para>
@@ -73,7 +73,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_source">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-data_source">
 			<term>data source</term>
 			 <listitem>
 				<para>
@@ -83,7 +83,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_store_datastore">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-data_store_datastore">
 			<term>data store, datastore</term>
 			 <listitem>
 				<para>
@@ -100,7 +100,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-data_type">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-data_type">
 			<term>data type</term>
 			 <listitem>
 				<para>
@@ -110,7 +110,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dates">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-dates">
 			<term>dates</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-debug">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-debug">
 			<term>debug</term>
 			 <listitem>
 				<para>
@@ -131,7 +131,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-denial_of_service_DoS">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-denial_of_service_DoS">
 			<term>denial of service (DoS)</term>
 			 <listitem>
 				<para>
@@ -141,7 +141,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-desktop">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-desktop">
 			<term>desktop</term>
 			 <listitem>
 				<para>
@@ -151,7 +151,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-device">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-device">
 			<term>device</term>
 			 <listitem>
 				<para>
@@ -164,7 +164,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-DevOps">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-DevOps">
 			<term>DevOps</term>
 			 <listitem>
 				<para>
@@ -174,7 +174,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dialog_box">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-dialog_box">
 			<term>dialog box</term>
 			 <listitem>
 				<para>
@@ -184,7 +184,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-different">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-different">
 			<term>different</term>
 			 <listitem>
 				<para>
@@ -194,7 +194,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-Disk_Druid">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-Disk_Druid">
 			<term>Disk Druid</term>
 			 <listitem>
 				<para>
@@ -204,7 +204,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-disk_disc">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-disk_disc">
 			<term>disk, disc</term>
 			 <listitem>
 				<para>
@@ -214,7 +214,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-disk_label">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-disk_label">
 			<term>disk label</term>
 			 <listitem>
 				<para>
@@ -224,7 +224,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-DNS">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-DNS">
 			<term>DNS</term>
 			 <listitem>
 				<para>
@@ -234,7 +234,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-documentation">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-documentation">
 			<term>documentation</term>
 			 <listitem>
 				<para>
@@ -244,7 +244,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-domain_name">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-domain_name">
 			<term>domain name</term>
 			 <listitem>
 				<para>
@@ -257,7 +257,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-double_click">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-double_click">
 			<term>double-click</term>
 			 <listitem>
 				<para>
@@ -267,17 +267,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-downstream">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-downstream">
 			<term>downstream</term>
 			 <listitem>
 				<para>
-					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upstream" />. Do not use "down-stream" or "down stream."
+					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-upstream" />. Do not use "down-stream" or "down stream."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-downtime">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-downtime">
 			<term>downtime</term>
 			 <listitem>
 				<para>
@@ -287,7 +287,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-download">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-download">
 			<term>download</term>
 			 <listitem>
 				<para>
@@ -297,7 +297,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-dual_boot">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-dual_boot">
 			<term>dual-boot</term>
 			 <listitem>
 				<para>
@@ -307,7 +307,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-DVD_writer">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-DVD_writer">
 			<term>DVD writer</term>
 			 <listitem>
 				<para>
