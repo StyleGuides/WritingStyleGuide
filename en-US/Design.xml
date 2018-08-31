@@ -127,14 +127,14 @@
 			 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-					
+
 <screen>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 
 				</para>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
+				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components:
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -166,12 +166,12 @@
 			</para>
 			 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
-				 
+
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
+				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -208,7 +208,7 @@
 				</para>
 				 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
-					 
+
 <screen>$ cd Documents
 $ vi myFile.txt
 </screen>
@@ -219,7 +219,7 @@ $ vi myFile.txt
 				</para>
 				 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
-					 
+
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
@@ -262,7 +262,7 @@ $ vi myFile.txt
 					 <para>
 						Use these generic names when you refer to users outside of a case study. This helps students identify which part of a command can and should be replaced by establishing a consistent format for names of users and system items. For example:
 					</para>
-					 
+
 <screen><prompt>[root@fedora ~]# </prompt><userinput>setfacl -m u:user1:rw /project/file1</userinput>
 </screen>
 					 <para>
@@ -448,11 +448,22 @@ $ vi myFile.txt
 	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Design-Using_Company_Product_and_Brand_Names_Correctly">
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
-			Note in particular the following points: 
+			A number of restrictions apply to using company, product, and brand names in Red&nbsp;Hat documentation. Refer to internal sources for further conditions that might apply to your own products.
+    </para>
+    <note>
+      <para>
+        In the following sections, "first use" refers to the first use of a name in body text. Titles, banners, and similar objects are not classified as "first use."
+      </para>
+    </note>
 			<itemizedlist>
 				<listitem>
 					<para>
-						Never abbreviate Red&nbsp;Hat product or solution names in public-facing documents.
+						Restrictions apply to abbreviating Red&nbsp;Hat product or solution names in public-facing documents. Always use the full name on first use. For some products, for example Red&nbsp;Hat OpenShift Container Platform, you can omit "Red&nbsp;Hat" after the first use.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Further restrictions apply to using acronyms and initialisms. In this same example, and only in technical documentation, "RHOCP" is acceptable after the first use of the full product name.
 					</para>
 
 				</listitem>
@@ -519,13 +530,11 @@ $ vi myFile.txt
 
 			</itemizedlist>
 
-		</para>
-
 	</section>
 	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
-			The preferred format for product names includes only the major version number. For example: 
+			The preferred format for product names includes only the major version number. For example:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -547,7 +556,7 @@ $ vi myFile.txt
 			When writing about a product line, product release, or product family, use major version numbers. This includes all the releases (past, present, and future) of that major version.
 		</para>
 		 <para>
-			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example: 
+			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -585,7 +594,7 @@ $ vi myFile.txt
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -635,12 +644,12 @@ $ vi myFile.txt
 		 <para>
 			In XML:
 		</para>
-		 
+
 <programlisting>
 &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 </programlisting>
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by 
+			For example, <citetitle>Maximum RPM</citetitle> by
 			<author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
