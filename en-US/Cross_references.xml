@@ -4,7 +4,7 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Cross_References">
-	<title>Cross References</title>
+	<title>Using Cross-references Effectively</title>
 	 <para>
 		This section contains suggestions on how to use cross-references in the most effective way. That is, so that it works for the reader, rather than the author. In DocBook XML, cross-references are formatted according to the style sheets; at this point no references are available that describe how they should be formatted in other media. Formatting is not described in this section.
 	</para>
