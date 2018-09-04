@@ -29,6 +29,14 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry id="undercloud">
+      <term>undercloud</term>
+      <listitem>
+        <para>
+          <emphasis>n.</emphasis> Always lowercase. This is a concept, not a technology or product name. Being a common noun, this requires an article in most cases. See also <xref linkend="overcloud"/>.
+        </para>
+      </listitem>
+    </varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-uninterruptible">
 			<term>uninterruptible</term>
 			 <listitem>
