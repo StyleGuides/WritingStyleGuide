@@ -57,9 +57,9 @@
 		 <xi:include href="W.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 		 <xi:include href="XYZ.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 		 <xi:include href="WUG_References.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-		 <!--                                      <xi:include href="WUG_Intro.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                       -->
+		 <!--                                       <xi:include href="WUG_Intro.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                        -->
 	</part>
 	 <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <!--                                     <index />                                      -->
+	 <!--                                      <index />                                       -->
 </book>
 

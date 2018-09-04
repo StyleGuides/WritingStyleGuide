@@ -127,14 +127,14 @@
 			 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-
+					
 <screen>$ git clone git+ssh://<replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 
 				</para>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components:
+				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -166,12 +166,12 @@
 			</para>
 			 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
-
+				 
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
+				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components: 
 				<itemizedlist>
 					<listitem>
 						<para>
@@ -208,7 +208,7 @@
 				</para>
 				 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
-
+					 
 <screen>$ cd Documents
 $ vi myFile.txt
 </screen>
@@ -219,7 +219,7 @@ $ vi myFile.txt
 				</para>
 				 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
-
+					 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
@@ -262,9 +262,8 @@ $ vi myFile.txt
 					 <para>
 						Use these generic names when you refer to users outside of a case study. This helps students identify which part of a command can and should be replaced by establishing a consistent format for names of users and system items. For example:
 					</para>
-
-<screen><prompt>[root@fedora ~]# </prompt><userinput>setfacl -m u:user1:rw /project/file1</userinput>
-</screen>
+					 
+<screen><prompt>[root@fedora ~]# </prompt><userinput>setfacl -m u:user1:rw /project/file1</userinput></screen>
 					 <para>
 						The following list provides further alternatives:
 					</para>
@@ -449,92 +448,94 @@ $ vi myFile.txt
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
 			A number of restrictions apply to using company, product, and brand names in Red&nbsp;Hat documentation. Refer to internal sources for further conditions that might apply to your own products.
-    </para>
-    <note>
-      <para>
-        In the following sections, "first use" refers to the first use of a name in body text. Titles, banners, and similar objects are not classified as "first use."
-      </para>
-    </note>
-			<itemizedlist>
-				<listitem>
-					<para>
-						Restrictions apply to abbreviating Red&nbsp;Hat product or solution names in public-facing documents. Always use the full name on first use. For some products, for example Red&nbsp;Hat OpenShift Container Platform, you can omit "Red&nbsp;Hat" after the first use.
-          </para>
-        </listitem>
-        <listitem>
-          <para>
-            Further restrictions apply to using acronyms and initialisms. In this same example, and only in technical documentation, "RHOCP" is acceptable after the first use of the full product name.
-					</para>
+		</para>
+		 <note>
+			<para>
+				In the following sections, "first use" refers to the first use of a name in body text. Titles, banners, and similar objects are not classified as "first use."
+			</para>
 
-				</listitem>
-				 <listitem>
-					<para>
-						Do not include "Inc." when referring to Red&nbsp;Hat except in legal documents.
-					</para>
+		</note>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					Restrictions apply to abbreviating Red&nbsp;Hat product or solution names in public-facing documents. Always use the full name on first use. For some products, for example Red&nbsp;Hat OpenShift Container Platform, you can omit "Red&nbsp;Hat" after the first use.
+				</para>
 
-				</listitem>
-				 <listitem>
-					<para>
-						Use non-breaking spaces to avoid breaking the company name over multiple lines. This also applies to product names and their versions. For example, use a non-breaking space between "Red" and "Hat," and also between "Enterprise," "Linux," and the version number.
-					</para>
-					 <para>
-						If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
-					</para>
+			</listitem>
+			 <listitem>
+				<para>
+					Further restrictions apply to using acronyms and initialisms. In this same example, and only in technical documentation, "RHOCP" is acceptable after the first use of the full product name.
+				</para>
 
-				</listitem>
-				 <listitem>
-					<para>
-						Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name. Consider the following examples:
-					</para>
-					 <itemizedlist>
-						<listitem>
-							<para>
-								Standardize on Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux.
-							</para>
+			</listitem>
+			 <listitem>
+				<para>
+					Do not include "Inc." when referring to Red&nbsp;Hat except in legal documents.
+				</para>
 
-						</listitem>
-						 <listitem>
-							<para>
-								The latest version is Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux&amp;nbsp;7.0
-							</para>
+			</listitem>
+			 <listitem>
+				<para>
+					Use non-breaking spaces to avoid breaking the company name over multiple lines. This also applies to product names and their versions. For example, use a non-breaking space between "Red" and "Hat," and also between "Enterprise," "Linux," and the version number.
+				</para>
+				 <para>
+					If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
+				</para>
 
-						</listitem>
-
-					</itemizedlist>
-
-				</listitem>
-				 <listitem>
-					<para>
-						Do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise&nbsp;Linux OpenStack Platform" does not require a non-breaking space between "Linux" and "OpenStack" nor between "OpenStack" and "Platform."
-					</para>
-
-				</listitem>
-				 <listitem>
-					<para>
-						Do not use non-breaking spaces with other companies' product names.
-					</para>
-
-				</listitem>
-				 <listitem>
-					<para>
-						Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was..."
-					</para>
-					 <note>
+			</listitem>
+			 <listitem>
+				<para>
+					Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name. Consider the following examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
 						<para>
-							In this case, "Platform" is part of the product name. In other cases, words like "platform," "manager," and so on may not be part of the product name, in which case an article is acceptable, if not necessary.
+							Standardize on Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux.
 						</para>
 
-					</note>
+					</listitem>
+					 <listitem>
+						<para>
+							The latest version is Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux&amp;nbsp;7.0
+						</para>
 
-				</listitem>
+					</listitem>
 
-			</itemizedlist>
+				</itemizedlist>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise&nbsp;Linux OpenStack Platform" does not require a non-breaking space between "Linux" and "OpenStack" nor between "OpenStack" and "Platform."
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Do not use non-breaking spaces with other companies' product names.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was..."
+				</para>
+				 <note>
+					<para>
+						In this case, "Platform" is part of the product name. In other cases, words like "platform," "manager," and so on may not be part of the product name, in which case an article is acceptable, if not necessary.
+					</para>
+
+				</note>
+
+			</listitem>
+
+		</itemizedlist>
 
 	</section>
 	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
-			The preferred format for product names includes only the major version number. For example:
+			The preferred format for product names includes only the major version number. For example: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -556,7 +557,7 @@ $ vi myFile.txt
 			When writing about a product line, product release, or product family, use major version numbers. This includes all the releases (past, present, and future) of that major version.
 		</para>
 		 <para>
-			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example:
+			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -594,7 +595,7 @@ $ vi myFile.txt
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions:
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -644,12 +645,12 @@ $ vi myFile.txt
 		 <para>
 			In XML:
 		</para>
-
+		 
 <programlisting>
 &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 </programlisting>
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by
+			For example, <citetitle>Maximum RPM</citetitle> by 
 			<author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
