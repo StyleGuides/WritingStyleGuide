@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    background-color: #cc0000;
+    background: #cc0000 url("../img/nimbus-hero_grey.jpg") repeat;
     padding: 1.5em;
 }
 
@@ -29,6 +29,14 @@ header p {
 header strong {
     color: #cc0000;
     background-color: #fff;
+}
+
+header img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-alinn: center;
+    margin-bottom: 3ex;
 }
 
 #main {
@@ -73,16 +81,16 @@ header strong {
 }
 
 footer {
-    background-color: #4c4c4c;
+    background-color: #fff;
     position: fixed;    
     bottom: 0;
     width: 100%;
-    color: #fff;
+    color: #4c4c4c;
     padding-bottom: 3em;
 }
 
 footer a {
-    color: #fff;
+    color: #4c4c4c;
     padding-left: 1em;
     font-size: 1.8em;
 }
@@ -103,6 +111,5 @@ footer div {
 }
 
 .fa-twitter .fa-github .fa-hashtag {
-    color: #fff;
     font-family: 'awesome';
 }
