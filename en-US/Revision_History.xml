@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<appendix id="appe-Red_Hat_Technical_Publications-Writing_Style_Guide-Revision_History">
+<appendix id="appe-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Revision_History">
 	<title>Revision History</title>
 	 <simpara>
 		<revhistory>
@@ -255,7 +255,7 @@
 				</revdescription>
 
 			</revision>
-			 <!--                                             <revision><remark>Comment this until the section  passes QA</remark>
+			 <!--                                                   <revision><remark>Comment this until the section  passes QA</remark>
 				<revnumber>1.6-3</revnumber>
 				 <date>Mon Apr 29 2013</date>
 				 <author>
@@ -274,7 +274,7 @@
 
 				</revdescription>
 
-			</revision>                                             --> <revision>
+			</revision>                                                   --> <revision>
 				<revnumber>1.6-2</revnumber>
 				 <date>Tue Mar 19 2013</date>
 				 <author>

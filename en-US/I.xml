@@ -1,42 +1,42 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-I">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I">
 	<title>I</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IA64_or_ia64">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-IA64_or_ia64">
 			<term>IA64 or ia64</term>
 			 <listitem>
 				<para>
-					Do not use. Always use the term Itanium instead. (It can be used in file names since they are not visible in the content.)
+					Do not use. Always use the term Itanium instead. It can be used in file names because they are not visible in the content.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IaaS">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-IaaS">
 			<term>IaaS</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct abbreviation for "Infrastructure-as-a-Service." See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PaaS" />.
+					Correct. This is the correct abbreviation for "Infrastructure-as-a-Service." See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PaaS" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IBM_eServer_System_p">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-IBM_eServer_System_p">
 			<term>IBM eServer System p</term>
 			 <listitem>
 				<para>
-					IBM eServer System p is correct for the first reference in a manual; use IBM System p or System p for subsequent references. Do not use "pSeries."
+					"IBM eServer System p" is correct for the first reference in a manual. Use "IBM System p" or "System p" for subsequent references. Do not use "pSeries."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IBM_z_Systems">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-IBM_z_Systems">
 			<term>IBM z Systems</term>
 			 <listitem>
 				<para>
@@ -46,17 +46,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-illegal">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-illegal">
 			<term>illegal</term>
 			 <listitem>
 				<para>
-					Illegal means "prohibited by law," not "incorrect" or "not permitted." Try "invalid" or a related word.
+					Illegal means "prohibited by law," not "incorrect" or "not permitted." Use "invalid" or a related word.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-InfiniBand">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-InfiniBand">
 			<term>InfiniBand</term>
 			 <listitem>
 				<para>
@@ -69,37 +69,37 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-inline_adj.">
-			<term>inline (adj.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-inline">
+			<term>inline</term>
 			 <listitem>
 				<para>
-					Correct. Always one word. Do not hyphenate.
+					<emphasis>adj.</emphasis> Always one word. Do not hyphenate.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-insecure_adj.">
-			<term>insecure (adj.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-insecure">
+			<term>insecure</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "nonsecure" or "non-secure."
+					<emphasis>adj.</emphasis> Correct. Do not use "nonsecure" or "non-secure."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-installation_program_n.">
-			<term>installation program (n.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-installation_program">
+			<term>installation program</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "installer."
+					<emphasis>n.</emphasis> Correct. Do not use "installer" unless it is a formal part of the product or technology.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intelreg_CoreTM">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-Intelreg_CoreTM">
 			<term>Intel&reg; CoreTM</term>
 			 <listitem>
 				<para>
@@ -110,7 +110,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intel_Tolapai_Intel_EP80579_Integrated_Processor">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-Intel_Tolapai_Intel_EP80579_Integrated_Processor">
 			<term>Intel Tolapai / Intel® EP80579 Integrated Processor</term>
 			 <listitem>
 				<para>
@@ -120,7 +120,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intel_Virtualization_Technology_Intel_VT">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-Intel_Virtualization_Technology_Intel_VT">
 			<term>Intel Virtualization Technology (Intel VT)</term>
 			 <listitem>
 				<para>
@@ -133,7 +133,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intelreg_Xeonreg">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-Intelreg_Xeonreg">
 			<term>Intel&reg; Xeon&reg;</term>
 			 <listitem>
 				<para>
@@ -144,27 +144,27 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-interesting">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-interesting">
 			<term>interesting</term>
 			 <listitem>
 				<para>
-					Avoid using, as this is a substitute for showing the reader why something is of interest. For example, instead of writing "It is interesting to note...", consider using a "Note" admonition.
+					Avoid this term, because it is a substitute for showing the reader why something is of interest. For example, instead of writing "It is interesting to note...", consider using a "Note" admonition.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-internet_n.">
-			<term>internet (n.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-internet">
+			<term>internet</term>
 			 <listitem>
 				<para>
-					Always lowercase except in some specific exceptions, for example <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Internet_of_Things_IoT" />.
+					<emphasis>n.</emphasis> Always lowercase except in some specific exceptions, for example <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-Internet_of_Things_IoT" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Internet_of_Things_IoT">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-Internet_of_Things_IoT">
 			<term>Internet of Things (IoT)</term>
 			 <listitem>
 				<para>
@@ -180,8 +180,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Intranet_and_intranet">
-			<term>Intranet and intranet</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-Intranet_intranet">
+			<term>Intranet, intranet</term>
 			 <listitem>
 				<para>
 					See the "Word usage" appendix of <citetitle>The IBM Style Guide</citetitle> for guidance.
@@ -190,7 +190,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IO">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-IO">
 			<term>I/O</term>
 			 <listitem>
 				<para>
@@ -203,17 +203,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IOPS">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-IOPS">
 			<term>IOPS</term>
 			 <listitem>
 				<para>
-					Correct. All caps. Stands for Input/output operations per second.
+					Correct. All caps. Stands for input/output operations per second.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IP">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-IP">
 			<term>IP</term>
 			 <listitem>
 				<para>
@@ -223,7 +223,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IP_Masquerade">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-IP_Masquerade">
 			<term>IP Masquerade</term>
 			 <listitem>
 				<para>
@@ -236,7 +236,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IPsec">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-IPsec">
 			<term>IPsec</term>
 			 <listitem>
 				<para>
@@ -246,7 +246,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-IP_switching">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-IP_switching">
 			<term>IP switching</term>
 			 <listitem>
 				<para>
@@ -256,7 +256,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-ISV">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-ISV">
 			<term>ISV</term>
 			 <listitem>
 				<para>
@@ -266,7 +266,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-ITI.T.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-ITI.T.">
 			<term>IT/I.T.</term>
 			 <listitem>
 				<para>
@@ -276,7 +276,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Itanium">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-Itanium">
 			<term>Itanium</term>
 			 <listitem>
 				<para>
@@ -289,37 +289,27 @@
 					Itanium's primary use is driving large applications that require more than 4 GB of memory, such as databases, ERP, and future internet applications.
 				</para>
 				 <para>
-					Do not use the term IA64. (It can be used in file names since they are printed in the content.)
+					Do not use the term IA64. It can be used in file names because they are not printed in the content.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-Itanium_2">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-Itanium_2">
 			<term>Itanium 2</term>
 			 <listitem>
 				<para>
-					Itanium 2 is correct. Do not use "Itanium2" without the space between Itanium and 2.
+					Itanium 2 is correct. Do not use "Itanium2" and always use a non-breaking space between "Itanium" and "2."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-ISeries">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-I-ISeries">
 			<term>ISeries</term>
 			 <listitem>
 				<para>
 					IBM eServer System i is correct for the first reference in a manual; use IBM System i or System i for subsequent references. Do not use "iSeries."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-I-its_and_its">
-			<term>it's and its</term>
-			 <listitem>
-				<para>
-					"It's" is a contraction of "it is." Use "it is" instead of "it's." "Its" is a possessive pronoun (for example, "the store is known for its low prices").
 				</para>
 
 			</listitem>

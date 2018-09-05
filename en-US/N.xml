@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-N">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N">
 	<title>N</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-N-need">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-need">
 			<term>need</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-N-needs_needs_to_be_need_to">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-needs_needs_to_be_need_to">
 			<term>needs, needs to be, need to</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-N-neighbor">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-neighbor">
 			<term>neighbor</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-N-.NET">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-.NET">
 			<term>.NET</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-N-network_transparency">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-network_transparency">
 			<term>network transparency</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-N-NFS">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-NFS">
 			<term>NFS</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-N-node">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-node">
 			<term>node</term>
 			 <listitem>
 				<orderedlist>
@@ -94,7 +94,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-N-nonsecure">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-nonsecure">
 			<term>nonsecure</term>
 			 <listitem>
 				<para>
@@ -104,7 +104,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-N-NULL_or_null">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-NULL_or_null">
 			<term>NULL or null</term>
 			 <listitem>
 				<para>
@@ -114,17 +114,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-N-numbers">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-numbers">
 			<term>numbers</term>
 			 <listitem>
 				<para>
-					Spell out numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of…), and very large values, (4 billion). Use numerals for numbers 10 and greater, negative numbers, fractions, percentages, decimals, measurements, references to book sections (Chapter 3, Table 5, Page 11), and numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (You answered 8 out of 14 questions correctly). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6, Source-Navigator 4.5).
+					Spell out numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of...), and very large values. Use numerals for numbers 10 and greater and for numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (for example, "You answered 8 out of 14 questions correctly"). Use numerals for negative numbers, fractions, percentages, decimals, measurements, and references to book sections (Chapter 3, Table 5, Page 11). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6, Source-Navigator&nbsp;4.5).
 				</para>
 				 <para>
 					Do not use commas in numbers with four digits (use 1000 rather than 1,000). Do use commas in numbers with five or more digits (10,000; 123,456,789; 1,000,000,000).
 				</para>
 				 <para>
-					See <citetitle>The Chicago Manual of Style, 16th Edition</citetitle> for detailed information on numbering formats.
+					See <citetitle>The Chicago Manual of Style, 17th Edition</citetitle> for detailed information on numbering formats.
 				</para>
 
 			</listitem>

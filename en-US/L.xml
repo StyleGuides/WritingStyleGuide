@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-L">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L">
 	<title>L</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LAN">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-LAN">
 			<term>LAN</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-latency">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-latency">
 			<term>latency</term>
 			 <listitem>
 				<itemizedlist>
@@ -38,17 +38,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-later">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-later">
 			<term>later</term>
 			 <listitem>
 				<para>
-					Use to refer to later or more recent releases of products. Do not use "newer" or related terms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-E-earlier" />.
+					Use to refer to later or more recent releases of products. Do not use "newer" or related terms. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-earlier" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-leave_out">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-leave_out">
 			<term>leave out</term>
 			 <listitem>
 				<para>
@@ -58,40 +58,40 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-left_click">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-left_click">
 			<term>left-click</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "left click."
+					<emphasis>v.</emphasis> Do not use "left click" or "leftclick."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LibreOffice">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-LibreOffice">
 			<term>LibreOffice</term>
 			 <listitem>
 				<para>
 					A Linux desktop suite. Do not use "Libre," "Libreoffice," or "Libre Office."
 				</para>
 				 <para>
-					See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OpenOffice" />
+					See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-OpenOffice" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-license">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-license">
 			<term>license</term>
 			 <listitem>
 				<para>
-					<emphasis>n., vb.</emphasis> Correct. Use this form for both the noun and the verb.
+					<emphasis>n., v.</emphasis> Use this form for both the noun and the verb.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-life_cycle_life_cycle_lifecycle">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-life_cycle_life_cycle_lifecycle">
 			<term>life cycle, life-cycle, lifecycle</term>
 			 <listitem>
 				<para>
@@ -107,20 +107,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-Linux">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-Linux">
 			<term>Linux</term>
 			 <listitem>
 				<para>
 					Correct. Do not use "LINUX" or "linux" unless referring to a command, such as "To start Linux, type <command>linux</command>."
 				</para>
 				 <para>
-					Linux is a registered trademark of Linus Torvalds.
+					Linux is a registered trademark of Linus Torvalds. Use a registered trademark symbol on first use.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-load">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-load">
 			<term>load</term>
 			 <listitem>
 				<itemizedlist>
@@ -148,7 +148,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-load_balancing">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-load_balancing">
 			<term>load balancing</term>
 			 <listitem>
 				<para>
@@ -158,7 +158,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-logical_topology">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-logical_topology">
 			<term>logical topology</term>
 			 <listitem>
 				<para>
@@ -168,33 +168,33 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-lookup">
-			<term>lookup</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-lookup_look_up_look_up">
+			<term>lookup, look-up, look up</term>
 			 <listitem>
 				<para>
-					As a noun, correct.
+					<emphasis>n.</emphasis> Use the one-word form.
 				</para>
 				 <para>
-					As a verb, use "look up."
+					<emphasis>v.</emphasis> Use the two-word form.
 				</para>
 				 <para>
-					As a modifier, hyphenate. For example, "a look-up table."
+					<emphasis>adj.</emphasis> Hyphenate when used as a modifier. For example, "a look-up table."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-look_at">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-look_at">
 			<term>look at</term>
 			 <listitem>
 				<para>
-					Do not use. Use "examine" instead.
+					Do not use. Use "examine" or "inspect" or some other more precise term instead.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-loopback_address">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-loopback_address">
 			<term>loopback address</term>
 			 <listitem>
 				<para>
@@ -207,7 +207,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-lots_of">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-lots_of">
 			<term>lots of</term>
 			 <listitem>
 				<para>
@@ -217,11 +217,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LPAR">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-LPAR">
 			<term>LPAR</term>
 			 <listitem>
 				<para>
-					Abbreviation of logical partitioning, a system of taking a computer's total resources — processors, memory and storage — and splitting them into smaller units that each can be run with its own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client/server actions or systems that serve multiple time zones and/or languages. Logical partitioning can also be used to keep testing environments separated from the production environments. Since the partitions in effect act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
+					Abbreviation of logical partitioning, a system of taking a computer's total resources, such as processors, memory, and storage, and splitting them into smaller units that can be run with their own instance of the operating system and applications. Logical partitioning, which requires specialized hardware circuits, is typically used to separate different functions of a system, such as web serving, database functions, client/server actions, or systems that serve multiple time zones or languages. Logical partitioning can also be used to keep testing environments separated from production environments. Because the partitions act as separate physical machines, they can communicate with each other. Logical partitioning was first used in 1976 by IBM.
 				</para>
 
 			</listitem>

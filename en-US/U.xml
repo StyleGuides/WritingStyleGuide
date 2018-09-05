@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-U">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U">
 	<title>U</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UID">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-UID">
 			<term>UID</term>
 			 <listitem>
 				<para>
-					UID and User ID are abbreviations of <emphasis>user identifier</emphasis>. Do not use "uid."
+					<emphasis>n.</emphasis> UID and user ID are abbreviations of <emphasis>user identifier</emphasis>. Do not use "uid" or "User ID" or other variations unless specifically referring to a variable, argument, parameter, UI label, or similar.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UltraSPARC">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-UltraSPARC">
 			<term>UltraSPARC</term>
 			 <listitem>
 				<para>
@@ -29,17 +29,27 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-uninterruptible_adj.">
-			<term>uninterruptible (adj.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-undercloud">
+			<term>undercloud</term>
 			 <listitem>
 				<para>
-					Despite not appearing in the <citetitle>American Heritage Dictionary,</citetitle> this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary,</citetitle> and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)."
+					<emphasis>n.</emphasis> Always lowercase. This is a concept, not a technology or product name. Being a common noun, this requires an article in most cases. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-overcloud" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UNIX">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-uninterruptible">
+			<term>uninterruptible</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Despite not appearing in the <citetitle>American Heritage Dictionary</citetitle>, this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary</citetitle>, and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-UNIX">
 			<term>UNIX</term>
 			 <listitem>
 				<para>
@@ -55,14 +65,14 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-unset">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-unset">
 			<term>unset</term>
 			 <listitem>
 				<para>
 					Incorrect. Use "Clear" instead.
 				</para>
 				 <para>
-					To disable the <application>Wobbly Widget</application>, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> check box.
+					To disable the <application>Wobbly Widget</application> application, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> check box.
 				</para>
 				 <para>
 					This rule only matches TCP packets that have the <guilabel>SYN</guilabel> flag set and the <guilabel>ACK</guilabel> flag cleared.
@@ -71,7 +81,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-untrusted">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-untrusted">
 			<term>untrusted</term>
 			 <listitem>
 				<para>
@@ -81,17 +91,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upgrade">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-upgrade">
 			<term>upgrade</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "up-grade" or "up grade."
+					<emphasis>v.</emphasis> Correct. Do not use "up-grade" or "up grade."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-UPS">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-UPS">
 			<term>UPS</term>
 			 <listitem>
 				<para>
@@ -101,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upsell_v._upselling_n.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-upsell_v._upselling_n.">
 			<term>upsell (v.), upselling (n.)</term>
 			 <listitem>
 				<warning>
@@ -121,77 +131,67 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-upstream">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-upstream">
 			<term>upstream</term>
 			 <listitem>
 				<para>
-					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-D-downstream" />. Do not use "up-stream" or "up stream."
+					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-downstream" />. Do not use "up-stream" or "up stream."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-uptime_n.">
-			<term>uptime (n.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-uptime">
+			<term>uptime</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "up-time" or "up time."
+					<emphasis>n.</emphasis> Correct. Do not use "up-time" or "up time."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-URL_n.">
-			<term>URL (n.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-URL">
+			<term>URL</term>
 			 <listitem>
 				<para>
-					Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
+					<emphasis>n.</emphasis> Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
 				</para>
 				 <para>
-					See <xref linkend="form-Red_Hat_Technical_Publications-Writing_Style_Guide-Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
+					See <xref linkend="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-usable_adj.">
-			<term>usable (adj.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-usable">
+			<term>usable</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "useable."
+					<emphasis>adj.</emphasis> Correct. Do not use "useable."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_n.">
-			<term>user (n.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-user">
+			<term>user</term>
 			 <listitem>
 				<para>
-					When referring to the reader, use "you" instead of "user." For example, "The user must..." is incorrect. Use "You must..." instead.
+					<emphasis>n.</emphasis> When referring to the reader, use "you" instead of "user." For example, "The user must..." is incorrect. Use "You must..." instead.
 				</para>
 				 <para>
-					If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may wish to access your database."
+					If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may want to access your database."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-userid_n.">
-			<term>userid (n.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-user_interface">
+			<term>user interface</term>
 			 <listitem>
 				<para>
-					Acceptable abbreviation of <emphasis>user identifier</emphasis>.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_interface_n.">
-			<term>user interface (n.)</term>
-			 <listitem>
-				<para>
-					Correct. Do not use "user-interface" or "userinterface."
+					<emphasis>n.</emphasis> Correct. Do not use "user-interface" or "userinterface."
 				</para>
 				 <para>
 					The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. A command-driven interface is one in which you enter commands. A menu-driven interface is one in which you select command choices from various menus displayed on the screen.
@@ -200,27 +200,27 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_name_n.">
-			<term>user name (n.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-user_name">
+			<term>user name</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "username" unless you are using it as a variable.
+					<emphasis>n.</emphasis> Correct. Do not use "username" unless you are using it as a variable.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-user_space_n.">
-			<term>user space (n.)</term>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-user_space">
+			<term>user space</term>
 			 <listitem>
 				<para>
-					Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space." Do not use "userspace."
+					<emphasis>n.</emphasis> Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space." Do not use "userspace."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-U-utilize">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-utilize">
 			<term>utilize</term>
 			 <listitem>
 				<para>

@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Usage_Dictionary">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Usage_Dictionary">
 	<title>Usage Dictionary</title>
 	 <para>
 		This page provides guidelines for the correct use of common terms in Red Hat documentation, which terms to avoid, and the preferred spelling where variations exist. This page is constantly evolving, and open to discussion and improvement.
 	</para>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-Usage_Dictionary-A_note_about_trademarks">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Usage_Dictionary-A_note_about_trademarks">
 			<term>A note about trademarks</term>
 			 <listitem>
 				<para>

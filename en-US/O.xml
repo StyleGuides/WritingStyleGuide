@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-O">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O">
 	<title>O</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-Objective_C">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-Objective_C">
 			<term>Objective C</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-object_oriented">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-object_oriented">
 			<term>object-oriented</term>
 			 <listitem>
 				<para>
@@ -26,11 +26,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OEM">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-OEM">
 			<term>OEM</term>
 			 <listitem>
 				<para>
-					Noun: Stands for original equipment manufacturer, which is a misleading term for a company that has a special relationship with computer producers. OEMs buy computers in bulk and customize them for a particular application. They then sell the customized computer under their own name. The term is really a misnomer because OEMs are not the original manufacturers - they are the customizers.
+					<emphasis>n.</emphasis> Stands for original equipment manufacturer, which is a misleading term for a company that has a special relationship with computer producers. OEMs buy computers in bulk and customize them for a particular application. They then sell the customized computer under their own name. The term is really a misnomer because OEMs are not the original manufacturers - they are the customizers.
 				</para>
 				 <para>
 					To provide equipment to another company, an OEM, which customizes and markets the equipment.
@@ -39,17 +39,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-offline">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-offline">
 			<term>offline</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis>. Do not use "off-line."
+					<emphasis>adj.</emphasis> Do not use "off-line."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-offline_backup">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-offline_backup">
 			<term>offline backup</term>
 			 <listitem>
 				<para>
@@ -65,7 +65,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OK">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-OK">
 			<term>OK</term>
 			 <listitem>
 				<para>
@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-on_board_adj._onboard_v.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_board_adj._onboard_v.">
 			<term>on-board (adj.), onboard (v.)</term>
 			 <listitem>
 				<para>
@@ -92,7 +92,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-online">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-online">
 			<term>online</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-on_premise_adj.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_premise_adj.">
 			<term>on-premise (adj.)</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-on_site_adj.">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_site_adj.">
 			<term>on-site (adj.)</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-on_the_fly">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_the_fly">
 			<term>on-the-fly</term>
 			 <listitem>
 				<para>
@@ -132,7 +132,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-oops">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-oops">
 			<term>oops</term>
 			 <listitem>
 				<para>
@@ -142,7 +142,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-opcodes">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-opcodes">
 			<term>opcodes</term>
 			 <listitem>
 				<para>
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_architecture">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-open_architecture">
 			<term>open architecture</term>
 			 <listitem>
 				<para>
@@ -162,7 +162,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-Open_InfiniBand">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-Open_InfiniBand">
 			<term>Open InfiniBand</term>
 			 <listitem>
 				<para>
@@ -172,20 +172,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-OpenOffice">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-OpenOffice">
 			<term>OpenOffice</term>
 			 <listitem>
 				<para>
 					A Linux desktop suite. Do not use "Openoffice," "Open Office," or "ooo."
 				</para>
 				 <para>
-					See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-L-LibreOffice" />
+					See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-LibreOffice" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_source">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-open_source">
 			<term>open source</term>
 			 <listitem>
 				<para>
@@ -195,19 +195,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_source_way">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-open_source_way">
 			<term>open source way</term>
 			 <listitem>
 				<para>
 					A phrase coined by the Red&nbsp;Hat community and adopted by opensource.com in 2009. It is a reference to an "open source method", as in "Let's develop this the open source way."
 				</para>
-				<para>
-				  Do not use to suggest that something is being done only in the "spirit" of open source without actually having an open source policy as defined by <ulink url="http://opensource.org/osd">Open Source Initiative</ulink> to avoid diluting the legal meaning of the term "open source".
+				 <para>
+					Do not use to suggest that something is being done only in the "spirit" of open source without actually having an open source policy as defined by <ulink url="http://opensource.org/osd">Open Source Initiative</ulink> to avoid diluting the legal meaning of the term "open source".
 				</para>
+
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-operating_system">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-operating_system">
 			<term>operating system</term>
 			 <listitem>
 				<para>
@@ -217,7 +218,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-orientate">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-orientate">
 			<term>orientate</term>
 			 <listitem>
 				<para>
@@ -227,7 +228,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-output_device">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-output_device">
 			<term>output device</term>
 			 <listitem>
 				<para>
@@ -237,7 +238,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-override">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-overcloud">
+			<term>overcloud</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Always lowercase. This is a concept, not a technology or product name. Being a common noun, this requires an article in most cases. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-undercloud" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-override">
 			<term>override</term>
 			 <listitem>
 				<para>

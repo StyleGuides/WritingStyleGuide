@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-P">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P">
 	<title>P</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PaaS">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PaaS">
 			<term>PaaS</term>
 			 <listitem>
 				<para>
@@ -23,7 +23,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PC">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PC">
 			<term>PC</term>
 			 <listitem>
 				<para>
@@ -33,7 +33,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PHP">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PHP">
 			<term>PHP</term>
 			 <listitem>
 				<para>
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-Pico">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-Pico">
 			<term>Pico</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-plain_text">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-plain_text">
 			<term>plain text</term>
 			 <listitem>
 				<para>
@@ -69,7 +69,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-please">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-please">
 			<term>please</term>
 			 <listitem>
 				<para>
@@ -79,7 +79,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pluggable">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-pluggable">
 			<term>pluggable</term>
 			 <listitem>
 				<para>
@@ -89,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-plug_in">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-plug_in">
 			<term>plug-in</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pop_up">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-pop_up">
 			<term>pop-up</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PostScript">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PostScript">
 			<term>PostScript</term>
 			 <listitem>
 				<para>
@@ -122,21 +122,23 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PowerPC">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PowerPC">
 			<term>PowerPC</term>
 			 <listitem>
 				<para>
-				  The name of the Power architecture is "Power", but the designation of individual chips tend to be either "PowerPC" or "POWER". Refer to IBM marketing or the <ulink url="http://openpowerfoundation.org">Open Power Foundation</ulink> if unsure.
+					The name of the Power architecture is "Power", but the designation of individual chips tend to be either "PowerPC" or "POWER". Refer to IBM marketing or the <ulink url="http://openpowerfoundation.org">Open Power Foundation</ulink> if unsure.
 				</para>
 				 <para>
-				   Do not use the "PPC64" or "ppc64le" shorthand. Depending on context either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct. Additional ABI features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
-				 </para>
+					Do not use the "PPC64" or "ppc64le" shorthand. Depending on context either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct. Additional ABI features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
+				</para>
 				 <para>
 					NB: the PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM Power Series hardware in almost all cases.
 				</para>
+
 			</listitem>
-		 </varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-POSIX">
+
+		</varlistentry>
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-POSIX">
 			<term>POSIX</term>
 			 <listitem>
 				<para>
@@ -149,7 +151,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PPP">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PPP">
 			<term>PPP</term>
 			 <listitem>
 				<para>
@@ -159,7 +161,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-press">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-press">
 			<term>press</term>
 			 <listitem>
 				<para>
@@ -169,11 +171,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-proof_of_concept">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-proof_of_concept">
 			<term>proof of concept</term>
 			 <listitem>
 				<para>
-					Use the following rules to form the plural of this phrase:
+					Use the following rules to form the plural of this phrase: 
 					<itemizedlist>
 						<listitem>
 							<para>
@@ -201,7 +203,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pseudo_ops">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-pseudo_ops">
 			<term>pseudo-ops</term>
 			 <listitem>
 				<para>
@@ -211,7 +213,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pSeries">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-pSeries">
 			<term>pSeries</term>
 			 <listitem>
 				<para>
@@ -221,17 +223,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-pulldown">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-pull_down">
 			<term>pull-down</term>
 			 <listitem>
 				<para>
-                    <emphasis>adj.</emphasis> Correct. Use only if you must specify the type of menu or list. Do not use "pulldown."
+					<emphasis>adj.</emphasis> Correct. Use only if you must specify the type of menu or list. Do not use "pulldown."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-P-PXE">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PXE">
 			<term>PXE</term>
 			 <listitem>
 				<para>

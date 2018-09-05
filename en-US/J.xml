@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-J">
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-J">
 	<title>J</title>
 	 <variablelist>
-		<varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JavaScript_">
+		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-J-JavaScript_">
 			<term>JavaScript </term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JBoss_Community">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-J-JBoss_Community">
 			<term>JBoss Community</term>
 			 <listitem>
 				<para>
@@ -26,17 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JBoss_Way">
-			<term>JBoss Way</term>
-			 <listitem>
-				<para>
-					When referring specifically to the JBoss cultural and business climate or practices as the subject of your sentence, capitalize "JBoss Way" as a formal, branded concept. However, if the reference is generic or the "way" is further specified, do not capitalize. See also <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-R-Red_Hat_Way" /> and <xref linkend="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-O-open_source_way" />.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-job">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-J-job">
 			<term>job</term>
 			 <listitem>
 				<para>
@@ -46,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-jsvc">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-J-jsvc">
 			<term>jsvc</term>
 			 <listitem>
 				<para>
@@ -56,17 +46,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-just">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-J-just">
 			<term>just</term>
 			 <listitem>
 				<para>
-					Use sparingly. In the phrase, "Just open the file...", the word "just" can be omitted.
+					Use sparingly. In the phrase, "Just open the file...", omit the word "just."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-Red_Hat_Technical_Publications-Writing_Style_Guide-J-JVM">
+		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-J-JVM">
 			<term>JVM</term>
 			 <listitem>
 				<para>

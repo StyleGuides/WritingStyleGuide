@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Writing_Style_Guide.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-Red_Hat_Technical_Publications-Writing_Style_Guide-Cross_References">
-	<title>Cross References</title>
+<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Using_Cross_references_Effectively">
+	<title>Using Cross-references Effectively</title>
 	 <para>
 		This section contains suggestions on how to use cross-references in the most effective way. That is, so that it works for the reader, rather than the author. In DocBook XML, cross-references are formatted according to the style sheets; at this point no references are available that describe how they should be formatted in other media. Formatting is not described in this section.
 	</para>
 	 <para>
 		In the days of print-only documentation, cross-references referred readers to additional or related information that existed elsewhere in the physical printed book; on other pages. The readers had to physically turn pages to find the referenced page, so authors, editors, and proofreaders developed a certain caution about scattering cross-references through the text. Despite the ease of use and creation of cross-references and links in online documents today, the author must still do the work for the reader. It is still the author who must do the heavy lifting and arrange the information so that the reader can absorb it in the smoothest possible fashion. Forcing the reader to leap from link to link could indicate that the author is writing for their own ease, and not for the good of the reader.
 	</para>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Cross_References-The_Additional_Information_Test">
+	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Using_Cross_references_Effectively-The_Additional_Information_Test">
 		<title>The Additional Information Test</title>
 		 <para>
 			Is the cross-reference pointing to vital information or additional information?
@@ -21,7 +21,7 @@
 		</para>
 
 	</section>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Cross_References-The_InformationLink_Ratio">
+	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Using_Cross_references_Effectively-The_InformationLink_Ratio">
 		<title>The Information/Link Ratio</title>
 		 <para>
 			Does the paragraph or section consist largely of links?
@@ -37,7 +37,7 @@
 		</note>
 
 	</section>
-	 <section id="sect-Red_Hat_Technical_Publications-Writing_Style_Guide-Cross_References-The_Repeatability_Test">
+	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Using_Cross_references_Effectively-The_Repeatability_Test">
 		<title>The Repeatability Test</title>
 		 <para>
 			Does the information have to be repeated?
