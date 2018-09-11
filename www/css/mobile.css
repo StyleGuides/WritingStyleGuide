@@ -1,0 +1,108 @@
+/* mobile stylesheet */
+
+@font-face { 
+  font-family: "overpass"; 
+  src: url("./font/overpass-regular.otf"); 
+}
+
+body {
+    font-family: 'overpass',sans;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #cc0000 url("../img/nimbus-hero_grey.jpg") repeat;
+    padding: 1.5em;
+}
+
+header p {
+    display: none;
+}
+
+header strong {
+    display: none;
+}
+
+header img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-alinn: center;
+    margin-bottom: 3ex;
+}
+
+#main {
+    font-size: 0.66em;
+    margin-left: 1ex;
+}
+
+#main > div {
+    padding-top: 5%;
+    width: 100%;
+}
+
+#main p {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#main > img {
+    padding-top: 5%;
+}
+
+#main h1 {
+    width: 100%;
+    text-align:center;
+    margin-top: 1.33em;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+#main a {
+    font-size: 1em;
+    color: #4c4c4c;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #333;
+    position: fixed;    
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+}
+
+footer a {
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    margin-left: 13%;
+    margin-right: auto;
+    padding-left: 0;
+    font-size: 1em;
+    text-align: right;
+}
+
+footer div {
+    padding: 0;
+    margin: 0;
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+}
+
+footer div p {
+    line-height: 2ex;
+    padding: 0;
+    margin: 0;
+    margin-left:1em;
+}
+
+footer div p:nth-of-type(2) {
+    display:none;
+}
