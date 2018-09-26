@@ -5,7 +5,7 @@
 ]>
 <bookinfo id="book-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Conventions_for_Writers_and_Editors">
 	<title>Conventions for Writers and Editors</title>
-	 <!--   	 <subtitle>How to stay on the Yellow Brick Road</subtitle>   --> <productname>The Red Hat Style Guide</productname>
+	 <!--    	 <subtitle>How to stay on the Yellow Brick Road</subtitle>    --> <productname>The Red Hat Style Guide</productname>
 	 <productnumber></productnumber>
 	 <edition>3</edition>
 	 <pubsnumber>1</pubsnumber>
@@ -25,6 +25,6 @@
 
 	</corpauthor>
 	 <xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <!--   <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                     -->
+	 <!--    <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                      -->
 </bookinfo>
 
