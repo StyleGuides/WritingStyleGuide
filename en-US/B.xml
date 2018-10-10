@@ -106,7 +106,7 @@
 			<term>basically</term>
 			 <listitem>
 				<para>
-					Do not use. For example, removing the word "basically" in the following sentence strengthens it: "This is how it is basically done."
+					Do not use. For example, removing the word "basically" in the following sentence strengthens it: "This is how it is basically done." See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-simply"/>.
 				</para>
 
 			</listitem>
@@ -153,7 +153,7 @@
 				</para>
 				 <note>
 					<para>
-						Hybrid IT is a more general term, e.g. it could mean on-premise plus public cloud. Agile and modern IT can both carry an implication of "mode 2"--so when using those terms, be specific about the exact technology combination you mean.
+						Hybrid IT is a more general term, e.g. it could mean on-premise plus public cloud. Agile and modern IT can both carry an implication of "mode 2", so when using those terms, be specific about the exact technology combination you mean.
 					</para>
 
 				</note>
@@ -283,7 +283,7 @@
 			<term>Bps, bps</term>
 			 <listitem>
 				<para>
-					The abbreviation of bytes per second is Bps. The abbreviation of bits per second is bps. To avoid confusion, do not use at the beginning of a sentence. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bandwidth" />
+					The abbreviation of bytes per second is Bps. The abbreviation of bits per second is bps. To avoid confusion, do not use at the beginning of a sentence. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bandwidth" />.
 				</para>
 
 			</listitem>

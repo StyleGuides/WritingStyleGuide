@@ -93,7 +93,7 @@
 			<term>above</term>
 			 <listitem>
 				<para>
-					Do not use to refer to information mentioned previously. When documents are converted to online format, the information may no longer be "above." Use a cross-reference instead.
+					Do not use to refer to information mentioned previously. When documents are converted to online format, the information may no longer be "above." Use a cross-reference if the referenced material is sufficiently removed, or write "as mentioned previously" instead.
 				</para>
 
 			</listitem>
@@ -106,7 +106,7 @@
 					An acronym is a word formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead <emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader. Note that an acronym is pronounced as a word. Compare this to an initialism, which is also formed in a similar fashion to an acronym, but in which each letter is pronounced separately.
 				</para>
 				 <para>
-					Spell out the acronym or initialism before using it in text, such as "The Embedded DevKit (EDK)..." Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version - for example, "central processing unit (CPU)."
+					Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK)..." Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version - for example, "central processing unit (CPU)." Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
 				</para>
 				 <para>
 					To form the plural of an acronym, add a trailing, lowercase "s," or "es," for example, ROMs, PINs, BIOSes.
