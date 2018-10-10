@@ -10,7 +10,7 @@
 			<term>24x7, 24x7x365</term>
 			 <listitem>
 				<para>
-					Use "24x7" in most instances. Use "24x7x365" only to differentiate from others or highlight specifically that a service is offered every day of the year, for example, providing 24x7x365 phone support.
+					<emphasis>adj.</emphasis> Use "24x7" in most instances. Use "24x7x365" only to differentiate from others or highlight specifically that a service is offered every day of the year, for example, providing 24x7x365 phone support.
 				</para>
 
 			</listitem>
@@ -20,17 +20,17 @@
 			<term>2-track (IT)</term>
 			 <listitem>
 				<para>
-					A less common way to refer to bimodal or hybrid IT. See <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bimodal_IT" />
+					<emphasis>adj.</emphasis> A less common way to refer to bimodal or hybrid IT. See <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bimodal_IT" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-a0_9-a3_D_adj._n.">
-			<term>3-D (adj., n.)</term>
+			<term>3-D</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "3D," "3-d," other variations.
+					<emphasis>adj., n.</emphasis>. Correct. Do not use 3D, 3-d, or other variations.
 				</para>
 
 			</listitem>
