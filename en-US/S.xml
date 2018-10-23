@@ -99,7 +99,6 @@
 			</listitem>
 
 		</varlistentry>
-
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-SELinux">
 			<term>SELinux</term>
 			 <listitem>
@@ -258,7 +257,7 @@
 			<term>should</term>
 			 <listitem>
 				<para>
-					Do not use if it is something the user must do. For example, "You should make a backup" is a suggestion, while "You must make a backup" is a requirement. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-must"/>.
+					Do not use if it is something the user must do. For example, "You should make a backup" is a suggestion, while "You must make a backup" is a requirement. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-must" />.
 				</para>
 
 			</listitem>
@@ -278,7 +277,7 @@
 			<term>simply</term>
 			 <listitem>
 				<para>
-					Do not use. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-basically"/>.
+					Do not use. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-basically" />.
 				</para>
 
 			</listitem>
@@ -561,14 +560,14 @@
 				<para>
 					Correct. Do not use "sub-command" or "verb." A subcommand refers to a secondary or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
 				</para>
-
+				 
 <screen>hammer import organization --help</screen>
 				 <para>
 					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.
 				</para>
-        <para>
-          See also <xref linkend="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Hyphenation-Hyphenate_Double_Prefixes"/>.
-          </para>
+				 <para>
+					See also <xref linkend="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Hyphenation-Hyphenate_Double_Prefixes" />.
+				</para>
 
 			</listitem>
 
@@ -577,7 +576,7 @@
 			<term>subdirectory</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-directory." See also <xref linkend="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Hyphenation-Hyphenate_Double_Prefixes"/>.
+					Correct. Do not use "sub-directory." See also <xref linkend="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Hyphenation-Hyphenate_Double_Prefixes" />.
 				</para>
 
 			</listitem>
@@ -587,7 +586,7 @@
 			<term>submenu</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-menu." See also <xref linkend="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Hyphenation-Hyphenate_Double_Prefixes"/>.
+					Correct. Do not use "sub-menu." See also <xref linkend="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Hyphenation-Hyphenate_Double_Prefixes" />.
 				</para>
 
 			</listitem>

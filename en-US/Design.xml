@@ -127,7 +127,7 @@
 			 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-
+					
 <screen>$ git clone <replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 
 				</para>
@@ -135,106 +135,115 @@
 			</example>
 			 <para>
 				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components:
-      </para>
-				<variablelist>
-          <varlistentry>
-            <term>The prompt (<prompt>$</prompt>)</term>
-					<listitem>
+			</para>
+			 <variablelist>
+				<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-The_prompt_">
+					<term>The prompt (<prompt>$</prompt>)</term>
+					 <listitem>
 						<para>
-							 Indicates that a normal user can run the command, as compared to the <systemitem>root</systemitem> user, indicated by the number sign (<prompt>#</prompt>).
+							Indicates that a normal user can run the command, as compared to the <systemitem>root</systemitem> user, indicated by the number sign (<prompt>#</prompt>).
 						</para>
 
 					</listitem>
-          </varlistentry>
-          <varlistentry>
-            <term>The command (<command>git clone</command>)</term>
+
+				</varlistentry>
+				 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-The_command_git_clone">
+					<term>The command (<command>git clone</command>)</term>
 					 <listitem>
 						<para>
 							The actual command to run, without any optional or replaceable values. This must be typed as-is.
 						</para>
 
 					</listitem>
-          </varlistentry>
-          <varlistentry>
-            <term>Source options <replaceable>[username@]hostname:/repository_filename</replaceable>)</term>
+
+				</varlistentry>
+				 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Source_options_usernamehostnamerepository_filename">
+					<term>Source options <replaceable>[username@]hostname:/repository_filename</replaceable>)</term>
 					 <listitem>
 						<para>
-							 The optional user name, indicated by brackets ([]), followed by the host name and path to the repository. All aspects of this component must be replaced with valid values.
+							The optional user name, indicated by brackets ([]), followed by the host name and path to the repository. All aspects of this component must be replaced with valid values.
 						</para>
 
 					</listitem>
-          </varlistentry>
-          <varlistentry>
-            <term>Target options <replaceable>[directory]</replaceable></term>
+
+				</varlistentry>
+				 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Target_options_directory">
+					<term>Target options <replaceable>[directory]</replaceable></term>
 					 <listitem>
 						<para>
 							The optional directory into which the repository will be cloned. This must be replaced with a valid value, or omitted.
 						</para>
 
 					</listitem>
-          </varlistentry>
-				</variablelist>
 
+				</varlistentry>
+
+			</variablelist>
 			 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
-
+				 
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
 				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
-        </para>
-				<variablelist>
-          <varlistentry>
-            <term>The prompt (<prompt>$</prompt>)</term>
-					<listitem>
+			</para>
+			 <variablelist>
+				<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-The_command_prompt_">
+					<term>The command prompt (<prompt>$</prompt>)</term>
+					 <listitem>
 						<para>
 							Indicates that a normal user can run the command, as compared to the <systemitem>root</systemitem> user, which is indicated by the number sign (<prompt>#</prompt>).
 						</para>
 
 					</listitem>
-          </varlistentry>
-          <varlistentry>
-            <term>The command (<command>scp</command>)</term>
+
+				</varlistentry>
+				 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-The_command_scp">
+					<term>The command (<command>scp</command>)</term>
 					 <listitem>
 						<para>
 							The actual command to run, without any optional or replaceable values. This must be typed as-is.
 						</para>
 
 					</listitem>
-          </varlistentry>
-          <varlistentry>
-            <term>Source options (<replaceable>filename</replaceable>)</term>
+
+				</varlistentry>
+				 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Source_options_filename">
+					<term>Source options (<replaceable>filename</replaceable>)</term>
 					 <listitem>
 						<para>
 							The file name to copy. This must be replaced with a valid value.
 						</para>
 
 					</listitem>
-          </varlistentry>
-          <varlistentry>
-            <term>Target options (<replaceable>[username@]hostname:/directory</replaceable>)</term>
+
+				</varlistentry>
+				 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Target_options_usernamehostnamedirectory">
+					<term>Target options (<replaceable>[username@]hostname:/directory</replaceable>)</term>
 					 <listitem>
 						<para>
 							The optional user name, indicated by brackets ([]), followed by the host name and path to the target directory. All aspects of this component must be replaced with valid values.
 						</para>
 
 					</listitem>
-          </varlistentry>
-				</variablelist>
-        <warning>
-          <para>
-            Avoid using the <option>--force (-f)</option> and <option>--assumeyes (-y)</option> options on most commands, especially when logged in as the <systemitem>root</systemitem> user. This can lead to unintended consequences, such as removing files or directories by mistake or installing packages or other software that may not suit your system. Refer to the following examples:
-          </para>
+
+				</varlistentry>
+
+			</variablelist>
+			 <warning>
+				<para>
+					Avoid using the <option>--force (-f)</option> and <option>--assumeyes (-y)</option> options on most commands, especially when logged in as the <systemitem>root</systemitem> user. This can lead to unintended consequences, such as removing files or directories by mistake or installing packages or other software that may not suit your system. Refer to the following examples:
+				</para>
+				 
 <screen>[root@serverc pam.d]# rm -f system-auth password-auth (omit the -f)
 [root@serverc ~]# yum install -y new-package (omit the -y)
-            </screen>
-            <para>
-              In some cases, such as in Ansible Playbooks or other automation scripts, it may be necessary to use these options.
-            </para>
-        </warning>
+</screen>
+				 <para>
+					In some cases, such as in Ansible Playbooks or other automation scripts, it may be necessary to use these options.
+				</para>
 
-
+			</warning>
 			 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Documenting_Multiple_or_Long_Commands">
 				<title>Documenting Multiple or Long Commands</title>
 				 <para>
@@ -242,7 +251,7 @@
 				</para>
 				 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
-
+					 
 <screen>$ cd Documents
 $ vi myFile.txt
 </screen>
@@ -253,7 +262,7 @@ $ vi myFile.txt
 				</para>
 				 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
-
+					 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
@@ -285,7 +294,7 @@ $ vi myFile.txt
 			 <para>
 				You can also use <systemitem>here</systemitem> documents to describe how to create a file with required content. The syntax of <systemitem>here</systemitem> documents varies by system, shell, language, and so on, but a simple example is shown below. This example creates the <filename>my-script</filename> file in the current directory, using the example content.
 			</para>
-
+			 
 <screen><![CDATA[$ cat << EOF > my-script
 > # The first line of text
 > # The second line
@@ -327,7 +336,7 @@ $ vi myFile.txt
 					 <para>
 						Use these generic names when you refer to users outside of a case study. This helps students identify which part of a command can and should be replaced by establishing a consistent format for names of users and system items. For example:
 					</para>
-
+					 
 <screen><prompt>[root@fedora ~]# </prompt><userinput>setfacl -m u:user1:rw /project/file1</userinput></screen>
 					 <para>
 						The following list provides further alternatives:
@@ -591,7 +600,7 @@ $ vi myFile.txt
 	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
-			The preferred format for product names includes only the major version number. For example:
+			The preferred format for product names includes only the major version number. For example: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -613,7 +622,7 @@ $ vi myFile.txt
 			When writing about a product line, product release, or product family, use major version numbers. This includes all the releases (past, present, and future) of that major version.
 		</para>
 		 <para>
-			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example:
+			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -651,7 +660,7 @@ $ vi myFile.txt
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions:
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -701,12 +710,12 @@ $ vi myFile.txt
 		 <para>
 			In XML:
 		</para>
-
+		 
 <programlisting>
 &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 </programlisting>
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by
+			For example, <citetitle>Maximum RPM</citetitle> by 
 			<author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
