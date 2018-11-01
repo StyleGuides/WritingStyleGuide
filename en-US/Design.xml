@@ -127,7 +127,7 @@
 			 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Cloning_a_Git_Repository">
 				<title>Cloning a Git Repository</title>
 				 <para>
-					
+
 <screen>$ git clone <replaceable>[username@]hostname:/repository_filename [directory]</replaceable></screen>
 
 				</para>
@@ -181,7 +181,7 @@
 			</variablelist>
 			 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
 				<title>Securely Copying a File Between Hosts</title>
-				 
+
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
@@ -189,7 +189,7 @@
 				In <xref linkend="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
 			</para>
 			 <variablelist>
-				<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-The_command_prompt_">
+				<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Command_Syntax-The_prompt">
 					<term>The command prompt (<prompt>$</prompt>)</term>
 					 <listitem>
 						<para>
@@ -235,7 +235,7 @@
 				<para>
 					Avoid using the <option>--force (-f)</option> and <option>--assumeyes (-y)</option> options on most commands, especially when logged in as the <systemitem>root</systemitem> user. This can lead to unintended consequences, such as removing files or directories by mistake or installing packages or other software that may not suit your system. Refer to the following examples:
 				</para>
-				 
+
 <screen>[root@serverc pam.d]# rm -f system-auth password-auth (omit the -f)
 [root@serverc ~]# yum install -y new-package (omit the -y)
 </screen>
@@ -251,7 +251,7 @@
 				</para>
 				 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
 					<title>Documenting Multiple Commands</title>
-					 
+
 <screen>$ cd Documents
 $ vi myFile.txt
 </screen>
@@ -262,7 +262,7 @@ $ vi myFile.txt
 				</para>
 				 <example id="exam-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
 					<title>Documenting Long Commands</title>
-					 
+
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
@@ -278,6 +278,37 @@ $ vi myFile.txt
 				</example>
 
 			</section>
+      <section>
+        <title>Referring to Replaceable Paths</title>
+          <para>
+            To refer to a path that users need to replace with something specific to their system, use &lt;replaceable&gt; tags, the correct syntax for the system and object in question, and an indicative name.
+            Use a leading slash if the absolute path is required.
+          </para>
+          <example><title>Referring to Replaceable Paths on Linux Systems</title>
+            <para>
+              "Mount the ISO file in &lt;filename&gt;&lt;replaceable&gt;/path/to/iso/file&lt;/replaceable&gt;&lt;/filename&gt;."
+            </para>
+          </example>
+          <para>
+            Remember to use the syntax appropriate to the system that you are documenting or describing.
+          </para>
+          <example><title>Referring to Replaceable Paths on Microsoft Windows Systems</title>
+
+          <para>
+            "Mount the ISO file in &lt;filename&gt;&lt;replaceable&gt;C:\path\to\iso\file&lt;/replaceable&gt;&lt;/filename&gt;."
+          </para>
+          </example>
+          <para>
+            If you are referring to a different object class or type with different delimiters, use the appropriate delimiters.
+            For example:
+          </para>
+          <para>
+            A PATH variable for Bash might appear as &lt;replaceable&gt;/usr/bin:/usr/local/bin&lt;/replaceable&gt;.
+          </para>
+          <para>
+            A package path in Lua might appear as &lt;replaceable&gt;local.share.lua&lt;/replaceable&gt;.
+          </para>
+        </section>
 
 		</section>
 		 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_the_User_Interface-Describing_How_to_View_and_Edit_Files">
@@ -294,7 +325,7 @@ $ vi myFile.txt
 			 <para>
 				You can also use <systemitem>here</systemitem> documents to describe how to create a file with required content. The syntax of <systemitem>here</systemitem> documents varies by system, shell, language, and so on, but a simple example is shown below. This example creates the <filename>my-script</filename> file in the current directory, using the example content.
 			</para>
-			 
+
 <screen><![CDATA[$ cat << EOF > my-script
 > # The first line of text
 > # The second line
@@ -336,7 +367,7 @@ $ vi myFile.txt
 					 <para>
 						Use these generic names when you refer to users outside of a case study. This helps students identify which part of a command can and should be replaced by establishing a consistent format for names of users and system items. For example:
 					</para>
-					 
+
 <screen><prompt>[root@fedora ~]# </prompt><userinput>setfacl -m u:user1:rw /project/file1</userinput></screen>
 					 <para>
 						The following list provides further alternatives:
@@ -600,7 +631,7 @@ $ vi myFile.txt
 	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Design-Using_Version_Numbers_Correctly">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
-			The preferred format for product names includes only the major version number. For example: 
+			The preferred format for product names includes only the major version number. For example:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -622,7 +653,7 @@ $ vi myFile.txt
 			When writing about a product line, product release, or product family, use major version numbers. This includes all the releases (past, present, and future) of that major version.
 		</para>
 		 <para>
-			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example: 
+			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -660,7 +691,7 @@ $ vi myFile.txt
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions: 
+			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep the following in mind if using admonitions:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -710,12 +741,12 @@ $ vi myFile.txt
 		 <para>
 			In XML:
 		</para>
-		 
+
 <programlisting>
 &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 </programlisting>
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by 
+			For example, <citetitle>Maximum RPM</citetitle> by
 			<author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
