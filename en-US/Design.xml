@@ -8,15 +8,21 @@
 	 <xi:include href="Book_Design.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Design-Heading_Styles">
 		<title>Heading Styles</title>
-		 <variablelist>
-			<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Heading_Styles-_Capitalization_">
-				<term> Capitalization </term>
-				 <listitem>
+    <para>
+      This section covers various aspects of heading styles and design.
+      If your company or organisation has specific requirements in this regard, follow those requirements first.
+    </para>
+		 <formalpara id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Heading_Styles-_Capitalization_">
+				<title>Capitalization</title>
 					<para>
-						The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles. Diagram labels, table headings, procedure and formal paragraph titles all fall under this heading, and consequently, standard title case capitalization rules apply. Titles should not include punctuation marks. The currently accepted reference for determining title case is <ulink url="http://titlecase.com">http://titlecase.com.</ulink>
+						The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
+            Diagram labels, table headings, procedure, and formal paragraph titles all fall under this heading, and consequently, standard title case capitalization rules apply.
+            The currently accepted reference for determining title case is <ulink url="http://titlecase.com">http://titlecase.com.</ulink>
 					</para>
+          </formalpara>
 					 <para>
-						Use sentence case for table column headers. These are not classified as titles.
+						Use sentence case for table column headers.
+            These are not classified as titles.
 					</para>
 					 <warning>
 						<title>Marketing and Brand Capitalization Guide</title>
@@ -26,55 +32,39 @@
 
 					</warning>
 
-				</listitem>
+      <formalpara>
+        <title>Punctuation</title>
 
-			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Heading_Styles-_Avoid_Imperative_Form_">
-				<term> Avoid Imperative Form </term>
-				 <listitem>
+          <para>
+            Be frugal with punctuation.
+            In most cases, avoid semicolons, colons, dashes, and similar punctuation unless part of the actual subject, or a proper name.
+            Do not use terminating periods.
+            </para>
+          </formalpara>
+			 <formalpara id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Heading_Styles-_Avoid_Imperative_Form_">
+				<title>Avoid Imperative Form</title>
 					<para>
 						Use the gerund form (noun form of verb) for titles, not the imperative form.
 					</para>
+          </formalpara>
 					 <para>
 						See <citetitle>The IBM Style Guide</citetitle> for more information.
 					</para>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-
-								</row>
-
-							</thead>
-							 <tbody>
-								<row>
-									<entry> Install Widget Enterprise Application Using the ZIP Download </entry>
-									 <entry> Installing Widget Enterprise Application Using the ZIP Download <emphasis>or</emphasis> Installation of Widget Enterprise Application Using the ZIP Download </entry>
-
-								</row>
-
-							</tbody>
-
-						</tgroup>
-
-					</table>
 					 <important>
 						<para>
-							Gerunds should be avoided elsewhere. Refer to <xref linkend="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Writing_Clearly_and_Succinctly-Sentence_Structure" />.
+							Gerunds should be avoided elsewhere.
+              Refer to <xref linkend="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Writing_Clearly_and_Succinctly-Sentence_Structure" />.
 						</para>
-
 					</important>
-
-				</listitem>
-
-			</varlistentry>
-
-		</variablelist>
+      <formalpara>
+        <title>File Names, Commands, and Related Terms</title>
+          <para>
+            When creating chapter and section titles, do not include file, command, or similar names, and do not include DocBook elements.
+            Instead, focus on the task at hand and introduce the required file and command names in the text.
+            Including such objects in titles is generally considered poor technical writing practice.
+            Depending on how your documentation is built and delivered, including these object types can result in unpredictable results and even cause failed builds.
+          </para>
+		</formalpara>
 
 	</section>
 	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Design-Documenting_Fonts">
@@ -87,7 +77,8 @@
 	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Design-Documenting_the_User_Interface">
 		<title>Documenting the User Interface</title>
 		 <para>
-			In all cases, see <citetitle>The IBM Style Guide</citetitle> for initial guidance. The following sections highlight exceptions or cases that might otherwise cause confusion.
+			In all cases, see <citetitle>The IBM Style Guide</citetitle> for initial guidance.
+      The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
 		 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Documenting_the_User_Interface-GUI_Elements_and_Punctuation">
 			<title>GUI Elements and Punctuation</title>
