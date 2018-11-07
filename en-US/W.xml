@@ -10,10 +10,13 @@
 			<term>WAN</term>
 			 <listitem>
 				<para>
-					A computer network that spans a relatively large geographical area. Typically, a WAN consists of two or more local-area networks (LANs).
+					A computer network that spans a relatively large geographical area.
+          Typically, a WAN consists of two or more local-area networks (LANs).
 				</para>
 				 <para>
-					Computers connected to a wide-area network are often connected through public networks, such as the telephone system. They can also be connected through leased lines or satellites. The largest WAN in existence is the internet.
+					Computers connected to a wide-area network are often connected through public networks, such as the telephone system.
+          They can also be connected through leased lines or satellites.
+          The largest WAN in existence is the internet.
 				</para>
 
 			</listitem>
@@ -36,7 +39,9 @@
 			<term>want</term>
 			 <listitem>
 				<para>
-					Use instead of "wish" or "would like." Better to avoid it entirely by rewriting. For example, "If you want to use the debugger..." can be rewritten as "To use the debugger..."
+					Use instead of "wish" or "would like."
+          Rephrase to avoid whenever possible.
+          For example, "If you want to use the debugger..." can be rewritten as "To use the debugger..."
 				</para>
 
 			</listitem>
@@ -46,17 +51,21 @@
 			<term>we suggest</term>
 			 <listitem>
 				<para>
-					Do not use. Use a more direct construction, or use "recommend." For example, instead of "We suggest that you make a backup of your data disk," write "Back up your data disk."
+					Do not use.
+          Use a more direct construction, or use "recommend."
+          For example, instead of "We suggest that you make a backup of your data disk," write "Back up your data disk."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-webhook_n.">
-			<term>webhook (n.)</term>
+			<term>webhook</term>
 			 <listitem>
 				<para>
-					One word. Common noun. Capitalize only at the beginning of a sentence. Use alternative capitalization only if it appears as a proper noun.
+          <emphasis>n.</emphasis> One word. Common noun.
+          Capitalize only at the beginning of a sentence.
+          Use alternative capitalization only if it appears as a proper noun.
 				</para>
 
 			</listitem>
@@ -66,7 +75,8 @@
 			<term>web UI</term>
 			 <listitem>
 				<para>
-					Correct. Use this term to refer to a browser-based interface to a software application, even if that application has no connection to the web. If necessary, spell out on first use: "web browser-based user interface." Do not hyphenate the abbreviation or use the one-word form.
+					Correct. Use this term to refer to a browser-based interface to a software application, even if that application has no connection to the web.
+          Do not hyphenate the abbreviation or use the one-word form.
 				</para>
 
 			</listitem>
@@ -76,7 +86,8 @@
 			<term>who/whom</term>
 			 <listitem>
 				<para>
-					Use the pronoun "who" as a subject. Use the pronoun "whom" as a direct object, an indirect object, or the object of a preposition.
+					Use the pronoun "who" as a subject.
+          Use the pronoun "whom" as a direct object, an indirect object, or the object of a preposition.
 				</para>
 				 <para>
 					For example: Who owns this? To whom does this belong?
@@ -89,7 +100,9 @@
 			<term>will</term>
 			 <listitem>
 				<para>
-					Do not use future tense unless it is absolutely necessary. For example, do not write "The next section will describe the process in detail." Instead, write "The next section describes the process in detail."
+					Do not use future tense unless it is absolutely necessary.
+          For example, do not write "The next section will describe the process in detail."
+          Instead, write "The next section describes the process in detail."
 				</para>
 
 			</listitem>
@@ -99,7 +112,8 @@
 			<term>Window Maker</term>
 			 <listitem>
 				<para>
-					Correct. Do not combine into one word or hyphenate. This is a window manager for the "X Window System."
+					Correct. Do not combine into one word or hyphenate.
+          This is a window manager for the "X Window System."
 				</para>
 
 			</listitem>
