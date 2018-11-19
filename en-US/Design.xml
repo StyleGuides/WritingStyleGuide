@@ -142,7 +142,7 @@
 					<term>The command (<command>git clone</command>)</term>
 					 <listitem>
 						<para>
-							The actual command to run, without any optional or replaceable values. This must be typed as-is.
+							The actual command to run, without any optional or replaceable values. This must be typed as is.
 						</para>
 
 					</listitem>
@@ -194,7 +194,7 @@
 					<term>The command (<command>scp</command>)</term>
 					 <listitem>
 						<para>
-							The actual command to run, without any optional or replaceable values. This must be typed as-is.
+							The actual command to run, without any optional or replaceable values. This must be typed as is.
 						</para>
 
 					</listitem>
