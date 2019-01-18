@@ -10,7 +10,7 @@
 			<term>PaaS</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct abbreviation for "Platform-as-a-Service." In the spelled-out version of this and its variants (for example, Infrastructure-as-a-Service and Software-as-a-Service), hyphens are always used.
+					<emphasis>n.</emphasis> This is the correct abbreviation for "Platform-as-a-Service." In the spelled-out version of this and its variants (for example, Infrastructure-as-a-Service and Software-as-a-Service), hyphens are always used.
 				</para>
 				 <warning>
 					<title>Marketing, Brand, Customer Portal Usage</title>
@@ -27,17 +27,26 @@
 			<term>PC</term>
 			 <listitem>
 				<para>
-					Use to refer to a personal computer. See <citetitle>The IBM Style Guide</citetitle> for further information.
+					<emphasis>n.</emphasis> Use to refer to a personal computer. See <citetitle>The IBM Style Guide</citetitle> for further information.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
+    <varlistentry>
+      <term>persist</term>
+      <listitem>
+        <para>
+          <emphasis>vb.</emphasis>
+          Do not use as a verb to mean "store" or "save," for example, when referring to persistent storage.
+        </para>
+      </listitem>
+    </varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PHP">
 			<term>PHP</term>
 			 <listitem>
 				<para>
-					Use PHP when referring to the language in general. Use <command>php</command> when referring to the specific command or some other literal use.
+					<emphasis>n.</emphasis> Use PHP when referring to the language in general. Use <command>php</command> when referring to the specific command or some other literal use.
 				</para>
 				 <para>
 					See <ulink url="http://www.php.net/" /> for specific PHP language information. See <ulink url="http://en.wikipedia.org/wiki/PHP" /> for more general information.
@@ -47,10 +56,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-Pico">
-			<term>Pico</term>
+			<term>Pico, pico</term>
 			 <listitem>
 				<para>
-					Capitalize when referring to the text editor or to the programming language. Do not capitalize when referring to the SI prefix.
+					<emphasis>n, adj.</emphasis> Capitalize when referring to the text editor or to the programming language. Do not capitalize when referring to the SI prefix.
 				</para>
 
 			</listitem>
@@ -83,7 +92,7 @@
 			<term>pluggable</term>
 			 <listitem>
 				<para>
-					Something that is capable of being plugged in, especially in terms of (for example) software modules. "Hot-pluggable" is also widely used with respect to hardware to indicate that it can be connected and recognized without powering down the system.
+					<emphasis>adj.</emphasis> Something that is capable of being plugged in, especially in terms of (for example) software modules. "Hot-pluggable" is also widely used with respect to hardware to indicate that it can be connected and recognized without powering down the system.
 				</para>
 
 			</listitem>
@@ -93,7 +102,7 @@
 			<term>plug-in</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "plugin."
+					<emphasis>n.</emphasis> Do not use "plugin."
 				</para>
 				 <para>
 					A hardware or software module that adds a specific feature or service to a larger system. For example, a number of plug-ins are available for the Netscape Navigator browser that enable it to display different types of audio or video messages. Navigator plug-ins are based on MIME file types.
@@ -106,7 +115,7 @@
 			<term>pop-up</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "popup" or "pop up."
+					<emphasis>n, adj.</emphasis> Do not use "popup" or "pop up."
 				</para>
 
 			</listitem>
@@ -116,7 +125,7 @@
 			<term>PostScript</term>
 			 <listitem>
 				<para>
-					Correct. This is a registered trademark of Adobe. Do not use "Postscript."
+					<emphasis>n.</emphasis> This is a registered trademark of Adobe. Do not use "Postscript."
 				</para>
 
 			</listitem>
@@ -126,7 +135,7 @@
 			<term>PowerPC</term>
 			 <listitem>
 				<para>
-					The name of the Power architecture is "Power", but the designation of individual chips tend to be either "PowerPC" or "POWER". Refer to IBM marketing or the <ulink url="http://openpowerfoundation.org">Open Power Foundation</ulink> if unsure.
+					<emphasis>n.</emphasis> The name of the Power architecture is "Power", but the designation of individual chips tend to be either "PowerPC" or "POWER". Refer to IBM marketing or the <ulink url="http://openpowerfoundation.org">Open Power Foundation</ulink> if unsure.
 				</para>
 				 <para>
 					Do not use the "PPC64" or "ppc64le" shorthand. Depending on context either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct. Additional ABI features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
@@ -142,7 +151,7 @@
 			<term>POSIX</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Posix," "posix," or variations thereof.
+					<emphasis>n.</emphasis> Do not use "Posix," "posix," or variations thereof.
 				</para>
 				 <para>
 					An acronym for "Portable Operating System Interface for UNIX."
@@ -155,8 +164,11 @@
 			<term>PPP</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "ppp" or "Ppp."
+					<emphasis>n.</emphasis> Do not use "ppp" or "Ppp."
 				</para>
+        <para>
+          An initialism for Point-to-Point Protocol.
+        </para>
 
 			</listitem>
 
@@ -165,7 +177,7 @@
 			<term>press</term>
 			 <listitem>
 				<para>
-					Use for keyboard instructions. For example: "Press the <keycap>Enter</keycap> key."
+          <emphasis>vb.</emphasis> Use for keyboard instructions. For example: "Press the <keycap>Enter</keycap> key" or more succinctly "Press <keycap>Enter</keycap>."
 				</para>
 
 			</listitem>
@@ -217,7 +229,7 @@
 			<term>pSeries</term>
 			 <listitem>
 				<para>
-					IBM eServer System p is correct for the first reference in a manual; use IBM System p or System p for subsequent references. Do not use "pSeries."
+					<emphasis>n.</emphasis> "IBM eServer System p" is correct for the first reference in a manual; use IBM System p or System p for subsequent references. Do not use "pSeries."
 				</para>
 
 			</listitem>
@@ -227,7 +239,7 @@
 			<term>pull-down</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Correct. Use only if you must specify the type of menu or list. Do not use "pulldown."
+					<emphasis>adj.</emphasis> Use only if you must specify the type of menu or list. Do not use "pulldown."
 				</para>
 
 			</listitem>
