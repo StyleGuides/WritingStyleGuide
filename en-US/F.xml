@@ -93,8 +93,11 @@
 			<term>file mode, file name, file system, file type</term>
 			 <listitem>
 				<para>
-					Write as shown, two words, unless used as a variable. See <citetitle>The IBM Style Guide</citetitle> for more information.
+          <emphasis>n.</emphasis> Write as shown, two words, unless used as a variable. See <citetitle>The IBM Style Guide</citetitle> for more information.
 				</para>
+        <para>
+          <emphasis>adj.</emphasis> Hyphenate when used as a compound adjective. For example, "file-system attributes."
+        </para>
 
 			</listitem>
 
