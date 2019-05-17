@@ -76,19 +76,11 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_board_adj._onboard_v.">
-			<term>on-board (adj.), onboard (v.)</term>
+			<term>onboard</term>
 			 <listitem>
 				<para>
-					Always hyphenate when used as an adjective. The term "on board" is also valid, for example, "They are on board with the idea," but try to reword to avoid it.
+					<emphasis>adj, tr.v.</emphasis> Use the one-word form in all cases.
 				</para>
-				 <warning>
-					<title>HR Use Only</title>
-					 <para>
-						Use the one-word verb form only in HR-related cases, for example, "The process to onboard new hires."
-					</para>
-
-				</warning>
-
 			</listitem>
 
 		</varlistentry>
@@ -103,20 +95,20 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_premise_adj.">
-			<term>on-premise (adj.)</term>
+			<term>on-premise</term>
 			 <listitem>
 				<para>
-					Substitute "on-site" or "in-house" whenever possible. Although "on-premises" is grammatically correct, "on-premise" is preferred by the industry and the Red&nbsp;Hat Cloud business unit. Only capitalize when used as part of the name of the Red&nbsp;Hat product "Red&nbsp;Hat Storage&nbsp;Server for On-premise."
+					<emphasis>adj.</emphasis> Substitute "on-site" or "in-house" whenever possible. Although "on-premises" is grammatically correct, "on-premise" is preferred by the industry and the Red&nbsp;Hat Cloud business unit. Only capitalize when used as part of the name of the Red&nbsp;Hat product "Red&nbsp;Hat Storage&nbsp;Server for On-premise."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_site_adj.">
-			<term>on-site (adj.)</term>
+			<term>on-site</term>
 			 <listitem>
 				<para>
-					Hyphenate when used as an adjective, as in "on-site labs."
+					<emphasis>adj.</emphasis> Hyphenate when used as an adjective, as in "on-site labs."
 				</para>
 
 			</listitem>
