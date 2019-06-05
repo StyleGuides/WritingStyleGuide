@@ -76,6 +76,41 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry>
+      <term>secure</term>
+      <listitem>
+        <para>
+          <emphasis>n., vb.</emphasis> Due to potential legal ramifications, do not use without a qualifier.
+          See <xref linkend="qualify-sensitive-terms"/> for examples.
+        </para>
+        <table id="qualify-sensitive-terms"><title>Using Qualifiers with Sensitive Terms</title>
+          <tgroup cols="2" align="left" colsep="1" rowsep="1">
+            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+            <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+            <thead>
+              <row>
+                <entry>Original text</entry>
+                <entry>Improvement</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>With this new version, the application is running on a secure, gateway-protected endpoint.</entry>
+                <entry>With this new version, the application is running on a more secure, gateway-protected endpoint.</entry>
+              </row>
+              <row>
+                <entry>This functionality secures your connection.</entry>
+                <entry>This functionality improves the security of your connection.</entry>
+              </row>
+              <row>
+                <entry>Developers can easily change the code to implement secured access.</entry>
+                <entry>Developers can easily change the code to make the access more secure.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </listitem>
+    </varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-see">
 			<term>see</term>
 			 <listitem>
@@ -560,7 +595,7 @@
 				<para>
 					Correct. Do not use "sub-command" or "verb." A subcommand refers to a secondary or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
 				</para>
-				 
+
 <screen>hammer import organization --help</screen>
 				 <para>
 					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.
