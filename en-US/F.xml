@@ -155,6 +155,14 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry>
+      <term>follow</term>
+      <listitem>
+        <para>
+          <emphasis>vb.</emphasis> Refers to the use of the <option>-f</option> (<option>--follow</option>) option to various commands, such as <command>tail</command>, so that output is appended as the file grows.
+        </para>
+      </listitem>
+    </varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-foreground">
 			<term>foreground</term>
 			 <listitem>

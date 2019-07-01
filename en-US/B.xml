@@ -289,6 +289,14 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry>
+        <term>break</term>
+        <listitem>
+          <para>
+            (<emphasis>v.</emphasis>) Do not use to mean "break the system" or similar. For example, "applying an unapproved patch might break the system." Choose an alternative such "cause the system to fail."
+          </para>
+        </listitem>
+      </varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bring_up">
 			<term>bring up</term>
 			 <listitem>

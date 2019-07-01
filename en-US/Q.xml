@@ -7,10 +7,10 @@
 	<title>Q</title>
 	 <variablelist>
 		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Q-Q_and_A_n.">
-			<term>Q and A (n.)</term>
+			<term>Q and A</term>
 			 <listitem>
 				<para>
-					Correct. Abbreviation for "Question and Answer," this format is listed in the <citetitle>American Heritage Dictionary.</citetitle>
+					<emphasis>n.</emphasis> Abbreviation for "Question and Answer," this format is listed in the <citetitle>American Heritage Dictionary.</citetitle>
 				</para>
 				 <note>
 					<para>
@@ -36,19 +36,10 @@
 
 		</varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Q-quiescent">
-			<term>quiescent</term>
+			<term>quiesce, quiescent</term>
 			 <listitem>
-				<para>
-					Do not use. This is a lofty-sounding word that just means <emphasis>at rest, quiet, or inactive</emphasis>.
-				</para>
 				 <para>
-					With reference to a measurable property or system it can also mean <emphasis>not active</emphasis>. So, a system can be quiescent, meaning it is inactive, or (by extension) in a known, unchanging state.
-				</para>
-				 <para>
-					If this is what you mean, this is what you should write.
-				</para>
-				 <para>
-					If a system is, or needs to be <emphasis>inactive</emphasis>, write <emphasis>inactive</emphasis>. If a system is, or needs to be <emphasis>safe</emphasis>, write <emphasis>safe</emphasis>.
+					Use with caution. This term is readily understood in the context of databases and stateful systems, but in other contexts another term might be more suitable.
 				</para>
 
 			</listitem>

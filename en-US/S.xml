@@ -104,7 +104,7 @@
               </row>
               <row>
                 <entry>Developers can easily change the code to implement secured access.</entry>
-                <entry>Developers can easily change the code to make the access more secure.</entry>
+                <entry>Developers can easily change the code to make access more secure.</entry>
               </row>
             </tbody>
           </tgroup>
@@ -272,7 +272,7 @@
 			<term>shell</term>
 			 <listitem>
 				<para>
-					A "shell" is a software application, for example, /bin/bash or /bin/sh, that provides an interface to a computer. Do not use this term to describe where to type commands.
+					A "shell" is a software application, for example, /bin/bash or /bin/sh, which provides an interface to a computer. Do not use this term to describe where to type commands.
 				</para>
 
 			</listitem>
@@ -418,6 +418,15 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry>
+        <term>source</term>
+        <listitem>
+          <para>
+            <emphasis>v.</emphasis> In addition to the generic use of this term as a noun and verb, in
+a programming and technical sense this also means "Run the <command>source</command> command against the named file."
+          </para>
+        </listitem>
+      </varlistentry>
 		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-space">
 			<term>space</term>
 			 <listitem>

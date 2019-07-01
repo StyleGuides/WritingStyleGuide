@@ -4,9 +4,9 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language">
-	<title>Avoiding Slang, Metaphors, and Misleading Language</title>
+	<title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title>
 	 <para>
-		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, it is necessary to avoid slang and other culture-specific terminology. This section attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
+		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, avoid slang and other culture-specific terminology. This section attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
 	</para>
 	 <para>
 		If you find slang terms or other difficult-to-understand passages in our documentation, use this page to search for alternatives.
@@ -14,14 +14,14 @@
 	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language-Avoiding_Misleading_or_Confusing_Language">
 		<title>Avoiding Misleading or Confusing Language</title>
 		 <para>
-			Some terms, phrases, and general language can be confusing if you are not a native speaker or if the phraseology has regional significance. Sometimes spelling changes are introduced over time and regions based purely on differences in pronunciation. Some phrases can carry hidden or unintentional meanings. This section attempts to introduce a few examples.
+			Some terms, phrases, and general language can be confusing if you are not a native speaker or if the phraseology has regional significance. Sometimes spelling changes are introduced over time and regions, based purely on differences in pronunciation. Some phrases can carry hidden or unintentional meanings. This section attempts to introduce a few examples.
 		</para>
 		 <variablelist>
 			<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Misleading_or_Confusing_Language-best_practices" role="internal">
 				<term>best practices</term>
 				 <listitem>
 					<para>
-						This is a commonly understood phrase, and despite some concerns about using superlatives without statistics to back them up, Red&nbsp;Hat does not actively discourage their use. It is also a more common search term than most alternatives. If you are in any doubt, the preferred alternative is "recommended practices."
+						This is a commonly understood phrase, and despite some concerns about using superlatives without statistics to back them up, Red&nbsp;Hat does not actively discourage its use. It is also a more common search term than most alternatives. If you are in any doubt, the preferred alternative is "recommended practices."
 					</para>
 
 				</listitem>
@@ -31,7 +31,7 @@
 				<term>first come, first served</term>
 				 <listitem>
 					<para>
-						Use to indicate that customers will be attended to in the order that they arrive. The phrase abbreviates the sentence "The first to come is the first to be served," so use "served" instead of "serve" to keep the verb function the same. This phrase is an idiom, so avoid using it when content will be translated. When you use this phrase as an adjective, it is hyphenated as follows: Admittance is on a first-come, first-served basis.
+						Indicates that customers will be attended to in the order that they arrive. The phrase abbreviates the sentence "The first to come is the first to be served," so use "served" instead of "serve" to keep the verb function the same. This phrase is an idiom, so avoid using it when content will be translated. When you use this phrase as an adjective, it is hyphenated as follows: Admittance is on a first-come, first-served basis.
 					</para>
 
 				</listitem>
@@ -44,7 +44,7 @@
 	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language-Identifying_and_Avoiding_Slang">
 		<title>Identifying and Avoiding Slang</title>
 		 <para>
-			These are some examples of slang terms:
+			Examples of slang terms:
 		</para>
 		 <variablelist>
 			<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-administrivia">
@@ -61,7 +61,7 @@
 				<term>anything you/they like</term>
 				 <listitem>
 					<para>
-						This is probably readily understood but should not appear in our documentation.
+						This is probably readily understood but should not appear in Red&nbsp;Hat documentation.
 					</para>
 					 <itemizedlist>
 						<listitem>
@@ -79,6 +79,7 @@
 				</listitem>
 
 			</varlistentry>
+
 			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-ask_as_a_noun_make_the_ask">
 				<term>ask (as a noun), make the ask</term>
 				 <listitem>
@@ -113,7 +114,7 @@
 				<term>best-of-breed</term>
 				 <listitem>
 					<para>
-						Jargon. Say exactly what you mean, for example, "the best product in its class" or "the best product of its type." Other alternatives include best, foremost, most advanced, optimum. The category is usually implied.
+						Jargon. Say exactly what you mean, for example, "the best product in its class" or "the best product of its type." Other alternatives include best, foremost, most advanced, optimum. The category is usually implied. Be wary of using superlatives without data to back up any claims.
 					</para>
 
 				</listitem>
@@ -139,6 +140,7 @@
 				</listitem>
 
 			</varlistentry>
+
 			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-bucketize">
 				<term>bucketize</term>
 				 <listitem>
@@ -585,6 +587,14 @@
 				</listitem>
 
 			</varlistentry>
+      <varlistentry>
+        <term>pre-baked</term>
+        <listitem>
+          <para>
+            Means "prepared beforehand." Choose a suitable alternative, such as "preconfigured," depending on the context.
+          </para>
+        </listitem>
+      </varlistentry>
 			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-productize">
 				<term>productize</term>
 				 <listitem>
@@ -695,6 +705,7 @@
 				</listitem>
 
 			</varlistentry>
+
 			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-stovepipe">
 				<term>stovepipe</term>
 				 <listitem>
