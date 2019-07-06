@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Resources">
+<chapter id="Conventions_for_Writers_and_Editors-Resources">
 	<title>Resources</title>
 	 <para>
 		This section lists some books and websites for you to consult on your quest to create the perfect document.
@@ -45,7 +45,7 @@
 		</itemizedlist>
 
 	</para>
-	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Resources-References_for_Technical_Content_and_Collateral">
+	 <section id="Resources-References_for_Technical_Content_and_Collateral">
 		<title>References for Technical Content and Collateral</title>
 		 <itemizedlist>
 			<listitem>
@@ -82,7 +82,7 @@
 		</itemizedlist>
 
 	</section>
-	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Resources-References_for_Marketing_and_Corporate_Collateral">
+	 <section id="Resources-References_for_Marketing_and_Corporate_Collateral">
 		<title>References for Marketing and Corporate Collateral</title>
 		 <itemizedlist>
 			<listitem>
@@ -101,7 +101,7 @@
 		</itemizedlist>
 
 	</section>
-	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Resources-Secondary_References">
+	 <section id="Resources-Secondary_References">
 		<title>Secondary References</title>
 		 <para>
 			The following references may provide guidance when the primary references cannot provide a suitable solution.

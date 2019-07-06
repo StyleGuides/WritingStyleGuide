@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<appendix id="appe-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Revision_History">
+<appendix id="appe-Conventions_for_Writers_and_Editors-Revision_History">
 	<title>Revision History</title>
 	 <simpara>
 		<revhistory>

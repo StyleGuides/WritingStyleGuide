@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Q">
+<chapter id="Conventions_for_Writers_and_Editors-Q">
 	<title>Q</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Q-Q_and_A_n.">
+		<varlistentry id="Q-Q_and_A_n.">
 			<term>Q and A</term>
 			 <listitem>
 				<para>
@@ -22,7 +22,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Q-qeth">
+		 <varlistentry id="Q-qeth">
 			<term>qeth</term>
 			 <listitem>
 				<para>
@@ -35,7 +35,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Q-quiescent">
+		 <varlistentry id="Q-quiescent">
 			<term>quiesce, quiescent</term>
 			 <listitem>
 				 <para>

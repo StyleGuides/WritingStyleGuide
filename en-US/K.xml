@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K">
+<chapter id="Conventions_for_Writers_and_Editors-K">
 	<title>K</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-KB_kB">
+		<varlistentry id="K-KB_kB">
 			<term>KB, kB</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-kbps_KBps_kBps">
+		 <varlistentry id="K-kbps_KBps_kBps">
 			<term>kbps, KBps, kBps</term>
 			 <listitem>
 				<para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-kerberize">
+		 <varlistentry id="K-kerberize">
 			<term>kerberize</term>
 			 <listitem>
 				<para>
@@ -39,7 +39,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-kernel">
+		 <varlistentry id="K-kernel">
 			<term>kernel</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-Kernel_based_Virtual_Machine_KVM">
+		 <varlistentry id="K-Kernel_based_Virtual_Machine_KVM">
 			<term>Kernel-based Virtual Machine (KVM)</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-kernel_panic">
+		 <varlistentry id="K-kernel_panic">
 			<term>kernel panic</term>
 			 <listitem>
 				<para>
@@ -69,7 +69,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-kernel_space_kernel_space">
+		 <varlistentry id="K-kernel_space_kernel_space">
 			<term>kernel space, kernel-space</term>
 			 <listitem>
 				<para>
@@ -82,20 +82,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-keyboard_key">
+		 <varlistentry id="K-keyboard_key">
 			<term>keyboard key</term>
 			 <listitem>
 				<para>
 					When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X." When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S."
 				</para>
 				 <para>
-					See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-Spacebar" />.
+					See also <xref linkend="S-Spacebar" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-key_ring">
+		 <varlistentry id="K-key_ring">
 			<term>key ring</term>
 			 <listitem>
 				<para>
@@ -111,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-keytab">
+		 <varlistentry id="K-keytab">
 			<term>keytab</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-key_value">
+		 <varlistentry id="K-key_value">
 			<term>key-value</term>
 			 <listitem>
 				<para>
@@ -131,7 +131,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-Kickstart">
+		 <varlistentry id="K-Kickstart">
 			<term>Kickstart</term>
 			 <listitem>
 				<para>
@@ -144,7 +144,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-kill">
+		 <varlistentry id="K-kill">
 			<term>kill</term>
 			 <listitem>
 				<para>
@@ -154,7 +154,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-K-knowledge_base">
+		 <varlistentry id="K-knowledge_base">
 			<term>knowledge base</term>
 			 <listitem>
 				<para>

@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N">
+<chapter id="Conventions_for_Writers_and_Editors-N">
 	<title>N</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-need">
+		<varlistentry id="N-need">
 			<term>need</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-needs_needs_to_be_need_to">
+		 <varlistentry id="N-needs_needs_to_be_need_to">
 			<term>needs, needs to be, need to</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-neighbor">
+		 <varlistentry id="N-neighbor">
 			<term>neighbor</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-.NET">
+		 <varlistentry id="N-.NET">
 			<term>.NET</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-network_transparency">
+		 <varlistentry id="N-network_transparency">
 			<term>network transparency</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-NFS">
+		 <varlistentry id="N-NFS">
 			<term>NFS</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-node">
+		 <varlistentry id="N-node">
 			<term>node</term>
 			 <listitem>
 				<orderedlist>
@@ -94,7 +94,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-nonsecure">
+		 <varlistentry id="N-nonsecure">
 			<term>nonsecure</term>
 			 <listitem>
 				<para>
@@ -104,7 +104,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-NULL_or_null">
+		 <varlistentry id="N-NULL_or_null">
 			<term>NULL or null</term>
 			 <listitem>
 				<para>
@@ -114,7 +114,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-N-numbers">
+		 <varlistentry id="N-numbers">
 			<term>numbers</term>
 			 <listitem>
 				<para>

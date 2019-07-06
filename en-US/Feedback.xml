@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-We_Need_Feedback">
+<section id="We_Need_Feedback">
 	<title>We Need Feedback</title>
 	 <para>
 		Raise an issue at <ulink url="https://github.com/StyleGuides/WritingStyleGuide" /> with suggestions for improvements, requests for additions, recommendations, and any other updates.

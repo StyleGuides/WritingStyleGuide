@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U">
+<chapter id="Conventions_for_Writers_and_Editors-U">
 	<title>U</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-UID">
+		<varlistentry id="U-UID">
 			<term>UID</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-UltraSPARC">
+		 <varlistentry id="U-UltraSPARC">
 			<term>UltraSPARC</term>
 			 <listitem>
 				<para>
@@ -29,17 +29,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-undercloud">
+		 <varlistentry id="U-undercloud">
 			<term>undercloud</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Always lowercase. This is a concept, not a technology or product name. Being a common noun, this requires an article in most cases. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-overcloud" />.
+					<emphasis>n.</emphasis> Always lowercase. This is a concept, not a technology or product name. Being a common noun, this requires an article in most cases. See also <xref linkend="O-overcloud" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-uninterruptible">
+		 <varlistentry id="U-uninterruptible">
 			<term>uninterruptible</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-UNIX">
+		 <varlistentry id="U-UNIX">
 			<term>UNIX</term>
 			 <listitem>
 				<para>
@@ -65,7 +65,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-unset">
+		 <varlistentry id="U-unset">
 			<term>unset</term>
 			 <listitem>
 				<para>
@@ -81,7 +81,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-untrusted">
+		 <varlistentry id="U-untrusted">
 			<term>untrusted</term>
 			 <listitem>
 				<para>
@@ -91,7 +91,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-upgrade">
+		 <varlistentry id="U-upgrade">
 			<term>upgrade</term>
 			 <listitem>
 				<para>
@@ -101,7 +101,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-UPS">
+		 <varlistentry id="U-UPS">
 			<term>UPS</term>
 			 <listitem>
 				<para>
@@ -111,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-upsell_v._upselling_n.">
+		 <varlistentry id="U-upsell_v._upselling_n.">
 			<term>upsell (v.), upselling (n.)</term>
 			 <listitem>
 				<warning>
@@ -131,17 +131,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-upstream">
+		 <varlistentry id="U-upstream">
 			<term>upstream</term>
 			 <listitem>
 				<para>
-					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-downstream" />. Do not use "up-stream" or "up stream."
+					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="D-downstream" />. Do not use "up-stream" or "up stream."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-uptime">
+		 <varlistentry id="U-uptime">
 			<term>uptime</term>
 			 <listitem>
 				<para>
@@ -151,20 +151,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-URL">
+		 <varlistentry id="U-URL">
 			<term>URL</term>
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
 				</para>
 				 <para>
-					See <xref linkend="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
+					See <xref linkend="form-Conventions_for_Writers_and_Editors-Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-usable">
+		 <varlistentry id="U-usable">
 			<term>usable</term>
 			 <listitem>
 				<para>
@@ -174,7 +174,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-user">
+		 <varlistentry id="U-user">
 			<term>user</term>
 			 <listitem>
 				<para>
@@ -187,7 +187,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-user_interface">
+		 <varlistentry id="U-user_interface">
 			<term>user interface</term>
 			 <listitem>
 				<para>
@@ -200,7 +200,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-user_name">
+		 <varlistentry id="U-user_name">
 			<term>user name</term>
 			 <listitem>
 				<para>
@@ -210,7 +210,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-user_space">
+		 <varlistentry id="U-user_space">
 			<term>user space</term>
 			 <listitem>
 				<para>
@@ -220,7 +220,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-utilize">
+		 <varlistentry id="U-utilize">
 			<term>utilize</term>
 			 <listitem>
 				<para>

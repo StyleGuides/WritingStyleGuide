@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W">
+<chapter id="Conventions_for_Writers_and_Editors-W">
 	<title>W</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-WAN">
+		<varlistentry id="W-WAN">
 			<term>WAN</term>
 			 <listitem>
 				<para>
@@ -22,7 +22,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-WCA">
+		 <varlistentry id="W-WCA">
 			<term>WCA</term>
 			 <listitem>
 				<para>
@@ -35,7 +35,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-want">
+		 <varlistentry id="W-want">
 			<term>want</term>
 			 <listitem>
 				<para>
@@ -47,7 +47,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-we_suggest">
+		 <varlistentry id="W-we_suggest">
 			<term>we suggest</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-webhook_n.">
+		 <varlistentry id="W-webhook_n.">
 			<term>webhook</term>
 			 <listitem>
 				<para>
@@ -71,7 +71,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-web_UI">
+		 <varlistentry id="W-web_UI">
 			<term>web UI</term>
 			 <listitem>
 				<para>
@@ -82,7 +82,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-whowhom">
+		 <varlistentry id="W-whowhom">
 			<term>who/whom</term>
 			 <listitem>
 				<para>
@@ -96,7 +96,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-will">
+		 <varlistentry id="W-will">
 			<term>will</term>
 			 <listitem>
 				<para>
@@ -108,7 +108,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-W-Window_Maker">
+		 <varlistentry id="W-Window_Maker">
 			<term>Window Maker</term>
 			 <listitem>
 				<para>

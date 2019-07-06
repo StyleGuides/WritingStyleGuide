@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language">
+<chapter id="Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language">
 	<title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title>
 	 <para>
 		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, avoid slang and other culture-specific terminology. This section attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
@@ -11,13 +11,13 @@
 	 <para>
 		If you find slang terms or other difficult-to-understand passages in our documentation, use this page to search for alternatives.
 	</para>
-	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language-Avoiding_Misleading_or_Confusing_Language">
+	 <section id="Avoiding_Slang_Metaphors_and_Misleading_Language-Avoiding_Misleading_or_Confusing_Language">
 		<title>Avoiding Misleading or Confusing Language</title>
 		 <para>
 			Some terms, phrases, and general language can be confusing if you are not a native speaker or if the phraseology has regional significance. Sometimes spelling changes are introduced over time and regions, based purely on differences in pronunciation. Some phrases can carry hidden or unintentional meanings. This section attempts to introduce a few examples.
 		</para>
 		 <variablelist>
-			<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Misleading_or_Confusing_Language-best_practices" role="internal">
+			<varlistentry id="Avoiding_Misleading_or_Confusing_Language-best_practices" role="internal">
 				<term>best practices</term>
 				 <listitem>
 					<para>
@@ -27,7 +27,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Misleading_or_Confusing_Language-first_come_first_served">
+			 <varlistentry id="Avoiding_Misleading_or_Confusing_Language-first_come_first_served">
 				<term>first come, first served</term>
 				 <listitem>
 					<para>
@@ -41,13 +41,13 @@
 		</variablelist>
 
 	</section>
-	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language-Identifying_and_Avoiding_Slang">
+	 <section id="Avoiding_Slang_Metaphors_and_Misleading_Language-Identifying_and_Avoiding_Slang">
 		<title>Identifying and Avoiding Slang</title>
 		 <para>
 			Examples of slang terms:
 		</para>
 		 <variablelist>
-			<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-administrivia">
+			<varlistentry id="Identifying_and_Avoiding_Slang-administrivia">
 				<term>administrivia</term>
 				 <listitem>
 					<para>
@@ -57,7 +57,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-anything_youthey_like">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-anything_youthey_like">
 				<term>anything you/they like</term>
 				 <listitem>
 					<para>
@@ -80,7 +80,7 @@
 
 			</varlistentry>
 
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-ask_as_a_noun_make_the_ask">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-ask_as_a_noun_make_the_ask">
 				<term>ask (as a noun), make the ask</term>
 				 <listitem>
 					<para>
@@ -90,7 +90,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-at_this_point_in_time">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-at_this_point_in_time">
 				<term>at this point in time</term>
 				 <listitem>
 					<para>
@@ -100,7 +100,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-automagic">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-automagic">
 				<term>automagic</term>
 				 <listitem>
 					<para>
@@ -110,7 +110,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-best_of_breed">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-best_of_breed">
 				<term>best-of-breed</term>
 				 <listitem>
 					<para>
@@ -120,7 +120,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-bleeding_edge">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-bleeding_edge">
 				<term>bleeding edge</term>
 				 <listitem>
 					<para>
@@ -130,7 +130,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-bottom_line">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-bottom_line">
 				<term>bottom line</term>
 				 <listitem>
 					<para>
@@ -141,7 +141,7 @@
 
 			</varlistentry>
 
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-bucketize">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-bucketize">
 				<term>bucketize</term>
 				 <listitem>
 					<para>
@@ -151,7 +151,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-center_of_competency">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-center_of_competency">
 				<term>center of competency</term>
 				 <listitem>
 					<para>
@@ -161,7 +161,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-check_this_site">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-check_this_site">
 				<term>check this site</term>
 				 <listitem>
 					<para>
@@ -171,7 +171,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-coopetition">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-coopetition">
 				<term>coopetition</term>
 				 <listitem>
 					<para>
@@ -181,7 +181,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-core_competency">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-core_competency">
 				<term>core competency</term>
 				 <listitem>
 					<para>
@@ -191,7 +191,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-eat_your_own_dogfood">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-eat_your_own_dogfood">
 				<term>eat your own dogfood</term>
 				 <listitem>
 					<para>
@@ -201,7 +201,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-data_point">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-data_point">
 				<term>data point</term>
 				 <listitem>
 					<para>
@@ -211,7 +211,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-dig_deeper_delve_deeper">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-dig_deeper_delve_deeper">
 				<term>dig deeper, delve deeper</term>
 				 <listitem>
 					<para>
@@ -221,7 +221,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-double_edged_sword_double_bladed_sword">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-double_edged_sword_double_bladed_sword">
 				<term>double-edged sword, double-bladed sword</term>
 				 <listitem>
 					<para>
@@ -231,7 +231,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-enterprise_ready">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-enterprise_ready">
 				<term>enterprise-ready</term>
 				 <listitem>
 					<para>
@@ -241,7 +241,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-exceed_your_expectations">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-exceed_your_expectations">
 				<term>exceed your expectations</term>
 				 <listitem>
 					<para>
@@ -251,7 +251,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-fib">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-fib">
 				<term>fib</term>
 				 <listitem>
 					<para>
@@ -261,7 +261,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-flying_by_the_seat_of_your_pants">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-flying_by_the_seat_of_your_pants">
 				<term>flying by the seat of your pants</term>
 				 <listitem>
 					<para>
@@ -271,7 +271,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-frame_it_up">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-frame_it_up">
 				<term>frame it up</term>
 				 <listitem>
 					<para>
@@ -281,7 +281,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-frown_upon">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-frown_upon">
 				<term>frown upon</term>
 				 <listitem>
 					<para>
@@ -291,7 +291,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-fuzzy_search">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-fuzzy_search">
 				<term>fuzzy (search)</term>
 				 <listitem>
 					<para>
@@ -319,7 +319,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-going_forward_basis">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-going_forward_basis">
 				<term>going-forward basis</term>
 				 <listitem>
 					<para>
@@ -329,7 +329,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-happy_path">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-happy_path">
 				<term>happy path</term>
 				 <listitem>
 					<para>
@@ -339,7 +339,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-harness_the_power">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-harness_the_power">
 				<term>harness the power</term>
 				 <listitem>
 					<para>
@@ -349,7 +349,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-have_a_crack_atjump_right_in">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-have_a_crack_atjump_right_in">
 				<term>have a crack at/jump right in</term>
 				 <listitem>
 					<para>
@@ -359,7 +359,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-if_you_want_if_you_wish">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-if_you_want_if_you_wish">
 				<term>if you want, if you wish</term>
 				 <listitem>
 					<para>
@@ -369,7 +369,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-in_concert_with">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-in_concert_with">
 				<term>in concert with</term>
 				 <listitem>
 					<para>
@@ -379,7 +379,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-improve_enhance">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-improve_enhance">
 				<term>improve, enhance</term>
 				 <listitem>
 					<para>
@@ -389,7 +389,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-in_a_pinch">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-in_a_pinch">
 				<term>in a pinch</term>
 				 <listitem>
 					<para>
@@ -399,7 +399,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-infomediary">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-infomediary">
 				<term>infomediary</term>
 				 <listitem>
 					<para>
@@ -409,7 +409,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-is_designed_to">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-is_designed_to">
 				<term>is designed to</term>
 				 <listitem>
 					<para>
@@ -434,7 +434,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-kettle_of_fish">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-kettle_of_fish">
 				<term>kettle of fish</term>
 				 <listitem>
 					<para>
@@ -444,7 +444,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-leverage">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-leverage">
 				<term>leverage</term>
 				 <listitem>
 					<para>
@@ -454,7 +454,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-lights_on_lights_on">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-lights_on_lights_on">
 				<term>lights on, lights-on</term>
 				 <listitem>
 					<para>
@@ -467,7 +467,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-low_hanging_fruit">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-low_hanging_fruit">
 				<term>low-hanging fruit</term>
 				 <listitem>
 					<para>
@@ -477,7 +477,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-marketecture">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-marketecture">
 				<term>marketecture</term>
 				 <listitem>
 					<para>
@@ -487,7 +487,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-meet_your_needs">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-meet_your_needs">
 				<term>meet your needs</term>
 				 <listitem>
 					<para>
@@ -497,7 +497,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-mission_critical">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-mission_critical">
 				<term>mission-critical</term>
 				 <listitem>
 					<para>
@@ -507,7 +507,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-net_net">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-net_net">
 				<term>net-net</term>
 				 <listitem>
 					<para>
@@ -517,7 +517,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-niche_focus">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-niche_focus">
 				<term>niche focus</term>
 				 <listitem>
 					<para>
@@ -527,7 +527,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-over_the_wire">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-over_the_wire">
 				<term>over the wire</term>
 				 <listitem>
 					<para>
@@ -537,7 +537,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-pain_in_the_backside">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-pain_in_the_backside">
 				<term>pain in the backside</term>
 				 <listitem>
 					<para>
@@ -547,7 +547,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-paradigm">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-paradigm">
 				<term>paradigm</term>
 				 <listitem>
 					<para>
@@ -557,7 +557,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-performant">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-performant">
 				<term>performant</term>
 				 <listitem>
 					<para>
@@ -567,7 +567,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-physicalize">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-physicalize">
 				<term>physicalize</term>
 				 <listitem>
 					<para>
@@ -577,7 +577,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-piggyback">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-piggyback">
 				<term>piggyback</term>
 				 <listitem>
 					<para>
@@ -595,7 +595,7 @@
           </para>
         </listitem>
       </varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-productize">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-productize">
 				<term>productize</term>
 				 <listitem>
 					<para>
@@ -605,7 +605,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-ready_to_rumble">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-ready_to_rumble">
 				<term>ready to rumble</term>
 				 <listitem>
 					<para>
@@ -615,7 +615,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-rest_on_your_laurels">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-rest_on_your_laurels">
 				<term>rest on your laurels</term>
 				 <listitem>
 					<para>
@@ -625,7 +625,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-right_before_doing_something">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-right_before_doing_something">
 				<term>right before doing something</term>
 				 <listitem>
 					<para>
@@ -635,7 +635,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-root_your_server_in_the_serverRoot_directory">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-root_your_server_in_the_serverRoot_directory">
 				<term>root your server in the /serverRoot directory</term>
 				 <listitem>
 					<para>
@@ -645,7 +645,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-shoot_yourself_in_the_foot">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-shoot_yourself_in_the_foot">
 				<term>shoot yourself in the foot</term>
 				 <listitem>
 					<para>
@@ -655,7 +655,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-shy_of">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-shy_of">
 				<term>shy of</term>
 				 <listitem>
 					<para>
@@ -665,7 +665,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-silo_siloed">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-silo_siloed">
 				<term>silo, siloed</term>
 				 <listitem>
 					<para>
@@ -675,7 +675,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-solutioning">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-solutioning">
 				<term>solutioning</term>
 				 <listitem>
 					<para>
@@ -685,7 +685,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-solutions_based">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-solutions_based">
 				<term>solutions-based</term>
 				 <listitem>
 					<para>
@@ -695,7 +695,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-solution_stack">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-solution_stack">
 				<term>solution stack</term>
 				 <listitem>
 					<para>
@@ -706,7 +706,7 @@
 
 			</varlistentry>
 
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-stovepipe">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-stovepipe">
 				<term>stovepipe</term>
 				 <listitem>
 					<para>
@@ -716,7 +716,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-synergistic_synergy">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-synergistic_synergy">
 				<term>synergistic, synergy</term>
 				 <listitem>
 					<para>
@@ -726,7 +726,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-synergical_connectivity">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-synergical_connectivity">
 				<term>synergical connectivity</term>
 				 <listitem>
 					<para>
@@ -736,7 +736,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-to_think_outside_the_box">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-to_think_outside_the_box">
 				<term>to think outside the box</term>
 				 <listitem>
 					<para>
@@ -746,7 +746,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-tunnel_vision">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-tunnel_vision">
 				<term>tunnel vision</term>
 				 <listitem>
 					<para>
@@ -756,7 +756,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-under_the_covers">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-under_the_covers">
 				<term>under the covers</term>
 				 <listitem>
 					<para>
@@ -766,7 +766,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-value_added">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-value_added">
 				<term>value-added</term>
 				 <listitem>
 					<para>
@@ -776,7 +776,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-very">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-very">
 				<term>very</term>
 				 <listitem>
 					<para>
@@ -786,7 +786,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Identifying_and_Avoiding_Slang-virtual_elephants">
+			 <varlistentry id="Identifying_and_Avoiding_Slang-virtual_elephants">
 				<term>virtual elephants</term>
 				 <listitem>
 					<para>
@@ -800,12 +800,12 @@
 		</variablelist>
 
 	</section>
-	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language-Neologisms_Invented_Words">
+	 <section id="Avoiding_Slang_Metaphors_and_Misleading_Language-Neologisms_Invented_Words">
 		<title>Neologisms (Invented Words)</title>
 		 <para>
 			The English language is full of these. Some of them are useful, some of them are less so, others are just painful, difficult to translate, and should be avoided. Many of them are the result of creating nouns from verbs, verbs from nouns, and adjectives from just about anything. Unless a particular word has been in use for some time and has been generally accepted into common English, try to avoid these neologisms. If necessary, reword or restructure your sentences.
 		</para>
-		 <itemizedlist id="item-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Neologisms_Invented_Words-Examples">
+		 <itemizedlist id="item-Conventions_for_Writers_and_Editors-Neologisms_Invented_Words-Examples">
 			<title>Examples</title>
 			 <listitem>
 				<para>
@@ -826,12 +826,12 @@
 		</itemizedlist>
 
 	</section>
-	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language-Anthropomorphism">
+	 <section id="Avoiding_Slang_Metaphors_and_Misleading_Language-Anthropomorphism">
 		<title>Anthropomorphism</title>
 		 <para>
 			Anthropomorphism is applying human qualities to non-human things or animals. Avoid this in your writing.
 		</para>
-		 <itemizedlist id="item-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Anthropomorphism-Examples">
+		 <itemizedlist id="item-Conventions_for_Writers_and_Editors-Anthropomorphism-Examples">
 			<title>Examples</title>
 			 <listitem>
 				<para>
