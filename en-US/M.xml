@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-M">
+<chapter id="m">
 	<title>M</title>
 	 <variablelist>
-		<varlistentry id="M-make_sure">
+		<varlistentry id="make-sure">
 			<term>make sure</term>
 			 <listitem>
 				<para>
@@ -19,7 +19,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-manualman_page">
+		 <varlistentry id="manualman-page">
 			<term>manual/man page</term>
 			 <listitem>
 				<para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-matrixes">
+		 <varlistentry id="matrixes">
 			<term>matrixes</term>
 			 <listitem>
 				<para>
@@ -39,7 +39,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-MB">
+		 <varlistentry id="mb">
 			<term>MB</term>
 			 <listitem>
 				<itemizedlist>
@@ -61,7 +61,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-MBps">
+		 <varlistentry id="mbps">
 			<term>MBps</term>
 			 <listitem>
 				<para>
@@ -71,7 +71,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-MBR">
+		 <varlistentry id="mbr">
 			<term>MBR</term>
 			 <listitem>
 				<para>
@@ -81,7 +81,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-media">
+		 <varlistentry id="media">
 			<term>media</term>
 			 <listitem>
 				<itemizedlist>
@@ -109,7 +109,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-menu_driven">
+		 <varlistentry id="menu-driven">
 			<term>menu-driven</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-message">
+		 <varlistentry id="message">
 			<term>message</term>
 			 <listitem>
 				<para>
@@ -138,7 +138,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-metadata">
+		 <varlistentry id="metadata">
 			<term>metadata</term>
 			 <listitem>
 				<para>
@@ -148,7 +148,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-microservice_">
+		 <varlistentry id="microservice-">
 			<term>microservice </term>
 			 <listitem>
 				<para>
@@ -158,7 +158,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-Microsoft">
+		 <varlistentry id="microsoft">
 			<term>Microsoft</term>
 			 <listitem>
 				<para>
@@ -168,7 +168,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-misconfigure">
+		 <varlistentry id="misconfigure">
 			<term>misconfigure</term>
 			 <listitem>
 				<para>
@@ -178,7 +178,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-Montecito">
+		 <varlistentry id="montecito">
 			<term>Montecito</term>
 			 <listitem>
 				<para>
@@ -188,7 +188,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-mount">
+		 <varlistentry id="mount">
 			<term>mount</term>
 			 <listitem>
 				<para>
@@ -213,7 +213,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-mouse_button">
+		 <varlistentry id="mouse-button">
 			<term>mouse button</term>
 			 <listitem>
 				<para>
@@ -223,7 +223,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-Mozilla_Firefox">
+		 <varlistentry id="Mozilla-Firefox">
 			<term>Mozilla Firefox</term>
 			 <listitem>
 				<para>
@@ -233,7 +233,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-Mozilla_Thunderbird">
+		 <varlistentry id="Mozilla-Thunderbird">
 			<term>Mozilla Thunderbird</term>
 			 <listitem>
 				<para>
@@ -243,8 +243,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-MS_DOS">
-			<term>MS-DOS</term>
+		 <varlistentry id="ms-dos">
+			<term>MDOS</term>
 			 <listitem>
 				<para>
 					Correct. Do not use "ms-dos," "MSDOS," or "msdos."
@@ -253,7 +253,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-multiprocessing">
+		 <varlistentry id="multiprocessing">
 			<term>multiprocessing</term>
 			 <listitem>
 				<para>
@@ -263,7 +263,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-must">
+		 <varlistentry id="must">
 			<term>must</term>
 			 <listitem>
 				<para>
@@ -273,7 +273,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-Mutexes">
+		 <varlistentry id="mutexes">
 			<term>Mutexes</term>
 			 <listitem>
 				<para>
@@ -283,11 +283,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="M-MySQL">
+		 <varlistentry id="mysql">
 			<term>MySQL</term>
 			 <listitem>
 				<para>
-					Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with an <firstterm>R-ball</firstterm> (®) to denote a registered trademark.
+					Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with an <firstterm>ball</firstterm> (®) to denote a registered trademark.
 				</para>
 
 			</listitem>

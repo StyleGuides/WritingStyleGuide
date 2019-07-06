@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-XYZ">
+<chapter id="xyz">
 	<title>XYZ</title>
 	 <variablelist>
-		<varlistentry id="XYZ-X">
+		<varlistentry id="xyx">
 			<term>X</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-XEmacs">
+		 <varlistentry id="xyxemacs">
 			<term>XEmacs</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-Xen">
+		 <varlistentry id="xyxen">
 			<term>Xen</term>
 			 <listitem>
 				<para>
@@ -42,7 +42,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-xterm">
+		 <varlistentry id="xyxterm">
 			<term>xterm</term>
 			 <listitem>
 				<para>
@@ -52,7 +52,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-X_Windows">
+		 <varlistentry id="XYX-Windows">
 			<term>X Windows</term>
 			 <listitem>
 				<para>
@@ -62,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-X_Window_System">
+		 <varlistentry id="xyx_window_system">
 			<term>X Window System</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-YAML">
+		 <varlistentry id="xyyaml">
 			<term>YAML</term>
 			 <listitem>
 				<para>
@@ -82,7 +82,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-you">
+		 <varlistentry id="xyyou">
 			<term>you</term>
 			 <listitem>
 				<para>
@@ -92,7 +92,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-you_may">
+		 <varlistentry id="XYyou-may">
 			<term>you may</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-zip">
+		 <varlistentry id="xyzip">
 			<term>zip</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-Zip_Code">
+		 <varlistentry id="XYZip-Code">
 			<term>Zip Code</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="XYZ-zSeries">
+		 <varlistentry id="xyzseries">
 			<term>zSeries</term>
 			 <listitem>
 				<para>

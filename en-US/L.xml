@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-L">
+<chapter id="l">
 	<title>L</title>
 	 <variablelist>
-		<varlistentry id="L-LAN">
+		<varlistentry id="lan">
 			<term>LAN</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-latency">
+		 <varlistentry id="latency">
 			<term>latency</term>
 			 <listitem>
 				<itemizedlist>
@@ -38,17 +38,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-later">
+		 <varlistentry id="later">
 			<term>later</term>
 			 <listitem>
 				<para>
-					Use to refer to later or more recent releases of products. Do not use "newer" or related terms. See also <xref linkend="E-earlier" />.
+					Use to refer to later or more recent releases of products. Do not use "newer" or related terms. See also <xref linkend="earlier" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-leave_out">
+		 <varlistentry id="leave-out">
 			<term>leave out</term>
 			 <listitem>
 				<para>
@@ -58,7 +58,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-left_click">
+		 <varlistentry id="left-click">
 			<term>left-click</term>
 			 <listitem>
 				<para>
@@ -68,20 +68,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-LibreOffice">
+		 <varlistentry id="libreoffice">
 			<term>LibreOffice</term>
 			 <listitem>
 				<para>
 					A Linux desktop suite. Do not use "Libre," "Libreoffice," or "Libre Office."
 				</para>
 				 <para>
-					See also <xref linkend="O-OpenOffice" />
+					See also <xref linkend="openoffice" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-license">
+		 <varlistentry id="license">
 			<term>license</term>
 			 <listitem>
 				<para>
@@ -91,7 +91,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-life_cycle_life_cycle_lifecycle">
+		 <varlistentry id="life_cycle_life_cycle_lifecycle">
 			<term>life cycle, life-cycle, lifecycle</term>
 			 <listitem>
 				<para>
@@ -107,7 +107,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-Linux">
+		 <varlistentry id="linux">
 			<term>Linux</term>
 			 <listitem>
 				<para>
@@ -120,7 +120,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-load">
+		 <varlistentry id="load">
 			<term>load</term>
 			 <listitem>
 				<itemizedlist>
@@ -148,7 +148,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-load_balancing">
+		 <varlistentry id="load-balancing">
 			<term>load balancing</term>
 			 <listitem>
 				<para>
@@ -158,7 +158,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-logical_topology">
+		 <varlistentry id="logical-topology">
 			<term>logical topology</term>
 			 <listitem>
 				<para>
@@ -168,7 +168,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-lookup_look_up_look_up">
+		 <varlistentry id="lookup_look_up_look_up">
 			<term>lookup, look-up, look up</term>
 			 <listitem>
 				<para>
@@ -184,7 +184,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-look_at">
+		 <varlistentry id="look-at">
 			<term>look at</term>
 			 <listitem>
 				<para>
@@ -194,7 +194,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-loopback_address">
+		 <varlistentry id="loopback-address">
 			<term>loopback address</term>
 			 <listitem>
 				<para>
@@ -207,7 +207,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-lots_of">
+		 <varlistentry id="lots-of">
 			<term>lots of</term>
 			 <listitem>
 				<para>
@@ -217,7 +217,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="L-LPAR">
+		 <varlistentry id="lpar">
 			<term>LPAR</term>
 			 <listitem>
 				<para>

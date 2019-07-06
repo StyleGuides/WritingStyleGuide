@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-T">
+<chapter id="t">
 	<title>T</title>
 	 <variablelist>
-		<varlistentry id="T-taskbar">
+		<varlistentry id="taskbar">
 			<term>taskbar</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-tar_tarball">
+		 <varlistentry id="tar-tarball">
 			<term>tar, tarball</term>
 			 <listitem>
 				<para>
@@ -26,8 +26,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-telco">
-			<term id="telco">telco</term>
+		 <varlistentry id="telco">
+			<term>telco</term>
 			 <listitem>
 				<para>
 					Preferred abbreviation for "telecommunications company." Do not use "telecom." See also <xref linkend="csp" />.
@@ -36,8 +36,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-telecommunications">
-			<term id="telecoms">telecommunications</term>
+		 <varlistentry id="telecommunications">
+			<term>telecommunications</term>
 			 <listitem>
 				<para>
 					Vertical for communication service providers. Preferred abbreviation is "telco."
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-telephone_numbers">
+		 <varlistentry id="telephone-numbers">
 			<term>telephone numbers</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-terminal_n.">
+		 <varlistentry id="terminal_n.">
 			<term>terminal (n.)</term>
 			 <listitem>
 				<para>
@@ -69,7 +69,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-terminal_emulation">
+		 <varlistentry id="terminal-emulation">
 			<term>terminal emulation</term>
 			 <listitem>
 				<para>
@@ -79,7 +79,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-text_mode">
+		 <varlistentry id="text-mode">
 			<term>text mode</term>
 			 <listitem>
 				<para>
@@ -92,7 +92,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-text_based_adj.">
+		 <varlistentry id="text_based_adj.">
 			<term>text-based (adj.)</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-third_party_adj._third_party_n.">
+		 <varlistentry id="third_party_adj._third_party_n.">
 			<term>third-party (adj.), third party (n.)</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-through">
+		 <varlistentry id="through">
 			<term>through</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-throughput_n.">
+		 <varlistentry id="throughput_n.">
 			<term>throughput (n.)</term>
 			 <listitem>
 				<para>
@@ -132,7 +132,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-tier_1_adj.">
+		 <varlistentry id="tier_1_adj.">
 			<term>tier-1 (adj.)</term>
 			 <listitem>
 				<para>
@@ -142,7 +142,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-time_frame_n.">
+		 <varlistentry id="time_frame_n.">
 			<term>time frame (n.)</term>
 			 <listitem>
 				<para>
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-time_zone_n.">
+		 <varlistentry id="time_zone_n.">
 			<term>time zone (n.)</term>
 			 <listitem>
 				<para>
@@ -162,7 +162,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-token_ring_n.">
+		 <varlistentry id="token_ring_n.">
 			<term>token ring (n.)</term>
 			 <listitem>
 				<para>
@@ -172,7 +172,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-toolbar_n.">
+		 <varlistentry id="toolbar_n.">
 			<term>toolbar (n.)</term>
 			 <listitem>
 				<para>
@@ -182,7 +182,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-tooltip_n.">
+		 <varlistentry id="tooltip_n.">
 			<term>tooltip (n.)</term>
 			 <listitem>
 				<para>
@@ -192,7 +192,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-totally">
+		 <varlistentry id="totally">
 			<term>totally</term>
 			 <listitem>
 				<para>
@@ -202,7 +202,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-troubleshoot_v.">
+		 <varlistentry id="troubleshoot_v.">
 			<term>troubleshoot (v.)</term>
 			 <listitem>
 				<para>
@@ -212,7 +212,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-_TTL_">
+		 <varlistentry id="_ttl_">
 			<term> TTL </term>
 			 <listitem>
 				<para>
@@ -225,7 +225,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="T-type">
+		 <varlistentry id="type">
 			<term>type</term>
 			 <listitem>
 				<para>

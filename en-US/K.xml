@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-K">
+<chapter id="k">
 	<title>K</title>
 	 <variablelist>
-		<varlistentry id="K-KB_kB">
+		<varlistentry id="KB-kB">
 			<term>KB, kB</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-kbps_KBps_kBps">
+		 <varlistentry id="kbps_kbps_kbps">
 			<term>kbps, KBps, kBps</term>
 			 <listitem>
 				<para>
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-kerberize">
+		 <varlistentry id="kerberize">
 			<term>kerberize</term>
 			 <listitem>
 				<para>
@@ -39,7 +39,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-kernel">
+		 <varlistentry id="kernel">
 			<term>kernel</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-Kernel_based_Virtual_Machine_KVM">
+		 <varlistentry id="kernel_based_virtual_machine_kvm">
 			<term>Kernel-based Virtual Machine (KVM)</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-kernel_panic">
+		 <varlistentry id="kernel-panic">
 			<term>kernel panic</term>
 			 <listitem>
 				<para>
@@ -69,7 +69,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-kernel_space_kernel_space">
+		 <varlistentry id="kernel_space_kernel_space">
 			<term>kernel space, kernel-space</term>
 			 <listitem>
 				<para>
@@ -82,20 +82,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-keyboard_key">
+		 <varlistentry id="keyboard-key">
 			<term>keyboard key</term>
 			 <listitem>
 				<para>
 					When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X." When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S."
 				</para>
 				 <para>
-					See also <xref linkend="S-Spacebar" />.
+					See also <xref linkend="spacebar" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-key_ring">
+		 <varlistentry id="key-ring">
 			<term>key ring</term>
 			 <listitem>
 				<para>
@@ -111,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-keytab">
+		 <varlistentry id="keytab">
 			<term>keytab</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-key_value">
+		 <varlistentry id="key-value">
 			<term>key-value</term>
 			 <listitem>
 				<para>
@@ -131,7 +131,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-Kickstart">
+		 <varlistentry id="kickstart">
 			<term>Kickstart</term>
 			 <listitem>
 				<para>
@@ -144,7 +144,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-kill">
+		 <varlistentry id="kill">
 			<term>kill</term>
 			 <listitem>
 				<para>
@@ -154,7 +154,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="K-knowledge_base">
+		 <varlistentry id="knowledge-base">
 			<term>knowledge base</term>
 			 <listitem>
 				<para>

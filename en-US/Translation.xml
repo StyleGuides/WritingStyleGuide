@@ -3,14 +3,14 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-Writing_Clearly_and_Succinctly">
+<chapter id="writing_clearly_and_succinctly">
 	<title>Writing Clearly and Succinctly</title>
 	 <para>
 		This chapter provides guidelines, tips, and techniques to help make your writing easier to read and understand, and also to translate.
 	</para>
 	 <section id="Writing_Clearly_and_Succinctly-Sentence_Structure">
 		<title>Sentence Structure</title>
-		 <formalpara id="form-Conventions_for_Writers_and_Editors-Sentence_Structure-Using_Lists_Correctly">
+		 <formalpara id="Sentence_Structure-Using_Lists_Correctly">
 			<title>Using Lists Correctly</title>
 			 <para>
 				Lists appear in a range of formats, such as series, ordered, unordered (itemized), and so on. Avoid using itemized lists to format a single sentence. Some translation tools, such as Zanata, display list items and the introductory sentence (or <firstterm>sentence stem</firstterm>) as individual sentences for translation. If these are not complete sentences, they can be difficult to translate.
@@ -87,7 +87,7 @@
 			</tgroup>
 
 		</table>
-		 <formalpara id="form-Conventions_for_Writers_and_Editors-Sentence_Structure-Noun_Stacking">
+		 <formalpara id="Sentence_Structure-Noun_Stacking">
 			<title>Noun Stacking</title>
 			 <para>
 				Modifier strings (modifier + noun + noun sentence format), over-modified nouns (or <firstterm>noun stacks</firstterm>), are especially difficult to translate, particularly when several different combinations could make sense.
@@ -201,7 +201,7 @@
 			</tgroup>
 
 		</table>
-		 <formalpara id="form-Conventions_for_Writers_and_Editors-DocBook_Elements-Tagged_Terms_in_Sentences">
+		 <formalpara id="DocBook_Elements-Tagged_Terms_in_Sentences">
 			<title>Tagged Terms in Sentences</title>
 			 <para>
 				Many tagged terms are not translatable, and so they should not be used as structural parts of a sentence. Otherwise, translators have to fill in the blanks or tag terms themselves.

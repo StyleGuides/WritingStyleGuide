@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-V">
+<chapter id="v">
 	<title>V</title>
 	 <variablelist>
-		<varlistentry id="V-VAR">
+		<varlistentry id="var">
 			<term>VAR</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="V-VDSM">
+		 <varlistentry id="vdsm">
 			<term>VDSM</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="V-vi">
+		 <varlistentry id="vi">
 			<term>vi</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="V-Vim">
+		 <varlistentry id="vim">
 			<term>Vim</term>
 			 <listitem>
 				<para>
@@ -45,13 +45,13 @@
           Only use "vim" (all lowercase) when referring to the command to start the application.
 				</para>
 				 <para>
-					Vim is an acronym, derived from Vi IMproved. (In the original 1991 release for the Amiga platform, the acronym was derived from Vi IMitation. It became Vi IMproved when ported to various UNIX-based operating systems in 1992.) Despite being an acronym, and despite the first word of the "About" text that appears when you start the editor, the standard, proper noun-derived, mixed-case spelling has been in use since its release on the Amiga.
+					Vim is an acronym, derived from Vi IMproved. (In the original 1991 release for the Amiga platform, the acronym was derived from Vi IMitation. It became Vi IMproved when ported to various UNIbased operating systems in 1992.) Despite being an acronym, and despite the first word of the "About" text that appears when you start the editor, the standard, proper noun-derived, mixed-case spelling has been in use since its release on the Amiga.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="V-video_mode">
+		 <varlistentry id="video-mode">
 			<term>video mode</term>
 			 <listitem>
 				<para>
@@ -64,7 +64,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="V-virtual_console">
+		 <varlistentry id="virtual-console">
 			<term>virtual console</term>
 			 <listitem>
 				<para>
@@ -77,7 +77,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="V-virtual_machine_VM">
+		 <varlistentry id="virtual_machine_vm">
 			<term>virtual machine, VM</term>
 			 <listitem>
 				<para>
@@ -90,7 +90,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="V-virtualized_guest">
+		 <varlistentry id="virtualized-guest">
 			<term>virtualized guest</term>
 			 <listitem>
 				<para>
@@ -103,7 +103,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="V-virtual_router">
+		 <varlistentry id="virtual-router">
 			<term>virtual router</term>
 			 <listitem>
 				<para>
@@ -113,7 +113,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="V-VNIC">
+		 <varlistentry id="vnic">
 			<term>VNIC</term>
 			 <listitem>
 				<para>
@@ -123,7 +123,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="V-VPN">
+		 <varlistentry id="vpn">
 			<term>VPN</term>
 			 <listitem>
 				<para>

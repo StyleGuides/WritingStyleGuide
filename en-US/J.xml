@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-J">
+<chapter id="j">
 	<title>J</title>
 	 <variablelist>
-		<varlistentry id="J-JavaScript_">
+		<varlistentry id="JavaScript-">
 			<term>JavaScript </term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="J-JBoss_Community">
+		 <varlistentry id="JBoss-Community">
 			<term>JBoss Community</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="J-job">
+		 <varlistentry id="job">
 			<term>job</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="J-jsvc">
+		 <varlistentry id="jsvc">
 			<term>jsvc</term>
 			 <listitem>
 				<para>
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="J-just">
+		 <varlistentry id="just">
 			<term>just</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="J-JVM">
+		 <varlistentry id="jvm">
 			<term>JVM</term>
 			 <listitem>
 				<para>

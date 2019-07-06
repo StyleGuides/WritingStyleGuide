@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-N">
+<chapter id="n">
 	<title>N</title>
 	 <variablelist>
-		<varlistentry id="N-need">
+		<varlistentry id="need">
 			<term>need</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="N-needs_needs_to_be_need_to">
+		 <varlistentry id="needs_needs_to_be_need_to">
 			<term>needs, needs to be, need to</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="N-neighbor">
+		 <varlistentry id="neighbor">
 			<term>neighbor</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="N-.NET">
+		 <varlistentry id="net">
 			<term>.NET</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="N-network_transparency">
+		 <varlistentry id="network-transparency">
 			<term>network transparency</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="N-NFS">
+		 <varlistentry id="nfs">
 			<term>NFS</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="N-node">
+		 <varlistentry id="node">
 			<term>node</term>
 			 <listitem>
 				<orderedlist>
@@ -94,7 +94,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="N-nonsecure">
+		 <varlistentry id="nonsecure">
 			<term>nonsecure</term>
 			 <listitem>
 				<para>
@@ -104,7 +104,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="N-NULL_or_null">
+		 <varlistentry id="null_or_null">
 			<term>NULL or null</term>
 			 <listitem>
 				<para>
@@ -114,7 +114,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="N-numbers">
+		 <varlistentry id="numbers">
 			<term>numbers</term>
 			 <listitem>
 				<para>

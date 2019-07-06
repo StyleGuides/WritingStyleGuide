@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-W">
+<chapter id="w">
 	<title>W</title>
 	 <variablelist>
-		<varlistentry id="W-WAN">
+		<varlistentry id="wan">
 			<term>WAN</term>
 			 <listitem>
 				<para>
@@ -22,7 +22,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="W-WCA">
+		 <varlistentry id="wca">
 			<term>WCA</term>
 			 <listitem>
 				<para>
@@ -35,7 +35,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="W-want">
+		 <varlistentry id="want">
 			<term>want</term>
 			 <listitem>
 				<para>
@@ -47,7 +47,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="W-we_suggest">
+		 <varlistentry id="we-suggest">
 			<term>we suggest</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="W-webhook_n.">
+		 <varlistentry id="webhook_n.">
 			<term>webhook</term>
 			 <listitem>
 				<para>
@@ -71,7 +71,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="W-web_UI">
+		 <varlistentry id="web-UI">
 			<term>web UI</term>
 			 <listitem>
 				<para>
@@ -82,7 +82,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="W-whowhom">
+		 <varlistentry id="whowhom">
 			<term>who/whom</term>
 			 <listitem>
 				<para>
@@ -96,7 +96,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="W-will">
+		 <varlistentry id="will">
 			<term>will</term>
 			 <listitem>
 				<para>
@@ -108,7 +108,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="W-Window_Maker">
+		 <varlistentry id="Window-Maker">
 			<term>Window Maker</term>
 			 <listitem>
 				<para>

@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<appendix id="appe-Conventions_for_Writers_and_Editors-Revision_History">
+<appendix id="appe-Revision_History">
 	<title>Revision History</title>
 	 <simpara>
 		<revhistory>
@@ -230,7 +230,7 @@
 				 <revdescription>
 					<simplelist>
 						<member>BZ 973074 Add entry for "talking to" in section on slang</member>
-						 <member>BZ 950303 Add entry for SR-IOV </member>
+						 <member>BZ 950303 Add entry for SIOV </member>
 						 <member>BZ 965378 Update entry for "Unset"</member>
 
 					</simplelist>

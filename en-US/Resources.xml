@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-Resources">
+<chapter id="resources">
 	<title>Resources</title>
 	 <para>
 		This section lists some books and websites for you to consult on your quest to create the perfect document.
@@ -82,7 +82,7 @@
 		</itemizedlist>
 
 	</section>
-	 <section id="Resources-References_for_Marketing_and_Corporate_Collateral">
+	 <section id="Resources-References_for_Marketing-CorporateCollateral">
 		<title>References for Marketing and Corporate Collateral</title>
 		 <itemizedlist>
 			<listitem>

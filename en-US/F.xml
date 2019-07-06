@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-F">
+<chapter id="f">
 	<title>F</title>
 	 <variablelist>
-		<varlistentry id="F-fail_back_v._failback_n.">
+		<varlistentry id="fail_back_v._failback_n.">
 			<term>fail back (v.), failback (n.)</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-fail_over_v._failover_n._adj.">
+		 <varlistentry id="fail_over_v._failover_n._adj.">
 			<term>fail over (v.), failover (n., adj.)</term>
 			 <listitem>
 				<para>
@@ -26,17 +26,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-FAQ">
+		 <varlistentry id="faq">
 			<term>FAQ</term>
 			 <listitem>
 				<para>
-					When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an F-A-Q") not "a FAQ." The plural form is "FAQs."
+					When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an Q") not "a FAQ." The plural form is "FAQs."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-fault_tolerance_n._fault_tolerant_adj.">
+		 <varlistentry id="fault_tolerance_n._fault_tolerant_adj.">
 			<term>fault tolerance (n.), fault-tolerant (adj.)</term>
 			 <listitem>
 				<para>
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-Fedoratrade_Project">
+		 <varlistentry id="Fedoratrade-Project">
 			<term>Fedora&trade; Project</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-fiber">
+		 <varlistentry id="fiber">
 			<term>fiber</term>
 			 <listitem>
 				<para>
@@ -66,20 +66,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-Fibre_Channel">
+		 <varlistentry id="Fibre-Channel">
 			<term>Fibre Channel</term>
 			 <listitem>
 				<para>
-					A serial data transfer architecture developed by a consortium of computer and mass storage device manufacturers and now being standardized by ANSI. The most prominent Fibre Channel standard is Fibre Channel Arbitrated Loop (FC-AL).
+					A serial data transfer architecture developed by a consortium of computer and mass storage device manufacturers and now being standardized by ANSI. The most prominent Fibre Channel standard is Fibre Channel Arbitrated Loop (FAL).
 				</para>
 				 <para>
-					FC-AL was designed for new mass storage devices and other peripheral devices that require very high bandwidth. Using optical fiber to connect devices, FC-AL supports full-duplex data transfer rates of 100MBps. FC-AL is compatible with, and is expected to eventually replace, SCSI for high-performance storage systems.
+					FAL was designed for new mass storage devices and other peripheral devices that require very high bandwidth. Using optical fiber to connect devices, FAL supports full-duplex data transfer rates of 100MBps. FAL is compatible with, and is expected to eventually replace, SCSI for high-performance storage systems.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-file_extensions_general_usage">
+		 <varlistentry id="file_extensions_general_usage">
 			<term>file extensions (general usage)</term>
 			 <listitem>
 				<para>
@@ -89,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-file_mode_file_name_file_system_file_type">
+		 <varlistentry id="file_mode_file_name_file_system_file_type">
 			<term>file mode, file name, file system, file type</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-FireWire">
+		 <varlistentry id="firewire">
 			<term>FireWire</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-firmware">
+		 <varlistentry id="firmware">
 			<term>firmware</term>
 			 <listitem>
 				<para>
@@ -125,7 +125,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-floating_point">
+		 <varlistentry id="floating-point">
 			<term>floating point</term>
 			 <listitem>
 				<para>
@@ -135,7 +135,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-floppy_disk">
+		 <varlistentry id="floppy-disk">
 			<term>floppy disk</term>
 			 <listitem>
 				<para>
@@ -145,7 +145,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-floppy_drive">
+		 <varlistentry id="floppy-drive">
 			<term>floppy drive</term>
 			 <listitem>
 				<para>
@@ -163,7 +163,7 @@
         </para>
       </listitem>
     </varlistentry>
-		 <varlistentry id="F-foreground">
+		 <varlistentry id="foreground">
 			<term>foreground</term>
 			 <listitem>
 				<itemizedlist>
@@ -185,7 +185,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-fortnight">
+		 <varlistentry id="fortnight">
 			<term>fortnight</term>
 			 <listitem>
 				<para>
@@ -195,7 +195,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-FORTRAN">
+		 <varlistentry id="fortran">
 			<term>FORTRAN</term>
 			 <listitem>
 				<para>
@@ -205,7 +205,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-forward">
+		 <varlistentry id="forward">
 			<term>forward</term>
 			 <listitem>
 				<para>
@@ -215,17 +215,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-forwards_compatible">
+		 <varlistentry id="forwards-compatible">
 			<term>forwards compatible</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "compatible with later versions." See also <xref linkend="B-backwards_compatible" />.
+					Do not use. Instead, use "compatible with later versions." See also <xref linkend="backwards-compatible" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-FQDN">
+		 <varlistentry id="fqdn">
 			<term>FQDN</term>
 			 <listitem>
 				<para>
@@ -238,17 +238,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-frictionless">
+		 <varlistentry id="frictionless">
 			<term>frictionless</term>
 			 <listitem>
 				<para>
-					Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="B-bimodal_IT" />.
+					Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="bimodal-IT" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-front_end_front_end">
+		 <varlistentry id="front_end_front_end">
 			<term>front end, front-end</term>
 			 <listitem>
 				<para>
@@ -261,13 +261,13 @@
 					Do not use "frontend" as a noun or adjective.
 				</para>
 				 <para>
-					See also <xref linkend="B-back_end_back_end" />
+					See also <xref linkend="back_end_back_end" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-FTP">
+		 <varlistentry id="ftp">
 			<term>FTP</term>
 			 <listitem>
 				<para>
@@ -277,7 +277,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-Futexes">
+		 <varlistentry id="futexes">
 			<term>Futexes</term>
 			 <listitem>
 				<para>
@@ -287,11 +287,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="F-Fuzzy">
+		 <varlistentry id="fuzzy">
 			<term>Fuzzy</term>
 			 <listitem>
 				<para>
-					Correct only when referring to fuzzy searches. See <xref linkend="Conventions_for_Writers_and_Editors-Avoiding_Slang_Metaphors_and_Misleading_Language" /> for details and examples.
+					Correct only when referring to fuzzy searches. See <xref linkend="Avoiding_Slang_Metaphors-MisleadingLanguage" /> for details and examples.
 				</para>
 
 			</listitem>

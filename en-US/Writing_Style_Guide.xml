@@ -6,7 +6,7 @@
 <book>
 	<xi:include href="Book_Info.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <xi:include href="Preface.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <part id="part-Conventions_for_Writers_and_Editors-Writing_Style_Guide" label="I">
+	 <part id="part-Writing_Style_Guide" label="I">
 		<title>Writing Style Guide</title>
 		 <partintro>
 			<para>
@@ -23,7 +23,7 @@
 		 <xi:include href="Resources.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 
 	</part>
-	 <part id="part-Conventions_for_Writers_and_Editors-Usage_Dictionary" label="II">
+	 <part id="part-Usage_Dictionary" label="II">
 		<title>Usage Dictionary</title>
 		 <partintro>
 			<para>

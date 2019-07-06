@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-C">
+<chapter id="c">
 	<title>C</title>
 	 <variablelist>
-		<varlistentry id="C-can_may">
+		<varlistentry id="can-may">
 			<term>can, may</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-cannot">
+		 <varlistentry id="cannot">
 			<term>cannot</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-CapEx_OpEx">
+		 <varlistentry id="CapEx-OpEx">
 			<term>CapEx, OpEx</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-cd_CD">
+		 <varlistentry id="cd-CD">
 			<term>cd, CD</term>
 			 <listitem>
 				<para>
@@ -52,7 +52,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-CD_1">
+		 <varlistentry id="CD_1">
 			<term>CD #1</term>
 			 <listitem>
 				<para>
@@ -62,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-Ceph">
+		 <varlistentry id="ceph">
 			<term>Ceph</term>
 			 <listitem>
 				<para>
@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-cgroup">
+		 <varlistentry id="cgroup">
 			<term>cgroup</term>
 			 <listitem>
 				<para>
@@ -88,7 +88,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-characters">
+		 <varlistentry id="characters">
 			<term>characters</term>
 			 <listitem>
 				<para>
@@ -101,7 +101,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-check">
+		 <varlistentry id="check">
 			<term>check</term>
 			 <listitem>
 				<para>
@@ -111,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-check_box">
+		 <varlistentry id="check-box">
 			<term>check box</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-chip_set">
+		 <varlistentry id="chip-set">
 			<term>chipset</term>
 			 <listitem>
 				<para>
@@ -131,7 +131,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-CICD">
+		 <varlistentry id="cicd">
 			<term>CI/CD</term>
 			 <listitem>
 				<para>
@@ -144,7 +144,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-ciphertext">
+		 <varlistentry id="ciphertext">
 			<term>ciphertext</term>
 			 <listitem>
 				<para>
@@ -154,7 +154,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-click">
+		 <varlistentry id="click">
 			<term>click</term>
 			 <listitem>
 				<para>
@@ -167,7 +167,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-client_side_client_side">
+		 <varlistentry id="client_side_client_side">
 			<term>client-side, client side</term>
 			 <listitem>
 				<para>
@@ -180,7 +180,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-clobber_or_clobbered">
+		 <varlistentry id="clobber_or_clobbered">
 			<term>clobber or clobbered</term>
 			 <listitem>
 				<para>
@@ -190,7 +190,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-cloud">
+		 <varlistentry id="cloud">
 			<term>cloud</term>
 			 <listitem>
 				<para>
@@ -200,7 +200,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-cloudbursting">
+		 <varlistentry id="cloudbursting">
 			<term>cloudbursting</term>
 			 <listitem>
 				<para>
@@ -216,7 +216,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-cloudwashing">
+		 <varlistentry id="cloudwashing">
 			<term>cloudwashing</term>
 			 <listitem>
 				<para>
@@ -229,7 +229,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-code">
+		 <varlistentry id="code">
 			<term>code</term>
 			 <listitem>
 				<para>
@@ -239,7 +239,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-combo_box">
+		 <varlistentry id="combo-box">
 			<term>combo-box</term>
 			 <listitem>
 				<para>
@@ -249,7 +249,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-comma_delimited">
+		 <varlistentry id="comma-delimited">
 			<term>comma-delimited</term>
 			 <listitem>
 				<para>
@@ -259,7 +259,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-comma_separated_values_CSV">
+		 <varlistentry id="comma_separated_values_csv">
 			<term>comma-separated values (CSV)</term>
 			 <listitem>
 				<para>
@@ -269,7 +269,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-command_button">
+		 <varlistentry id="command-button">
 			<term>command button</term>
 			 <listitem>
 				<para>
@@ -279,7 +279,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-command_driven">
+		 <varlistentry id="command-driven">
 			<term>command-driven</term>
 			 <listitem>
 				<para>
@@ -292,7 +292,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-command_language">
+		 <varlistentry id="command-language">
 			<term>command language</term>
 			 <listitem>
 				<para>
@@ -305,7 +305,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-command_line_command_prompt_command_line">
+		 <varlistentry id="command-line">
 			<term>command line, command prompt, command-line</term>
 			 <listitem>
 				<para>
@@ -315,7 +315,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-commodity">
+		 <varlistentry id="commodity">
 			<term>commodity</term>
 			 <listitem>
 				<para>
@@ -340,17 +340,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-communication_service_provider_CSP">
-			<term id="csp">communication service provider (CSP)</term>
+		 <varlistentry id="csp">
+			<term>communication service provider (CSP)</term>
 			 <listitem>
 				<para>
-					Another way to refer to a telecommunications provider. See also <xref linkend="telecoms" />, <xref linkend="telco" />.
+					Another way to refer to a telecommunications provider. See also <xref linkend="telco" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-Containers_as_a_Service">
+		 <varlistentry id="containers_as_a_service">
 			<term>Containers-as-a-Service</term>
 			 <listitem>
 				<para>
@@ -360,7 +360,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-container_based">
+		 <varlistentry id="container-based">
 			<term>container-based</term>
 			 <listitem>
 				<para>
@@ -370,7 +370,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-containerized">
+		 <varlistentry id="containerized">
 			<term>containerized</term>
 			 <listitem>
 				<para>
@@ -380,7 +380,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-continuous_delivery_CD">
+		 <varlistentry id="continuous_delivery_cd">
 			<term id="cd">continuous delivery (CD)</term>
 			 <listitem>
 				<para>
@@ -390,7 +390,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-continuous_deployment">
+		 <varlistentry id="continuous-deployment">
 			<term id="cdeploy">continuous deployment</term>
 			 <listitem>
 				<para>
@@ -400,7 +400,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-continuous_integration_CI">
+		 <varlistentry id="continuous_integration_ci">
 			<term id="ci">continuous integration (CI)</term>
 			 <listitem>
 				<para>
@@ -410,7 +410,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-contractions">
+		 <varlistentry id="contractions">
 			<term>contractions</term>
 			 <listitem>
 				<para>
@@ -420,7 +420,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-control_character">
+		 <varlistentry id="control-character">
 			<term>control character</term>
 			 <listitem>
 				<para>
@@ -430,7 +430,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-control_key">
+		 <varlistentry id="control-key">
 			<term>control key</term>
 			 <listitem>
 				<para>
@@ -440,7 +440,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-control_program">
+		 <varlistentry id="control-program">
 			<term>control program</term>
 			 <listitem>
 				<para>
@@ -453,7 +453,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-convert">
+		 <varlistentry id="convert">
 			<term>convert</term>
 			 <listitem>
 				<para>
@@ -463,7 +463,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-cookie">
+		 <varlistentry id="cookie">
 			<term>cookie</term>
 			 <listitem>
 				<para>
@@ -479,7 +479,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-corrupted">
+		 <varlistentry id="corrupted">
 			<term>corrupted</term>
 			 <listitem>
 				<para>
@@ -489,7 +489,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-CR">
+		 <varlistentry id="cr">
 			<term>CR</term>
 			 <listitem>
 				<para>
@@ -499,7 +499,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-crash">
+		 <varlistentry id="crash">
 			<term>crash</term>
 			 <listitem>
 				<para>
@@ -509,7 +509,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-cross_platform">
+		 <varlistentry id="cross-platform">
 			<term>cross-platform</term>
 			 <listitem>
 				<para>
@@ -522,7 +522,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-cross_site_scripting">
+		 <varlistentry id="cross_site_scripting">
 			<term>cross-site scripting</term>
 			 <listitem>
 				<para>
@@ -532,7 +532,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="C-Cygmon">
+		 <varlistentry id="cygmon">
 			<term>Cygmon</term>
 			 <listitem>
 				<para>

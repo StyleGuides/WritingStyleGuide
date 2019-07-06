@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-S">
+<chapter id="s">
 	<title>S</title>
 	 <variablelist>
-		<varlistentry id="S-S390">
+		<varlistentry id="S390">
 			<term>S/390</term>
 			 <listitem>
 				<para>
@@ -16,17 +16,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-SaaS">
+		 <varlistentry id="saas">
 			<term>SaaS</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct abbreviation for "Software-as-a-Service." See also <xref linkend="P-PaaS" />.
+					Correct. This is the correct abbreviation for "Software-as-a-Service." See also <xref linkend="saas" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-Samba">
+		 <varlistentry id="samba">
 			<term>Samba</term>
 			 <listitem>
 				<para>
@@ -36,17 +36,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-S_record">
-			<term>S-record</term>
+		 <varlistentry id="S-record">
+			<term>record</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "s-record," "S-Record," "s-Record," or any other variations.
+					Correct. Do not use "s-record," "Record," "s-Record," or any other variations.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-screen_capture">
+		 <varlistentry id="screen-capture">
 			<term>screen capture</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-screen_saver">
+		 <varlistentry id="screen-saver">
 			<term>screen saver</term>
 			 <listitem>
 				<para>
@@ -66,7 +66,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-scrollbar">
+		 <varlistentry id="scrollbar">
 			<term>scrollbar</term>
 			 <listitem>
 				<para>
@@ -111,7 +111,7 @@
         </table>
       </listitem>
     </varlistentry>
-		 <varlistentry id="S-see">
+		 <varlistentry id="see">
 			<term>see</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-segmentation_fault">
+		 <varlistentry id="segmentation-fault">
 			<term>segmentation fault</term>
 			 <listitem>
 				<para>
@@ -134,17 +134,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-SELinux">
+		 <varlistentry id="selinux">
 			<term>SELinux</term>
 			 <listitem>
 				<para>
-					Short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. Do not use alternatives such as "SE-Linux," "S-E Linux," or "SE Linux."
+					Short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. Do not use alternatives such as "SLinux," "E Linux," or "SE Linux."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-sends_out">
+		 <varlistentry id="sends-out">
 			<term>sends out</term>
 			 <listitem>
 				<para>
@@ -154,7 +154,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-server_farm">
+		 <varlistentry id="server-farm">
 			<term>server farm</term>
 			 <listitem>
 				<para>
@@ -164,17 +164,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-server_sideserver_side">
+		 <varlistentry id="server_sideserver_side">
 			<term>server-side/server side</term>
 			 <listitem>
 				<para>
-					See <xref linkend="C-client_side_client_side" />.
+					See <xref linkend="client_side_client_side" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-setup">
+		 <varlistentry id="setup">
 			<term>setup</term>
 			 <listitem>
 				<para>
@@ -205,17 +205,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-SHA_1_SHA_2">
-			<term>SHA-1, SHA-2</term>
+		 <varlistentry id="SHA_1_SHA_2">
+			<term>SH1, SH2</term>
 			 <listitem>
 				<para>
-					Correct. SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA-2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SHA-224," "SHA-256," "SHA-384," and "SHA-512" are considered correct when referring to these specific hash functions.
+					Correct. SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SH2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SH224," "SH256," "SH384," and "SH512" are considered correct when referring to these specific hash functions.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-Shadowman">
+		 <varlistentry id="shadowman">
 			<term>Shadowman</term>
 			 <listitem>
 				<para>
@@ -225,7 +225,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-shadow_passwords">
+		 <varlistentry id="shadow-passwords">
 			<term>shadow passwords</term>
 			 <listitem>
 				<para>
@@ -238,7 +238,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-shadow_utilities">
+		 <varlistentry id="shadow-utilities">
 			<term>shadow utilities</term>
 			 <listitem>
 				<para>
@@ -248,7 +248,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-share_name">
+		 <varlistentry id="share-name">
 			<term>share name</term>
 			 <listitem>
 				<para>
@@ -258,7 +258,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-shebang">
+		 <varlistentry id="shebang">
 			<term>shebang</term>
 			 <listitem>
 				<para>
@@ -268,7 +268,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-shell">
+		 <varlistentry id="shell">
 			<term>shell</term>
 			 <listitem>
 				<para>
@@ -278,7 +278,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-shell_prompt">
+		 <varlistentry id="shell-prompt">
 			<term>shell prompt</term>
 			 <listitem>
 				<para>
@@ -288,17 +288,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-should">
+		 <varlistentry id="should">
 			<term>should</term>
 			 <listitem>
 				<para>
-					Do not use if it is something the user must do. For example, "You should make a backup" is a suggestion, while "You must make a backup" is a requirement. See also <xref linkend="M-must" />.
+					Do not use if it is something the user must do. For example, "You should make a backup" is a suggestion, while "You must make a backup" is a requirement. See also <xref linkend="must" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-shut_down">
+		 <varlistentry id="shut-down">
 			<term>shut down</term>
 			 <listitem>
 				<para>
@@ -308,17 +308,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-simply">
+		 <varlistentry id="simply">
 			<term>simply</term>
 			 <listitem>
 				<para>
-					Do not use. See also <xref linkend="B-basically" />.
+					Do not use. See also <xref linkend="basically" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-since_as_because">
+		 <varlistentry id="since_as_because">
 			<term>since, as, because</term>
 			 <listitem>
 				<para>
@@ -328,13 +328,13 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-skill_set_skills_knowledge">
+		 <varlistentry id="skill_set_skills_knowledge">
 			<term>skill set, skills, knowledge</term>
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective. Do not use "skill-set knowledge;" it is redundant. See the following examples:
 				</para>
-				 <example id="exam-Conventions_for_Writers_and_Editors-skill_set_skills_knowledge-Example_Use_of_Term_Skillset_Versus_Skills">
+				 <example id="exam-skill_set_skills_knowledge-Example_Use_of_Term_Skillset_Versus_Skills">
 					<title>Example Use of Term "Skillset" Versus "Skills"</title>
 					 <para>
 						Incorrect: Do you have the right skillset to be an RHCE?
@@ -344,7 +344,7 @@
 					</para>
 
 				</example>
-				 <example id="exam-Conventions_for_Writers_and_Editors-skill_set_skills_knowledge-Example_Use_of_Term_Knowledge">
+				 <example id="exam-skill_set_skills_knowledge-Example_Use_of_Term_Knowledge">
 					<title>Example Use of Term "Knowledge"</title>
 					 <para>
 						Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.
@@ -358,7 +358,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-smart_card">
+		 <varlistentry id="smart-card">
 			<term>smart card</term>
 			 <listitem>
 				<para>
@@ -368,7 +368,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-snippet">
+		 <varlistentry id="snippet">
 			<term>snippet</term>
 			 <listitem>
 				<para>
@@ -378,7 +378,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-SOCKS">
+		 <varlistentry id="socks">
 			<term>SOCKS</term>
 			 <listitem>
 				<para>
@@ -388,7 +388,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-softcopy">
+		 <varlistentry id="softcopy">
 			<term>softcopy</term>
 			 <listitem>
 				<para>
@@ -398,7 +398,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-sound_card">
+		 <varlistentry id="sound-card">
 			<term>sound card</term>
 			 <listitem>
 				<para>
@@ -408,7 +408,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-Source_Navigator">
+		 <varlistentry id="Source-Navigator">
 			<term>Source-Navigator™</term>
 			 <listitem>
 				<para>
@@ -427,7 +427,7 @@ a programming and technical sense this also means "Run the <command>source</comm
           </para>
         </listitem>
       </varlistentry>
-		 <varlistentry id="S-space">
+		 <varlistentry id="space">
 			<term>space</term>
 			 <listitem>
 				<para>
@@ -437,7 +437,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-Spacebar">
+		 <varlistentry id="spacebar">
 			<term>Spacebar</term>
 			 <listitem>
 				<para>
@@ -447,7 +447,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-spec_file">
+		 <varlistentry id="spec-file">
 			<term>spec file</term>
 			 <listitem>
 				<para>
@@ -457,17 +457,17 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-specific">
+		 <varlistentry id="specific">
 			<term>specific</term>
 			 <listitem>
 				<para>
-					When used as a modifier, put a hyphen before "specific," such as "MIPS-specific," "Linux-specific," and "chip-specific."
+					When used as a modifier, put a hyphen before "specific," such as "MIPspecific," "Linux-specific," and "chip-specific."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-spelled">
+		 <varlistentry id="spelled">
 			<term>spelled</term>
 			 <listitem>
 				<para>
@@ -480,7 +480,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-SQL">
+		 <varlistentry id="sql">
 			<term>SQL</term>
 			 <listitem>
 				<para>
@@ -490,7 +490,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 					When referring to Microsoft's proprietary product, SQL Server, pronounce it as a word: "sequel." In this case, it takes "a" as an indefinite article.
 				</para>
 				 <para>
-					NB: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
+					NB: Oracle also pronounces its SQbased products (such as PL/SQL) as "sequel."
 				</para>
 				 <para>
 					More generally, avoid using "SQL" as a generic marker if at all possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced pŏstgrĕs kyü ĕl), write "PostgreSQL."
@@ -499,17 +499,17 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-SR_IOV">
-			<term>SR-IOV</term>
+		 <varlistentry id="sr-iov">
+			<term>SIOV</term>
 			 <listitem>
 				<para>
-					Correct. SR-IOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV.
+					Correct. SIOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-SSH">
+		 <varlistentry id="ssh">
 			<term>SSH</term>
 			 <listitem>
 				<para>
@@ -522,7 +522,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-SSL">
+		 <varlistentry id="ssl">
 			<term>SSL</term>
 			 <listitem>
 				<para>
@@ -532,7 +532,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-stand_alone">
+		 <varlistentry id="stand-alone">
 			<term>stand-alone</term>
 			 <listitem>
 				<para>
@@ -545,20 +545,20 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-StarOffice">
+		 <varlistentry id="staroffice">
 			<term>StarOffice</term>
 			 <listitem>
 				<para>
 					A legacy Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office."
 				</para>
 				 <para>
-					The successors of StarOffice are <xref linkend="L-LibreOffice" /> and <xref linkend="O-OpenOffice" />.
+					The successors of StarOffice are <xref linkend="libreoffice" /> and <xref linkend="openoffice" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-starts_up">
+		 <varlistentry id="starts-up">
 			<term>starts up</term>
 			 <listitem>
 				<para>
@@ -568,7 +568,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-startx">
+		 <varlistentry id="startx">
 			<term>startx</term>
 			 <listitem>
 				<para>
@@ -578,7 +578,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-straightforward">
+		 <varlistentry id="straightforward">
 			<term>straightforward</term>
 			 <listitem>
 				<para>
@@ -588,7 +588,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-su">
+		 <varlistentry id="su">
 			<term>su</term>
 			 <listitem>
 				<para>
@@ -598,7 +598,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-subcommand">
+		 <varlistentry id="subcommand">
 			<term>subcommand</term>
 			 <listitem>
 				<para>
@@ -610,33 +610,33 @@ a programming and technical sense this also means "Run the <command>source</comm
 					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.
 				</para>
 				 <para>
-					See also <xref linkend="form-Conventions_for_Writers_and_Editors-Hyphenation-Hyphenate_Double_Prefixes" />.
+					See also <xref linkend="Hyphenation-Hyphenate_Double_Prefixes" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-subdirectory">
+		 <varlistentry id="subdirectory">
 			<term>subdirectory</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-directory." See also <xref linkend="form-Conventions_for_Writers_and_Editors-Hyphenation-Hyphenate_Double_Prefixes" />.
+					Correct. Do not use "sub-directory." See also <xref linkend="Hyphenation-Hyphenate_Double_Prefixes" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-submenu">
+		 <varlistentry id="submenu">
 			<term>submenu</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-menu." See also <xref linkend="form-Conventions_for_Writers_and_Editors-Hyphenation-Hyphenate_Double_Prefixes" />.
+					Correct. Do not use "sub-menu." See also <xref linkend="Hyphenation-Hyphenate_Double_Prefixes" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-subpackage">
+		 <varlistentry id="subpackage">
 			<term>subpackage</term>
 			 <listitem>
 				<para>
@@ -655,7 +655,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-superuser">
+		 <varlistentry id="superuser">
 			<term>superuser</term>
 			 <listitem>
 				<para>
@@ -665,7 +665,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-swap_space">
+		 <varlistentry id="swap-space">
 			<term>swap space</term>
 			 <listitem>
 				<para>
@@ -675,7 +675,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-Sybase_Adaptive_Server_Enterprise_ASE">
+		 <varlistentry id="sybase_adaptive_server_enterprise_ase">
 			<term>Sybase Adaptive Server Enterprise (ASE)</term>
 			 <listitem>
 				<para>
@@ -688,7 +688,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-SysV">
+		 <varlistentry id="sysv">
 			<term>SysV</term>
 			 <listitem>
 				<para>
@@ -698,7 +698,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="S-symmetric_encryption">
+		 <varlistentry id="symmetric-encryption">
 			<term>symmetric encryption</term>
 			 <listitem>
 				<para>

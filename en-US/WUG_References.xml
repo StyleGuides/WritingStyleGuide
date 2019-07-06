@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Conventions_for_Writers_and_Editors-References">
+<chapter id="references">
 	<title>References</title>
 	 <para>
 		<citetitle>The IBM Style Guide</citetitle>

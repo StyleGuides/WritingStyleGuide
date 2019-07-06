@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<bookinfo id="book-Conventions_for_Writers_and_Editors-Conventions_for_Writers_and_Editors">
+<bookinfo id="book-Conventions_for_Writers_and_Editors">
 	<title>Conventions for Writers and Editors</title>
 	 <productname>The Red Hat Style Guide</productname>
 	 <productnumber></productnumber>
@@ -11,7 +11,7 @@
 	 <pubsnumber>1</pubsnumber>
 	 <abstract>
 		<para>
-			The Red&nbsp;Hat Style Guide and Word Usage Dictionary is a joint effort by various groups within Red&nbsp;Hat. It is intended as a supplement to the titles listed in <xref linkend="Conventions_for_Writers_and_Editors-Resources" />
+			The Red&nbsp;Hat Style Guide and Word Usage Dictionary is a joint effort by various groups within Red&nbsp;Hat. It is intended as a supplement to the titles listed in <xref linkend="resources" />
 		</para>
 
 	</abstract>
