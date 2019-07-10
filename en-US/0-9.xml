@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="a0_9">
+<chapter id="a0-9">
 	<title>0-9</title>
 	 <variablelist>
-		<varlistentry id="a24x7_24x7x365">
+		<varlistentry id="a24x7">
 			<term>24x7, 24x7x365</term>
 			 <listitem>
 				<para>
@@ -16,17 +16,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="a2_track_IT">
+		 <varlistentry id="a2-track-it">
 			<term>2-track (IT)</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> A less common way to refer to bimodal or hybrid IT. See <xref linkend="bimodal-IT" />
+					<emphasis>adj.</emphasis> A less common way to refer to bimodal or hybrid IT. See <xref linkend="bimodal-it" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="a3_D">
+		 <varlistentry id="a3d">
 			<term>3-D</term>
 			 <listitem>
 				<para>

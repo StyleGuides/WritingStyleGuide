@@ -6,7 +6,7 @@
 <chapter id="o">
 	<title>O</title>
 	 <variablelist>
-		<varlistentry id="Objective-C">
+		<varlistentry id="objective-c">
 			<term>Objective C</term>
 			 <listitem>
 				<para>
@@ -153,7 +153,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="Open-InfiniBand">
+		 <varlistentry id="open-infiniband">
 			<term>Open InfiniBand</term>
 			 <listitem>
 				<para>

@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Dummy-Title">
+<chapter id="dummy-title">
 	<title>Dummy Title</title>
 	 <para>
 		dummy text

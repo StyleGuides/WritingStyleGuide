@@ -230,7 +230,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="HP-ProLiant">
+		 <varlistentry id="hp-proliant">
 			<term>HP ProLiant</term>
 			 <listitem>
 				<para>
@@ -263,17 +263,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="hybrid-IT">
+		 <varlistentry id="hybrid-it">
 			<term>hybrid IT</term>
 			 <listitem>
 				<para>
-					The preferred term when talking about IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of these. Because hybrid can indicate either infrastructure or environment or both, be specific about the underlying combination. See also <xref linkend="bimodal-IT" />.
+					The preferred term when talking about IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of these. Because hybrid can indicate either infrastructure or environment or both, be specific about the underlying combination. See also <xref linkend="bimodal-it" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="Hyper-Threading">
+		 <varlistentry id="hyper-threading">
 			<term>Hyper-Threading</term>
 			 <listitem>
 				<para>

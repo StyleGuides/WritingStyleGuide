@@ -21,7 +21,7 @@
 		</para>
 
 	</section>
-	 <section id="InformationLink-Ratio">
+	 <section id="informationlink-ratio">
 		<title>The Information/Link Ratio</title>
 		 <para>
 			Does the paragraph or section consist largely of links?
@@ -37,7 +37,7 @@
 		</note>
 
 	</section>
-	 <section id="Repeatability-Test">
+	 <section id="repeatability-test">
 		<title>The Repeatability Test</title>
 		 <para>
 			Does the information have to be repeated?

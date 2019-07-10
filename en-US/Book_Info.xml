@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<bookinfo id="book-Conventions_for_Writers_and_Editors">
+<bookinfo id="conventions">
 	<title>Conventions for Writers and Editors</title>
 	 <productname>The Red Hat Style Guide</productname>
 	 <productnumber></productnumber>

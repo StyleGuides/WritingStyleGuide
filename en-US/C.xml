@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="CapEx-OpEx">
+		 <varlistentry id="capex-opex">
 			<term>CapEx, OpEx</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="cd-CD">
+		 <varlistentry id="cd">
 			<term>cd, CD</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			<term>CD #1</term>
 			 <listitem>
 				<para>
-					When referring to a specific CD in the &RHEL; CD set, it is correct to refer to it as: &RHEL; CD #1. Avoid using &RHEL; CD 1
+					When referring to a specific CD in the Red&nbsp;Hat Enterprise Linux CD set, it is correct to refer to it as: Red&nbsp;Hat Enterprise Linux CD #1. Avoid using Red&nbsp;Hat Enterprise Linux CD 1
 				</para>
 
 			</listitem>

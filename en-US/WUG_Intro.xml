@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Usage-Dictionary">
+<chapter id="usage-dictionary">
 	<title>Usage Dictionary</title>
 	 <para>
 		This page provides guidelines for the correct use of common terms in Red Hat documentation, which terms to avoid, and the preferred spelling where variations exist. This page is constantly evolving, and open to discussion and improvement.

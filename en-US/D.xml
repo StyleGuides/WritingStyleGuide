@@ -194,7 +194,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="Disk-Druid">
+		 <varlistentry id="disk-druid">
 			<term>Disk Druid</term>
 			 <listitem>
 				<para>
@@ -307,7 +307,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="DVD-writer">
+		 <varlistentry id="dvd-writer">
 			<term>DVD writer</term>
 			 <listitem>
 				<para>

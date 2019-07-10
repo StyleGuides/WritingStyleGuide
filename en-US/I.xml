@@ -99,7 +99,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="Intelreg-CoreTM">
+		 <varlistentry id="intelreg-coretm">
 			<term>Intel&reg; CoreTM</term>
 			 <listitem>
 				<para>
@@ -180,7 +180,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="Intranet-intranet">
+		 <varlistentry id="intranet-intranet">
 			<term>Intranet, intranet</term>
 			 <listitem>
 				<para>
@@ -223,7 +223,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="IP-Masquerade">
+		 <varlistentry id="ip-masquerade">
 			<term>IP Masquerade</term>
 			 <listitem>
 				<para>
@@ -246,7 +246,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="IP-switching">
+		 <varlistentry id="ip-switching">
 			<term>IP switching</term>
 			 <listitem>
 				<para>

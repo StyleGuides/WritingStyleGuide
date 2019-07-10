@@ -77,7 +77,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="Fibre-Channel">
+		 <varlistentry id="fibre-channel">
 			<term>Fibre Channel</term>
 			 <listitem>
 				<para>
@@ -253,7 +253,7 @@
 			<term>frictionless</term>
 			 <listitem>
 				<para>
-					Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="bimodal-IT" />.
+					Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="bimodal-it" />.
 				</para>
 
 			</listitem>

@@ -6,7 +6,7 @@
 <chapter id="g">
 	<title>G</title>
 	 <variablelist>
-		<varlistentry id="g-G">
+		<varlistentry id="g-g">
 			<term>g++, G++</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="gas-GAS">
+		 <varlistentry id="gas">
 			<term>gas, GAS</term>
 			 <listitem>
 				<para>
@@ -62,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="gcc-GCC">
+		 <varlistentry id="gcc">
 			<term>gcc, GCC</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="gcj-GCJ">
+		 <varlistentry id="gcj">
 			<term>gcj, GCJ</term>
 			 <listitem>
 				<para>
@@ -82,7 +82,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="gdb-GDB">
+		 <varlistentry id="gdb">
 			<term>gdb, GDB</term>
 			 <listitem>
 				<para>
@@ -166,13 +166,13 @@
 			<term>GNOME</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="GNOME-Classic" />
+					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="gnome-classic" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="GNOME-Classic">
+		 <varlistentry id="gnome-classic">
 			<term>GNOME Classic</term>
 			 <listitem>
 				<para>
