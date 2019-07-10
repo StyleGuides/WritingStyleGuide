@@ -93,7 +93,7 @@
 			</para>
 
 		</section>
-		 <section id="starting_applications_from_the_rednbsphat_enterprisenbsplinux_desktop">
+		 <section id="starting-apps-fromrhel-desktop">
 			<title>Starting Applications from the Red&nbsp;Hat Enterprise&nbsp;Linux Desktop</title>
 			 <para>
 				Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;7 introduces a new approach to starting applications from the desktop. In an effort to maintain consistency and to make translation easier, Red&nbsp;Hat documentation assumes the customer is using GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to start applications.
@@ -110,7 +110,7 @@
 			</example>
 
 		</section>
-		 <section id="documenting_command_syntax">
+		 <section id="documenting-command-syntax">
 			<title>Documenting Command Syntax</title>
 			 <para>
 				See the <citetitle>Computer Interfaces</citetitle> chapter of <citetitle>The IBM Style Guide</citetitle> for initial guidance. The following examples are intended to highlight correct usage.

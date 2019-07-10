@@ -85,7 +85,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="real_timereal_time">
+		 <varlistentry id="realtime">
 			<term>real time/real-time</term>
 			 <listitem>
 				<para>
@@ -138,7 +138,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="remote_access_server">
+		 <varlistentry id="remote-access-server">
 			<term>remote access server</term>
 			 <listitem>
 				<para>
@@ -201,7 +201,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="roundtable_round_table">
+		 <varlistentry id="roundtable">
 			<term>roundtable, round table</term>
 			 <listitem>
 				<para>

@@ -6,7 +6,7 @@
 <chapter id="h">
 	<title>H</title>
 	 <variablelist>
-		<varlistentry id="hard_code_hard_coded">
+		<varlistentry id="hard-code">
 			<term>hard code, hard-coded</term>
 			 <listitem>
 				<para>
@@ -43,7 +43,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="hard_disk_drive">
+		 <varlistentry id="hdd">
 			<term>hard disk drive</term>
 			 <listitem>
 				<para>
@@ -126,7 +126,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="high_availability_high_availability">
+		 <varlistentry id="high-availability">
 			<term>high-availability, high availability</term>
 			 <listitem>
 				<para>
@@ -139,7 +139,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="high_performance_computing_hpc">
+		 <varlistentry id="hpc">
 			<term>high-performance computing (HPC)</term>
 			 <listitem>
 				<para>
@@ -224,7 +224,7 @@
 			<term>hover help</term>
 			 <listitem>
 				<para>
-					See <xref linkend="tooltip_n." />.
+					See <xref linkend="tooltip" />.
 				</para>
 
 			</listitem>
@@ -250,7 +250,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="huge_page_huge_page">
+		 <varlistentry id="huge-page">
 			<term>huge-page, huge page</term>
 			 <listitem>
 				<para>

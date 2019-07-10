@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="objectives_of_this_guide">
+<chapter id="objectives">
 	<title>Objectives of this Guide</title>
 	 <para>
 		The objective of the Red&nbsp;Hat Style Guide is to help authors communicate information in a clear, transparent fashion, and to facilitate consistency in tone and delivery. We write documentation for a variety of audiences, across multiple geographies and with very different skill sets. We write for end users as well as expert users. Red&nbsp;Hat documentation is:

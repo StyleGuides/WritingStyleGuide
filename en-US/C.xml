@@ -138,7 +138,7 @@
 					Define on first use; generally continuous integration/continuous delivery. This is not continuous development, a term with questionable usefulness and only marginal adoption.
 				</para>
 				 <para>
-					See also <xref linkend="ci" />, <xref linkend="cd" />, <xref linkend="cdeploy" />.
+					See also <xref linkend="continuous-integration" />, <xref linkend="continuous-delivery" />, <xref linkend="continuous-deployment" />.
 				</para>
 
 			</listitem>
@@ -167,7 +167,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="client_side_client_side">
+		 <varlistentry id="client-side">
 			<term>client-side, client side</term>
 			 <listitem>
 				<para>
@@ -180,11 +180,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="clobber_or_clobbered">
+		 <varlistentry id="clobber">
 			<term>clobber or clobbered</term>
 			 <listitem>
 				<para>
-					These words should be avoided (except if "clobber" is the actual name of something). Use "altered," "invalidated," or "overwritten," or whatever is appropriate in the specific context.
+					Avoid these and similar terms unless they are the actual name of something. Use "altered," "invalidated," or "overwritten," or whatever is appropriate in the specific context.
 				</para>
 
 			</listitem>
@@ -259,7 +259,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="comma_separated_values_csv">
+		 <varlistentry id="csv">
 			<term>comma-separated values (CSV)</term>
 			 <listitem>
 				<para>
@@ -350,11 +350,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="containers_as_a_service">
+		 <varlistentry id="containers-as-a-service">
 			<term>Containers-as-a-Service</term>
 			 <listitem>
 				<para>
-					The term "Containers-as-a-Service" is owned by Docker and should only be used when referring to that company's offering. See also <xref linkend="aas" />.
+					The term "Containers-as-a-Service" is owned by Docker and should only be used when referring to that company's offering. See also <xref linkend="as-a-service" />.
 				</para>
 
 			</listitem>
@@ -380,8 +380,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="continuous_delivery_cd">
-			<term id="cd">continuous delivery (CD)</term>
+		 <varlistentry id="continuous-delivery">
+			<term>continuous delivery (CD)</term>
 			 <listitem>
 				<para>
 					A software implementation architecture that ensures all approved code can be easily pushed to production.
@@ -391,7 +391,7 @@
 
 		</varlistentry>
 		 <varlistentry id="continuous-deployment">
-			<term id="cdeploy">continuous deployment</term>
+			<term>continuous deployment</term>
 			 <listitem>
 				<para>
 					A special case of continuous delivery, where approved code is automatically pushed to production. Do not use "CD" to refer to this practice.
@@ -400,8 +400,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="continuous_integration_ci">
-			<term id="ci">continuous integration (CI)</term>
+		 <varlistentry id="continuous-integration">
+			<term>continuous integration (CI)</term>
 			 <listitem>
 				<para>
 					A software development architecture where the developer code branch is synchronized with the main code branch or master multiple times per day. Development always works with the current code base.
@@ -522,7 +522,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="cross_site_scripting">
+		 <varlistentry id="cross-site-scripting">
 			<term>cross-site scripting</term>
 			 <listitem>
 				<para>

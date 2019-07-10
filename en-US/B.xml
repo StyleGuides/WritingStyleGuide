@@ -6,7 +6,7 @@
 <chapter id="b">
 	<title>B</title>
 	 <variablelist>
-		<varlistentry id="back_end_back_end">
+		<varlistentry id="back-end">
 			<term>back end, back-end</term>
 			 <listitem>
 				<para>
@@ -19,13 +19,13 @@
 					Do not use "backend."
 				</para>
 				 <para>
-					See also <xref linkend="front_end_front_end" />
+					See also <xref linkend="front-end" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="backup_back_up">
+		 <varlistentry id="back-up">
 			<term>backup, back up</term>
 			 <listitem>
 				<para>
@@ -89,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="bare_metal_bare_metal">
+		 <varlistentry id="bare-metal">
 			<term>bare metal, bare-metal</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="because_since_as">
+		 <varlistentry id="because-since-as">
 			<term>because, since, as</term>
 			 <listitem>
 				<para>
@@ -161,7 +161,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="bimonthly_biweekly_semiweekly_semimonthly">
+		 <varlistentry id="bimonthly">
 			<term>bimonthly, biweekly, semiweekly, semimonthly</term>
 			 <listitem>
 				<para>
@@ -330,8 +330,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="_btrfs_">
-			<term> Btrfs </term>
+		 <varlistentry id="btrfs">
+			<term>Btrfs</term>
 			 <listitem>
 				<para>
 					A copy-on-write file system for Linux. Use a capital "B" when referring to the file system. When referring to tools, commands, and other utilities related to the file system, be faithful to those utilities.

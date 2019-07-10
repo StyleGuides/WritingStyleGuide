@@ -49,7 +49,7 @@
 		 <para>
 			There are two forms of agreement: <emphasis>subject-verb agreement</emphasis> and <emphasis>pronoun-antecedent agreement</emphasis>. Subject-verb agreement is pretty rudimentary, and is not discussed here. Pronoun-antecedent agreement can be a little more problematic, so...
 		</para>
-		 <section id="pronoun_antecedent_agreement">
+		 <section id="pronoun-antecedent-agreement">
 			<title>Pronoun-antecedent agreement</title>
 			 <para>
 				A <emphasis>pronoun</emphasis> is a word that is used in place of a noun (for example, I, he, she, it). An <emphasis>antecedent</emphasis> is a word or phrase to which the pronoun refers.
@@ -656,7 +656,7 @@
 
 	</section>
 	 <xi:include href="Easily_Confused_Words.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <section id="contractions_and_abbreviations">
+	 <section id="contractions-and-abbreviations">
 		<title>Contractions and Abbreviations</title>
 		 <para>
 			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't," "don't," "won't," and similar examples. Always write out in full. Take care also with abbreviations; replace "e.g." with "for example," and replace "i.e." with "that is," and so on. See <citetitle>The IBM Style Guide</citetitle> for full details.

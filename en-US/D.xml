@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="data_center_datacenter">
+		 <varlistentry id="datacenter">
 			<term>data center, datacenter</term>
 			 <listitem>
 				<para>
@@ -56,7 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="data_sheet_datasheet">
+		 <varlistentry id="datasheet">
 			<term>data sheet, datasheet</term>
 			 <listitem>
 				<para>
@@ -83,7 +83,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="data_store_datastore">
+		 <varlistentry id="datastore">
 			<term>data store, datastore</term>
 			 <listitem>
 				<para>
@@ -131,7 +131,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="denial_of_service_dos">
+		 <varlistentry id="denial-of-service">
 			<term>denial of service (DoS)</term>
 			 <listitem>
 				<para>

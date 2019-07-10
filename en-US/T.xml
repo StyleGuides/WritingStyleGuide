@@ -56,11 +56,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="terminal_n.">
-			<term>terminal (n.)</term>
+		 <varlistentry id="terminal">
+			<term>terminal</term>
 			 <listitem>
 				<para>
-					Do not use to describe where to type commands. Use "command line" instead.
+					<emphasis>n.</emphasis> Do not use to describe where to type commands. Use "command line" instead.
 				</para>
 				 <para>
 					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle> for more information.
@@ -92,21 +92,21 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="text_based_adj.">
-			<term>text-based (adj.)</term>
+		 <varlistentry id="text_based">
+			<term>text-based</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "text based."
+					<emphasis>adj.</emphasis> Correct. Do not use "text based."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="third_party_adj._third_party_n.">
+		 <varlistentry id="third-party">
 			<term>third-party (adj.), third party (n.)</term>
 			 <listitem>
 				<para>
-					Use "third-party" as the adjectival form. Use "third party" as the nominal form. Consult a dictionary for more examples.
+					<emphasis>adj., n.</emphasis> Use "third-party" as the adjectival form. Use "third party" as the nominal form. Consult a dictionary for more examples.
 				</para>
 
 			</listitem>
@@ -122,27 +122,27 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="throughput_n.">
-			<term>throughput (n.)</term>
+		 <varlistentry id="throughput">
+			<term>throughput</term>
 			 <listitem>
 				<para>
-					The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See <citetitle>The IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
+					<emphasis>n.</emphasis> The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See <citetitle>The IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="tier_1_adj.">
-			<term>tier-1 (adj.)</term>
+		 <varlistentry id="tier1">
+			<term>tier-1</term>
 			 <listitem>
 				<para>
-					Always use a numeral, and always hyphenate. Follow standard capitalization guidelines.
+					<emphasis>adj.</emphasis> Always use a numeral, and always hyphenate. Follow standard capitalization guidelines.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="time_frame_n.">
+		 <varlistentry id="time-frame">
 			<term>time frame (n.)</term>
 			 <listitem>
 				<para>
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="time_zone_n.">
+		 <varlistentry id="time-zone">
 			<term>time zone (n.)</term>
 			 <listitem>
 				<para>
@@ -162,7 +162,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="token_ring_n.">
+		 <varlistentry id="token-ring">
 			<term>token ring (n.)</term>
 			 <listitem>
 				<para>
@@ -172,7 +172,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="toolbar_n.">
+		 <varlistentry id="toolbar">
 			<term>toolbar (n.)</term>
 			 <listitem>
 				<para>
@@ -182,7 +182,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="tooltip_n.">
+		 <varlistentry id="tooltip">
 			<term>tooltip (n.)</term>
 			 <listitem>
 				<para>
@@ -212,8 +212,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="_ttl_">
-			<term> TTL </term>
+		 <varlistentry id="ttl">
+			<term>TTL</term>
 			 <listitem>
 				<para>
 					Initialism for "time to live" (n.) and "time-to-live" (adj.)

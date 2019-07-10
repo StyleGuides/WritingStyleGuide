@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<section id="overall_book_design">
+<section id="overall-book-design">
 	<title>Overall Book Design</title>
 	 <para>
 		This section describes a general approach to the overall layout and design of technical documentation. This design was developed specifically for technical documentation and may not suit content produced by other groups.
@@ -45,7 +45,7 @@
 		</itemizedlist>
 
 	</para>
-	 <section id="titles_and_subtitles">
+	 <section id="titles-and-subtitles">
 		<title>Titles and Subtitles</title>
 		 <para>
 			The title should be a combination of the complete product name, its version, and the name of the book. For example, "Red&nbsp;Hat Satellite&nbsp;5.6 Installation Guide", or "Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6 Deployment Guide".
@@ -113,7 +113,7 @@
 		</para>
 
 	</section>
-	 <section id="unused_heading_titles">
+	 <section id="unused-heading-titles">
 		<title>Unused Heading Titles</title>
 		 <para>
 			This section lists various heading titles that have been used in Red&nbsp;Hat technical documentation, but should be avoided except in specific circumstances.

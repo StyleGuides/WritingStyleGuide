@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="on_board_adj._onboard_v.">
+		 <varlistentry id="onboard">
 			<term>onboard</term>
 			 <listitem>
 				<para>
@@ -94,17 +94,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="on_premise_adj.">
-			<term>on-premise</term>
-			 <listitem>
-				<para>
-					<emphasis>adj.</emphasis> Substitute "on-site" or "in-house" whenever possible. Although "on-premises" is grammatically correct, "on-premise" is preferred by the industry and the Red&nbsp;Hat Cloud business unit. Only capitalize when used as part of the name of the Red&nbsp;Hat product "Red&nbsp;Hat Storage&nbsp;Server for On-premise."
-				</para>
 
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="on_site_adj.">
+		 <varlistentry id="on-site">
 			<term>on-site</term>
 			 <listitem>
 				<para>
@@ -114,7 +105,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="on_the_fly">
+		 <varlistentry id="on-the-fly">
 			<term>on-the-fly</term>
 			 <listitem>
 				<para>
@@ -195,7 +186,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="open_source_way">
+		 <varlistentry id="open-source-way">
 			<term>open source way</term>
 			 <listitem>
 				<para>

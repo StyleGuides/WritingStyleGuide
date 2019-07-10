@@ -6,23 +6,34 @@
 <chapter id="f">
 	<title>F</title>
 	 <variablelist>
-		<varlistentry id="fail_back_v._failback_n.">
-			<term>fail back (v.), failback (n.)</term>
+		<varlistentry id="failback">
+			<term>fail back, failback</term>
 			 <listitem>
 				<para>
-					No hyphenated form is currently recognized.
+					<emphasis>vb.</emphasis> Use the 2-word form.
 				</para>
+        <para>
+          <emphasis>n.</emphasis> Use the 1-word form.
+        </para>
+        <para>
+          No hyphenated form is currently recognized.
+        </para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="fail_over_v._failover_n._adj.">
-			<term>fail over (v.), failover (n., adj.)</term>
+		 <varlistentry id="failover">
+			<term>fail over, failover</term>
 			 <listitem>
 				<para>
-					No hyphenated form is currently recognized.
+					<emphasis>vb.</emphasis> Use the 2-word form.
 				</para>
-
+        <para>
+          <emphasis>n., adj.</emphasis> Use the 1-word form.
+        </para>
+        <para>
+          No hyphenated form is currently recognized.
+        </para>
 			</listitem>
 
 		</varlistentry>
@@ -36,7 +47,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="fault_tolerance_n._fault_tolerant_adj.">
+		 <varlistentry id="fault-tolerance">
 			<term>fault tolerance (n.), fault-tolerant (adj.)</term>
 			 <listitem>
 				<para>
@@ -46,7 +57,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="Fedoratrade-Project">
+		 <varlistentry id="fedora-project">
 			<term>Fedora&trade; Project</term>
 			 <listitem>
 				<para>
@@ -89,7 +100,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="file_mode_file_name_file_system_file_type">
+		 <varlistentry id="file-type">
 			<term>file mode, file name, file system, file type</term>
 			 <listitem>
 				<para>
@@ -248,7 +259,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="front_end_front_end">
+		 <varlistentry id="front-end">
 			<term>front end, front-end</term>
 			 <listitem>
 				<para>
@@ -261,7 +272,7 @@
 					Do not use "frontend" as a noun or adjective.
 				</para>
 				 <para>
-					See also <xref linkend="back_end_back_end" />
+					See also <xref linkend="back-end" />
 				</para>
 
 			</listitem>

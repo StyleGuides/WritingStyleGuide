@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="ibm_eserver_system_p">
+		 <varlistentry id="ibm-server-system-p">
 			<term>IBM eServer System p</term>
 			 <listitem>
 				<para>
@@ -120,7 +120,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="intel_virtualization_technology_intel_vt">
+		 <varlistentry id="intel-vt">
 			<term>Intel Virtualization Technology (Intel VT)</term>
 			 <listitem>
 				<para>
@@ -133,7 +133,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="Intelreg-Xeonreg">
+		 <varlistentry id="intel-xeon">
 			<term>Intel&reg; Xeon&reg;</term>
 			 <listitem>
 				<para>
@@ -158,13 +158,13 @@
 			<term>internet</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Always lowercase except in some specific exceptions, for example <xref linkend="internet_of_things_iot" />.
+					<emphasis>n.</emphasis> Always lowercase except in some specific exceptions, for example <xref linkend="iot" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="internet_of_things_iot">
+		 <varlistentry id="iot">
 			<term>Internet of Things (IoT)</term>
 			 <listitem>
 				<para>

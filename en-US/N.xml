@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="needs_needs_to_be_need_to">
+		 <varlistentry id="needs">
 			<term>needs, needs to be, need to</term>
 			 <listitem>
 				<para>
@@ -104,7 +104,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="null_or_null">
+		 <varlistentry id="null">
 			<term>NULL or null</term>
 			 <listitem>
 				<para>

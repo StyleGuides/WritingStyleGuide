@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="kbps_kbps_kbps">
+		 <varlistentry id="kbps">
 			<term>kbps, KBps, kBps</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="kernel_based_virtual_machine_kvm">
+		 <varlistentry id="kvm">
 			<term>Kernel-based Virtual Machine (KVM)</term>
 			 <listitem>
 				<para>
@@ -69,7 +69,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="kernel_space_kernel_space">
+		 <varlistentry id="kernel-space">
 			<term>kernel space, kernel-space</term>
 			 <listitem>
 				<para>

@@ -6,7 +6,7 @@
 <chapter id="a">
 	<title>A</title>
 	 <variablelist>
-		<varlistentry id="amp_and_">
+		<varlistentry id="amp-and-">
 			<term>"&amp;" and "+"</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="agile_agile_development">
+		 <varlistentry id="agile-development">
 			<term>agile, agile development</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="all_in_one">
+		 <varlistentry id="all-in-one">
 			<term>all-in-one</term>
 			 <listitem>
 				<para>
@@ -117,8 +117,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="alrightall-right">
-			<term>alright/all right</term>
+		 <varlistentry id="alright">
+			<term>alright, all right</term>
 			 <listitem>
 				<para>
 					Avoid if at all possible. These terms carry a more familiar or colloquial tone than is expected in Red&nbsp;Hat documentation. Use more formal alternatives such as "correct" or "as expected," depending on context.
@@ -181,7 +181,7 @@
         </para>
       </listitem>
     </varlistentry>
-		 <varlistentry id="as_well_as">
+		 <varlistentry id="as-well-as">
 			<term>as well as</term>
 			 <listitem>
 				<para>
@@ -191,8 +191,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="as_a_service">
-			<term id="aas">as-a-Service</term>
+		 <varlistentry id="as-a-service">
+			<term>as-a-Service</term>
 			 <listitem>
 				<para>
 					Be aware that there is a great deal of overlap in as-a-Service acronyms. To avoid confusion, always spell out the full term on first possible use.
@@ -206,7 +206,7 @@
 					</listitem>
 					 <listitem>
 						<para>
-							CaaS (Cloud-as-a-Service, Communications-as-a-Service, <xref linkend="containers_as_a_service" />)
+							CaaS (Cloud-as-a-Service, Communications-as-a-Service, <xref linkend="containers-as-a-service" />)
 						</para>
 
 					</listitem>

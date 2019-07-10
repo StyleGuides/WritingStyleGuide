@@ -6,7 +6,7 @@
 <chapter id="e">
 	<title>E</title>
 	 <variablelist>
-		<varlistentry id="e_book_e_business_e_commerce_e_learning_email">
+		<varlistentry id="e-book">
 			<term>e-book, e-business, e-commerce, e-learning, email</term>
 			 <listitem>
 				<para>
@@ -56,16 +56,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="ensure">
-			<term>ensure</term>
-			 <listitem>
-				<para>
-					This means "to make sure, certain, or safe; to guarantee." For example, "Perform the following steps to ensure a network and serial connection."
-				</para>
 
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="enter">
 			<term>enter</term>
 			 <listitem>
@@ -128,7 +119,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="exclamation_points_">
+		 <varlistentry id="exclamation-points-">
 			<term>exclamation points (!)</term>
 			 <listitem>
 				<para>
