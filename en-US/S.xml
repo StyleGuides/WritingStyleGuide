@@ -205,12 +205,18 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="SHA_1_SHA_2">
-			<term>SH1, SH2</term>
+		 <varlistentry id="sha">
+			<term>SHA-1, SHA-2</term>
 			 <listitem>
 				<para>
-					Correct. SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SH2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SH224," "SH256," "SH384," and "SH512" are considered correct when referring to these specific hash functions.
+					Pronounced "shä" and thus requires "an" as the indefinite article.
+        </para>
+        <para>
+          SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SHA224," "SHA256," "SHA384," and "SHA512" are considered correct when referring to these specific hash functions.
 				</para>
+        <para>
+          See <ulink url="https://en.wikipedia.org/wiki/Secure_Hash_Algorithms"></ulink> for full details.
+        </para>
 
 			</listitem>
 
