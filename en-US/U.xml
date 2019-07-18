@@ -158,7 +158,7 @@
 					<emphasis>n.</emphasis> Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
 				</para>
 				 <para>
-					See <xref linkend="Citing_Other_Works-Referencing_Other_Internet_Sites" /> for more information.
+					See <xref linkend="other-websites" /> for more information.
 				</para>
 
 			</listitem>

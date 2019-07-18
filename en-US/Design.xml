@@ -6,13 +6,13 @@
 <chapter id="design">
 	<title>Design</title>
 	 <xi:include href="Book_Design.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 <section id="Design-Heading_Styles">
+	 <section id="heading-styles">
 		<title>Heading Styles</title>
     <para>
       This section covers various aspects of heading styles and design.
       If your company or organisation has specific requirements in this regard, follow those requirements first.
     </para>
-		 <formalpara id="Heading_Styles-_Capitalization_">
+		 <formalpara id="capitalization">
 				<title>Capitalization</title>
 					<para>
 						The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
@@ -41,7 +41,7 @@
             Do not use terminating periods.
             </para>
           </formalpara>
-			 <formalpara id="Heading_Styles-_Avoid_Imperative_Form_">
+			 <formalpara id="imperative-form_">
 				<title>Avoid Imperative Form</title>
 					<para>
 						Use the gerund form (noun form of verb) for titles, not the imperative form.
@@ -67,20 +67,20 @@
 		</formalpara>
 
 	</section>
-	 <section id="Design-Documenting_Fonts">
+	 <section id="documenting-fonts">
 		<title>Documenting Fonts</title>
 		 <para>
 			The preferred way to refer to each type of postscript font is "PostScript Type x," substituting "x" with either 1, 2, or 3, if the problem is specific to a particular type.
 		</para>
 
 	</section>
-	 <section id="Design-Documenting_the_User_Interface">
+	 <section id="documenting-ui">
 		<title>Documenting the User Interface</title>
 		 <para>
 			In all cases, see <citetitle>The IBM Style Guide</citetitle> for initial guidance.
       The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
-		 <section id="gui_elements_and_punctuation">
+		 <section id="gui-elements-punctuation">
 			<title>GUI Elements and Punctuation</title>
 			 <para>
 				Do not include punctuation that appears on GUI elements, unless omission of that punctuation might lead to confusion.
@@ -93,7 +93,7 @@
 			</para>
 
 		</section>
-		 <section id="starting-apps-fromrhel-desktop">
+		 <section id="starting-apps">
 			<title>Starting Applications from the Red&nbsp;Hat Enterprise&nbsp;Linux Desktop</title>
 			 <para>
 				Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;7 introduces a new approach to starting applications from the desktop. In an effort to maintain consistency and to make translation easier, Red&nbsp;Hat documentation assumes the customer is using GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to start applications.
@@ -101,7 +101,7 @@
 			 <para>
 				The preferred approach is to use the <keycap>Super</keycap> key to enter the Activities Overview, enter the name of the required application, and to press <keycap>Enter</keycap>. The <keycap>Super</keycap> key appears in a variety of guises, depending on the keyboard and other hardware, but often as either the <keysym>Windows</keysym> or <keysym>Command</keysym> key, and typically to the left of the <keycap>Spacebar</keycap>. For example:
 			</para>
-			 <example id="exam-Starting_Applications_from_the_RednbspHat_EnterprisenbspLinux_Desktop-Preferred_Approach_to_Starting_Applications_from_the_Desktop">
+			 <example id="exam-starting-apps">
 				<title>Preferred Approach to Starting Applications from the Desktop</title>
 				 <para>
 					To start <command>gedit</command>, press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>gedit</literal>, and then press <keycap>Enter</keycap>.
@@ -115,7 +115,7 @@
 			 <para>
 				See the <citetitle>Computer Interfaces</citetitle> chapter of <citetitle>The IBM Style Guide</citetitle> for initial guidance. The following examples are intended to highlight correct usage.
 			</para>
-			 <example id="exam-Documenting_Command_Syntax-Cloning_a_Git_Repository">
+			 <example id="exam-documenting-command-syntax">
 				<title>Cloning a Git Repository</title>
 				 <para>
 
@@ -125,10 +125,10 @@
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Documenting_Command_Syntax-Cloning_a_Git_Repository" /> the entire command consists of the following components:
+				In <xref linkend="exam-documenting-command-syntax" /> the entire command consists of the following components:
 			</para>
 			 <variablelist>
-				<varlistentry id="Documenting_Command_Syntax-prompt_">
+				<varlistentry id="command-syntax-prompt">
 					<term>The prompt (<prompt>$</prompt>)</term>
 					 <listitem>
 						<para>
@@ -138,7 +138,7 @@
 					</listitem>
 
 				</varlistentry>
-				 <varlistentry id="Documenting_Command_Syntax-command_git_clone">
+				 <varlistentry id="command-git-clone">
 					<term>The command (<command>git clone</command>)</term>
 					 <listitem>
 						<para>
@@ -148,7 +148,7 @@
 					</listitem>
 
 				</varlistentry>
-				 <varlistentry id="Documenting_Command_Syntax-Source_options_usernamehostnamerepository_filename">
+				 <varlistentry id="source-options">
 					<term>Source options <replaceable>[username@]hostname:/repository_filename</replaceable>)</term>
 					 <listitem>
 						<para>
@@ -158,7 +158,7 @@
 					</listitem>
 
 				</varlistentry>
-				 <varlistentry id="Documenting_Command_Syntax-Target_options_directory">
+				 <varlistentry id="target-options">
 					<term>Target options <replaceable>[directory]</replaceable></term>
 					 <listitem>
 						<para>
@@ -170,17 +170,17 @@
 				</varlistentry>
 
 			</variablelist>
-			 <example id="exam-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts">
+			 <example id="exam-secure-copy">
 				<title>Securely Copying a File Between Hosts</title>
 
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
 			</example>
 			 <para>
-				In <xref linkend="exam-Documenting_Command_Syntax-Securely_Copying_a_File_Between_Hosts" /> the entire command consists of the following components:
+				In <xref linkend="exam-secure-copy" /> the entire command consists of the following components:
 			</para>
 			 <variablelist>
-				<varlistentry id="Documenting_Command_Syntax-prompt">
+				<varlistentry id="command-prompt">
 					<term>The command prompt (<prompt>$</prompt>)</term>
 					 <listitem>
 						<para>
@@ -190,7 +190,7 @@
 					</listitem>
 
 				</varlistentry>
-				 <varlistentry id="Documenting_Command_Syntax-command_scp">
+				 <varlistentry id="command-scp">
 					<term>The command (<command>scp</command>)</term>
 					 <listitem>
 						<para>
@@ -200,7 +200,7 @@
 					</listitem>
 
 				</varlistentry>
-				 <varlistentry id="Documenting_Command_Syntax-Source_options_filename">
+				 <varlistentry id="command-syntax-source-filename">
 					<term>Source options (<replaceable>filename</replaceable>)</term>
 					 <listitem>
 						<para>
@@ -210,7 +210,7 @@
 					</listitem>
 
 				</varlistentry>
-				 <varlistentry id="Documenting_Command_Syntax-Target_options_usernamehostnamedirectory">
+				 <varlistentry>
 					<term>Target options (<replaceable>[username@]hostname:/directory</replaceable>)</term>
 					 <listitem>
 						<para>
@@ -235,12 +235,12 @@
 				</para>
 
 			</warning>
-			 <section id="Documenting_Command_Syntax-Documenting_Multiple_or_Long_Commands">
+			 <section>
 				<title>Documenting Multiple or Long Commands</title>
 				 <para>
 					Sometimes you need to demonstrate how to use very long commands that extend over two or more lines, or include several commands in a single example. If the commands are relatively short and straightforward, include the commands on consecutive lines:
 				</para>
-				 <example id="exam-Documenting_Multiple_or_Long_Commands-Documenting_Multiple_Commands">
+				 <example>
 					<title>Documenting Multiple Commands</title>
 
 <screen>$ cd Documents
@@ -251,7 +251,7 @@ $ vi myFile.txt
 				 <para>
 					If the commands are long, complex, or wrap over multiple lines, use the following design to help optimize clarity, and to make it easy for users to copy and paste the command if required:
 				</para>
-				 <example id="exam-Documenting_Multiple_or_Long_Commands-Documenting_Long_Commands">
+				 <example>
 					<title>Documenting Long Commands</title>
 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
@@ -269,7 +269,7 @@ $ vi myFile.txt
 				</example>
 
 			</section>
-      <section>
+      <section id="replaceable-paths">
         <title>Referring to Replaceable Paths</title>
           <para>
             To refer to a path that users need to replace with something specific to their system, use &lt;replaceable&gt; tags, the correct syntax for the system and object in question, and an indicative name.
@@ -302,7 +302,7 @@ $ vi myFile.txt
         </section>
 
 		</section>
-		 <section id="Describing_How_to_View-EditFiles">
+		 <section id="view-edit-files">
 			<title>Describing How to View and Edit Files</title>
 			 <para>
 				To describe how to view and edit files, such as configuration files, scripts, and so on, do not include editor names as part of the guidance, unless the topic is about a specific editor, or is otherwise necessary to achieve a desired result.
@@ -327,7 +327,7 @@ $ vi myFile.txt
 			</para>
 
 		</section>
-		 <section id="Using_Host-UserNames_Correctly">
+		 <section id="use-hostnames-correctly">
 			<title>Using Host and User Names Correctly</title>
 			 <para>
 				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following.
@@ -388,12 +388,12 @@ $ vi myFile.txt
 				</listitem>
 
 			</itemizedlist>
-			 <section id="Using_Host-UserNames_Correctly-Using_Extended_User-GroupNames">
+			 <section id="using-extended-names">
 				<title>Using Extended User and Group Names</title>
 				 <para>
 					Sometimes, the recommended list of user and group names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable.
 				</para>
-				 <formalpara id="Using_Extended_User-GroupNames-Using_Realistic_User_Names">
+				 <formalpara id="using-realistic-names">
 					<title>Using Realistic User Names</title>
 					 <para>
 						When you are writing a detailed case study, such as training exercises, reviews, and similar material, use realistic names. These names should not be real people. In other words, do not use the name of an employee, a well-known person, or your neighbor.
@@ -403,7 +403,7 @@ $ vi myFile.txt
 				 <para>
 					For example, you are the system administrator at Global Banking and you have been asked to set up permissions to the accounting directory for the following users: John Doe, Sunni Koning, Huong Sabo, and Jerlene Paluch. John is a department manager and needs to be able to read from the accounting directory, Sunni is the lead accountant and needs both read and write access.
 				</para>
-				 <formalpara id="Using_Extended_User-GroupNames-Choosing_a_Realistic_Name">
+				 <formalpara id="choosing-realistic-names">
 					<title>Choosing a Realistic Name</title>
 					 <para>
 						Consider the following when choosing a realistic name: <footnote> <para>
@@ -434,7 +434,7 @@ $ vi myFile.txt
 					</listitem>
 
 				</itemizedlist>
-				 <formalpara id="Using_Extended_User-GroupNames-Sourcing_Realistic_Names">
+				 <formalpara id="sourcing-realistic-names">
 					<title>Sourcing Realistic Names</title>
 					 <para>
 						You can use any of the following name generators to create realistic names for users:
@@ -468,7 +468,7 @@ $ vi myFile.txt
 					</listitem>
 
 				</itemizedlist>
-				 <formalpara id="Using_Extended_User-GroupNames-Group_Names">
+				 <formalpara id="using-extended-group-names">
 					<title>Group Names</title>
 					 <para>
 						Use any lowercase name that is a logical extension of the accepted user names, without the numerical suffix. For example, <systemitem>architects</systemitem>, <systemitem>developers</systemitem>, <systemitem>operators</systemitem>.
@@ -481,7 +481,7 @@ $ vi myFile.txt
 		</section>
 
 	</section>
-	 <section id="Design-Documenting_Currencies">
+	 <section id="document-currencies">
 		<title>Documenting Currencies</title>
 		 <para>
 			Use local currency symbols wherever possible. If symbol clash occurs (USD vs AUD, for example), disambiguate with the 2-character country code. For example, US$, AU$.
@@ -494,19 +494,19 @@ $ vi myFile.txt
 		</important>
 
 	</section>
-	 <section id="Design-Using_Abbreviations_Acronyms-InitialismsCorrectly">
+	 <section id="using-abbreviations">
 		<title>Using Abbreviations, Acronyms, and Initialisms Correctly</title>
 		 <para>
 			This section describes how to use abbreviations, acronyms, and initialisms correctly in Red&nbsp;Hat documentation.
 		</para>
-		 <formalpara id="Using_Abbreviations_Acronyms-InitialismsCorrectly-Abbreviations">
+		 <formalpara>
 			<title>Abbreviations</title>
 			 <para>
 				An abbreviation is a shortened form of a word or phrase. For example, <abbrev>Pty.</abbrev> and <abbrev>Inc.</abbrev> are abbreviations for "proprietary" and "incorporated," respectively. Read them as the word for which they are an abbreviation.
 			</para>
 
 		</formalpara>
-		 <formalpara id="Using_Abbreviations_Acronyms-InitialismsCorrectly-Acronyms">
+		 <formalpara id="using-acronyms">
 			<title>Acronyms</title>
 			 <para>
 				What are acronyms anyway? They are similar to abbreviations and initialisms but they are pronounced as an actual word. For example, <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
@@ -519,7 +519,7 @@ $ vi myFile.txt
 		 <para>
 			Be sure to use correct capitalization for acronyms. Not all acronyms are capitalized (for example, "spool"); see <citetitle>The IBM Style Guide</citetitle> or another suitable reference if you are unsure.
 		</para>
-		 <formalpara id="Using_Abbreviations_Acronyms-InitialismsCorrectly-Initialisms">
+		 <formalpara>
 			<title>Initialisms</title>
 			 <para>
 				An initialism is an abbreviation that consists of the first letters of words in a phrase, syllables, or some combination thereof. Each character is pronounced separately. For example, <abbrev>FTP</abbrev> is an initialism for <systemitem class="protocol">File Transfer Protocol.</systemitem>
@@ -527,11 +527,11 @@ $ vi myFile.txt
 
 		</formalpara>
 		 <para>
-			Bear pronunciation in mind when using articles. See <xref linkend="Using_Abbreviations_Acronyms-InitialismsCorrectly-Acronyms" /> for more information.
+			Bear pronunciation in mind when using articles. See <xref linkend="acronyms" /> for more information.
 		</para>
 
 	</section>
-	 <section id="Design-Using_Company_Product-BrandNames_Correctly">
+	 <section id="product-names">
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
 			A number of restrictions apply to using company, product, and brand names in Red&nbsp;Hat documentation. Refer to internal sources for further conditions that might apply to your own products.
@@ -619,7 +619,7 @@ $ vi myFile.txt
 		</itemizedlist>
 
 	</section>
-	 <section id="Design-Using_Version_Numbers_Correctly">
+	 <section id="version-numbers">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
 			The preferred format for product names includes only the major version number. For example:
@@ -676,7 +676,7 @@ $ vi myFile.txt
 		</important>
 
 	</section>
-	 <section id="Design-Using_Admonitions">
+	 <section id="admonitions">
 		<title>Using Admonitions</title>
 		 <para>
 			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
@@ -720,9 +720,9 @@ $ vi myFile.txt
 		</para>
 
 	</section>
-	 <section id="Design-Citing_Other_Works">
+	 <section id="citing-other-works">
 		<title>Citing Other Works</title>
-		 <formalpara id="Citing_Other_Works-Referencing_Other_Books">
+		 <formalpara id="other-books">
 			<title>Referencing Other Books</title>
 			 <para>
 				When referencing another book, either internal or external to Red&nbsp;Hat, use the following format:
@@ -745,7 +745,7 @@ $ vi myFile.txt
 			</author>
 			 ; Red&nbsp;Hat Press.
 		</para>
-		 <formalpara id="Citing_Other_Works-Referencing_Other_Internet_Sites">
+		 <formalpara id="other-websites">
 			<title>Referencing Other Internet Sites</title>
 			 <para>
 				When referencing another internet site, use the following guidelines:
@@ -778,7 +778,7 @@ $ vi myFile.txt
 		</itemizedlist>
 
 	</section>
-	 <section id="Design-Citing_Other_Authors">
+	 <section id="other-authors">
 		<title>Citing Other Authors</title>
 		 <para>
 			DocBook provides the &lt;blockquote&gt; and &lt;attribution&gt; tags for this purpose, but how they should be rendered is currently being discussed. For example:
