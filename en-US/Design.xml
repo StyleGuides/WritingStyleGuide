@@ -41,7 +41,7 @@
             Do not use terminating periods.
             </para>
           </formalpara>
-			 <formalpara id="imperative-form_">
+			 <formalpara id="imperative-form">
 				<title>Avoid Imperative Form</title>
 					<para>
 						Use the gerund form (noun form of verb) for titles, not the imperative form.
@@ -53,7 +53,7 @@
 					 <important>
 						<para>
 							Gerunds should be avoided elsewhere.
-              Refer to <xref linkend="Writing_Clearly_and_Succinctly-Sentence_Structure" />.
+              Refer to <xref linkend="sentence-structure" />.
 						</para>
 					</important>
       <formalpara>

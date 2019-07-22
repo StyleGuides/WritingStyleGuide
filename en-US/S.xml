@@ -334,13 +334,13 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="skill_set_skills_knowledge">
+		 <varlistentry id="skillset">
 			<term>skill set, skills, knowledge</term>
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective. Do not use "skill-set knowledge;" it is redundant. See the following examples:
 				</para>
-				 <example id="exam-skill_set_skills_knowledge-Example_Use_of_Term_Skillset_Versus_Skills">
+				 <example id="exam-skillset">
 					<title>Example Use of Term "Skillset" Versus "Skills"</title>
 					 <para>
 						Incorrect: Do you have the right skillset to be an RHCE?
@@ -350,7 +350,7 @@
 					</para>
 
 				</example>
-				 <example id="exam-skill_set_skills_knowledge-Example_Use_of_Term_Knowledge">
+				 <example id="exam-knowledge">
 					<title>Example Use of Term "Knowledge"</title>
 					 <para>
 						Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.
@@ -616,7 +616,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.
 				</para>
 				 <para>
-					See also <xref linkend="Hyphenation-Hyphenate_Double_Prefixes" />.
+					See also <xref linkend="hyphenate-double-prefixes" />.
 				</para>
 
 			</listitem>
@@ -626,7 +626,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>subdirectory</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-directory." See also <xref linkend="Hyphenation-Hyphenate_Double_Prefixes" />.
+					Correct. Do not use "sub-directory." See also <xref linkend="hyphenate-double-prefixes" />.
 				</para>
 
 			</listitem>
@@ -636,7 +636,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>submenu</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-menu." See also <xref linkend="Hyphenation-Hyphenate_Double_Prefixes" />.
+					Correct. Do not use "sub-menu." See also <xref linkend="hyphenate-double-prefixes" />.
 				</para>
 
 			</listitem>
@@ -681,7 +681,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="sybase_adaptive_server_enterprise_ase">
+		 <varlistentry>
 			<term>Sybase Adaptive Server Enterprise (ASE)</term>
 			 <listitem>
 				<para>

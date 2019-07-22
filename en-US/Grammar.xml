@@ -108,7 +108,7 @@
 		</section>
 
 	</section>
-	 <section id="Using_Who_Whom_That-WhichCorrectly">
+	 <section id="using-who-whom">
 		<title>Using Who, Whom, That, and Which Correctly</title>
 		 <para>
 			Use "whom" or "who" to introduce a qualifying phrase when the antecedent is a person. Use "that" or "which" when referring to a thing. Use "which" or "that" to introduce a qualifying phrase when the antecedent is a concept or an object. Who, whom, that, and which are known as "relative pronouns."
@@ -117,7 +117,7 @@
 			Use the following as guidelines:
 		</para>
 		 <variablelist>
-			<varlistentry id="Using_Who_Whom_That-WhichCorrectly-_Who_">
+			<varlistentry id="using-who">
 				<term> Who </term>
 				 <listitem>
 					<para>
@@ -127,7 +127,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Using_Who_Whom_That-WhichCorrectly-_Whom_">
+			 <varlistentry id="using-whom">
 				<term> Whom </term>
 				 <listitem>
 					<para>
@@ -137,7 +137,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Using_Who_Whom_That-WhichCorrectly-_Which_">
+			 <varlistentry id="using-which">
 				<term> Which </term>
 				 <listitem>
 					<para>
@@ -147,7 +147,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Using_Who_Whom_That-WhichCorrectly-_That_">
+			 <varlistentry id="using-that">
 				<term> That </term>
 				 <listitem>
 					<para>
@@ -256,7 +256,7 @@
 		 <para>
 			The following are things to consider when constructing sentences:
 		</para>
-		 <formalpara id="Sentence_Structure-Sentence_Length">
+		 <formalpara id="length">
 			<title>Sentence Length</title>
 			 <para>
 				Try not to pack too much information into one sentence. Keep it short. For example, the following sentence is a good example of how not to write:
@@ -266,7 +266,7 @@
 		 <para>
 			The <guibutton>Start</guibutton> button, which you can find in the bottom left corner of your screen (also activated by the "Windows key" on your keyboard, the one between the <keycap>Ctrl</keycap> and <keycap>Alt</keycap> keys), provides a central starting point for applications and tasks, and can be customized according to your individual preferences so that it presents menu items relevant to you instead of presenting the standard items that come with the default installation of the operating system, items which, in my opinion, are irrelevant for most users these days who really only need access to an internet browser such as Google Chrome or Mozilla Firefox.
 		</para>
-		 <formalpara id="Sentence_Structure-Run_on_Sentences">
+		 <formalpara id="run-on">
 			<title>Run-on Sentences</title>
 			 <para>
 				Two or more complete ideas that are joined without punctuation create a <emphasis>run-on sentence</emphasis> (also called a <emphasis>fused sentence</emphasis>). The sentence does not have to be long to be a run-on sentence, although the longer the sentence the more difficult it is to read. You can:
@@ -335,7 +335,7 @@
 			</tgroup>
 
 		</table>
-		 <formalpara id="Sentence_Structure-Sentence_Fragments">
+		 <formalpara id="fragments">
 			<title>Sentence Fragments</title>
 			 <para>
 				A <firstterm>sentence fragment</firstterm> is an incomplete sentence. For example, "We will release no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade. At least, before its time." the second of the two sentences is a fragment. Repair sentence fragments by making them complete sentences.
@@ -348,7 +348,7 @@
 			</para>
 
 		</note>
-		 <formalpara id="Sentence_Structure-Telegraphic_Style">
+		 <formalpara id="telegraphic">
 			<title>Telegraphic Style</title>
 			 <para>
 				Extreme cases of word economy can result in a telegraphic style, omitting words that can clarify the meaning of a sentence, such as articles, prepositions, and verbs used with gerunds.
@@ -413,7 +413,7 @@
 			</tgroup>
 
 		</table>
-		 <formalpara id="Sentence_Structure-_Verbosity_">
+		 <formalpara id="verbosity">
 			<title> Verbosity </title>
 			 <para>
 				Avoid unnecessary words. Keep it succinct.
@@ -445,7 +445,7 @@
 			</tgroup>
 
 		</table>
-		 <formalpara id="Sentence_Structure-Word_Order">
+		 <formalpara id="word-order">
 			<title>Word Order</title>
 			 <para>
 				When two or more correct arrangements are possible, choose the order that will create the least ambiguity. Generally, this is the standard subject-verb-object, with modifiers before or immediately following what they modify.
@@ -482,7 +482,7 @@
 	 <section id="avoiding-ambiguities">
 		<title>Avoiding Ambiguities</title>
 		 <variablelist>
-			<varlistentry id="Avoiding_Ambiguities-_Capitalizing_Proper_Nouns_">
+			<varlistentry id="proper-nouns">
 				<term> Capitalizing Proper Nouns </term>
 				 <listitem>
 					<para>
@@ -517,7 +517,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Avoiding_Ambiguities-_Homographic_Verbs_">
+			 <varlistentry id="homographs">
 				<term> Homographic Verbs </term>
 				 <listitem>
 					<para>
@@ -557,7 +557,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Avoiding_Ambiguities-_Homonymity_">
+			 <varlistentry id="homonyms">
 				<term> Homonymity </term>
 				 <listitem>
 					<para>
@@ -595,7 +595,7 @@
 					</table>
 					 <note>
 						<para>
-							See also <xref linkend="Writing_Clearly_and_Succinctly-Grammatical_Genders" />.
+							See also <xref linkend="genders" />.
 						</para>
 
 					</note>
@@ -603,7 +603,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Avoiding_Ambiguities-_Invisible_Plurals_">
+			 <varlistentry id="invisible-plurals">
 				<term> Invisible Plurals </term>
 				 <listitem>
 					<para>
@@ -638,8 +638,8 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Avoiding_Ambiguities-_Synonymity_">
-				<term> Synonymity </term>
+			 <varlistentry id="synonymity">
+				<term>Synonymity</term>
 				 <listitem>
 					<para>
 						Sometimes multiple terms have a single meaning. If terms are used inconsistently, users (and translators) will assume they refer to different things. It is best to use a single term for a single concept throughout.
@@ -669,7 +669,7 @@
 		 <para>
 			There are no hard and fast rules for hyphenation. In general, do not hyphenate unless required for clarity, or our other references declare that hyphens are required. The following is general guidance; if you are unsure about whether or not to hyphenate, ask your peers.
 		</para>
-		 <formalpara id="Hyphenation-Hyphenate_for_Clarity">
+		 <formalpara id="hyphenate-for-clarity">
 			<title>Hyphenate for Clarity</title>
 			 <para>
 				Hyphenate when needed for clarity. Words that begin with prefixes are usually not hyphenated. Prefixes can include "multi," "non," "sub," "co," "semi," "pre," "re," and so on. The same applies to suffixes; for example, "less" as a suffix does not require hyphenation.
@@ -685,7 +685,7 @@
 			</para>
 
 		</note>
-		 <formalpara id="Hyphenation-Hyphenate_Complex_Adjectives">
+		 <formalpara id="hyphenate-complex-adjectives">
 			<title>Hyphenate Complex Adjectives</title>
 			 <para>
 				Hyphenate complex adjectives (compound modifiers). This is when two adjectives work together to modify an object. The hyphen is used when the first adjective modifies the second adjective. For example, cloud-based solutions, right-side paralysis, system-wide menu.
@@ -701,7 +701,7 @@
 			</para>
 
 		</note>
-		 <formalpara id="Hyphenation-Hyphenate_Consecutive_Vowel_Sounds">
+		 <formalpara id="hyphenate-consecutive-vowels">
 			<title>Hyphenate Consecutive Vowel Sounds</title>
 			 <para>
 				Hyphenate words where the prefix ends in a vowel and the word that follows begins with the same vowel. For example, semi-independent, pre-emptive.
@@ -714,14 +714,14 @@
 			</para>
 
 		</note>
-		 <formalpara id="Hyphenation-Hyphenate_Mixed_Capitalization">
+		 <formalpara id="hyphenate-mixed-caps">
 			<title>Hyphenate Mixed Capitalization</title>
 			 <para>
 				Hyphenate when the word that follows a prefix is capitalized. For example, un-American, non-British.
 			</para>
 
 		</formalpara>
-		 <formalpara id="Hyphenation-Hyphenate_Double_Prefixes">
+		 <formalpara id="hyphenate-double-prefixes">
 			<title>Hyphenate Double Prefixes</title>
 			 <para>
 				Hyphenate when the word has double prefixes. For example, sub-subparagraph, re-sublet.

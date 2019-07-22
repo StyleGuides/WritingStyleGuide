@@ -45,7 +45,7 @@
 		</itemizedlist>
 
 	</para>
-	 <section id="Resources-References_for_Technical_Content_and_Collateral">
+	 <section id="tech-content-refs">
 		<title>References for Technical Content and Collateral</title>
 		 <itemizedlist>
 			<listitem>
@@ -82,7 +82,7 @@
 		</itemizedlist>
 
 	</section>
-	 <section id="Resources-References_for_Marketing-CorporateCollateral">
+	 <section id="marketing-content-refs">
 		<title>References for Marketing and Corporate Collateral</title>
 		 <itemizedlist>
 			<listitem>
@@ -101,7 +101,7 @@
 		</itemizedlist>
 
 	</section>
-	 <section id="Resources-Secondary_References">
+	 <section id="secondary-refs">
 		<title>Secondary References</title>
 		 <para>
 			The following references may provide guidance when the primary references cannot provide a suitable solution.

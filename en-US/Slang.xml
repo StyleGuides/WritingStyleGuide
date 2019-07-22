@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="Avoiding_Slang_Metaphors-MisleadingLanguage">
+<chapter id="avoiding-slang">
 	<title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title>
 	 <para>
 		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, avoid slang and other culture-specific terminology. This section attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
@@ -11,13 +11,13 @@
 	 <para>
 		If you find slang terms or other difficult-to-understand passages in our documentation, use this page to search for alternatives.
 	</para>
-	 <section id="Avoiding_Slang_Metaphors-MisleadingLanguage-Avoiding_Misleading_or_Confusing_Language">
+	 <section id="avoiding-confusing-language">
 		<title>Avoiding Misleading or Confusing Language</title>
 		 <para>
 			Some terms, phrases, and general language can be confusing if you are not a native speaker or if the phraseology has regional significance. Sometimes spelling changes are introduced over time and regions, based purely on differences in pronunciation. Some phrases can carry hidden or unintentional meanings. This section attempts to introduce a few examples.
 		</para>
 		 <variablelist>
-			<varlistentry id="Avoiding_Misleading_or_Confusing_Language-best_practices" role="internal">
+			<varlistentry>
 				<term>best practices</term>
 				 <listitem>
 					<para>
@@ -27,7 +27,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Avoiding_Misleading_or_Confusing_Language-first_come_first_served">
+			 <varlistentry id="first-come-first-served">
 				<term>first come, first served</term>
 				 <listitem>
 					<para>
@@ -41,13 +41,13 @@
 		</variablelist>
 
 	</section>
-	 <section id="Avoiding_Slang_Metaphors-MisleadingLanguage-Identifying-AvoidingSlang">
+	 <section id="identify-avoid-slang">
 		<title>Identifying and Avoiding Slang</title>
 		 <para>
 			Examples of slang terms:
 		</para>
 		 <variablelist>
-			<varlistentry id="Identifying-AvoidingSlang-administrivia">
+			<varlistentry>
 				<term>administrivia</term>
 				 <listitem>
 					<para>
@@ -57,7 +57,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-anything_youthey_like">
+			 <varlistentry>
 				<term>anything you/they like</term>
 				 <listitem>
 					<para>
@@ -80,7 +80,7 @@
 
 			</varlistentry>
 
-			 <varlistentry id="Identifying-AvoidingSlang-ask_as_a_noun_make_the_ask">
+			 <varlistentry>
 				<term>ask (as a noun), make the ask</term>
 				 <listitem>
 					<para>
@@ -90,7 +90,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-at_this_point_in_time">
+			 <varlistentry>
 				<term>at this point in time</term>
 				 <listitem>
 					<para>
@@ -100,7 +100,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-automagic">
+			 <varlistentry>
 				<term>automagic</term>
 				 <listitem>
 					<para>
@@ -110,7 +110,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-best_of_breed">
+			 <varlistentry>
 				<term>best-of-breed</term>
 				 <listitem>
 					<para>
@@ -120,7 +120,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-bleeding_edge">
+			 <varlistentry>
 				<term>bleeding edge</term>
 				 <listitem>
 					<para>
@@ -130,7 +130,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-bottom_line">
+			 <varlistentry>
 				<term>bottom line</term>
 				 <listitem>
 					<para>
@@ -141,7 +141,7 @@
 
 			</varlistentry>
 
-			 <varlistentry id="Identifying-AvoidingSlang-bucketize">
+			 <varlistentry>
 				<term>bucketize</term>
 				 <listitem>
 					<para>
@@ -151,7 +151,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-center_of_competency">
+			 <varlistentry>
 				<term>center of competency</term>
 				 <listitem>
 					<para>
@@ -161,7 +161,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-check_this_site">
+			 <varlistentry>
 				<term>check this site</term>
 				 <listitem>
 					<para>
@@ -171,7 +171,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-coopetition">
+			 <varlistentry>
 				<term>coopetition</term>
 				 <listitem>
 					<para>
@@ -181,7 +181,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-core_competency">
+			 <varlistentry>
 				<term>core competency</term>
 				 <listitem>
 					<para>
@@ -191,7 +191,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-eat_your_own_dogfood">
+			 <varlistentry>
 				<term>eat your own dogfood</term>
 				 <listitem>
 					<para>
@@ -201,7 +201,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-data_point">
+			 <varlistentry>
 				<term>data point</term>
 				 <listitem>
 					<para>
@@ -211,7 +211,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-dig_deeper_delve_deeper">
+			 <varlistentry>
 				<term>dig deeper, delve deeper</term>
 				 <listitem>
 					<para>
@@ -221,7 +221,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-double_edged_sword_double_bladed_sword">
+			 <varlistentry>
 				<term>double-edged sword, double-bladed sword</term>
 				 <listitem>
 					<para>
@@ -231,7 +231,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-enterprise_ready">
+			 <varlistentry>
 				<term>enterprise-ready</term>
 				 <listitem>
 					<para>
@@ -241,7 +241,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-exceed_your_expectations">
+			 <varlistentry>
 				<term>exceed your expectations</term>
 				 <listitem>
 					<para>
@@ -251,7 +251,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-fib">
+			 <varlistentry>
 				<term>fib</term>
 				 <listitem>
 					<para>
@@ -261,7 +261,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-flying_by_the_seat_of_your_pants">
+			 <varlistentry>
 				<term>flying by the seat of your pants</term>
 				 <listitem>
 					<para>
@@ -271,7 +271,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-frame_it_up">
+			 <varlistentry>
 				<term>frame it up</term>
 				 <listitem>
 					<para>
@@ -281,7 +281,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-frown_upon">
+			 <varlistentry>
 				<term>frown upon</term>
 				 <listitem>
 					<para>
@@ -291,7 +291,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-fuzzy_search">
+			 <varlistentry>
 				<term>fuzzy (search)</term>
 				 <listitem>
 					<para>
@@ -319,7 +319,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-going_forward_basis">
+			 <varlistentry>
 				<term>going-forward basis</term>
 				 <listitem>
 					<para>
@@ -329,7 +329,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-happy_path">
+			 <varlistentry>
 				<term>happy path</term>
 				 <listitem>
 					<para>
@@ -339,7 +339,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-harness_the_power">
+			 <varlistentry>
 				<term>harness the power</term>
 				 <listitem>
 					<para>
@@ -349,7 +349,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-have_a_crack_atjump_right_in">
+			 <varlistentry>
 				<term>have a crack at/jump right in</term>
 				 <listitem>
 					<para>
@@ -359,7 +359,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-if_you_want_if_you_wish">
+			 <varlistentry>
 				<term>if you want, if you wish</term>
 				 <listitem>
 					<para>
@@ -369,7 +369,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-in_concert_with">
+			 <varlistentry>
 				<term>in concert with</term>
 				 <listitem>
 					<para>
@@ -379,7 +379,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-improve_enhance">
+			 <varlistentry>
 				<term>improve, enhance</term>
 				 <listitem>
 					<para>
@@ -389,7 +389,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-in_a_pinch">
+			 <varlistentry>
 				<term>in a pinch</term>
 				 <listitem>
 					<para>
@@ -399,7 +399,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-infomediary">
+			 <varlistentry>
 				<term>infomediary</term>
 				 <listitem>
 					<para>
@@ -409,7 +409,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-is_designed_to">
+			 <varlistentry>
 				<term>is designed to</term>
 				 <listitem>
 					<para>
@@ -434,7 +434,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-kettle_of_fish">
+			 <varlistentry>
 				<term>kettle of fish</term>
 				 <listitem>
 					<para>
@@ -444,7 +444,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-leverage">
+			 <varlistentry>
 				<term>leverage</term>
 				 <listitem>
 					<para>
@@ -454,7 +454,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-lights_on_lights_on">
+			 <varlistentry>
 				<term>lights on, lights-on</term>
 				 <listitem>
 					<para>
@@ -467,7 +467,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-low_hanging_fruit">
+			 <varlistentry>
 				<term>low-hanging fruit</term>
 				 <listitem>
 					<para>
@@ -477,7 +477,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-marketecture">
+			 <varlistentry>
 				<term>marketecture</term>
 				 <listitem>
 					<para>
@@ -487,7 +487,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-meet_your_needs">
+			 <varlistentry>
 				<term>meet your needs</term>
 				 <listitem>
 					<para>
@@ -497,7 +497,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-mission_critical">
+			 <varlistentry>
 				<term>mission-critical</term>
 				 <listitem>
 					<para>
@@ -507,7 +507,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-net_net">
+			 <varlistentry>
 				<term>net-net</term>
 				 <listitem>
 					<para>
@@ -517,7 +517,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-niche_focus">
+			 <varlistentry>
 				<term>niche focus</term>
 				 <listitem>
 					<para>
@@ -527,7 +527,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-over_the_wire">
+			 <varlistentry>
 				<term>over the wire</term>
 				 <listitem>
 					<para>
@@ -537,7 +537,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-pain_in_the_backside">
+			 <varlistentry>
 				<term>pain in the backside</term>
 				 <listitem>
 					<para>
@@ -547,7 +547,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-paradigm">
+			 <varlistentry>
 				<term>paradigm</term>
 				 <listitem>
 					<para>
@@ -557,7 +557,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-performant">
+			 <varlistentry>
 				<term>performant</term>
 				 <listitem>
 					<para>
@@ -567,7 +567,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-physicalize">
+			 <varlistentry>
 				<term>physicalize</term>
 				 <listitem>
 					<para>
@@ -577,7 +577,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-piggyback">
+			 <varlistentry>
 				<term>piggyback</term>
 				 <listitem>
 					<para>
@@ -595,7 +595,7 @@
           </para>
         </listitem>
       </varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-productize">
+			 <varlistentry>
 				<term>productize</term>
 				 <listitem>
 					<para>
@@ -605,7 +605,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-ready_to_rumble">
+			 <varlistentry>
 				<term>ready to rumble</term>
 				 <listitem>
 					<para>
@@ -615,7 +615,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-rest_on_your_laurels">
+			 <varlistentry>
 				<term>rest on your laurels</term>
 				 <listitem>
 					<para>
@@ -625,7 +625,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-right_before_doing_something">
+			 <varlistentry>
 				<term>right before doing something</term>
 				 <listitem>
 					<para>
@@ -635,7 +635,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-root_your_server_in_the_serverRoot_directory">
+			 <varlistentry>
 				<term>root your server in the /serverRoot directory</term>
 				 <listitem>
 					<para>
@@ -645,7 +645,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-shoot_yourself_in_the_foot">
+			 <varlistentry>
 				<term>shoot yourself in the foot</term>
 				 <listitem>
 					<para>
@@ -655,7 +655,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-shy_of">
+			 <varlistentry>
 				<term>shy of</term>
 				 <listitem>
 					<para>
@@ -665,7 +665,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-silo_siloed">
+			 <varlistentry>
 				<term>silo, siloed</term>
 				 <listitem>
 					<para>
@@ -675,7 +675,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-solutioning">
+			 <varlistentry>
 				<term>solutioning</term>
 				 <listitem>
 					<para>
@@ -685,7 +685,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-solutions_based">
+			 <varlistentry>
 				<term>solutions-based</term>
 				 <listitem>
 					<para>
@@ -695,7 +695,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-solution_stack">
+			 <varlistentry>
 				<term>solution stack</term>
 				 <listitem>
 					<para>
@@ -706,7 +706,7 @@
 
 			</varlistentry>
 
-			 <varlistentry id="Identifying-AvoidingSlang-stovepipe">
+			 <varlistentry>
 				<term>stovepipe</term>
 				 <listitem>
 					<para>
@@ -716,7 +716,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-synergistic_synergy">
+			 <varlistentry>
 				<term>synergistic, synergy</term>
 				 <listitem>
 					<para>
@@ -726,7 +726,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-synergical_connectivity">
+			 <varlistentry>
 				<term>synergical connectivity</term>
 				 <listitem>
 					<para>
@@ -736,7 +736,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-to_think_outside_the_box">
+			 <varlistentry>
 				<term>to think outside the box</term>
 				 <listitem>
 					<para>
@@ -746,7 +746,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-tunnel_vision">
+			 <varlistentry>
 				<term>tunnel vision</term>
 				 <listitem>
 					<para>
@@ -756,7 +756,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-under_the_covers">
+			 <varlistentry>
 				<term>under the covers</term>
 				 <listitem>
 					<para>
@@ -766,7 +766,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-value_added">
+			 <varlistentry>
 				<term>value-added</term>
 				 <listitem>
 					<para>
@@ -776,7 +776,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-very">
+			 <varlistentry>
 				<term>very</term>
 				 <listitem>
 					<para>
@@ -786,7 +786,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry id="Identifying-AvoidingSlang-virtual_elephants">
+			 <varlistentry>
 				<term>virtual elephants</term>
 				 <listitem>
 					<para>

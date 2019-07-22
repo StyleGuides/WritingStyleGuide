@@ -41,13 +41,7 @@
 		</itemizedlist>
 
 	</para>
-	 <!--                                         <formalpara id="form-Policy-Writing_Style_Guide-Objectives_of_this_Guide-Legal_Compliance">
-		<title>Legal Compliance</title>
-		 <para>
-			Red Hat documentation must meet Red Hat's legal standards. See <ulink url="https://home.corp.redhat.com/wiki/marketing-guidelines" /> This page is maintained by Marketing, and the legal guidelines must be followed.
-		</para>
-
-	</formalpara>                                        --> <formalpara id="Objectives_of_this_Guide-Readability">
+	  <formalpara id="readability">
 		<title>Readability</title>
 		 <para>
 			Technical documents should be readable by the targeted audience. In this instance, we expect our audiences to have the minimum reading and comprehension level of an eighth-grade student, of an age between 14 and 15 years. The Flesch-Kincaid and Gunning Fog index provide measurable grades. A Red&nbsp;Hat guide should have a Gunning Fog index of 9-12.

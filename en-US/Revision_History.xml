@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<appendix id="appe-Revision_History">
+<appendix id="rev-history">
 	<title>Revision History</title>
 	 <simpara>
 		<revhistory>

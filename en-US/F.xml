@@ -90,7 +90,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="file_extensions_general_usage">
+		 <varlistentry id="file-extensions">
 			<term>file extensions (general usage)</term>
 			 <listitem>
 				<para>
@@ -302,7 +302,7 @@
 			<term>Fuzzy</term>
 			 <listitem>
 				<para>
-					Correct only when referring to fuzzy searches. See <xref linkend="Avoiding_Slang_Metaphors-MisleadingLanguage" /> for details and examples.
+					Correct only when referring to fuzzy searches. See <xref linkend="avoiding-slang" /> for details and examples.
 				</para>
 
 			</listitem>
