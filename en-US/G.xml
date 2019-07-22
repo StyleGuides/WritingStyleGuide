@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G">
+<chapter id="g">
 	<title>G</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-g_G">
+		<varlistentry id="g-g">
 			<term>g++, G++</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-gas_GAS">
+		 <varlistentry id="gas">
 			<term>gas, GAS</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GB">
+		 <varlistentry id="gb">
 			<term>GB</term>
 			 <listitem>
 				<para>
@@ -42,8 +42,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GbE">
-			<term id="gbe">GbE</term>
+		 <varlistentry id="gbe">
+			<term>GbE</term>
 			 <listitem>
 				<para>
 					Correct. Approved abbreviation of Gigabit Ethernet. Do not use GigE or any other variations. Use a non-breaking space between the unit and any value to prevent widows and orphans.
@@ -52,7 +52,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-Gbps">
+		 <varlistentry id="gbps">
 			<term>Gbps</term>
 			 <listitem>
 				<para>
@@ -62,7 +62,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-gcc_GCC">
+		 <varlistentry id="gcc">
 			<term>gcc, GCC</term>
 			 <listitem>
 				<para>
@@ -72,7 +72,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-gcj_GCJ">
+		 <varlistentry id="gcj">
 			<term>gcj, GCJ</term>
 			 <listitem>
 				<para>
@@ -82,7 +82,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-gdb_GDB">
+		 <varlistentry id="gdb">
 			<term>gdb, GDB</term>
 			 <listitem>
 				<para>
@@ -92,7 +92,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GDBTK">
+		 <varlistentry id="gdbtk">
 			<term>GDBTK</term>
 			 <listitem>
 				<para>
@@ -102,7 +102,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GEO">
+		 <varlistentry id="geo">
 			<term>GEO</term>
 			 <listitem>
 				<para>
@@ -112,7 +112,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GFS_GFS2">
+		 <varlistentry id="gfs2">
 			<term>GFS, GFS2</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GID">
+		 <varlistentry id="gid">
 			<term>GID</term>
 			 <listitem>
 				<para>
@@ -132,7 +132,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GigE">
+		 <varlistentry id="gige">
 			<term>GigE</term>
 			 <listitem>
 				<para>
@@ -142,7 +142,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-gigabyte">
+		 <varlistentry id="gigabyte">
 			<term>gigabyte</term>
 			 <listitem>
 				<para>
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GIMP">
+		 <varlistentry id="gimp">
 			<term>GIMP</term>
 			 <listitem>
 				<para>
@@ -162,17 +162,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GNOME">
+		 <varlistentry id="gnome">
 			<term>GNOME</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GNOME_Classic" />
+					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="gnome-classic" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GNOME_Classic">
+		 <varlistentry id="gnome-classic">
 			<term>GNOME Classic</term>
 			 <listitem>
 				<para>
@@ -182,7 +182,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GNU">
+		 <varlistentry id="gnu">
 			<term>GNU</term>
 			 <listitem>
 				<para>
@@ -192,7 +192,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GNUPro">
+		 <varlistentry id="gnupro">
 			<term>GNUPro</term>
 			 <listitem>
 				<para>
@@ -202,7 +202,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-got">
+		 <varlistentry id="got">
 			<term>got</term>
 			 <listitem>
 				<para>
@@ -212,7 +212,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GPL">
+		 <varlistentry id="gpl">
 			<term>GPL</term>
 			 <listitem>
 				<para>
@@ -222,7 +222,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-grayscale">
+		 <varlistentry id="grayscale">
 			<term>grayscale</term>
 			 <listitem>
 				<para>
@@ -232,7 +232,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GRUB">
+		 <varlistentry id="grub">
 			<term>GRUB</term>
 			 <listitem>
 				<para>
@@ -242,7 +242,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-GTK">
+		 <varlistentry id="gtk">
 			<term>GTK+</term>
 			 <listitem>
 				<para>
@@ -252,7 +252,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-G-guest_operating_system">
+		 <varlistentry id="guest-operating-system">
 			<term>guest operating system</term>
 			 <listitem>
 				<para>

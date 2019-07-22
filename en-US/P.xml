@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P">
+<chapter id="p">
 	<title>P</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PaaS">
+		<varlistentry id="paas">
 			<term>PaaS</term>
 			 <listitem>
 				<para>
@@ -15,7 +15,7 @@
 				 <warning>
 					<title>Marketing, Brand, Customer Portal Usage</title>
 					 <para>
-						For all-caps text, such as banners, use "&lt;VARIANT&gt;-AS-A-SERVICE" for the spelled-out version. The same abbreviation is used across all groups.
+						For all-caps text, such as banners, use "&lt;VARIANT&gt;-ASERVICE" for the spelled-out version. The same abbreviation is used across all groups.
 					</para>
 
 				</warning>
@@ -23,7 +23,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PC">
+		 <varlistentry id="pc">
 			<term>PC</term>
 			 <listitem>
 				<para>
@@ -42,7 +42,7 @@
         </para>
       </listitem>
     </varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PHP">
+		 <varlistentry id="php">
 			<term>PHP</term>
 			 <listitem>
 				<para>
@@ -55,7 +55,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-Pico">
+		 <varlistentry id="pico">
 			<term>Pico, pico</term>
 			 <listitem>
 				<para>
@@ -65,7 +65,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-plain_text">
+		 <varlistentry id="plain-text">
 			<term>plain text</term>
 			 <listitem>
 				<para>
@@ -78,7 +78,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-please">
+		 <varlistentry id="please">
 			<term>please</term>
 			 <listitem>
 				<para>
@@ -88,17 +88,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-pluggable">
+		 <varlistentry id="pluggable">
 			<term>pluggable</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Something that is capable of being plugged in, especially in terms of (for example) software modules. "Hot-pluggable" is also widely used with respect to hardware to indicate that it can be connected and recognized without powering down the system.
+					<emphasis>adj.</emphasis> Something that is capable of being plugged in, especially in terms of (for example) software modules. "hot-pluggable" is also widely used with respect to hardware to indicate that it can be connected and recognized without powering down the system.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-plug_in">
+		 <varlistentry id="plug-in">
 			<term>plug-in</term>
 			 <listitem>
 				<para>
@@ -111,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-pop_up">
+		 <varlistentry id="pop-up">
 			<term>pop-up</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PostScript">
+		 <varlistentry id="postscript">
 			<term>PostScript</term>
 			 <listitem>
 				<para>
@@ -131,7 +131,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PowerPC">
+		 <varlistentry id="powerpc">
 			<term>PowerPC</term>
 			 <listitem>
 				<para>
@@ -147,7 +147,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-POSIX">
+		 <varlistentry id="posix">
 			<term>POSIX</term>
 			 <listitem>
 				<para>
@@ -160,7 +160,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PPP">
+		 <varlistentry id="ppp">
 			<term>PPP</term>
 			 <listitem>
 				<para>
@@ -173,7 +173,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-press">
+		 <varlistentry id="press">
 			<term>press</term>
 			 <listitem>
 				<para>
@@ -183,7 +183,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-proof_of_concept">
+		 <varlistentry id="poc">
 			<term>proof of concept</term>
 			 <listitem>
 				<para>
@@ -215,7 +215,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-pseudo_ops">
+		 <varlistentry id="pseudo-ops">
 			<term>pseudo-ops</term>
 			 <listitem>
 				<para>
@@ -225,7 +225,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-pSeries">
+		 <varlistentry id="pseries">
 			<term>pSeries</term>
 			 <listitem>
 				<para>
@@ -235,7 +235,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-pull_down">
+		 <varlistentry id="pull-down">
 			<term>pull-down</term>
 			 <listitem>
 				<para>
@@ -267,7 +267,7 @@
           </itemizedlist>
         </listitem>
       </varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-P-PXE">
+		 <varlistentry id="pxe">
 			<term>PXE</term>
 			 <listitem>
 				<para>

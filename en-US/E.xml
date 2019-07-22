@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E">
+<chapter id="e">
 	<title>E</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-e_book_e_business_e_commerce_e_learning_email">
+		<varlistentry id="e-book">
 			<term>e-book, e-business, e-commerce, e-learning, email</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-e.g._i.e.">
+		 <varlistentry>
 			<term>e.g., i.e.</term>
 			 <listitem>
 				<para>
@@ -26,17 +26,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-earlier">
+		 <varlistentry id="earlier">
 			<term>earlier</term>
 			 <listitem>
 				<para>
-					Use to refer to earlier releases of products. Do not use "older" or related terms. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-later" />.
+					Use to refer to earlier releases of products. Do not use "older" or related terms. See also <xref linkend="later" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-Emacs">
+		 <varlistentry id="emacs">
 			<term>Emacs</term>
 			 <listitem>
 				<para>
@@ -46,27 +46,18 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-emdash">
+		 <varlistentry id="emdash">
 			<term>emdash</term>
 			 <listitem>
 				<para>
-					Used (informally) to indicate a pause or abrupt change in thought; for emphasis; or to set off a series in a phrase. See <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-D-dash" /> for more information.
+					Used (informally) to indicate a pause or abrupt change in thought; for emphasis; or to set off a series in a phrase. See <xref linkend="dash" /> for more information.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-ensure">
-			<term>ensure</term>
-			 <listitem>
-				<para>
-					This means "to make sure, certain, or safe; to guarantee." For example, "Perform the following steps to ensure a network and serial connection."
-				</para>
 
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-enter">
+		 <varlistentry id="enter">
 			<term>enter</term>
 			 <listitem>
 				<para>
@@ -82,7 +73,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-environment">
+		 <varlistentry id="environment">
 			<term>environment</term>
 			 <listitem>
 				<para>
@@ -98,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-essentially">
+		 <varlistentry id="essentially">
 			<term>essentially</term>
 			 <listitem>
 				<para>
@@ -108,7 +99,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-Ethernet">
+		 <varlistentry id="ethernet">
 			<term>Ethernet</term>
 			 <listitem>
 				<para>
@@ -118,7 +109,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-event">
+		 <varlistentry id="event">
 			<term>event</term>
 			 <listitem>
 				<para>
@@ -128,7 +119,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-exclamation_points_">
+		 <varlistentry id="exclamation-points-">
 			<term>exclamation points (!)</term>
 			 <listitem>
 				<para>
@@ -138,7 +129,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-Exec_Shield">
+		 <varlistentry id="exec-shield">
 			<term>Exec-Shield</term>
 			 <listitem>
 				<para>
@@ -148,7 +139,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-execute">
+		 <varlistentry id="execute">
 			<term>execute</term>
 			 <listitem>
 				<para>
@@ -158,7 +149,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-Exif">
+		 <varlistentry id="exif">
 			<term>Exif</term>
 			 <listitem>
 				<para>
@@ -168,7 +159,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-extranet">
+		 <varlistentry id="extranet">
 			<term>extranet</term>
 			 <listitem>
 				<para>

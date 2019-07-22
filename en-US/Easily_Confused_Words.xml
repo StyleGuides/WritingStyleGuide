@@ -3,12 +3,12 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Easily_Confused_Words">
+<section id="easily-confused-words">
 	<title>Easily Confused Words</title>
 	 <para>
 		This section identifies some easily confused words and how to choose the correct term for your situation.
 	</para>
-	 <formalpara id="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Easily_Confused_Words-Affect_and_Effect">
+	 <formalpara id="affect-effect">
 		<title>Affect and Effect</title>
 		 <para>
 			Each of these words can be used as a verb or a noun, but they are not always interchangeable.
@@ -16,27 +16,27 @@
 
 	</formalpara>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Easily_Confused_Words-affect_n._v.">
-			<term>affect (n., v.)</term>
+		<varlistentry id="affect">
+			<term>affect</term>
 			 <listitem>
 				<para>
-					As a noun, refers to the emotional impact of an action. Unless you are writing a psychology article, this is unlikely to be the choice for you.
+					<emphasis>n.</emphasis> Refers to the emotional impact of an action. Unless you are writing a psychology article, this is unlikely to be the choice for you.
 				</para>
 				 <para>
-					As a verb, means to have an influence on something, or to cause something to change.
+					<emphasis>vb.</emphasis> Means to have an influence on something, or to cause something to change.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Easily_Confused_Words-effect_n._v.">
-			<term>effect (n., v.)</term>
+		 <varlistentry id="effect">
+			<term>effect</term>
 			 <listitem>
 				<para>
-					As a noun, refers to the result of some action. For example, "the team members discussed the effect of the new policy on their working conditions."
+					<emphasis>n.</emphasis> Refers to the result of some action. For example, "the team members discussed the effect of the new policy on their working conditions."
 				</para>
 				 <para>
-					As a verb, means to produce a result, or to cause something to happen. For example, "the CEO claimed that the new policy would effect a positive economic outcome."
+					<emphasis>vb.</emphasis> Means to produce a result, or to cause something to happen. For example, "the CEO claimed that the new policy would effect a positive economic outcome."
 				</para>
 				 <para>
 					The use of "effect" as a verb is less common than the use of "affect," and there are usually alternatives that are clearer. For example, "the CEO claimed that the new policy would produce a positive economic outcome."
@@ -47,7 +47,7 @@
 		</varlistentry>
 
 	</variablelist>
-	 <formalpara id="form-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Easily_Confused_Words-Assure_Ensure_and_Insure">
+	 <formalpara id="assure-ensure-insure">
 		<title>Assure, Ensure, and Insure</title>
 		 <para>
 			These are relatively easy to get right, but here are some quick definitions.
@@ -55,31 +55,31 @@
 
 	</formalpara>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Easily_Confused_Words-assure_v.">
-			<term>assure (v.)</term>
+		<varlistentry id="assure">
+			<term>assure</term>
 			 <listitem>
 				<para>
-					"Assure" suggests mental comfort. For example, "I assured my future father-in-law that I would eventually find a job."
+					<emphasis>vb.</emphasis> Suggests mental comfort. For example, "I assured my future father-in-law that I would eventually find a job."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Easily_Confused_Words-ensure_v.">
-			<term>ensure (v.)</term>
+		 <varlistentry id="ensure">
+			<term>ensure</term>
 			 <listitem>
 				<para>
-					"Ensure" means to make sure of something, to be certain that something exists or some condition has been met.
+					<emphasis>vb.</emphasis> Means to make sure of something, to be certain that something exists or some condition has been met.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Easily_Confused_Words-insure_v.">
-			<term>insure (v.)</term>
+		 <varlistentry id="insure">
+			<term>insure</term>
 			 <listitem>
 				<para>
-					"Insure" relates to monetary insurance.
+					<emphasis>vb.</emphasis> Relates to monetary insurance.
 				</para>
 
 			</listitem>

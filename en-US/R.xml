@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R">
+<chapter id="r">
 	<title>R</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-RAM">
+		<varlistentry id="ram">
 			<term>RAM</term>
 			 <listitem>
 				<para>
@@ -16,11 +16,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-RAM_disk">
+		 <varlistentry id="ram-disk">
 			<term>RAM disk</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "RAMdisk," "ramdisk," or "RAM-disk."
+					Correct. Do not use "RAMdisk," "ramdisk," or "RAdisk."
 				</para>
 				 <para>
 					Refers to RAM that has been configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a real disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful, therefore, for applications that require frequent disk accesses.
@@ -29,7 +29,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-raw">
+		 <varlistentry id="raw">
 			<term>raw</term>
 			 <listitem>
 				<para>
@@ -42,7 +42,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-raw_data">
+		 <varlistentry id="raw-data">
 			<term>raw data</term>
 			 <listitem>
 				<para>
@@ -52,7 +52,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-read">
+		 <varlistentry id="read">
 			<term>read</term>
 			 <listitem>
 				<para>
@@ -65,7 +65,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-read_only">
+		 <varlistentry id="read-only">
 			<term>read-only</term>
 			 <listitem>
 				<para>
@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-readwrite">
+		 <varlistentry id="readwrite">
 			<term>read/write</term>
 			 <listitem>
 				<para>
@@ -85,7 +85,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-real_timereal_time">
+		 <varlistentry id="realtime">
 			<term>real time/real-time</term>
 			 <listitem>
 				<para>
@@ -98,7 +98,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-reboot">
+		 <varlistentry id="reboot">
 			<term>reboot</term>
 			 <listitem>
 				<para>
@@ -108,7 +108,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-RedBoot">
+		 <varlistentry id="redboot">
 			<term>RedBoot</term>
 			 <listitem>
 				<para>
@@ -118,7 +118,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-refer_to">
+		 <varlistentry id="refer-to">
 			<term>refer to</term>
 			 <listitem>
 				<para>
@@ -128,7 +128,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-remote_access">
+		 <varlistentry id="remote-access">
 			<term>remote access</term>
 			 <listitem>
 				<para>
@@ -138,7 +138,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-remote_access_server">
+		 <varlistentry id="remote-access-server">
 			<term>remote access server</term>
 			 <listitem>
 				<para>
@@ -148,27 +148,27 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-required">
+		 <varlistentry id="required">
 			<term>required</term>
 			 <listitem>
 				<para>
-					See <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-M-must" />.
+					See <xref linkend="must" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-return">
+		 <varlistentry id="return">
 			<term>return</term>
 			 <listitem>
 				<para>
-					When referring to the keyboard key on Solaris or Mac, use <keycap>Return</keycap> or <keycap>return</keycap>, respectively. See <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-E-enter" /> for other platforms.
+					When referring to the keyboard key on Solaris or Mac, use <keycap>Return</keycap> or <keycap>return</keycap>, respectively. See <xref linkend="enter" /> for other platforms.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-right_click">
+		 <varlistentry id="right-click">
 			<term>right-click</term>
 			 <listitem>
 				<para>
@@ -178,7 +178,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-right_now">
+		 <varlistentry id="right-now">
 			<term>right now</term>
 			 <listitem>
 				<para>
@@ -188,7 +188,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-ROM_PROM">
+		 <varlistentry id="rom-prom">
 			<term>ROM, PROM</term>
 			 <listitem>
 				<para>
@@ -201,7 +201,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-roundtable_round_table">
+		 <varlistentry id="roundtable">
 			<term>roundtable, round table</term>
 			 <listitem>
 				<para>
@@ -214,7 +214,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-RPM">
+		 <varlistentry id="rpm">
 			<term>RPM</term>
 			 <listitem>
 				<para>
@@ -224,7 +224,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-R-runlevel">
+		 <varlistentry id="runlevel">
 			<term>runlevel</term>
 			 <listitem>
 				<para>

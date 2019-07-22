@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T">
+<chapter id="t">
 	<title>T</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-taskbar">
+		<varlistentry id="taskbar">
 			<term>taskbar</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-tar_tarball">
+		 <varlistentry id="tar-tarball">
 			<term>tar, tarball</term>
 			 <listitem>
 				<para>
@@ -26,8 +26,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-telco">
-			<term id="telco">telco</term>
+		 <varlistentry id="telco">
+			<term>telco</term>
 			 <listitem>
 				<para>
 					Preferred abbreviation for "telecommunications company." Do not use "telecom." See also <xref linkend="csp" />.
@@ -36,8 +36,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-telecommunications">
-			<term id="telecoms">telecommunications</term>
+		 <varlistentry id="telecommunications">
+			<term>telecommunications</term>
 			 <listitem>
 				<para>
 					Vertical for communication service providers. Preferred abbreviation is "telco."
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-telephone_numbers">
+		 <varlistentry id="telephone-numbers">
 			<term>telephone numbers</term>
 			 <listitem>
 				<para>
@@ -56,11 +56,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-terminal_n.">
-			<term>terminal (n.)</term>
+		 <varlistentry id="terminal">
+			<term>terminal</term>
 			 <listitem>
 				<para>
-					Do not use to describe where to type commands. Use "command line" instead.
+					<emphasis>n.</emphasis> Do not use to describe where to type commands. Use "command line" instead.
 				</para>
 				 <para>
 					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle> for more information.
@@ -69,7 +69,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-terminal_emulation">
+		 <varlistentry id="terminal-emulation">
 			<term>terminal emulation</term>
 			 <listitem>
 				<para>
@@ -79,7 +79,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-text_mode">
+		 <varlistentry id="text-mode">
 			<term>text mode</term>
 			 <listitem>
 				<para>
@@ -92,27 +92,27 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-text_based_adj.">
-			<term>text-based (adj.)</term>
+		 <varlistentry id="text_based">
+			<term>text-based</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "text based."
+					<emphasis>adj.</emphasis> Correct. Do not use "text based."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-third_party_adj._third_party_n.">
+		 <varlistentry id="third-party">
 			<term>third-party (adj.), third party (n.)</term>
 			 <listitem>
 				<para>
-					Use "third-party" as the adjectival form. Use "third party" as the nominal form. Consult a dictionary for more examples.
+					<emphasis>adj., n.</emphasis> Use "third-party" as the adjectival form. Use "third party" as the nominal form. Consult a dictionary for more examples.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-through">
+		 <varlistentry id="through">
 			<term>through</term>
 			 <listitem>
 				<para>
@@ -122,27 +122,27 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-throughput_n.">
-			<term>throughput (n.)</term>
+		 <varlistentry id="throughput">
+			<term>throughput</term>
 			 <listitem>
 				<para>
-					The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See <citetitle>The IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
+					<emphasis>n.</emphasis> The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See <citetitle>The IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-tier_1_adj.">
-			<term>tier-1 (adj.)</term>
+		 <varlistentry id="tier1">
+			<term>tier-1</term>
 			 <listitem>
 				<para>
-					Always use a numeral, and always hyphenate. Follow standard capitalization guidelines.
+					<emphasis>adj.</emphasis> Always use a numeral, and always hyphenate. Follow standard capitalization guidelines.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-time_frame_n.">
+		 <varlistentry id="time-frame">
 			<term>time frame (n.)</term>
 			 <listitem>
 				<para>
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-time_zone_n.">
+		 <varlistentry id="time-zone">
 			<term>time zone (n.)</term>
 			 <listitem>
 				<para>
@@ -162,7 +162,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-token_ring_n.">
+		 <varlistentry id="token-ring">
 			<term>token ring (n.)</term>
 			 <listitem>
 				<para>
@@ -172,7 +172,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-toolbar_n.">
+		 <varlistentry id="toolbar">
 			<term>toolbar (n.)</term>
 			 <listitem>
 				<para>
@@ -182,7 +182,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-tooltip_n.">
+		 <varlistentry id="tooltip">
 			<term>tooltip (n.)</term>
 			 <listitem>
 				<para>
@@ -192,7 +192,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-totally">
+		 <varlistentry id="totally">
 			<term>totally</term>
 			 <listitem>
 				<para>
@@ -202,7 +202,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-troubleshoot_v.">
+		 <varlistentry id="troubleshoot_v.">
 			<term>troubleshoot (v.)</term>
 			 <listitem>
 				<para>
@@ -212,8 +212,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-_TTL_">
-			<term> TTL </term>
+		 <varlistentry id="ttl">
+			<term>TTL</term>
 			 <listitem>
 				<para>
 					Initialism for "time to live" (n.) and "time-to-live" (adj.)
@@ -225,7 +225,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-type">
+		 <varlistentry id="type">
 			<term>type</term>
 			 <listitem>
 				<para>

@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H">
+<chapter id="h">
 	<title>H</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hard_code_hard_coded">
+		<varlistentry id="hard-code">
 			<term>hard code, hard-coded</term>
 			 <listitem>
 				<para>
@@ -22,7 +22,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hard_copy">
+		 <varlistentry id="hard-copy">
 			<term>hard copy</term>
 			 <listitem>
 				<para>
@@ -33,7 +33,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hard_disk">
+		 <varlistentry id="hard-disk">
 			<term>hard disk</term>
 			 <listitem>
 				<para>
@@ -43,7 +43,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hard_disk_drive">
+		 <varlistentry id="hdd">
 			<term>hard disk drive</term>
 			 <listitem>
 				<para>
@@ -53,7 +53,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-he_she">
+		 <varlistentry id="he-she">
 			<term>he, she</term>
 			 <listitem>
 				<para>
@@ -63,7 +63,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-help_desk">
+		 <varlistentry id="help-desk">
 			<term>help desk</term>
 			 <listitem>
 				<para>
@@ -73,7 +73,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-healthcare">
+		 <varlistentry id="healthcare">
 			<term>healthcare</term>
 			 <listitem>
 				<para>
@@ -84,14 +84,14 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-health_check">
+		 <varlistentry id="health-check">
 			<term>health check</term>
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Two words. This is a change from the previous style standard (one word) to take advantage of the better search ranking of the two-word variation, and is used in product names that are similar to competitive offerings in the same space.
 				</para>
 				 <para>
-					This term is only capitalized when part of a product name, for example: 
+					This term is only capitalized when part of a product name, for example:
 					<itemizedlist>
 						<listitem>
 							<para>
@@ -116,7 +116,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hertz">
+		 <varlistentry id="hertz">
 			<term>hertz</term>
 			 <listitem>
 				<para>
@@ -126,7 +126,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-high_availability_high_availability">
+		 <varlistentry id="high-availability">
 			<term>high-availability, high availability</term>
 			 <listitem>
 				<para>
@@ -139,7 +139,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-high_performance_computing_HPC">
+		 <varlistentry id="hpc">
 			<term>high-performance computing (HPC)</term>
 			 <listitem>
 				<para>
@@ -149,7 +149,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-home_page">
+		 <varlistentry id="home-page">
 			<term>home page</term>
 			 <listitem>
 				<para>
@@ -159,7 +159,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-host_group">
+		 <varlistentry id="host-group">
 			<term>host group</term>
 			 <listitem>
 				<para>
@@ -169,7 +169,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-host_name">
+		 <varlistentry id="host-name">
 			<term>host name</term>
 			 <listitem>
 				<para>
@@ -179,7 +179,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hot_add">
+		 <varlistentry id="hot-add">
 			<term>hot add</term>
 			 <listitem>
 				<para>
@@ -189,7 +189,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hotline">
+		 <varlistentry id="hotline">
 			<term>hotline</term>
 			 <listitem>
 				<para>
@@ -200,7 +200,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hot_plug">
+		 <varlistentry id="hot-plug">
 			<term>hot plug</term>
 			 <listitem>
 				<para>
@@ -210,7 +210,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hot_swap">
+		 <varlistentry id="hot-swap">
 			<term>hot swap</term>
 			 <listitem>
 				<para>
@@ -220,17 +220,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hover_help">
+		 <varlistentry id="hover-help">
 			<term>hover help</term>
 			 <listitem>
 				<para>
-					See <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-T-tooltip_n." />.
+					See <xref linkend="tooltip" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-HP_ProLiant">
+		 <varlistentry id="hp-proliant">
 			<term>HP ProLiant</term>
 			 <listitem>
 				<para>
@@ -240,7 +240,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-HTML">
+		 <varlistentry id="html">
 			<term>HTML</term>
 			 <listitem>
 				<para>
@@ -250,7 +250,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-huge_page_huge_page">
+		 <varlistentry id="huge-page">
 			<term>huge-page, huge page</term>
 			 <listitem>
 				<para>
@@ -263,17 +263,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hybrid_IT">
+		 <varlistentry id="hybrid-it">
 			<term>hybrid IT</term>
 			 <listitem>
 				<para>
-					The preferred term when talking about IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of these. Because hybrid can indicate either infrastructure or environment or both, be specific about the underlying combination. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bimodal_IT" />.
+					The preferred term when talking about IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of these. Because hybrid can indicate either infrastructure or environment or both, be specific about the underlying combination. See also <xref linkend="bimodal-it" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-Hyper_Threading">
+		 <varlistentry id="hyper-threading">
 			<term>Hyper-Threading</term>
 			 <listitem>
 				<para>
@@ -283,7 +283,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-H-hypervisor">
+		 <varlistentry id="hypervisor">
 			<term>hypervisor</term>
 			 <listitem>
 				<para>

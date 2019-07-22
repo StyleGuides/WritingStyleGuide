@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A">
+<chapter id="a">
 	<title>A</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-amp_and_">
+		<varlistentry id="amp-and-">
 			<term>"&amp;" and "+"</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-agile_agile_development">
+		 <varlistentry id="agile-development">
 			<term>agile, agile development</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-air_gap">
+		 <varlistentry id="air-gap">
 			<term>air gap</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-a.m._and_p.m.">
+		 <varlistentry>
 			<term>a.m. and p.m.</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-all_in_one">
+		 <varlistentry id="all-in-one">
 			<term>all-in-one</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-AMD64_and_Intel_64">
+		 <varlistentry id="AMD64-Intel64">
 			<term>AMD64 and Intel 64</term>
 			 <listitem>
 				<para>
@@ -81,7 +81,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-ATM">
+		 <varlistentry id="atm">
 			<term>ATM</term>
 			 <listitem>
 				<para>
@@ -91,7 +91,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-above">
+		 <varlistentry id="above">
 			<term>above</term>
 			 <listitem>
 				<para>
@@ -101,7 +101,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-acronyms">
+		 <varlistentry id="acronyms">
 			<term>acronyms</term>
 			 <listitem>
 				<para>
@@ -117,8 +117,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-alrightall_right">
-			<term>alright/all right</term>
+		 <varlistentry id="alright">
+			<term>alright, all right</term>
 			 <listitem>
 				<para>
 					Avoid if at all possible. These terms carry a more familiar or colloquial tone than is expected in Red&nbsp;Hat documentation. Use more formal alternatives such as "correct" or "as expected," depending on context.
@@ -127,7 +127,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-alternate">
+		 <varlistentry id="alternate">
 			<term>alternate</term>
 			 <listitem>
 				<para>
@@ -137,7 +137,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-andor">
+		 <varlistentry id="andor">
 			<term>and/or</term>
 			 <listitem>
 				<para>
@@ -147,7 +147,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-applications">
+		 <varlistentry id="applications">
 			<term>applications</term>
 			 <listitem>
 				<para>
@@ -163,7 +163,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-Applixware">
+		 <varlistentry id="applixware">
 			<term>Applixware</term>
 			 <listitem>
 				<para>
@@ -181,7 +181,7 @@
         </para>
       </listitem>
     </varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-as_well_as">
+		 <varlistentry id="as-well-as">
 			<term>as well as</term>
 			 <listitem>
 				<para>
@@ -191,8 +191,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-as_a_Service">
-			<term id="aas">as-a-Service</term>
+		 <varlistentry id="as-a-service">
+			<term>as-a-Service</term>
 			 <listitem>
 				<para>
 					Be aware that there is a great deal of overlap in as-a-Service acronyms. To avoid confusion, always spell out the full term on first possible use.
@@ -206,7 +206,7 @@
 					</listitem>
 					 <listitem>
 						<para>
-							CaaS (Cloud-as-a-Service, Communications-as-a-Service, <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-Containers_as_a_Service" />)
+							CaaS (Cloud-as-a-Service, Communications-as-a-Service, <xref linkend="containers-as-a-service" />)
 						</para>
 
 					</listitem>
@@ -288,7 +288,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-auto_detect">
+		 <varlistentry id="auto-detect">
 			<term>auto-detect</term>
 			 <listitem>
 				<para>
@@ -298,7 +298,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-A-autofs">
+		 <varlistentry id="autofs">
 			<term>autofs</term>
 			 <listitem>
 				<para>

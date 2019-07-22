@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B">
+<chapter id="b">
 	<title>B</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-back_end_back_end">
+		<varlistentry id="back-end">
 			<term>back end, back-end</term>
 			 <listitem>
 				<para>
@@ -19,13 +19,13 @@
 					Do not use "backend."
 				</para>
 				 <para>
-					See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-front_end_front_end" />
+					See also <xref linkend="front-end" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-backup_back_up">
+		 <varlistentry id="back-up">
 			<term>backup, back up</term>
 			 <listitem>
 				<para>
@@ -59,7 +59,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-backtrace">
+		 <varlistentry id="backtrace">
 			<term>backtrace</term>
 			 <listitem>
 				<para>
@@ -69,17 +69,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-backwards_compatible">
+		 <varlistentry id="backwards-compatible">
 			<term>backwards compatible</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "compatible with earlier versions." See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-F-forwards_compatible" />.
+					Do not use. Instead, use "compatible with earlier versions." See also <xref linkend="forwards-compatible" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bandwidth">
+		 <varlistentry id="bandwidth">
 			<term>bandwidth</term>
 			 <listitem>
 				<para>
@@ -89,7 +89,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bare_metal_bare_metal">
+		 <varlistentry id="bare-metal">
 			<term>bare metal, bare-metal</term>
 			 <listitem>
 				<para>
@@ -102,17 +102,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-basically">
+		 <varlistentry id="basically">
 			<term>basically</term>
 			 <listitem>
 				<para>
-					Do not use. For example, removing the word "basically" in the following sentence strengthens it: "This is how it is basically done." See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-S-simply" />.
+					Do not use. For example, removing the word "basically" in the following sentence strengthens it: "This is how it is basically done." See also <xref linkend="simply" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-because_since_as">
+		 <varlistentry id="because-since-as">
 			<term>because, since, as</term>
 			 <listitem>
 				<para>
@@ -122,7 +122,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-below">
+		 <varlistentry id="below">
 			<term>below</term>
 			 <listitem>
 				<para>
@@ -132,17 +132,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-big_data">
+		 <varlistentry id="big-data">
 			<term>big data</term>
 			 <listitem>
 				<para>
-					<emphasis>n., adj.</emphasis> Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-cloud" />. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
+					<emphasis>n., adj.</emphasis> Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. See also <xref linkend="cloud" />. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bimodal_IT">
+		 <varlistentry id="bimodal-it">
 			<term>bimodal IT</term>
 			 <listitem>
 				<para>
@@ -161,7 +161,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bimonthly_biweekly_semiweekly_semimonthly">
+		 <varlistentry id="bimonthly">
 			<term>bimonthly, biweekly, semiweekly, semimonthly</term>
 			 <listitem>
 				<para>
@@ -177,7 +177,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-BIND">
+		 <varlistentry id="bind">
 			<term>BIND</term>
 			 <listitem>
 				<para>
@@ -187,7 +187,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-BIOS">
+		 <varlistentry id="bios">
 			<term>BIOS</term>
 			 <listitem>
 				<para>
@@ -197,7 +197,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bit_rate">
+		 <varlistentry id="bit-rate">
 			<term>bit rate</term>
 			 <listitem>
 				<para>
@@ -207,7 +207,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-Boolean">
+		 <varlistentry id="boolean">
 			<term>Boolean</term>
 			 <listitem>
 				<para>
@@ -220,7 +220,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-boot">
+		 <varlistentry id="boot">
 			<term>boot</term>
 			 <listitem>
 				<para>
@@ -236,7 +236,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-boot_disk">
+		 <varlistentry id="boot-disk">
 			<term>boot disk</term>
 			 <listitem>
 				<para>
@@ -246,7 +246,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-boot_loader">
+		 <varlistentry id="boot-loader">
 			<term>boot loader</term>
 			 <listitem>
 				<para>
@@ -256,7 +256,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bottleneck">
+		 <varlistentry id="bottleneck">
 			<term>bottleneck</term>
 			 <listitem>
 				<para>
@@ -269,7 +269,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bpp">
+		 <varlistentry id="bpp">
 			<term>bpp</term>
 			 <listitem>
 				<para>
@@ -279,11 +279,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-Bps_bps">
+		 <varlistentry id="bps-bps">
 			<term>Bps, bps</term>
 			 <listitem>
 				<para>
-					The abbreviation of bytes per second is Bps. The abbreviation of bits per second is bps. To avoid confusion, do not use at the beginning of a sentence. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bandwidth" />.
+					The abbreviation of bytes per second is Bps. The abbreviation of bits per second is bps. To avoid confusion, do not use at the beginning of a sentence. See also <xref linkend="bandwidth" />.
 				</para>
 
 			</listitem>
@@ -297,7 +297,7 @@
           </para>
         </listitem>
       </varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bring_up">
+		 <varlistentry id="bring-up">
 			<term>bring up</term>
 			 <listitem>
 				<para>
@@ -307,7 +307,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-Britain">
+		 <varlistentry id="britain">
 			<term>Britain</term>
 			 <listitem>
 				<para>
@@ -317,7 +317,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-broadcast">
+		 <varlistentry id="broadcast">
 			<term>broadcast</term>
 			 <listitem>
 				<para>
@@ -330,8 +330,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-_Btrfs_">
-			<term> Btrfs </term>
+		 <varlistentry id="btrfs">
+			<term>Btrfs</term>
 			 <listitem>
 				<para>
 					A copy-on-write file system for Linux. Use a capital "B" when referring to the file system. When referring to tools, commands, and other utilities related to the file system, be faithful to those utilities.
@@ -346,7 +346,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bug_fix">
+		 <varlistentry id="bug-fix">
 			<term>bug fix</term>
 			 <listitem>
 				<para>
@@ -356,7 +356,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-built_in">
+		 <varlistentry id="built-in">
 			<term>built-in</term>
 			 <listitem>
 				<para>
@@ -366,7 +366,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-bunches_of">
+		 <varlistentry id="bunches-of">
 			<term>bunches of</term>
 			 <listitem>
 				<para>
@@ -376,7 +376,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-B-button">
+		 <varlistentry id="button">
 			<term>button</term>
 			 <listitem>
 				<para>

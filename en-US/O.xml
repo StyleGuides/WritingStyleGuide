@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O">
+<chapter id="o">
 	<title>O</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-Objective_C">
+		<varlistentry id="objective-c">
 			<term>Objective C</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-object_oriented">
+		 <varlistentry id="object-oriented">
 			<term>object-oriented</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-OEM">
+		 <varlistentry id="oem">
 			<term>OEM</term>
 			 <listitem>
 				<para>
@@ -39,7 +39,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-offline">
+		 <varlistentry id="offline">
 			<term>offline</term>
 			 <listitem>
 				<para>
@@ -49,7 +49,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-offline_backup">
+		 <varlistentry id="offline-backup">
 			<term>offline backup</term>
 			 <listitem>
 				<para>
@@ -65,7 +65,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-OK">
+		 <varlistentry id="ok">
 			<term>OK</term>
 			 <listitem>
 				<para>
@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_board_adj._onboard_v.">
+		 <varlistentry id="onboard">
 			<term>onboard</term>
 			 <listitem>
 				<para>
@@ -84,7 +84,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-online">
+		 <varlistentry id="online">
 			<term>online</term>
 			 <listitem>
 				<para>
@@ -94,17 +94,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_premise_adj.">
-			<term>on-premise</term>
-			 <listitem>
-				<para>
-					<emphasis>adj.</emphasis> Substitute "on-site" or "in-house" whenever possible. Although "on-premises" is grammatically correct, "on-premise" is preferred by the industry and the Red&nbsp;Hat Cloud business unit. Only capitalize when used as part of the name of the Red&nbsp;Hat product "Red&nbsp;Hat Storage&nbsp;Server for On-premise."
-				</para>
 
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_site_adj.">
+		 <varlistentry id="on-site">
 			<term>on-site</term>
 			 <listitem>
 				<para>
@@ -114,7 +105,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-on_the_fly">
+		 <varlistentry id="on-the-fly">
 			<term>on-the-fly</term>
 			 <listitem>
 				<para>
@@ -124,7 +115,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-oops">
+		 <varlistentry id="oops">
 			<term>oops</term>
 			 <listitem>
 				<para>
@@ -134,7 +125,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-opcodes">
+		 <varlistentry id="opcodes">
 			<term>opcodes</term>
 			 <listitem>
 				<para>
@@ -152,7 +143,7 @@
         </para>
       </listitem>
     </varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-open_architecture">
+		 <varlistentry id="open-architecture">
 			<term>open architecture</term>
 			 <listitem>
 				<para>
@@ -162,7 +153,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-Open_InfiniBand">
+		 <varlistentry id="open-infiniband">
 			<term>Open InfiniBand</term>
 			 <listitem>
 				<para>
@@ -172,20 +163,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-OpenOffice">
+		 <varlistentry id="openoffice">
 			<term>OpenOffice</term>
 			 <listitem>
 				<para>
 					A Linux desktop suite. Do not use "Openoffice," "Open Office," or "ooo."
 				</para>
 				 <para>
-					See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-L-LibreOffice" />
+					See also <xref linkend="libreoffice" />
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-open_source">
+		 <varlistentry id="open-source">
 			<term>open source</term>
 			 <listitem>
 				<para>
@@ -195,7 +186,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-open_source_way">
+		 <varlistentry id="open-source-way">
 			<term>open source way</term>
 			 <listitem>
 				<para>
@@ -208,7 +199,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-operating_system">
+		 <varlistentry id="operating-system">
 			<term>operating system</term>
 			 <listitem>
 				<para>
@@ -218,7 +209,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-orientate">
+		 <varlistentry id="orientate">
 			<term>orientate</term>
 			 <listitem>
 				<para>
@@ -228,7 +219,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-output_device">
+		 <varlistentry id="output-device">
 			<term>output device</term>
 			 <listitem>
 				<para>
@@ -238,17 +229,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-overcloud">
+		 <varlistentry id="overcloud">
 			<term>overcloud</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Always lowercase. This is a concept, not a technology or product name. Being a common noun, this requires an article in most cases. See also <xref linkend="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-U-undercloud" />.
+					<emphasis>n.</emphasis> Always lowercase. This is a concept, not a technology or product name. Being a common noun, this requires an article in most cases. See also <xref linkend="undercloud" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-O-override">
+		 <varlistentry id="override">
 			<term>override</term>
 			 <listitem>
 				<para>

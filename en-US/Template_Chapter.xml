@@ -3,12 +3,12 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Dummy_Title">
+<chapter id="dummy-title">
 	<title>Dummy Title</title>
 	 <para>
 		dummy text
 	</para>
-	 <section id="sect-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-Dummy_Title-Dummy_Section_Title">
+	 <section id="Dummy_Title-Dummy_Section_Title">
 		<title>Dummy Section Title</title>
 		 <para>
 			More dummy text.

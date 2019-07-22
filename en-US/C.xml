@@ -3,10 +3,10 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="chap-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C">
+<chapter id="c">
 	<title>C</title>
 	 <variablelist>
-		<varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-can_may">
+		<varlistentry id="can-may">
 			<term>can, may</term>
 			 <listitem>
 				<para>
@@ -16,7 +16,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-cannot">
+		 <varlistentry id="cannot">
 			<term>cannot</term>
 			 <listitem>
 				<para>
@@ -26,7 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-CapEx_OpEx">
+		 <varlistentry id="capex-opex">
 			<term>CapEx, OpEx</term>
 			 <listitem>
 				<para>
@@ -36,7 +36,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-cd_CD">
+		 <varlistentry id="cd">
 			<term>cd, CD</term>
 			 <listitem>
 				<para>
@@ -52,17 +52,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-CD_1">
+		 <varlistentry id="CD-1">
 			<term>CD #1</term>
 			 <listitem>
 				<para>
-					When referring to a specific CD in the &RHEL; CD set, it is correct to refer to it as: &RHEL; CD #1. Avoid using &RHEL; CD 1
+					When referring to a specific CD in the Red&nbsp;Hat Enterprise Linux CD set, it is correct to refer to it as: Red&nbsp;Hat Enterprise Linux CD #1. Avoid using Red&nbsp;Hat Enterprise Linux CD 1
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-Ceph">
+		 <varlistentry id="ceph">
 			<term>Ceph</term>
 			 <listitem>
 				<para>
@@ -75,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-cgroup">
+		 <varlistentry id="cgroup">
 			<term>cgroup</term>
 			 <listitem>
 				<para>
@@ -88,7 +88,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-characters">
+		 <varlistentry id="characters">
 			<term>characters</term>
 			 <listitem>
 				<para>
@@ -101,7 +101,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-check">
+		 <varlistentry id="check">
 			<term>check</term>
 			 <listitem>
 				<para>
@@ -111,7 +111,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-check_box">
+		 <varlistentry id="check-box">
 			<term>check box</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-chip_set">
+		 <varlistentry id="chip-set">
 			<term>chipset</term>
 			 <listitem>
 				<para>
@@ -131,20 +131,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-CICD">
+		 <varlistentry id="cicd">
 			<term>CI/CD</term>
 			 <listitem>
 				<para>
 					Define on first use; generally continuous integration/continuous delivery. This is not continuous development, a term with questionable usefulness and only marginal adoption.
 				</para>
 				 <para>
-					See also <xref linkend="ci" />, <xref linkend="cd" />, <xref linkend="cdeploy" />.
+					See also <xref linkend="continuous-integration" />, <xref linkend="continuous-delivery" />, <xref linkend="continuous-deployment" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-ciphertext">
+		 <varlistentry id="ciphertext">
 			<term>ciphertext</term>
 			 <listitem>
 				<para>
@@ -154,7 +154,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-click">
+		 <varlistentry id="click">
 			<term>click</term>
 			 <listitem>
 				<para>
@@ -167,7 +167,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-client_side_client_side">
+		 <varlistentry id="client-side">
 			<term>client-side, client side</term>
 			 <listitem>
 				<para>
@@ -180,17 +180,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-clobber_or_clobbered">
+		 <varlistentry id="clobber">
 			<term>clobber or clobbered</term>
 			 <listitem>
 				<para>
-					These words should be avoided (except if "clobber" is the actual name of something). Use "altered," "invalidated," or "overwritten," or whatever is appropriate in the specific context.
+					Avoid these and similar terms unless they are the actual name of something. Use "altered," "invalidated," or "overwritten," or whatever is appropriate in the specific context.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-cloud">
+		 <varlistentry id="cloud">
 			<term>cloud</term>
 			 <listitem>
 				<para>
@@ -200,7 +200,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-cloudbursting">
+		 <varlistentry id="cloudbursting">
 			<term>cloudbursting</term>
 			 <listitem>
 				<para>
@@ -216,7 +216,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-cloudwashing">
+		 <varlistentry id="cloudwashing">
 			<term>cloudwashing</term>
 			 <listitem>
 				<para>
@@ -229,7 +229,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-code">
+		 <varlistentry id="code">
 			<term>code</term>
 			 <listitem>
 				<para>
@@ -239,7 +239,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-combo_box">
+		 <varlistentry id="combo-box">
 			<term>combo-box</term>
 			 <listitem>
 				<para>
@@ -249,7 +249,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-comma_delimited">
+		 <varlistentry id="comma-delimited">
 			<term>comma-delimited</term>
 			 <listitem>
 				<para>
@@ -259,7 +259,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-comma_separated_values_CSV">
+		 <varlistentry id="csv">
 			<term>comma-separated values (CSV)</term>
 			 <listitem>
 				<para>
@@ -269,7 +269,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-command_button">
+		 <varlistentry id="command-button">
 			<term>command button</term>
 			 <listitem>
 				<para>
@@ -279,7 +279,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-command_driven">
+		 <varlistentry id="command-driven">
 			<term>command-driven</term>
 			 <listitem>
 				<para>
@@ -292,7 +292,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-command_language">
+		 <varlistentry id="command-language">
 			<term>command language</term>
 			 <listitem>
 				<para>
@@ -305,7 +305,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-command_line_command_prompt_command_line">
+		 <varlistentry id="command-line">
 			<term>command line, command prompt, command-line</term>
 			 <listitem>
 				<para>
@@ -315,7 +315,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-commodity">
+		 <varlistentry id="commodity">
 			<term>commodity</term>
 			 <listitem>
 				<para>
@@ -340,27 +340,27 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-communication_service_provider_CSP">
-			<term id="csp">communication service provider (CSP)</term>
+		 <varlistentry id="csp">
+			<term>communication service provider (CSP)</term>
 			 <listitem>
 				<para>
-					Another way to refer to a telecommunications provider. See also <xref linkend="telecoms" />, <xref linkend="telco" />.
+					Another way to refer to a telecommunications provider. See also <xref linkend="telco" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-Containers_as_a_Service">
+		 <varlistentry id="containers-as-a-service">
 			<term>Containers-as-a-Service</term>
 			 <listitem>
 				<para>
-					The term "Containers-as-a-Service" is owned by Docker and should only be used when referring to that company's offering. See also <xref linkend="aas" />.
+					The term "Containers-as-a-Service" is owned by Docker and should only be used when referring to that company's offering. See also <xref linkend="as-a-service" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-container_based">
+		 <varlistentry id="container-based">
 			<term>container-based</term>
 			 <listitem>
 				<para>
@@ -370,7 +370,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-containerized">
+		 <varlistentry id="containerized">
 			<term>containerized</term>
 			 <listitem>
 				<para>
@@ -380,8 +380,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-continuous_delivery_CD">
-			<term id="cd">continuous delivery (CD)</term>
+		 <varlistentry id="continuous-delivery">
+			<term>continuous delivery (CD)</term>
 			 <listitem>
 				<para>
 					A software implementation architecture that ensures all approved code can be easily pushed to production.
@@ -390,8 +390,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-continuous_deployment">
-			<term id="cdeploy">continuous deployment</term>
+		 <varlistentry id="continuous-deployment">
+			<term>continuous deployment</term>
 			 <listitem>
 				<para>
 					A special case of continuous delivery, where approved code is automatically pushed to production. Do not use "CD" to refer to this practice.
@@ -400,8 +400,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-continuous_integration_CI">
-			<term id="ci">continuous integration (CI)</term>
+		 <varlistentry id="continuous-integration">
+			<term>continuous integration (CI)</term>
 			 <listitem>
 				<para>
 					A software development architecture where the developer code branch is synchronized with the main code branch or master multiple times per day. Development always works with the current code base.
@@ -410,7 +410,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-contractions">
+		 <varlistentry id="contractions">
 			<term>contractions</term>
 			 <listitem>
 				<para>
@@ -420,7 +420,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-control_character">
+		 <varlistentry id="control-character">
 			<term>control character</term>
 			 <listitem>
 				<para>
@@ -430,7 +430,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-control_key">
+		 <varlistentry id="control-key">
 			<term>control key</term>
 			 <listitem>
 				<para>
@@ -440,7 +440,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-control_program">
+		 <varlistentry id="control-program">
 			<term>control program</term>
 			 <listitem>
 				<para>
@@ -453,7 +453,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-convert">
+		 <varlistentry id="convert">
 			<term>convert</term>
 			 <listitem>
 				<para>
@@ -463,7 +463,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-cookie">
+		 <varlistentry id="cookie">
 			<term>cookie</term>
 			 <listitem>
 				<para>
@@ -479,7 +479,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-corrupted">
+		 <varlistentry id="corrupted">
 			<term>corrupted</term>
 			 <listitem>
 				<para>
@@ -489,7 +489,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-CR">
+		 <varlistentry id="cr">
 			<term>CR</term>
 			 <listitem>
 				<para>
@@ -499,7 +499,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-crash">
+		 <varlistentry id="crash">
 			<term>crash</term>
 			 <listitem>
 				<para>
@@ -509,7 +509,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-cross_platform">
+		 <varlistentry id="cross-platform">
 			<term>cross-platform</term>
 			 <listitem>
 				<para>
@@ -522,7 +522,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-cross_site_scripting">
+		 <varlistentry id="cross-site-scripting">
 			<term>cross-site scripting</term>
 			 <listitem>
 				<para>
@@ -532,7 +532,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="varl-The_Red_Hat_Style_Guide-Conventions_for_Writers_and_Editors-C-Cygmon">
+		 <varlistentry id="cygmon">
 			<term>Cygmon</term>
 			 <listitem>
 				<para>
