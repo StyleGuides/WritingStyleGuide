@@ -506,10 +506,10 @@ a programming and technical sense this also means "Run the <command>source</comm
 
 		</varlistentry>
 		 <varlistentry id="sr-iov">
-			<term>SIOV</term>
+			<term>SR-IOV</term>
 			 <listitem>
 				<para>
-					Correct. SIOV stands for Single-Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV.
+					Correct. SR-IOV stands for Single Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV.
 				</para>
 
 			</listitem>
