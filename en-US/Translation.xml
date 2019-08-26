@@ -171,36 +171,7 @@
 		 <para>
 			Use the correct DocBook elements to help translators understand the meaning of and to identify translatable and non-translatable terms.
 		</para>
-		 <table>
-			<title></title>
-			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
-				 <thead>
-					<row>
-						<entry> Example </entry>
-						 <entry> Improvement </entry>
-
-					</row>
-
-				</thead>
-				 <tbody>
-					<row>
-						<entry> &lt;literal&gt;ApplicationName&lt;/literal&gt; </entry>
-						 <entry> &lt;application&gt;ApplicationName&lt;/application&gt; </entry>
-
-					</row>
-					 <row>
-						<entry> &lt;literal&gt;/path/to/file&lt;/literal&gt; </entry>
-						 <entry> &lt;filename&gt;/path/to/file&lt;/filename&gt; </entry>
-
-					</row>
-
-				</tbody>
-
-			</tgroup>
-
-		</table>
+		 
 		 <formalpara id="DocBook_Elements-Tagged_Terms_in_Sentences">
 			<title>Tagged Terms in Sentences</title>
 			 <para>
