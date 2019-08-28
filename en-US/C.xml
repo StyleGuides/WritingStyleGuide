@@ -233,7 +233,7 @@
 			<term>code</term>
 			 <listitem>
 				<para>
-					Only use as a noun, not a verb. Use "write" for a verb.
+					<emphasis>n.</emphasis> Use only as a noun, not a verb. Use "write" for a verb.
 				</para>
 
 			</listitem>
@@ -453,42 +453,20 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="convert">
-			<term>convert</term>
-			 <listitem>
-				<para>
-					To change data from one format to another.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
+		 
 		 <varlistentry id="cookie">
 			<term>cookie</term>
 			 <listitem>
 				<para>
-					A message given to a web browser by a web server. The browser stores the message in a text file called cookie.txt. The message is then sent back to the server each time the browser requests a page from the server.
-				</para>
-				 <para>
-					The main purpose of cookies is to identify users and possibly prepare customized web pages for them. When you enter a website using cookies, you may be asked to fill out a form providing such information as your name and interests. This information is packaged into a cookie and sent to your web browser which stores it for later use. The next time you go to the same website, your browser will send the cookie to the web server. The server can use this information to present you with custom web pages. So, for example, instead of seeing just a generic welcome page you might see a welcome page with your name on it.
-				</para>
-				 <para>
-					The name "cookie" derives from UNIX objects called magic cookies. These are tokens that are attached to a user or program and change depending on the areas entered by the user or program. Cookies are also sometimes called "persistent cookies" because they typically stay in the browser for long periods of time.
+					<emphasis>n.</emphasis> A message given to a web browser by a web server.
+          The browser stores the message in a text file called <filename>cookie.txt</filename>.
+          The message is then sent back to the server each time the browser requests a page from the server.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="corrupted">
-			<term>corrupted</term>
-			 <listitem>
-				<para>
-					Refers to data that has been damaged in some way.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
+		 
 		 <varlistentry id="cr">
 			<term>CR</term>
 			 <listitem>
