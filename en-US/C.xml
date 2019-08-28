@@ -532,6 +532,15 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry id="cve">
+      <term>CVE</term>
+      <listitem>
+        <para>
+          <emphasis>n.</emphasis> CVE stands for Common Vulnerabilities and Exposures and should be capitalized as shown.
+          See <ulink url="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures"></ulink> for more information.
+        </para>
+      </listitem>
+    </varlistentry>
 		 <varlistentry id="cygmon">
 			<term>Cygmon</term>
 			 <listitem>
