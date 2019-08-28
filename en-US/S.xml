@@ -364,6 +364,17 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry id="sla">
+      <term>SLA</term>
+      <listitem>
+        <para>
+          <emphasis>n.</emphasis> SLA stands for service-level agreement.
+          The phrase itself is not normally capitalized but official SLA defect ratings, such as Low, Moderate, and Critical, carry initial caps.
+          This distinguishes the SLA-defined ratings from the severity of general issues and identifies them as requiring a predetermined response time and level of support according to agreements.
+        </para>
+      </listitem>
+    </varlistentry>
+    
 		 <varlistentry id="smart-card">
 			<term>smart card</term>
 			 <listitem>
