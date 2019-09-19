@@ -246,7 +246,7 @@
 
 		</varlistentry>
     <varlistentry>
-      <term>push-button, turn-key</term>
+      <term>push-button automation, turn-key automation</term>
       <listitem>
         <para>
           Metaphorical language (literally, push a button or turn a key to begin automation), and difficult to translate. Often used to refer to easy or hands-off automation, but human intervention is required, so this use is not accurate. Instead, use language accurate to the situation being described, such as:
@@ -255,18 +255,31 @@
           <listitem>
             <para>
               User-triggered automation.
-</para></listitem>
-          <listitem><para>Ready-to-use/ready-to-deploy.
-</para></listitem>
-          <listitem><para>Self-service/self-provisioned.
-</para></listitem>
-          <listitem><para>Single-step automation.
-</para></listitem>
-          <listitem><para>On-demand automation.
-</para></listitem>
-          </itemizedlist>
-        </listitem>
-      </varlistentry>
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Ready-to-use/ready-to-deploy.
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Self-service/self-provisioned.
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              Single-step automation.
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              On-demand automation.
+            </para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+     </varlistentry>
 		 <varlistentry id="pxe">
 			<term>PXE</term>
 			 <listitem>
