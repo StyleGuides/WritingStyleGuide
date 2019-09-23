@@ -289,6 +289,33 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry id="breadcrumb-trail">
+      <term>breadcrumb trail</term>
+      <listitem>
+        <para>
+          See <citetitle>The IBM Style Guide</citetitle> for initial guidance on how to use this term.
+        </para>
+        <note>
+          <para>
+            Do not confuse the breadcrumb trail with the name of the actual page in a user interface. The final breadcrumb in the trail is the name of the page, unless the page itself offers a distinct title. The breadcrumb trail indicates the path taken to reach the current page.
+          </para>
+          <mediaobject id="breadcrumb-trail-example">
+            <imageobject>
+              <imagedata fileref="images/breadcrumb-trail-example.png" scalefit="1" align="center"/></imageobject>
+            <textobject>
+              <phrase>
+                Example breadcrumb trail, showing <guilabel>Disks</guilabel> as the actual name of the page.
+              </phrase>
+            </textobject>
+            <caption>
+                <para>
+                  Example breadcrumb trail, showing <guilabel>Disks</guilabel> as the actual name of the page.
+                </para>
+            </caption>
+          </mediaobject>
+        </note>
+      </listitem>
+    </varlistentry>
     <varlistentry>
         <term>break</term>
         <listitem>
