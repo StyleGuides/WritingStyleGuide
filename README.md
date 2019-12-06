@@ -1,11 +1,11 @@
-###WritingStyleGuide
+### WritingStyleGuide
 
 
 A guide to writing clear, concise, and consistent technical documentation.
 
 The latest release of the guide is available at [The Red Hat Style Guide](http://stylepedia.net/style/)
 
-###Development and Release Process
+### Development and Release Process
 
 Patches or pull requests are always welcome, but need to be reviewed before they are merged and eventually published.
 
