@@ -10,16 +10,107 @@
 	</para>
 	 <section id="Writing_Clearly_and_Succinctly-Sentence_Structure">
 		<title>Sentence Structure</title>
-		 <formalpara id="Sentence_Structure-Using_Lists_Correctly">
-			<title>Using Lists Correctly</title>
+    <para>
+      This section helps to describe how to construct your content for clarity and readability.
+      A full discussion of this topic is beyond the scope of this guide.
+    </para>
+    
+		 <section id="Sentence_Structure-Using_Lists_Correctly">
+			<title>Using and Formatting Lists</title>
 			 <para>
-				Lists appear in a range of formats, such as series, ordered, unordered (itemized), and so on. Avoid using itemized lists to format a single sentence. Some translation tools, such as Zanata, display list items and the introductory sentence (or <firstterm>sentence stem</firstterm>) as individual sentences for translation. If these are not complete sentences, they can be difficult to translate.
+				Lists appear in a range of formats, such as series, ordered, unordered (itemized), and so on. Avoid using itemized lists to format a single sentence. Some translation tools display list items and the introductory sentence (or <firstterm>sentence stem</firstterm>) as individual sentences for translation. If these are not complete sentences, they can be difficult to translate.
 			</para>
+      <para>
+        The following general guidelines apply to lists:
+      </para>
+      <variablelist>
+        <varlistentry>
+            <term>Itemized lists</term>
+            <listitem>
+                <para>
+                  These appear as a bulleted list.
+                  Use this list type for three or more entries where order is not important, or in a demonstration section when students are encouraged to not perform steps but to watch the instructor instead.
+                  Titles are optional.
+                </para>
+            </listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>Ordered lists</term>
+            <listitem>
+                <para>
+                    These appear as a numbered list.
+                    Use this list type for multiple entries if you need to refer to one of the entries from elsewhere in your document, or where order is important.
+                    For example, if you need to list the order of operations required to prepare for an installation, or list a sequence of events that occurs.
+                    Titles are optional.
+                </para>
+            </listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>Variable lists</term>
+            <listitem>
+                <para>
+                  These appear as a list of terms followed by definitions.
+                  Use this list type to list and describe a series of terms, such as variables, command options or arguments, and similar items.
+                  Titles are optional.
+                  (This list is written as a variable list.)
+                  A variable list is often preferable to a table, because tables have the additional overhead of calculating column width for every translation.
+                  Tables are best reserved for information that relies upon, or benefits greatly from, a grid layout.
+                </para>
+            </listitem>
+        </varlistentry>
+        <varlistentry>
+            <term>Procedures</term>
+            <listitem>
+                <para>
+                    These appear as a list of numbered steps.
+                    Procedures always include a title, and are used to list the steps required to achieve a task.
+                </para>
+            </listitem>
+        </varlistentry>
+    </variablelist>
+    <para>
+        You can nest lists, but try to keep the number of levels to two or fewer.
+        To nest procedures in DocBook, use &lt;substep&gt; elements.
+    </para>
+    <section><title>Formatting Lists for Readability</title>
+      <para>
+        It is important to provide sufficient spacing between elements in your documents to facilitate reading and comprehension.
+        You can include a lot of information in a few short paragraphs but readers need to be able to process that information in chunks.
+        The same applies to lists.
+        If you use DocBook to build itemized, ordered, or variable (definition) lists, you can use the <option>compact</option> or <option>normal</option> attributes to specify the spacing between list items.
+        DocBook uses the <option>normal</option> spacing attribute by default.
+      </para>
+      <para>
+        Use a list with normal spacing if any list item contains the following:
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+            Nested lists.
+            Note that nested lists themselves can use the <option>compact</option> attribute if they fall outside the bounds of these recommendations.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Navigation or similar instructions (such as "Navigate to Menu -> Submenu").
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Multiple paragraphs, or sentences that wrap to two or more lines.
+          </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        Use a list with compact spacing in all other cases.
+      </para>
+      <note>
+        <para>
+          The use of all but very simple graphics in lists is strongly discouraged.
+        </para>
+      </note>
 
-		</formalpara>
-		 <para>
-			Use an ordered list when the order of entries is important, or if you need to refer to one of the entries from elsewhere in your document.
-		</para>
+    
 		 <para>
 			The following discussion provides some initial insight into using lists correctly. See <citetitle>The IBM Style Guide</citetitle> for a full discussion.
 		</para>
@@ -87,13 +178,15 @@
 			</tgroup>
 
 		</table>
-		 <formalpara id="Sentence_Structure-Noun_Stacking">
+    </section>
+    </section>
+    
+		 <section id="Sentence_Structure-Noun_Stacking">
 			<title>Noun Stacking</title>
 			 <para>
 				Modifier strings (modifier + noun + noun sentence format), over-modified nouns (or <firstterm>noun stacks</firstterm>), are especially difficult to translate, particularly when several different combinations could make sense.
 			</para>
 
-		</formalpara>
 		 <table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
@@ -124,6 +217,7 @@
 			</tgroup>
 
 		</table>
+  </section>
 
 	</section>
 	 <section id="genders">
