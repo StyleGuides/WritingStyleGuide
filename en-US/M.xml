@@ -244,7 +244,7 @@
 
 		</varlistentry>
 		 <varlistentry id="ms-dos">
-			<term>MDOS</term>
+			<term>MS-DOS</term>
 			 <listitem>
 				<para>
 					Correct. Do not use "ms-dos," "MSDOS," or "msdos."
@@ -253,6 +253,24 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry id="multicloud">
+      <term role="true">multicloud</term>
+      <term role="false">multi-cloud</term>
+      <term role="false">multi cloud</term>
+      <listitem>
+        <para>
+          <emphasis>n.</emphasis> Use "multicloud" in all cases.
+          Capitalize only at the beginning of a sentence.
+          Do not use "multi-cloud" or "multi cloud."
+        </para>
+        <para>
+          Multicloud is a cloud approach made up of more than one cloud service, from more than one cloud vendor, either public or private.
+        </para>
+        <para>
+          See <ulink url="https://www.redhat.com/en/topics/cloud-computing/what-is-multicloud"></ulink> for more information.
+        </para>
+      </listitem>
+      </varlistentry>
 		 <varlistentry id="multiprocessing">
 			<term>multiprocessing</term>
 			 <listitem>
@@ -273,11 +291,13 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="mutexes">
-			<term>Mutexes</term>
+		 <varlistentry id="mutex">
+			<term>mutex</term>
 			 <listitem>
 				<para>
-					Correct. "Mutex" is an abbreviation of "mutual exclusion." Consequently, "mutexes" is the correct plural form.
+					<emphasis>n.</emphasis> In computer science, "mutex" is an abbreviation of "mutual exclusion."
+          It is not usually expanded except to introduce or explain the concept.
+          The plural form is "mutexes."
 				</para>
 
 			</listitem>
