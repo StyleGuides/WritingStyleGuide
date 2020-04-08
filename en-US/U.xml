@@ -12,6 +12,9 @@
 				<para>
 					<emphasis>n.</emphasis> UID and user ID are abbreviations of <emphasis>user identifier</emphasis>. Do not use "uid" or "User ID" or other variations unless specifically referring to a variable, argument, parameter, UI label, or similar.
 				</para>
+        <para>
+          See also <xref linkend="uuid"/>.
+        </para>
 
 			</listitem>
 
@@ -230,6 +233,17 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry id="uuid">
+      <term>UUID</term>
+      <listitem>
+        <para>
+          <emphasis>n.</emphasis> Use ID, UID, or UUID, and the same case, as the software, command, or output requires.
+        </para>
+        <para>
+          See also <xref linkend="uid"/>.
+        </para>
+      </listitem>
+    </varlistentry>
 
 	</variablelist>
 </chapter>
