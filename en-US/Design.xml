@@ -332,62 +332,69 @@ $ vi myFile.txt
 			 <para>
 				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following.
 			</para>
-			 <note>
-				<para>
-					All names are lowercase. Do not use white space in any part of the name.
-				</para>
+      
+      <para>
+        Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
+      </para>
+      
+        <important>
+        <para>
+          Do not use valid, public IP addresses in any examples.
+        </para>
+      </important>
 
-			</note>
-			 <itemizedlist>
-				<listitem>
-					<para>
-						Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
-					</para>
-					 <important>
-						<para>
-							Do not use valid, public IP addresses in any examples.
-						</para>
-
-					</important>
-
-				</listitem>
-				 <listitem>
-					<para>
-						As much as possible, use <systemitem>user</systemitem>, <systemitem>username</systemitem>, <systemitem>root</systemitem>, <systemitem>admin</systemitem>, or similar names to identify classes of users.
-					</para>
-					 <para>
-						Use these generic names when you refer to users outside of a case study. This helps students identify which part of a command can and should be replaced by establishing a consistent format for names of users and system items. For example:
-					</para>
+      <para>
+        As much as possible, use <systemitem>user</systemitem>, <systemitem>username</systemitem>, <systemitem>root</systemitem>, <systemitem>admin</systemitem>, or similar names to identify classes of users.
+      </para>
+        <para>
+        Use these generic names when you refer to users outside of a case study. This helps students identify which part of a command can and should be replaced by establishing a consistent format for names of users and system items. For example:
+      </para>
 
 <screen><prompt>[root@fedora ~]# </prompt><userinput>setfacl -m u:user1:rw /project/file1</userinput></screen>
+        <section><title>Referring to Administrative Users</title>
+          <para>
+            Be as explicit as possible when referring to administrative users.
+            Many products include a default user that has administrative privileges, but is not necessarily named "admin," for example the <systemitem>kubeadmin</systemitem> user in Kubernetes/OpenShift.
+          </para>
+          <para>
+            Moreover, in many products, only the RBAC model dictates what constitutes an administrative user.
+            In these products, you can assign the appropriate RBAC (role) bindings to regular users to promote them to an administrative user.
+          </para>
+          <para>
+            In these scenarios, refer to the user as follows:
+          </para>
+          <screen>Connect as the <code>admin</code> user, who has administrative privileges.</screen>
+        </section>
+          
+          <section><title>Alternative User Names</title>
 					 <para>
-						The following list provides further alternatives:
+						The following list provides further alternatives to the base user names:
 					</para>
 					 <itemizedlist>
 						<listitem>
 							<para>
 								<systemitem>operator1</systemitem> to <systemitem>operator9</systemitem>
 							</para>
-
 						</listitem>
 						 <listitem>
 							<para>
 								<systemitem>developer1</systemitem> to <systemitem>developer9</systemitem>
 							</para>
-
 						</listitem>
 						 <listitem>
 							<para>
 								<systemitem>architect1</systemitem> to <systemitem>architect9</systemitem>
 							</para>
-
 						</listitem>
-
 					</itemizedlist>
 
-				</listitem>
-
-			</itemizedlist>
+          <note>
+            <para>
+              All names are lowercase. Do not use white space in any part of the name.
+            </para>
+          </note>
+        </section>
+    
 			 <section id="using-extended-names">
 				<title>Using Extended User and Group Names</title>
 				 <para>
