@@ -368,7 +368,7 @@
       <term>SLA</term>
       <listitem>
         <para>
-          <emphasis>n.</emphasis> SLA stands for service-level agreement.
+          <emphasis>n.</emphasis> SLA stands for Service Level agreement.
           The phrase itself is not normally capitalized but official SLA defect ratings, such as Low, Moderate, and Critical, carry initial caps.
           This distinguishes the SLA-defined ratings from the severity of general issues and identifies them as requiring a predetermined response time and level of support according to agreements.
         </para>
@@ -469,7 +469,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>specific</term>
 			 <listitem>
 				<para>
-					When used as a modifier, put a hyphen before "specific," such as "MIPspecific," "Linux-specific," and "chip-specific."
+					When used as a modifier, put a hyphen before "specific," such as "MIP-specific," "Linux-specific," and "chip-specific."
 				</para>
 
 			</listitem>
@@ -498,7 +498,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 					When referring to Microsoft's proprietary product, SQL Server, pronounce it as a word: "sequel." In this case, it takes "a" as an indefinite article.
 				</para>
 				 <para>
-					NB: Oracle also pronounces its SQbased products (such as PL/SQL) as "sequel."
+					NB: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
 				</para>
 				 <para>
 					More generally, avoid using "SQL" as a generic marker if at all possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced pŏstgrĕs kyü ĕl), write "PostgreSQL."

@@ -60,7 +60,7 @@
 			<term>InfiniBand</term>
 			 <listitem>
 				<para>
-					InfiniBand is a switched fabric network topology used in high-performance computing. The term is both a service mark and a trademark of the InfiniBand Trade Association. Their rules for using the mark are standard ones: append the ™ symbol the first time it is used and respect the capitalization (including the inter-capped "B") from then on. In ASCIonly circumstances, the "(TM)" string is the acceptable alternative.
+					InfiniBand is a switched fabric network topology used in high-performance computing. The term is both a service mark and a trademark of the InfiniBand Trade Association. Their rules for using the mark are standard ones: append the ™ symbol the first time it is used and respect the capitalization (including the inter-capped "B") from then on. In ASCII-only circumstances, the "(TM)" string is the acceptable alternative.
 				</para>
 				 <para>
 					"Open InfiniBand" is deprecated and should not be used.
