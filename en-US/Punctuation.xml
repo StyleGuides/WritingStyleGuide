@@ -432,7 +432,7 @@
 			Do not put quotation marks around cliches or slang terms (in fact, avoid using cliches and slang as it makes the translation of content more difficult).
 		</para>
 		 <para>
-			A word or words being introduced to readers should not be placed in quotation marks. In DocBook, use the &lt;firstterm&gt; element for first reference. If you are writing outside of the SGML tagging enviroment, use quotation marks for first references. Subsequent references do not need quotation marks or the &lt;firstterm&gt; element.
+			A word or words being introduced to readers should not be placed in quotation marks. In DocBook, use the &lt;firstterm&gt; element for first reference. If you are writing outside of the SGML tagging environment, use quotation marks for first references. Subsequent references do not need quotation marks or the &lt;firstterm&gt; element.
 		</para>
 
 	</section>

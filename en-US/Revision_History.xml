@@ -18,7 +18,7 @@
 				 <revdescription>
 					<simplelist>
 						<member>Fix issue "use 'singular to plural' pronouns -- typo? #6 .</member>
-						 <member>Repair some xml in the grammar section.</member>
+						 <member>Repair some XML in the grammar section.</member>
 						 <member>Minor repairs to language.</member>
 
 					</simplelist>
@@ -86,8 +86,8 @@
 				</author>
 				 <revdescription>
 					<simplelist>
-						<member>General clean-up of "U" section. BZ 1037923: Added entry for "uninterruptible".</member>
-						 <member>General clean-up of "T" section. BZ 1038090: Added entry for "tier-1".</member>
+						<member>General cleanup of "U" section. BZ 1037923: Added entry for "uninterruptible".</member>
+						 <member>General cleanup of "T" section. BZ 1038090: Added entry for "tier-1".</member>
 						 <member>General tidy-up. Fix some typos. Updates cross-references. Started on BZ 820071.</member>
 
 					</simplelist>
@@ -164,7 +164,7 @@
 						 <member>BZ 915987 Add entry for "bare metal".</member>
 						 <member>Add exception for Brand and Marketing heading styles.</member>
 						 <member>BZ 1017549 Added entry for how to use URLs and footnotes.</member>
-						 <member>BZ 1019258 Fixed Gunning Fog typo Chpt 1 under "Readability".</member>
+						 <member>BZ 1019258 Fixed Gunning Fog typo Ch 1 under "Readability".</member>
 						 <member>BZ 989838 Updated entry for x86 usage.</member>
 						 <member>BZ 1010163 Added entry for "Q and A".</member>
 						 <member>BZ 821606 Updated entry for qeth based on new information.</member>
@@ -331,7 +331,7 @@
 						 <member>BZ 821615 Correct use of JVM</member>
 						 <member>BZ 836869 Update SSH entry to allow for lowercase version</member>
 						 <member>BZ 829173 Add correct usage of "time to live" to Usage Dictionary</member>
-						 <member>BZ 821616 capitalization when referring to btrfs</member>
+						 <member>BZ 821616 capitalization when referring to Btrfs</member>
 						 <member>BZ 821612 Usage Dictionary addition: "zip"</member>
 						 <member>BZ 824209 word usage: segfault</member>
 						 <member>BZ 821599 Documenting exceptions</member>
@@ -393,7 +393,7 @@
 						 <member>Updates to and integration of Chapters X, Y, and Z.</member>
 						 <member>Updated section on "Avoiding Slang."</member>
 						 <member>Removed some redundant entries.</member>
-						 <member>Various clean-ups based on IBM Style Guide.</member>
+						 <member>Various cleanups based on IBM Style Guide.</member>
 						 <member>New entries from Word Nerds discussions.</member>
 
 					</simplelist>
@@ -488,7 +488,7 @@
 				</author>
 				 <revdescription>
 					<simplelist>
-						<member>Docbook conversion from original guide on the Intranet.</member>
+						<member>DocBook conversion from original guide on the Intranet.</member>
 
 					</simplelist>
 

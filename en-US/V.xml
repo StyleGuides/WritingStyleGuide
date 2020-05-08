@@ -45,7 +45,7 @@
           Only use "vim" (all lowercase) when referring to the command to start the application.
 				</para>
 				 <para>
-					Vim is an acronym, derived from Vi IMproved. (In the original 1991 release for the Amiga platform, the acronym was derived from Vi IMitation. It became Vi IMproved when ported to various UNIbased operating systems in 1992.) Despite being an acronym, and despite the first word of the "About" text that appears when you start the editor, the standard, proper noun-derived, mixed-case spelling has been in use since its release on the Amiga.
+					Vim is an acronym, derived from Vi IMproved. (In the original 1991 release for the Amiga platform, the acronym was derived from Vi IMitation. It became Vi IMproved when ported to various UNIX-based operating systems in 1992.) Despite being an acronym, and despite the first word of the "About" text that appears when you start the editor, the standard, proper noun-derived, mixed-case spelling has been in use since its release on the Amiga.
 				</para>
 
 			</listitem>

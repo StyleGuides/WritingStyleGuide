@@ -133,7 +133,7 @@
 			<term>Exec-Shield</term>
 			 <listitem>
 				<para>
-					Exec-Shield is a security-enhancing modification to the Linux kernel that makes large parts of specially-marked programs including their stack not executable.
+					Exec-Shield is a security-enhancing modification to the Linux kernel that makes large parts of specially marked programs including their stack not executable.
 				</para>
 
 			</listitem>
