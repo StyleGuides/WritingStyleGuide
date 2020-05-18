@@ -71,6 +71,7 @@ header img {
 
 footer {
     background-color: #333;
+    padding: 1ex 0 0 0;
     position: fixed;    
     bottom: 0;
     width: 100%;
@@ -105,4 +106,8 @@ footer div p {
 
 footer div p:nth-of-type(2) {
     display:none;
+}
+
+.social {
+    width: 18em;
 }
