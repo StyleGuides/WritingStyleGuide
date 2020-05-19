@@ -332,69 +332,62 @@ $ vi myFile.txt
 			 <para>
 				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following.
 			</para>
-      
-      <para>
-        Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
-      </para>
-      
-        <important>
-        <para>
-          Do not use valid, public IP addresses in any examples.
-        </para>
-      </important>
+			 <note>
+				<para>
+					All names are lowercase. Do not use white space in any part of the name.
+				</para>
 
-      <para>
-        As much as possible, use <systemitem>user</systemitem>, <systemitem>username</systemitem>, <systemitem>root</systemitem>, <systemitem>admin</systemitem>, or similar names to identify classes of users.
-      </para>
-        <para>
-        Use these generic names when you refer to users outside of a case study. This helps students identify which part of a command can and should be replaced by establishing a consistent format for names of users and system items. For example:
-      </para>
+			</note>
+			 <itemizedlist>
+				<listitem>
+					<para>
+						Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, this is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
+					</para>
+					 <important>
+						<para>
+							Do not use valid, public IP addresses in any examples.
+						</para>
+
+					</important>
+
+				</listitem>
+				 <listitem>
+					<para>
+						As much as possible, use <systemitem>user</systemitem>, <systemitem>username</systemitem>, <systemitem>root</systemitem>, <systemitem>admin</systemitem>, or similar names to identify classes of users.
+					</para>
+					 <para>
+						Use these generic names when you refer to users outside of a case study. This helps students identify which part of a command can and should be replaced by establishing a consistent format for names of users and system items. For example:
+					</para>
 
 <screen><prompt>[root@fedora ~]# </prompt><userinput>setfacl -m u:user1:rw /project/file1</userinput></screen>
-        <section><title>Referring to Administrative Users</title>
-          <para>
-            Be as explicit as possible when referring to administrative users.
-            Many products include a default user that has administrative privileges, but is not necessarily named "admin," for example the <systemitem>kubeadmin</systemitem> user in Kubernetes/OpenShift.
-          </para>
-          <para>
-            Moreover, in many products, only the RBAC model dictates what constitutes an administrative user.
-            In these products, you can assign the appropriate RBAC (role) bindings to regular users to promote them to an administrative user.
-          </para>
-          <para>
-            In these scenarios, refer to the user as follows:
-          </para>
-          <screen>Connect as the <code>admin</code> user, who has administrative privileges.</screen>
-        </section>
-          
-          <section><title>Alternative User Names</title>
 					 <para>
-						The following list provides further alternatives to the base user names:
+						The following list provides further alternatives:
 					</para>
 					 <itemizedlist>
 						<listitem>
 							<para>
 								<systemitem>operator1</systemitem> to <systemitem>operator9</systemitem>
 							</para>
+
 						</listitem>
 						 <listitem>
 							<para>
 								<systemitem>developer1</systemitem> to <systemitem>developer9</systemitem>
 							</para>
+
 						</listitem>
 						 <listitem>
 							<para>
 								<systemitem>architect1</systemitem> to <systemitem>architect9</systemitem>
 							</para>
+
 						</listitem>
+
 					</itemizedlist>
 
-          <note>
-            <para>
-              All names are lowercase. Do not use white space in any part of the name.
-            </para>
-          </note>
-        </section>
-    
+				</listitem>
+
+			</itemizedlist>
 			 <section id="using-extended-names">
 				<title>Using Extended User and Group Names</title>
 				 <para>
@@ -541,29 +534,24 @@ $ vi myFile.txt
 	 <section id="product-names">
 		<title>Using Company, Product, and Brand Names Correctly</title>
 		 <para>
-			A number of restrictions apply to using company, product, and brand names in Red&nbsp;Hat documentation.
-      Refer to the <citetitle>Master Products and Solutions List</citetitle> or your own internal sources for further conditions that might apply to your own products.
+			A number of restrictions apply to using company, product, and brand names in Red&nbsp;Hat documentation. Refer to internal sources for further conditions that might apply to your own products.
 		</para>
 		 <note>
 			<para>
-				In the following sections, "first use" refers to the first use of a name in body text.
-        Titles, banners, and similar objects are not classified as "first use."
+				In the following sections, "first use" refers to the first use of a name in body text. Titles, banners, and similar objects are not classified as "first use."
 			</para>
 
 		</note>
 		 <itemizedlist>
 			<listitem>
 				<para>
-					Restrictions apply to abbreviating Red&nbsp;Hat product or solution names in public-facing documents.
-          Always use the full name on first use.
-          For some products, for example Red&nbsp;Hat OpenShift Container Platform, you can omit "Red&nbsp;Hat" after the first use.
+					Restrictions apply to abbreviating Red&nbsp;Hat product or solution names in public-facing documents. Always use the full name on first use. For some products, for example Red&nbsp;Hat OpenShift Container Platform, you can omit "Red&nbsp;Hat" after the first use.
 				</para>
 
 			</listitem>
 			 <listitem>
 				<para>
-					Further restrictions apply to using acronyms and initialisms.
-          In this same example, and only in technical documentation, "RHOCP" is acceptable after the first use of the full product name.
+					Further restrictions apply to using acronyms and initialisms. In this same example, and only in technical documentation, "RHOCP" is acceptable after the first use of the full product name.
 				</para>
 
 			</listitem>
@@ -575,9 +563,7 @@ $ vi myFile.txt
 			</listitem>
 			 <listitem>
 				<para>
-					Use non-breaking spaces to avoid breaking the company name over multiple lines.
-          This also applies to product names and their versions.
-          For example, use a non-breaking space between "Red" and "Hat," and also between "Enterprise," "Linux," and the version number.
+					Use non-breaking spaces to avoid breaking the company name over multiple lines. This also applies to product names and their versions. For example, use a non-breaking space between "Red" and "Hat," and also between "Enterprise," "Linux," and the version number.
 				</para>
 				 <para>
 					If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
@@ -586,19 +572,18 @@ $ vi myFile.txt
 			</listitem>
 			 <listitem>
 				<para>
-					Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name.
-          Consider the following examples:
+					Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name. Consider the following examples:
 				</para>
 				 <itemizedlist>
 					<listitem>
 						<para>
-							Standardize on Red<emphasis role="bold">&amp;nbsp;</emphasis>Hat Enterprise<emphasis role="bold">&amp;nbsp;</emphasis>Linux.
+							Standardize on Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux.
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							The latest version is Red<emphasis role="bold">&amp;nbsp;</emphasis>Hat Enterprise<emphasis role="bold">&amp;nbsp;</emphasis>Linux<emphasis role="bold">&amp;nbsp;</emphasis>7.0
+							The latest version is Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux&amp;nbsp;7.0
 						</para>
 
 					</listitem>
@@ -608,8 +593,7 @@ $ vi myFile.txt
 			</listitem>
 			 <listitem>
 				<para>
-					Do not use non-breaking spaces between extended components of Red&nbsp;Hat product names.
-          For example, "Red&nbsp;Hat OpenStack Platform" does not require a non-breaking space between "OpenStack" and "Platform."
+					Do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise&nbsp;Linux OpenStack Platform" does not require a non-breaking space between "Linux" and "OpenStack" nor between "OpenStack" and "Platform."
 				</para>
 
 			</listitem>
@@ -621,13 +605,11 @@ $ vi myFile.txt
 			</listitem>
 			 <listitem>
 				<para>
-					Do not use articles in front of product names.
-          For example, do not write "the Red&nbsp;Hat Process Automation Manager provides..."
+					Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was..."
 				</para>
 				 <note>
 					<para>
-						In this case, "Manager" is part of the product name.
-            In other cases, words like "platform," "manager," and so on may not be part of the product name, in which case an article is acceptable, if not necessary.
+						In this case, "Platform" is part of the product name. In other cases, words like "platform," "manager," and so on may not be part of the product name, in which case an article is acceptable, if not necessary.
 					</para>
 
 				</note>
@@ -640,23 +622,29 @@ $ vi myFile.txt
 	 <section id="version-numbers">
 		<title>Using Version Numbers Correctly</title>
 		 <para>
-			The preferred format for product names includes only the major version number.
-      For example, Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8.
-    </para>
+			The preferred format for product names includes only the major version number. For example:
+			<itemizedlist>
+				<listitem>
+					<para>
+						Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;7
+					</para>
 
-		 <para>
-			When writing about a product line, product release, or product family, use major version numbers.
-      This includes all the releases (past, present, and future) of that major version.
+				</listitem>
+				 <listitem>
+					<para>
+						JBoss Enterprise&nbsp;Application&nbsp;Platform&nbsp;3
+					</para>
+
+				</listitem>
+
+			</itemizedlist>
+
 		</para>
-    <para>
-			With the exception of the cases listed below, avoid using the "dot-oh" release number.
-      For example, do not use Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.0.
-      Use instead Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.
+		 <para>
+			When writing about a product line, product release, or product family, use major version numbers. This includes all the releases (past, present, and future) of that major version.
 		</para>
 		 <para>
-			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release.
-      For example:
-    </para>
+			Only use minor version numbers when you are referring to a specific minor release, or to a feature that is specific to that minor release. For example:
 			<itemizedlist>
 				<listitem>
 					<para>
@@ -666,22 +654,23 @@ $ vi myFile.txt
 				</listitem>
 				 <listitem>
 					<para>
-						&lt;Application name&gt; was first included in Red&nbsp;Hat Satellite&nbsp;Server&nbsp;6.6.
+						&lt;Application name&gt; was first included in JBoss Enterprise&nbsp;Application&nbsp;Platform&nbsp;3.2.
 					</para>
 
 				</listitem>
 
 			</itemizedlist>
 
-		 <para>
-			In most cases, major changes take place in major version releases, and are carried through any minor updates to that release.
-      If you are referring to a major change, or to the first appearance of a new technology, it is therefore most accurate to refer to the major release.
 		</para>
-		 
+		 <para>
+			In most cases, major changes take place in major version releases, and are carried through any minor updates to that release. If you are referring to a major change, or to the first appearance of a new technology, it is therefore most accurate to refer to the major release.
+		</para>
+		 <para>
+			Avoid using the "dot-oh" release number. For example, do not use Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.0. Use instead Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.
+		</para>
 		 <important>
 			<para>
-				This rule only applies to Red&nbsp;Hat products.
-        Refer to other companies' products and use their version numbers as they use them.
+				This rule only applies to Red&nbsp;Hat products. Refer to other companies' products and use their version numbers as they use them.
 			</para>
 
 		</important>
