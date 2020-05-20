@@ -1,0 +1,115 @@
+@font-face { 
+  font-family: "overpass"; 
+  src: url("./font/overpass-regular.otf"); 
+}
+
+@font-face { 
+  font-family: "awesome"; 
+  src: url("./font/FontAwesome.otf"); 
+}
+
+body {
+    font-family: 'overpass',sans;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #cc0000 url("../img/nimbus-hero_grey.jpg") repeat;
+    padding: 1.5em;
+}
+
+header p {
+    color: #fff;
+    font-size: 1.5em;
+    margin-left: 12%;
+}
+
+header strong {
+    color: #cc0000;
+    background-color: #fff;
+}
+
+header img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-alinn: center;
+    margin-bottom: 3ex;
+}
+
+#main {
+    text-align: center;
+}
+
+#main > div {
+    padding-top: 5%;
+}
+
+#main > img {
+    padding-top: 5%;
+}
+
+#main p {
+    width: 50%;
+    font-size: 1.33em;
+    margin: auto;
+}
+
+#main h1 {
+    margin-top: 2em;
+    display: inline-block;
+    padding-right: 3em;
+}
+
+#main a {
+    font-size: 1.33em;
+    color: #4c4c4c;
+    text-decoration: none;
+}
+
+ .btn {
+    width: 25%;
+    display: inline-block;    
+    background-color: red;
+}
+
+.btn i {
+    padding-right: 2em;
+    font-size: 2em;
+}
+
+footer {
+    background-color: #fff;
+    position: fixed;    
+    bottom: 0;
+    width: 100%;
+    color: #4c4c4c;
+    padding-bottom: 3em;
+}
+
+footer a {
+    color: #4c4c4c;
+    padding-left: 1em;
+    font-size: 1.8em;
+}
+
+footer p {
+    margin-left: 12%;
+}
+
+footer div:first-of-type {
+    text-align: left;
+}
+
+footer div {
+    margin-left: 12%;
+    width: 25%;
+    display: inline-block;
+    text-align: right;
+}
+
+.fa-twitter .fa-github .fa-hashtag {
+    font-family: 'awesome';
+}
