@@ -32,10 +32,24 @@
 				<para>
 					Preferred abbreviation for "telecommunications company." Do not use "telecom." See also <xref linkend="csp" />.
 				</para>
+				<para>
+					Use "telecommunications service provider" on first use. Subsequent uses can be "telco" or "telco service provider"; only use "telco" when the context makes it clear that the industry is engaged in providing telecommunications services. Use in URLs.
+					See <xref linkend="telecommunications-service-provider" />.
+				</para>
 
 			</listitem>
 
 		</varlistentry>
+		<varlistentry id="telecommunications-service-provider">
+		 <term>telecommunications service provider</term>
+			<listitem>
+			 <para>
+				 Preferred abbreviation is "telco",but only after "telecommunications service provider" is referenced on first use. "Service provider" is an acceptable abbreviation after first use, but be careful in content that mentions different industries/types of services. Do not use in URLs. See <xref linkend="telco" />.
+			 </para>
+
+		 </listitem>
+
+	 </varlistentry>
 		 <varlistentry id="telecommunications">
 			<term>telecommunications</term>
 			 <listitem>
@@ -238,4 +252,3 @@
 
 	</variablelist>
 </chapter>
-
