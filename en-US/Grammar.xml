@@ -624,7 +624,7 @@
 							</thead>
 							 <tbody>
 								<row>
-									<entry> Once the file retrieval has been completed, you are ready to restart your system. </entry>
+									<entry> After the file retrieval has been completed, you are ready to restart your system. </entry>
 									 <entry> After the files have been retrieved, you can restart your system. </entry>
 
 								</row>
@@ -752,4 +752,3 @@
 	</section>
 
 </chapter>
-

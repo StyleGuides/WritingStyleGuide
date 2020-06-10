@@ -84,6 +84,16 @@
 			</listitem>
 
 		</varlistentry>
+		<varlistentry id="once">
+		 <term>once</term>
+			<listitem>
+			 <para>
+				 Use only to mean “one time.” Do not use as a conjunction to mean “after” or “when.”
+			 </para>
+
+		 </listitem>
+
+		</varlistentry>
 		 <varlistentry id="online">
 			<term>online</term>
 			 <listitem>
@@ -252,4 +262,3 @@
 
 	</variablelist>
 </chapter>
-
