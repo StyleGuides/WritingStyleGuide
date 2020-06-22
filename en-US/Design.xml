@@ -249,22 +249,23 @@ $ vi myFile.txt
 
 				</example>
 				 <para>
-					If the commands are long, complex, or wrap over multiple lines, use the following design to help optimize clarity, and to make it easy for users to copy and paste the command if required:
+					If the commands are long, complex, or wrap over multiple lines, use the following design to help optimize clarity.
+          If you are documenting commands on a different operating system, update the prompts and line continuation characters to suit.
 				</para>
 				 <example>
 					<title>Documenting Long Commands</title>
 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
-/etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
-/etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
-/etc/sysconfig/katello /etc/sysconfig/elasticsearch \
-/root/ssl–build /var/www/html/pub/* /var/lib/katello
+  > /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
+  > /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
+  > /etc/sysconfig/katello /etc/sysconfig/elasticsearch \
+  > /root/ssl–build /var/www/html/pub/* /var/lib/katello
 
 # cd /var/lib/katello
 
 # myCommand --option funky --color=true \
---config_file=&lt;replaceable&gt;/home/user/config.conf&lt;/replaceable&gt; \
---output_file=&lt;replaceable&gt;/home/user/output.txt&lt;/replaceable&gt;</screen>
+> --config_file=&lt;replaceable&gt;/home/user/config.conf&lt;/replaceable&gt; \
+> --output_file=&lt;replaceable&gt;/home/user/output.txt&lt;/replaceable&gt;</screen>
 
 				</example>
 
