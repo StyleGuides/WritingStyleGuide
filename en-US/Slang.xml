@@ -23,6 +23,8 @@
 					<para>
 						This is a commonly understood phrase, and despite some concerns about using superlatives without statistics to back them up, Red&nbsp;Hat does not actively discourage its use. It is also a more common search term than most alternatives. If you are in any doubt, the preferred alternative is "recommended practices."
 					</para>
+					<para>
+						For guidance on making recommendations, or promoting recommeded practices, refer to the section <xref linkend="making-recomendations"/>.
 
 				</listitem>
 
@@ -872,4 +874,3 @@
 	</section>
 
 </chapter>
-
