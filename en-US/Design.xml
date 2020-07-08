@@ -256,10 +256,10 @@ $ vi myFile.txt
 					<title>Documenting Long Commands</title>
 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
-  > /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
-  > /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
-  > /etc/sysconfig/katello /etc/sysconfig/elasticsearch \
-  > /root/ssl–build /var/www/html/pub/* /var/lib/katello
+> /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
+> /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
+> /etc/sysconfig/katello /etc/sysconfig/elasticsearch \
+> /root/ssl–build /var/www/html/pub/* /var/lib/katello
 
 # cd /var/lib/katello
 
