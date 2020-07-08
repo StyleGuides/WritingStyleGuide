@@ -34,17 +34,17 @@
 				</para>
 				<para>
 					Use "telecommunications service provider" on first use. Subsequent uses can be "telco" or "telco service provider"; only use "telco" when the context makes it clear that the industry is engaged in providing telecommunications services. Use in URLs.
-					See <xref linkend="telecommunications-service-provider" />.
+					See <xref linkend="telecom-service-provider" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		<varlistentry id="telecommunications-service-provider">
+		<varlistentry id="telecom-service-provider">
 		 <term>telecommunications service provider</term>
 			<listitem>
 			 <para>
-				 Preferred abbreviation is "telco",but only after "telecommunications service provider" is referenced on first use. "Service provider" is an acceptable abbreviation after first use, but be careful in content that mentions different industries/types of services. Do not use in URLs. See <xref linkend="telco" />.
+				 Expand fully on first use, after which "telco" is the preferred abbreviation. "Service provider" is also acceptable as an abbreviation, but be careful in content that mentions different industries or types of services. Do not use in URLs. See <xref linkend="telco" />.
 			 </para>
 
 		 </listitem>
