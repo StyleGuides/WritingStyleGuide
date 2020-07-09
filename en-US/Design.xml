@@ -725,28 +725,32 @@ $ vi myFile.txt
 	<section id="making-recommendations">
 	 <title>Making Recommendations</title>
 		<para>
-		When making a recommendation, the preferred verbiage is <emphasis role="bold">"Red&nbsp;Hat recommends..."</emphasis> instead of the common but indirect "It is recommended...".
+		When making a recommendation, the preferred verbiage is "Red&nbsp;Hat recommends..." instead of the common but indirect "It is recommended...".
 		Recommendations can include best practices, recommended practices, and product-specific suggestions.
 		Refer to <xref linkend="avoiding-confusing-language"/> for information on using the terms "best practices" and "recommended practices" in Red&nbsp;Hat documentation.
 	  </para>
-    <para>
-	   <emphasis role="strong">Example 1</emphasis>
+		<example>
+			<title>
+				(incorrect)
+			</title>
+		<para>
+	    "Although the attack surface is reduced to the same-project traffic, it is recommended to create multiple service accounts within a project."
 	  </para>
-		<para>
-			Incorrect: "Although the attack surface is reduced to the same-project traffic, it is recommended to create multiple service accounts within a project."
-		</para>
-		<para>
-			Correct: "Although the attack surface is reduced to the same-project traffic, Red&nbsp;Hat recommends creating multiple service accounts within a project."
-		</para>
-	 	<para>
-		 <emphasis role="strong">Example 2</emphasis>
-		</para>
-		<para>
-			Incorrect: "It is recommended to generate a service account for each microservice in your project."
-		</para>
-		<para>
-		 	Correct: "Red Hat recommends that you generate a service account for each microservice in your project."
-		  </para>
+	  <para>
+		  "It is recommended to generate a service account for each microservice in your project."
+	  </para>
+	</example>
+	<example>
+		<title>
+			(correct)
+		</title>
+	  <para>
+		"Although the attack surface is reduced to the same-project traffic, Red&nbsp;Hat recommends creating multiple service accounts within a project."
+	  </para>
+	<para>
+  	"Red&nbsp;Hat recommends that you generate a service account for each microservice in your project."
+	</para>
+</example>
  </section>
 
 	 <section id="citing-other-works">
