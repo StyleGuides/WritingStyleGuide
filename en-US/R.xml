@@ -142,7 +142,7 @@
 			<term>remote access server</term>
 			 <listitem>
 				<para>
-					A server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials into a network from home using an analog modem or an ISDN connection will dial into a remote access server. Once the user is authenticated they can access shared drives and printers as if they were physically connected to the office LAN.
+					A server that is dedicated to handling users that are not on a LAN but need remote access to it. The remote access server allows users to gain access to files and print services on the LAN from a remote location. For example, a user who dials into a network from home using an analog modem or an ISDN connection will dial into a remote access server. After the user is authenticated they can access shared drives and printers as if they were physically connected to the office LAN.
 				</para>
 
 			</listitem>
@@ -237,4 +237,3 @@
 
 	</variablelist>
 </chapter>
-
