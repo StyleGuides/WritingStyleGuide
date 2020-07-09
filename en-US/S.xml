@@ -524,13 +524,19 @@ a programming and technical sense this also means "Run the <command>source</comm
 					Initialism for Secure Shell, a network protocol that allows data exchange using a secure channel. When referring to the protocol, do not use "ssh," "Ssh," or other variants. When referring to the command, use <command>ssh</command>.
 				</para>
 				<para>
-				<emphasis>Do not use as a verb.</emphasis>
+				Do not use as a verb.
 			  </para>
+				<example>
+					<title>
+						Example Use of "SSH"
+				</title>
 				<para>
 				  Incorrect: To begin, "ssh to the remote server."
+				</para>
+				<para>
 					Correct: "Use SSH to connect to the remote server," "Open an SSH connection," or something similar.
 				</para>
-
+			</example>
 			</listitem>
 
 		</varlistentry>
