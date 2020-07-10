@@ -138,7 +138,9 @@
 			<term>SELinux</term>
 			 <listitem>
 				<para>
-					Short for Security-Enhanced Linux, SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies. Do not use alternatives such as "SLinux," "E Linux," or "SE Linux."
+					Abbreviation of Security-Enhanced Linux.
+          SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies.
+          Do not use any other alternatives.
 				</para>
 
 			</listitem>

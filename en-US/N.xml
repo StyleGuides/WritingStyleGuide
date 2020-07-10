@@ -26,16 +26,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="neighbor">
-			<term>neighbor</term>
-			 <listitem>
-				<para>
-					Correct. Do not use "neighbour."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
+		 
 		 <varlistentry id="net">
 			<term>.NET</term>
 			 <listitem>
