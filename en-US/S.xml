@@ -374,7 +374,7 @@
         </para>
       </listitem>
     </varlistentry>
-    
+
 		 <varlistentry id="smart-card">
 			<term>smart card</term>
 			 <listitem>
@@ -385,7 +385,7 @@
 			</listitem>
 
 		</varlistentry>
-		 
+
 		 <varlistentry id="socks">
 			<term>SOCKS</term>
 			 <listitem>
@@ -523,10 +523,20 @@ a programming and technical sense this also means "Run the <command>source</comm
 				<para>
 					Initialism for Secure Shell, a network protocol that allows data exchange using a secure channel. When referring to the protocol, do not use "ssh," "Ssh," or other variants. When referring to the command, use <command>ssh</command>.
 				</para>
-				 <para>
-					Do not use as a verb. For example, instead of "ssh to the remote server," write "Use SSH to connect to the remote server," "Open an SSH connection," or something similar.
+				<para>
+				Do not use as a verb.
+			  </para>
+				<example>
+					<title>
+						Example Use of "SSH"
+				</title>
+				<para>
+				  Incorrect: To begin, "ssh to the remote server."
 				</para>
-
+				<para>
+					Correct: "Use SSH to connect to the remote server," "Open an SSH connection," or something similar.
+				</para>
+			</example>
 			</listitem>
 
 		</varlistentry>
@@ -719,4 +729,3 @@ a programming and technical sense this also means "Run the <command>source</comm
 
 	</variablelist>
 </chapter>
-
