@@ -23,8 +23,10 @@
 					<para>
 						This is a commonly understood phrase, and despite some concerns about using superlatives without statistics to back them up, Red&nbsp;Hat does not actively discourage its use. It is also a more common search term than most alternatives. If you are in any doubt, the preferred alternative is "recommended practices."
 					</para>
-
-				</listitem>
+					<para>
+						See the section <xref linkend="making-recommendations" /> for additional information about recommendations in Red&nbsp;Hat documentation.
+					</para>
+		 		 </listitem>
 
 			</varlistentry>
 			 <varlistentry id="first-come-first-served">
@@ -872,4 +874,3 @@
 	</section>
 
 </chapter>
-
