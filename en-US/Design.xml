@@ -91,7 +91,16 @@
 			 <para>
 				See the <citetitle>Computer Interfaces</citetitle> chapter in <citetitle>The IBM Style Guide</citetitle> for more information.
 			</para>
+			<section>
+			 <title>Navigating through multiple GUI options</title>
+				 <para>
+					 Use "Navigate to" when moving through multiple GUI options because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action.
+				 </para>
+				 <para>
+					 From example, "From the OpenShift web console, navigate to Monitoring → Alerting."
+				 </para>
 
+		 </section>
 		</section>
 		 <section id="starting-apps">
 			<title>Starting Applications from the Red&nbsp;Hat Enterprise&nbsp;Linux Desktop</title>

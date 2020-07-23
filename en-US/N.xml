@@ -6,6 +6,15 @@
 <chapter id="n">
 	<title>N</title>
 	 <variablelist>
+		 <varlistentry id="navigate-to">
+ 			<term>navigate to</term>
+ 			 <listitem>
+ 				<para>
+					Use "Navigate to" when moving through multiple GUI options because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action. For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
+ 				</para>
+ 			</listitem>
+
+ 		</varlistentry>
 		<varlistentry id="need">
 			<term>need</term>
 			 <listitem>
@@ -26,7 +35,7 @@
 			</listitem>
 
 		</varlistentry>
-		 
+
 		 <varlistentry id="net">
 			<term>.NET</term>
 			 <listitem>
@@ -124,4 +133,3 @@
 
 	</variablelist>
 </chapter>
-
