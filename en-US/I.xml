@@ -99,6 +99,35 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry id="Intel64">
+			<term role="true">Intel 64</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Hammer," "x86_64," "x86-64," "x64," "64-bit x86" or other variations as the name of this architecture.
+				</para>
+				 <para>
+					The correct term for Intel's implementation of this architecture is "Intel&reg;&nbsp;64."
+          Until late 2006, Intel's official name for the architecture was "Intel EM64T" (for Extended Memory 64 Technology).
+          They have since changed the name to "Intel&reg;&nbsp;64" however, and Red&nbsp;Hat documentation should reflect this change.
+          When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
+				</para>
+        <para>
+          See also <xref linkend="AMD64"/>.
+        </para>
+				 <note>
+					<para>
+						The AMD64 logo is trademarked; the term "AMD64" is not.
+            For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="http://www.amd.com/us/aboutamd/Pages/trademarks.aspx" />.
+					</para>
+					 <para>
+						For more information about Intel&reg; trademarks, see <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
+					</para>
+
+				</note>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="intelreg-coretm">
 			<term>Intel&reg; CoreTM</term>
 			 <listitem>

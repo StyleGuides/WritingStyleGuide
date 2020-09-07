@@ -17,7 +17,8 @@
 
 		</varlistentry>
 		 <varlistentry id="agile-development">
-			<term>agile, agile development</term>
+			<term role="true">agile</term>
+      <term role="true">agile development</term>
 			 <listitem>
 				<para>
 					<emphasis>adj.</emphasis> Use only as an adjective. It is not a proper noun, nor is it owned or trademarked and should not be capitalized.
@@ -27,7 +28,8 @@
 
 		</varlistentry>
 		 <varlistentry id="air-gap">
-			<term>air gap</term>
+			<term role="true">air gap</term>
+      <term role="false">air wall</term>
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Use "air gap" to describe systems that are separated, not by software, but physically. Do not use "air wall." "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.
@@ -36,12 +38,16 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry>
-			<term>a.m. and p.m.</term>
+		 <varlistentry id="am">
+			<term role="true">a.m.</term>
+      <term role="false">am</term>
 			 <listitem>
 				<para>
 					Correct. Use the lowercase form and include the periods, and use a preceding space.
 				</para>
+        <para>
+          See also <xref linkend="pm"/>.
+        </para>
 				 <para>
 					See <citetitle>The IBM Style Guide</citetitle> for a full discussion of how to represent times.
 				</para>
@@ -50,7 +56,8 @@
 
 		</varlistentry>
 		 <varlistentry id="all-in-one">
-			<term>all-in-one</term>
+			<term role="true">all-in-one</term>
+      <term role="false">allinone</term>
 			 <listitem>
 				<para>
 					<emphasis>n., adj.</emphasis> Correct. Hyphenate in both cases. Do not use "allinone" or other variations.
@@ -59,15 +66,19 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="AMD64-Intel64">
-			<term>AMD64 and Intel 64</term>
+		 <varlistentry id="AMD64">
+			<term role="true">AMD64</term>
 			 <listitem>
 				<para>
 					Correct. Do not use "Hammer," "x86_64," "x86-64," "x64," "64-bit x86" or other variations as the name of this architecture.
 				</para>
 				 <para>
-					The correct term for AMD's implementation of this architecture is "AMD64." The correct term for Intel's implementation of this architecture is "Intel&reg;&nbsp;64." Until late 2006, Intel's official name for the architecture was "Intel EM64T" (for Extended Memory 64 Technology). They have since changed the name to "Intel&reg;&nbsp;64" however, and Red&nbsp;Hat documentation should reflect this change. When discussing the architecture generally, reference both implementations specifically.
+					The correct term for AMD's implementation of this architecture is "AMD64."
+          When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
 				</para>
+        <para>
+          See also <xref linkend="Intel64"/>.
+        </para>
 				 <note>
 					<para>
 						The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="http://www.amd.com/us/aboutamd/Pages/trademarks.aspx" />.
@@ -82,20 +93,23 @@
 
 		</varlistentry>
 		 <varlistentry id="atm">
-			<term>ATM</term>
+			<term role="true">ATM</term>
 			 <listitem>
 				<para>
-					Initialism for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size. The cell size used with ATM is relatively small compared to units used with older technologies.
+					Initialism for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size.
+          The cell size used with ATM is relatively small compared to units used with older technologies.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="above">
-			<term>above</term>
+			<term role="caution">above</term>
 			 <listitem>
 				<para>
-					Do not use to refer to information mentioned previously. When documents are converted to online format, the information may no longer be "above." Use a cross-reference if the referenced material is sufficiently removed, or write "as mentioned previously" instead.
+					Do not use to refer to information mentioned previously.
+          When documents are converted to online format, the information may no longer be "above."
+          Use a cross-reference if the referenced material is sufficiently removed, or write "as mentioned previously" instead.
 				</para>
 
 			</listitem>
@@ -105,10 +119,14 @@
 			<term>acronyms</term>
 			 <listitem>
 				<para>
-					An acronym is a word formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead <emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader. Note that an acronym is pronounced as a word. Compare this to an initialism, which is also formed in a similar fashion to an acronym, but in which each letter is pronounced separately.
+					An acronym is a word formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead <emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader.
+          Note that an acronym is pronounced as a word.
+          Compare this to an initialism, which is also formed in a similar fashion to an acronym, but in which each letter is pronounced separately.
 				</para>
 				 <para>
-					Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK)..." Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version - for example, "central processing unit (CPU)." Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
+					Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK)..."
+          Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version - for example, "central processing unit (CPU)."
+          Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
 				</para>
 				 <para>
 					To form the plural of an acronym, add a trailing, lowercase "s," or "es," for example, ROMs, PINs, BIOSes.
@@ -117,41 +135,53 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="alright">
-			<term>alright, all right</term>
+    <varlistentry id="alternate">
+			<term role="true">alternate</term>
 			 <listitem>
 				<para>
-					Avoid if at all possible. These terms carry a more familiar or colloquial tone than is expected in Red&nbsp;Hat documentation. Use more formal alternatives such as "correct" or "as expected," depending on context.
+					<emphasis>vb.</emphasis> "Alternate" as a verb means to change between two states or options.
 				</para>
+        <para>
+          See also <xref linkend="alternative"/>.
+        </para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="alternate">
-			<term>alternate</term>
+		 
+		 <varlistentry id="alternative">
+			<term role="true">alternative</term>
 			 <listitem>
 				<para>
-					Do not use this to mean "an alternative to something." "Alternate" (vb.) means to change between two states or options. If you mean "another way of doing something," use "an alternative method is to..."
+					<emphasis>adj.</emphasis> Used to describe another way or method of doing something.
+          "Alternate" (vb.) means to change between two states or options. If you mean "another way of doing something," use "an alternative method is to..."
 				</para>
+        <para>
+          See also <xref linkend="alternate"/>.
+        </para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="andor">
-			<term>and/or</term>
+			<term role="false">and/or</term>
 			 <listitem>
 				<para>
-					Avoid if possible. Try to rewrite to make the available options explicit and clear. Do not write <emphasis>this and/or that</emphasis>. Write <emphasis>this or that or both</emphasis>.
+					Avoid if possible.
+          Try to rewrite to make the available options explicit and clear.
+          Do not write <emphasis>this and/or that</emphasis>.
+          Write <emphasis>this or that or both</emphasis>.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="applications">
-			<term>applications</term>
+		 <varlistentry id="application">
+			<term>application</term>
 			 <listitem>
 				<para>
-					When used as a proper name, use the capitalization of the product, such as GNUPro, Source-Navigator, and Red&nbsp;Hat Enterprise&nbsp;Linux. When used as a command, use lowercase as appropriate, such as "To start GCC, type gcc."
+					When used as a proper name, use the capitalization of the product, such as GNUPro, Source-Navigator, and Red&nbsp;Hat Enterprise&nbsp;Linux.
+          When used as a command, use lowercase as appropriate, such as "To start GCC, type gcc."
 				</para>
 				 <note>
 					<para>
@@ -164,10 +194,13 @@
 
 		</varlistentry>
 		 <varlistentry id="applixware">
-			<term>Applixware</term>
+			<term role="true">Applixware</term>
+      <term role="false">Applix</term>
+      <term role="false">ApplixWare</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Applix" or "ApplixWare."
+					Correct.
+          Do not use "Applix" or "ApplixWare."
 				</para>
 
 			</listitem>
@@ -177,25 +210,33 @@
       <term>architect</term>
       <listitem>
         <para>
-          Do not use as a verb. Even though it might make sense in the correct context, using it as a verb can be jargon or unclear for your audience. Use "design," "build," "create," or another descriptive verb instead. Before replacing the verb form of "architect" during the editing process, check with the writer to find out the intended meaning. For example, a sentence that mentions rearchitecting might require "refactoring" as a replacement rather than "rebuilding."
+          Do not use as a verb.
+          Even though it might make sense in the correct context, using it as a verb can be jargon or unclear for your audience.
+          Use "design," "build," "create," or another descriptive verb instead.
+          Before replacing the verb form of "architect" during the editing process, check with the writer to find out the intended meaning.
+          For example, a sentence that mentions rearchitecting might require "refactoring" as a replacement rather than "rebuilding."
         </para>
       </listitem>
     </varlistentry>
 		 <varlistentry id="as-well-as">
-			<term>as well as</term>
+			<term role="caution">as well as</term>
 			 <listitem>
 				<para>
-					Not interchangeable with "and." "As well as" used in a series places more emphasis on the items preceding it, whereas "and" places equal weight on all items in the series. For example, "We sell kitchen electronics and china, as well as some gourmet foods." But "We sell kitchen electronics, china, and silverware."
+					Not interchangeable with "and."
+          "As well as" used in a series places more emphasis on the items preceding it, whereas "and" places equal weight on all items in the series.
+          For example, "We sell kitchen electronics and china, as well as some gourmet foods."
+          But "We sell kitchen electronics, china, and silverware."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="as-a-service">
-			<term>as-a-Service</term>
+			<term role="caution">as-a-Service</term>
 			 <listitem>
 				<para>
-					Be aware that there is a great deal of overlap in as-a-Service acronyms. To avoid confusion, always spell out the full term on first possible use.
+					Be aware that there is a great deal of overlap in as-a-Service acronyms.
+          To avoid confusion, always spell out the full term on first use.
 				</para>
 				 <itemizedlist>
 					<listitem>
@@ -272,7 +313,9 @@
 					</listitem>
 					 <listitem>
 						<para>
-							Hyphenate when written out: Thing-as-a-Service. For two-word prefixes, do not include a hyphen between the first and second words: Mobile Backend-as-a-Service. Can be used as an adjective to describe multiple (e.g., when referring to an IaaS, PaaS, and SaaS, use as-a-Service offerings, as-a-Service products, or similar wording).
+							Hyphenate when written out: Thing-as-a-Service.
+              For two-word prefixes, do not include a hyphen between the first and second words: Mobile Backend-as-a-Service.
+              Can be used as an adjective to describe multiple (e.g., when referring to an IaaS, PaaS, and SaaS, use as-a-Service offerings, as-a-Service products, or similar wording).
 						</para>
 
 					</listitem>
@@ -288,7 +331,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="auto-detect">
+		 <!--<varlistentry id="auto-detect">
 			<term>auto-detect</term>
 			 <listitem>
 				<para>
@@ -297,12 +340,14 @@
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry> Commented for now waiting for verification that the closed version is correct. -->
 		 <varlistentry id="autofs">
-			<term>autofs</term>
+			<term role="true">autofs</term>
 			 <listitem>
 				<para>
-					Always lowercase. This refers to the kernel-based automount utility. No other forms are recognized.
+					Always lowercase.
+          This refers to the kernel-based automount utility.
+          No other forms are recognized.
 				</para>
 
 			</listitem>
