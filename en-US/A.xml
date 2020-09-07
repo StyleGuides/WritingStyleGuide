@@ -40,6 +40,7 @@
 		</varlistentry>
 		 <varlistentry id="am">
 			<term role="true">a.m.</term>
+      <term role="false">am</term>
 			 <listitem>
 				<para>
 					Correct. Use the lowercase form and include the periods, and use a preceding space.
@@ -118,10 +119,14 @@
 			<term>acronyms</term>
 			 <listitem>
 				<para>
-					An acronym is a word formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead <emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader. Note that an acronym is pronounced as a word. Compare this to an initialism, which is also formed in a similar fashion to an acronym, but in which each letter is pronounced separately.
+					An acronym is a word formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead <emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader.
+          Note that an acronym is pronounced as a word.
+          Compare this to an initialism, which is also formed in a similar fashion to an acronym, but in which each letter is pronounced separately.
 				</para>
 				 <para>
-					Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK)..." Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version - for example, "central processing unit (CPU)." Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
+					Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK)..."
+          Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version - for example, "central processing unit (CPU)."
+          Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
 				</para>
 				 <para>
 					To form the plural of an acronym, add a trailing, lowercase "s," or "es," for example, ROMs, PINs, BIOSes.
@@ -164,7 +169,8 @@
 				<para>
 					Avoid if possible.
           Try to rewrite to make the available options explicit and clear.
-          Do not write <emphasis>this and/or that</emphasis>. Write <emphasis>this or that or both</emphasis>.
+          Do not write <emphasis>this and/or that</emphasis>.
+          Write <emphasis>this or that or both</emphasis>.
 				</para>
 
 			</listitem>
@@ -193,7 +199,8 @@
       <term role="false">ApplixWare</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Applix" or "ApplixWare."
+					Correct.
+          Do not use "Applix" or "ApplixWare."
 				</para>
 
 			</listitem>
@@ -306,7 +313,9 @@
 					</listitem>
 					 <listitem>
 						<para>
-							Hyphenate when written out: Thing-as-a-Service. For two-word prefixes, do not include a hyphen between the first and second words: Mobile Backend-as-a-Service. Can be used as an adjective to describe multiple (e.g., when referring to an IaaS, PaaS, and SaaS, use as-a-Service offerings, as-a-Service products, or similar wording).
+							Hyphenate when written out: Thing-as-a-Service.
+              For two-word prefixes, do not include a hyphen between the first and second words: Mobile Backend-as-a-Service.
+              Can be used as an adjective to describe multiple (e.g., when referring to an IaaS, PaaS, and SaaS, use as-a-Service offerings, as-a-Service products, or similar wording).
 						</para>
 
 					</listitem>
