@@ -89,6 +89,19 @@
 			</listitem>
 
 		</varlistentry>
+		<varlistentry id="EOL">
+		 <term>EOL</term>
+			<listitem>
+			 <para>
+				 Initialism for "end of line" (n.) and "end-of-line" (adj.)
+			 </para>
+				<para>
+				 Neither the noun nor the adjective should be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism is always uppercase.
+			 </para>
+
+		 </listitem>
+
+		 </varlistentry>
 		 <varlistentry id="essentially">
 			<term>essentially</term>
 			 <listitem>
@@ -175,4 +188,3 @@
 
 	</variablelist>
 </chapter>
-
