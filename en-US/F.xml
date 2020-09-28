@@ -240,10 +240,13 @@
 			<term>FQDN</term>
 			 <listitem>
 				<para>
-					A fully qualified domain name consists of a host and domain name, including top-level domain. For example, www.redhat.com is a fully qualified domain name. www is the host, redhat is the second-level domain, and .com is the top level domain.
+          A fully qualified domain name consists of a list of domain labels representing the hierarchy from the lowest relevant level in the DNS to the top-level domain (TLD). The domain labels are concatenated using the full stop (.) character (dot or period) as a separator between labels.<footnote><para>https://en.wikipedia.org/wiki/Fully_qualified_domain_name</para></footnote>
+        </para>
+        <para>
+          For example, <uri>www.redhat.com</uri> is a fully qualified domain name, where <quote>www</quote> is the host, <quote>redhat</quote> is the second-level domain, and <quote>com</quote> is the top-level domain.
 				</para>
 				 <para>
-					A FQDN always starts with a host name and continues all the way up to the top-level domain name, so www.parc.xerox.com is also a FQDN.
+					A FQDN always starts with a host name and continues all the way up to the top-level domain name; consequently <quote>www.parc.xerox.com</quote> is also a FQDN.
 				</para>
 
 			</listitem>
