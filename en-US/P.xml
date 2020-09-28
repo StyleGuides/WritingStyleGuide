@@ -111,6 +111,22 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry id="pm">
+			<term role="true">p.m.</term>
+			 <listitem>
+				<para>
+					Correct. Use the lowercase form and include the periods, and use a preceding space.
+				</para>
+        <para>
+          See also <xref linkend="am"/>.
+        </para>
+				 <para>
+					See <citetitle>The IBM Style Guide</citetitle> for a full discussion of how to represent times.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="pop-up">
 			<term>pop-up</term>
 			 <listitem>
