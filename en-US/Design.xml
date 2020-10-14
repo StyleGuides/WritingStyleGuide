@@ -120,9 +120,30 @@
 
 		</section>
 		 <section id="documenting-command-syntax">
-			<title>Documenting Command Syntax</title>
+			<title>Documenting Command Terminology and Syntax</title>
+      <para>
+        Sufficient variation exists in the terminology used to describe commands, options, arguments, and so on that only general advice is provided here.
+      </para>
+      <para>
+        When referring to the command line as specified by Bash and POSIX, follow the terminology that the software uses.
+        Never use "flag" when referring to command-line options in POSIX, even though Microsoft often uses the term "flag" when referring to single-character options in Microsoft Windows.
+      </para>
+      <para>
+        The following extract from <command>info libc</command> is of particular interest here:
+      </para>
+      <blockquote>
+        <para>
+          "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter (‘-’). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, ‘-abc’ is equivalent to ‘-a -b -c’. [...] Certain options require an argument. For example, the ‘-o’ option of the ‘ld’ command requires an argument—an output file name." and so on.
+        </para>
+        <para>
+          See <command>info libc argument syntax</command> for the full discussion.
+        </para>
+        </blockquote>
+      <para>
+        See <command>info bash</command> and the <citetitle>Computer Interfaces</citetitle> chapter of <citetitle>The IBM Style Guide</citetitle> for further guidance.
+      </para>
 			 <para>
-				See the <citetitle>Computer Interfaces</citetitle> chapter of <citetitle>The IBM Style Guide</citetitle> for initial guidance. The following examples are intended to highlight correct usage.
+        The following examples are intended to highlight correct usage.
 			</para>
 			 <example id="exam-documenting-command-syntax">
 				<title>Cloning a Git Repository</title>
@@ -151,7 +172,8 @@
 					<term>The command (<command>git clone</command>)</term>
 					 <listitem>
 						<para>
-							The actual command to run, without any optional or replaceable values. This must be typed as is.
+							The actual command to run, without any optional or replaceable values.
+              This must be typed as is.
 						</para>
 
 					</listitem>
@@ -161,7 +183,8 @@
 					<term>Source options <replaceable>[username@]hostname:/repository_filename</replaceable>)</term>
 					 <listitem>
 						<para>
-							The optional user name, indicated by brackets ([]), followed by the host name and path to the repository. All aspects of this component must be replaced with valid values.
+							The optional user name, indicated by brackets ([]), followed by the host name and path to the repository.
+              All aspects of this component must be replaced with valid values.
 						</para>
 
 					</listitem>
@@ -171,7 +194,8 @@
 					<term>Target options <replaceable>[directory]</replaceable></term>
 					 <listitem>
 						<para>
-							The optional directory into which the repository will be cloned. This must be replaced with a valid value, or omitted.
+							The optional directory into which the repository will be cloned.
+              This must be replaced with a valid value, or omitted.
 						</para>
 
 					</listitem>
