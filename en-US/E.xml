@@ -89,6 +89,22 @@
 			</listitem>
 
 		</varlistentry>
+		<varlistentry id="eol">
+		 <term>EOL</term>
+			<listitem>
+			 <para>
+				 <emphasis>adj.</emphasis> Initialism for "end-of-line"
+			 </para>
+			 <para>
+				 <emphasis>n.</emphasis> Initialism for "end of line"
+			 </para>
+				<para>
+					Always use uppercase for the initialism. Do not capitalize the expansion except at the beginning of a sentence. When documenting GUI objects, use the same capitalization as that shown in the GUI.
+			 </para>
+
+		 </listitem>
+
+		 </varlistentry>
 		 <varlistentry id="essentially">
 			<term>essentially</term>
 			 <listitem>
@@ -175,4 +191,3 @@
 
 	</variablelist>
 </chapter>
-
