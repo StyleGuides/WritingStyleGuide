@@ -285,23 +285,55 @@ $ vi myFile.txt
 
 				</example>
 				 <para>
-					If the commands are long, complex, or wrap over multiple lines, use the following design to help optimize clarity.
-          If you are documenting commands on a different operating system, update the prompts and line continuation characters to suit.
-				</para>
+					If the commands are long, complex, or wrap over multiple lines, two design options are available.
+          </para>
+          <itemizedlist>
+            <listitem>
+              <para>
+                Use line continuation characters and the associated PS2 prompts.
+                If you are documenting commands on a different operating system, update the prompts and line continuation characters to suit.
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Use neither line continuation characters nor the associated PS2 prompts.
+              </para>
+            </listitem>
+          </itemizedlist>
+          <important>
+            <para>
+              Do not mix these two styles.
+              Maintain the same style throughout your document.
+            </para>
+          </important>
+          <para>
+            You can also indent the second and subsequent lines of such commands to assist in clarity and readability if required.
+            This option is available for either of the two designs mentioned above.
+          </para>
+          
 				 <example>
-					<title>Documenting Long Commands</title>
+					<title>Wrapping Long Commands with Continuation Characters</title>
+          <para>
+            This example uses both continuation characters and PS2 prompts.
+            These indicators are always used together.
+          </para>
 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 > /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 > /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
 > /etc/sysconfig/katello /etc/sysconfig/elasticsearch \
-> /root/ssl–build /var/www/html/pub/* /var/lib/katello
+> /root/ssl–build /var/www/html/pub/* /var/lib/katello</screen>
+          </example>
 
-# cd /var/lib/katello
+<example><title>Wrapping Long Commands Without Continuation Characters</title>
+  <para>
+    This example uses neither continuation characters nor PS2 prompts, but it does demonstrate how to use line indentation to help clarify long commands.
+  </para>
+<screen># cd /var/lib/katello
 
-# myCommand --option funky --color=true \
-> --config_file=&lt;replaceable&gt;/home/user/config.conf&lt;/replaceable&gt; \
-> --output_file=&lt;replaceable&gt;/home/user/output.txt&lt;/replaceable&gt;</screen>
+# myCommand --option funky --color=true
+  --config_file=&lt;replaceable&gt;/home/user/config.conf&lt;/replaceable&gt;
+  --output_file=&lt;replaceable&gt;/home/user/output.txt&lt;/replaceable&gt;</screen>
 
 				</example>
 
