@@ -260,9 +260,12 @@
 					Avoid using the <option>--force (-f)</option> and <option>--assumeyes (-y)</option> options on most commands, especially when logged in as the <systemitem>root</systemitem> user. This can lead to unintended consequences, such as removing files or directories by mistake or installing packages or other software that may not suit your system. Refer to the following examples:
 				</para>
 
-<screen>[root@serverc pam.d]# rm -f system-auth password-auth (omit the -f)
-[root@serverc ~]# yum install -y new-package (omit the -y)
+<screen>[root@serverc pam.d]# rm -f system-auth password-auth
+[root@serverc ~]# yum install -y new-package
 </screen>
+<para>
+  In the examples shown above, omit the <option>-f</option> and <option>-y</option> options, respectively.
+</para>
 				 <para>
 					In some cases, such as in Ansible Playbooks or other automation scripts, it may be necessary to use these options.
 				</para>
