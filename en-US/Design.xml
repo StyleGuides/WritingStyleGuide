@@ -308,7 +308,7 @@ $ vi myFile.txt
           </important>
           <para>
             You can also indent the second and subsequent lines of such commands to assist in clarity and readability if required.
-            This option is available for either of the two designs mentioned above.
+            You can use this option for either of the two designs mentioned above.
           </para>
           
 				 <example>
