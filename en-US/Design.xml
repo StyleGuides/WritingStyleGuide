@@ -310,7 +310,7 @@ $ vi myFile.txt
             You can also indent the second and subsequent lines of such commands to assist in clarity and readability if required.
             You can use this option for either of the two designs mentioned above.
           </para>
-          
+
 				 <example>
 					<title>Wrapping Long Commands with Continuation Characters</title>
           <para>
@@ -338,6 +338,7 @@ $ vi myFile.txt
 				</example>
 
 			</section>
+
       <section id="replaceable-paths">
         <title>Referring to Replaceable Paths</title>
           <para>
@@ -371,6 +372,89 @@ $ vi myFile.txt
         </section>
 
 		</section>
+    <section><title>Using Escalated Privileges Correctly</title>
+      <note>
+        <para>
+          This section is aimed primarily at Red&nbsp;Hat Training course material, but the principles and guidelines apply equally in any environment.
+        </para>
+      </note>
+      <para>
+        The term <firstterm>escalated privileges</firstterm> refers to changing to a user whose privileges allow operations that a normal user cannot access.
+        It also refers to temporarily changing the privileges of the current user to perfom those operations without actually changing user accounts.
+      </para>
+      <note><title>Classroom Exceptions</title>
+        <para>
+          Although security is important, it is more important to not have unnecessary classroom security distract from the immediate topic being taught.
+        </para>
+      </note>
+      <section><title>General Recommendations</title>
+        <note>
+          <para>
+            These are recommendations, not rules.
+            As with most things, consistency is important.
+            Do not swap between different approaches without reason.
+            Choose which approach works best for your situation and use it consistently.
+          </para>
+        </note>
+        <itemizedlist>
+          <listitem>
+            <para>
+              In all cases, use the minimum privilege level required to achieve the task.
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              In exercises, use <command>sudo</command> and <command>sudo -i</command> and set this up to work throughout all relevant systems in the classroom.
+              Do not use <command>su -</command> without good cause.
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              When there is a scattered minority of privileged commands in a mostly unprivileged exercise, use <command>sudo</command> on a per-command basis.
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              When the exercise is majority privileged, or has a significant number of privileged commands, use <command>sudo -i</command> either at the beginning of the exercise, or at an appropriate step where the privileged commands begin.
+            </para>
+          </listitem>
+          <listitem>
+            <para>
+              In the narrative, do not show the use of <command>su</command> or <command>sudo</command>, but always show privileged commands with the correct prompt.
+              See <xref linkend="exam-documenting-command-syntax"/> for information about command prompts.
+            </para>
+          </listitem>
+        </itemizedlist>
+      </section>
+      <section><title>Exceptions</title>
+        <para>
+          Some courses are specifically designed to teach <command>sudo</command> and its variations, the use of the related files, such as <filename>/etc/sudoers</filename> and so on.
+          For these courses, use the required variation for the topic being taught.
+        </para>
+        <section><title>Ansible Courses</title>
+          <itemizedlist>
+            <listitem>
+              <para>
+                Ansible courses typically use a <systemitem>devops</systemitem> user with passwordless <command>sudo ALL=ALL(ALL)</command> access on managed nodes to enable the use of <command>become</command> without a <command>become</command> password as <systemitem>root</systemitem> to do anything.
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                As much as possible, leave the system-wide default as <varname>become: false</varname> or <varname>become: no</varname> and if a single task needs privileges, set <varname>become: true</varname> or <varname>become: yes</varname> on that task.
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                If most tasks in a play require escalated privileges, set the entire play to <varname>become: true</varname> or <varname>become: yes</varname> and possibly selectively set individual tasks to <varname>become: false</varname> or <varname>become: no</varname>.
+              </para>
+            </listitem>
+          </itemizedlist>
+          </section>
+      </section>
+
+
+    </section>
+
 		 <section id="view-edit-files">
 			<title>Describing How to View and Edit Files</title>
 			 <para>
