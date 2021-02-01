@@ -90,7 +90,7 @@
 			</para>
       <para>
         In most cases, do not include the object type in instructions.
-        For example, rather than "Click the <guibutton>Save</guibutton> button," write "Click <guibutton>Save</guibutton>.
+        For example, rather than "Click the <guibutton>Save</guibutton> button," write "Click <guibutton>Save</guibutton>."
       </para>
       <para>
         In some cases it is preferred practice to include the object type for the sake of clarity.
