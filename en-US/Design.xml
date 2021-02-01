@@ -435,7 +435,7 @@ $ vi myFile.txt
           <itemizedlist>
             <listitem>
               <para>
-                Ansible courses typically use a <systemitem>devops</systemitem> user with passwordless <command>sudo ALL=ALL(ALL)</command> access on managed nodes to enable the use of <command>become</command> without a <command>become</command> password as <systemitem>root</systemitem> to do anything.
+                Ansible courses typically use a <systemitem>devops</systemitem> user with passwordless sudo access (<code>devops	ALL=(ALL)	NOPASSWD: ALL</code>) on managed nodes to enable the use of <command>become</command> without a <command>become</command> password as <systemitem>root</systemitem> to do anything.
               </para>
             </listitem>
             <listitem>
