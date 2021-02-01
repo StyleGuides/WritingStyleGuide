@@ -81,13 +81,42 @@
       The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
 		 <section id="gui-elements-punctuation">
-			<title>GUI Elements and Punctuation</title>
+			<title>GUI Elements, Punctuation, and Symbols</title>
 			 <para>
-				Do not include punctuation that appears on GUI elements, unless omission of that punctuation might lead to confusion.
+				When describing GUI elements, do not include punctuation that appears on those elements, unless omission of that punctuation might lead to confusion.
 			</para>
 			 <para>
 				For example, for a button labeled <guibutton>Save As...</guibutton>, do not include the ellipsis in the documentation.
 			</para>
+      <para>
+        In most cases, do not include the object type in instructions.
+        For example, rather than "Click the <guibutton>Save</guibutton> button," write "Click <guibutton>Save</guibutton>."
+      </para>
+      <para>
+        In some cases it is preferred practice to include the object type for the sake of clarity.
+        Consider the following:
+      </para>
+      <example><title>Preferred Style for Documenting Symbols and Other Special Characters</title>
+        <para>
+          Click the <guibutton>+</guibutton> sign.
+        </para>
+        <para>
+          Click the <guibutton>^</guibutton> symbol.
+        </para>
+      </example>
+      <para>
+        If you cannot easily reproduce the symbol, include a screen capture and/or a succinct description of the object type.
+        Use this approach for icons, especially when they have no tooltip or other help text.
+      </para>
+      <example><title>Preferred Style for Documenting Icons</title>
+        <para>
+          Click the <guiicon>Upload</guiicon> (<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/reload.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>) icon to upload the files to the server.
+        </para>
+      </example>
 			 <para>
 				See the <citetitle>Computer Interfaces</citetitle> chapter in <citetitle>The IBM Style Guide</citetitle> for more information.
 			</para>
@@ -310,7 +339,7 @@ $ vi myFile.txt
             You can also indent the second and subsequent lines of such commands to assist in clarity and readability if required.
             You can use this option for either of the two designs mentioned above.
           </para>
-          
+
 				 <example>
 					<title>Wrapping Long Commands with Continuation Characters</title>
           <para>
