@@ -31,6 +31,7 @@
 				<para>
 					They had been writing code all night; this could explain their bloodshot eyes.
 				</para>
+<!-- Ideally, reword these examples to use "this" + noun. -->
 
 			</listitem>
 			 <listitem>
@@ -133,7 +134,7 @@
 						<para>
 							Type <command>cd Documents/Books</command>
 						</para>
-
+<!-- The previous two steps are complete sentences; shouldn't they end with a period? -->
 					</listitem>
 
 				</orderedlist>
@@ -201,6 +202,7 @@
 		 <para>
 			Use a semicolon before a conjunctive adverb, such as however, therefore, otherwise, namely, for example, and so on.
 		</para>
+<!-- Italicize these adverb examples for ease of reading. -->
 		 <itemizedlist>
 			<listitem>
 				<para>
@@ -382,6 +384,7 @@
 		 <para>
 			Parentheses are similar to commas in that they set off information that further explains or enhances a statement. Information that is very closely related to the statement should be set off with commas; information that is more incidental should be set off with parentheses.
 		</para>
+<!-- Delete "very". -->		
 		 <itemizedlist>
 			<listitem>
 				<para>
@@ -400,6 +403,7 @@
 		 <para>
 			Expressions beginning with <emphasis>i.e., e.g., that is</emphasis> and so on can be set off with parentheses if they cause a major break in the sentence. If the break is minor, use commas.
 		</para>
+<!-- But Latin abbreviations are not permitted? -->		
 		 <itemizedlist>
 			<listitem>
 				<para>
@@ -425,15 +429,18 @@
 		 <para>
 			Commas and periods go inside quotation marks.
 		</para>
+<!-- The previous statement now diverges from IBM Style. -->		
 		 <para>
 			Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quote; if not, they go outside.
 		</para>
 		 <para>
 			Do not put quotation marks around cliches or slang terms (in fact, avoid using cliches and slang as it makes the translation of content more difficult).
 		</para>
+<!-- Suggest to remove this sentence, and leave it to chapter 4 to cover avoidance of slang. -->		
 		 <para>
 			A word or words being introduced to readers should not be placed in quotation marks. In DocBook, use the &lt;firstterm&gt; element for first reference. If you are writing outside of the SGML tagging environment, use quotation marks for first references. Subsequent references do not need quotation marks or the &lt;firstterm&gt; element.
 		</para>
+<!-- And in AsciiDoc? -->		
 
 	</section>
 	 <section id="apostrophes">
@@ -441,6 +448,7 @@
 		 <para>
 			Plural nouns not ending in <emphasis>s</emphasis> should add an <emphasis>'s </emphasis> (for example, the alumni's contribution).
 		</para>
+<!-- Clarify that this section relates to possessive use and not to plural formation. -->		
 		 <para>
 			Plural nouns ending in <emphasis>s</emphasis> only need an apostrophe (for example, the horses' food).
 		</para>
