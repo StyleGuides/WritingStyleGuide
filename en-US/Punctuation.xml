@@ -23,15 +23,14 @@
 		 <itemizedlist>
 			<listitem>
 				<para>
-					They had been writing code all night: this could explain their bloodshot eyes.
+					They had been writing code all night: this factor could explain their bloodshot eyes.
 				</para>
 
 			</listitem>
 			 <listitem>
 				<para>
-					They had been writing code all night; this could explain their bloodshot eyes.
+					They had been writing code all night; this factor could explain their bloodshot eyes.
 				</para>
-<!-- Ideally, reword these examples to use "this" + noun. -->
 
 			</listitem>
 			 <listitem>
@@ -126,15 +125,15 @@
 				 <orderedlist>
 					<listitem>
 						<para>
-							Open a terminal
+							Open a terminal.
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							Type <command>cd Documents/Books</command>
+							Type <command>cd Documents/Books</command>.
 						</para>
-<!-- The previous two steps are complete sentences; shouldn't they end with a period? -->
+
 					</listitem>
 
 				</orderedlist>
@@ -200,9 +199,9 @@
 
 		</itemizedlist>
 		 <para>
-			Use a semicolon before a conjunctive adverb, such as however, therefore, otherwise, namely, for example, and so on.
+			Use a semicolon before a conjunctive adverb, such as <emphasis>however, therefore, otherwise, namely, for example</emphasis>, and so on.
 		</para>
-<!-- Italicize these adverb examples for ease of reading. -->
+
 		 <itemizedlist>
 			<listitem>
 				<para>
@@ -382,9 +381,9 @@
 	 <section id="parentheses">
 		<title>Parentheses</title>
 		 <para>
-			Parentheses are similar to commas in that they set off information that further explains or enhances a statement. Information that is very closely related to the statement should be set off with commas; information that is more incidental should be set off with parentheses.
+			Parentheses are similar to commas in that they set off information that further explains or enhances a statement. Information that is closely related to the statement should be set off with commas; information that is more incidental should be set off with parentheses.
 		</para>
-<!-- Delete "very". -->		
+
 		 <itemizedlist>
 			<listitem>
 				<para>
@@ -401,9 +400,9 @@
 
 		</itemizedlist>
 		 <para>
-			Expressions beginning with <emphasis>i.e., e.g., that is</emphasis> and so on can be set off with parentheses if they cause a major break in the sentence. If the break is minor, use commas.
+			Expressions beginning with <emphasis>for example, that is</emphasis> and so on can be set off with parentheses if they cause a major break in the sentence. If the break is minor, use commas.
 		</para>
-<!-- But Latin abbreviations are not permitted? -->		
+
 		 <itemizedlist>
 			<listitem>
 				<para>
@@ -413,7 +412,7 @@
 			</listitem>
 			 <listitem>
 				<para>
-					Classic works of literature (e.g., Dickens, Shakespeare, the Brontes) lined the shelves.
+					Classic works of literature (such as Dickens, Shakespeare, the Brontes) lined the shelves.
 				</para>
 
 			</listitem>
@@ -445,10 +444,15 @@
 	</section>
 	 <section id="apostrophes">
 		<title>Apostrophes</title>
+		<para>
+			Do not use an apostrophe to denote a plural. 
+		</para>
+		<para>
+			To denote a possessive, use an apostrophe as follows: 
+		</para>
 		 <para>
 			Plural nouns not ending in <emphasis>s</emphasis> should add an <emphasis>'s </emphasis> (for example, the alumni's contribution).
 		</para>
-<!-- Clarify that this section relates to possessive use and not to plural formation. -->		
 		 <para>
 			Plural nouns ending in <emphasis>s</emphasis> only need an apostrophe (for example, the horses' food).
 		</para>

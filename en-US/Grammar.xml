@@ -121,10 +121,8 @@
 				<term> Who </term>
 				 <listitem>
 					<para>
-						Relative pronoun when a person (or persons) is the subject.
+						Relative pronoun when persons are the subject.
 					</para>
-<!-- Suggested rewording: "Relative pronoun when persons are the subject.". -->
-
 
 				</listitem>
 
@@ -133,9 +131,8 @@
 				<term> Whom </term>
 				 <listitem>
 					<para>
-						Relative pronoun when person is not the subject.
+						Relative pronoun when persons are not the subject.
 					</para>
-<!-- Suggested rewording: "Relative pronoun when persons are not the subject.". -->
 
 				</listitem>
 
@@ -222,28 +219,27 @@
 			</listitem>
 			 <listitem>
 				<para>
-					The GNOME developers to whom I owe my gratitude are...
+					The GNOME developers to whom they owe gratitude are...
 				</para>
-<!-- Is use of first person allowed in technical documentation? -->
+
 			</listitem>
 
 		</itemizedlist>
 		 <note>
 			<para>
-				To help you choose between who and whom, substitute the person about whom you are speaking with either him or he.
+				To help you choose between <emphasis>who</emphasis> and <emphasis>whom</emphasis>, substitute the person about whom you are speaking with <emphasis>he</emphasis>, <emphasis>she</emphasis>, <emphasis>him</emphasis>, or <emphasis>her</emphasis>.
 			</para>
-<!-- In this note, use italics for who, whom, whomever. -->
-<!-- For gender inclusion: "... either him or he, or her or she". -->			
+
 			 <itemizedlist>
 				<listitem>
 					<para>
-						If your restatement contains him, her, them, me, or us, then use whom or whomever. "I'm giving the book to him." "To whom am I giving the book?"
+						If your restatement contains <emphasis>him</emphasis>, <emphasis>her</emphasis>, <emphasis>them</emphasis>, <emphasis>me</emphasis>, or <emphasis>us</emphasis>, then use <emphasis>whom</emphasis> or <emphasis>whomever</emphasis>. "I'm giving the book to him." "To whom am I giving the book?"
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						If the restatement contains the word he, she, they, I, or we, then use who or whoever. "Do you think he would mind?" "Who do you think would mind?" "She's walking in the door." "Who's walking in the door?"
+						If the restatement contains the word <emphasis>he</emphasis>, <emphasis>she</emphasis>, <emphasis>they</emphasis>, I<emphasis>I</emphasis>, or <emphasis>we</emphasis>, then use <emphasis>who</emphasis> or <emphasis>whoever</emphasis>. "Do you think he would mind?" "Who do you think would mind?" "She's walking in the door." "Who's walking in the door?"
 					</para>
 
 				</listitem>
@@ -251,7 +247,7 @@
 			</itemizedlist>
 
 		</note>
-<!-- Suggest to add a section about use of "that" in clauses (relative pronoun) to add clarity.-->
+<!-- YES - Suggest to add a section about use of "that" in clauses (relative pronoun) to add clarity.-->
 	</section>
 	 <section id="sentence-structure">
 		<title>Sentence Structure</title>
@@ -259,16 +255,14 @@
 			A <emphasis>sentence</emphasis> is one, complete thought. A sentence expresses something about a subject (a person, place, or thing) and a verb (what the subject is or does).
 		</para>
 		 <para>
-			The following are things to consider when constructing sentences:
+			Consider the following points when constructing sentences:
 		</para>
-<!-- Suggested rewording: "Consider the following points when ..." -->		
+		
 		 <formalpara id="length">
 			<title>Sentence Length</title>
 			 <para>
-				Try not to pack too much information into one sentence. Keep it short. For example, the following sentence is a good example of how not to write:
+				Try not to pack too much information into one sentence. In technical documentation, try not to exceed 30 words in a sentence. Keep it short. The following sentence is a bad writing example:
 			</para>
-<!-- Suggested rewording: "... is a bad writing example:"-->
-<!-- Would it be useful to add specific guidance about sentence length? At IBM, the guidance was to keep sentences in technical documentation to a maximum length of 32 words. --> 			
 
 		</formalpara>
 		 <para>
@@ -277,9 +271,8 @@
 		 <formalpara id="run-on">
 			<title>Run-on Sentences</title>
 			 <para>
-				Two or more complete ideas that are joined without punctuation create a <emphasis>run-on sentence</emphasis> (also called a <emphasis>fused sentence</emphasis>). The sentence does not have to be long to be a run-on sentence, although the longer the sentence the more difficult it is to read. You can:
+				Two or more complete ideas that are joined without punctuation, or separated only by a comma, create a <emphasis>run-on sentence</emphasis> (also called a <emphasis>fused sentence</emphasis>). The sentence does not have to be long to be a run-on sentence, although the longer the sentence the more difficult it is to read. You can:
 			</para>
-<!-- "without punctuation, or separated only by a comma, ..." -->			
 
 		</formalpara>
 		 <itemizedlist>
@@ -291,23 +284,20 @@
 			</listitem>
 			 <listitem>
 				<para>
-					Use semicolons to form a compound sentence. Think of a semicolon as an extended breather; longer than a comma.
+					Use semicolons to form a compound sentence. Think of a semicolon as an extended breather; it is longer than a comma.
 				</para>
-<!-- Use a comma rather than a semicolon after "breather". --> 				
 
 			</listitem>
 			 <listitem>
 				<para>
-					Insert a <firstterm>coordinating conjunction</firstterm>, such as "and" or "but", between the independent clauses to form a compound sentence. For example, "The process will start, but it will produce an error."
+					Insert a <firstterm>coordinating conjunction</firstterm>, such as "and" or "but", between the independent clauses to form a compound sentence. For example, "The process starts, but it produces an error."
 				</para>
-<!-- Would be better to use present tense in the example. -->				
 
 			</listitem>
 			 <listitem>
 				<para>
-					Insert a <firstterm>subordinating conjunction</firstterm>, such as "although" or "because", which will form a compound sentence with a subordinate clause. For example, "Although the process will start, it will produce an error."
+					Insert a <firstterm>subordinating conjunction</firstterm>, such as "although" or "because", which forms a compound sentence with a subordinate clause. For example, "Although the process starts, it produces an error."
 				</para>
-<!-- Use present tense . -->				
 
 			</listitem>
 
@@ -350,16 +340,14 @@
 		 <formalpara id="fragments">
 			<title>Sentence Fragments</title>
 			 <para>
-				A <firstterm>sentence fragment</firstterm> is an incomplete sentence. For example, "We will release no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade. At least, before its time." the second of the two sentences is a fragment. Repair sentence fragments by making them complete sentences.
+				A <firstterm>sentence fragment</firstterm> is an incomplete sentence. For example, "Red Hat releases no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade. At least, before its time." the second of the two sentences is a fragment. Repair sentence fragments by making them complete sentences.
 			</para>
-<!-- First person use --> 			
 
 		</formalpara>
 		 <note>
 			<para>
 				Read your sentences aloud, as if each sentence were the *only* sentence on a piece of paper. If you hear a sentence that does not make any sense by itself, then it is probably a sentence fragment.
 			</para>
-<!-- Is subjunctive use allowed? --> 				
 
 		</note>
 		 <formalpara id="telegraphic">
@@ -449,11 +437,15 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> The individual member of the social community often receives his information via visual, symbolic channels. </entry>
+						<entry> The individual member of the social community often receives information via visual, symbolic channels. </entry>
 						 <entry> People read. (Translation by Richard Feynman.) </entry>
-<!-- Another possible example: "Perform the installation of the product." Improvement: "Install the product." -->
 
 					</row>
+					<row>
+						<entry> Perform the installation of the product. </entry>
+						 <entry> Install the product. </entry>
+
+					 /<row>
 
 				</tbody>
 
@@ -482,9 +474,8 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> To update the address lists may be your primary concern. </entry>
-						 <entry> Your primary concern may be to update the address lists. </entry>
-<!-- Change "may" > "might". -->
+						<entry> To update the address lists might be your primary concern. </entry>
+						 <entry> Your primary concern might be to update the address lists. </entry>
 
 					</row>
 
@@ -537,9 +528,9 @@
 				<term> Homographic Verbs </term>
 				 <listitem>
 					<para>
-						The verb "may" can be used to express possibility as well as to grant permissions. Similarly, "should" can be used to make recommendations as well as to express obligation or expectation. A sentence containing one of these verbs often has a double meaning. Avoid these types of words.
+						The verb "may" might indicate possibility or grant permission. Similarly, "should" might imply a recommendation or express obligation or expectation. A sentence containing one of these verbs often has a double meaning. Avoid these types of words.
 					</para>
-<!-- Reword the first sentence, which might suggest that it is acceptable to use "may" to express possibility. -->					
+					
 					 <table>
 						<title></title>
 						 <tgroup cols="2" colsep="1" rowsep="1">
@@ -671,6 +662,8 @@
 
 		</variablelist>
 <!-- Suggest to add other types of ambiguity, some of which I have seen in recent chapter reviews:
+To do: Create section for dates and times, and link to it. 
+Also: separating pronoun from the noun it refers to: "The product, which nnnn nnn nnn  nnn. It ..." 
 1. When "using" occurs during a sentence, and it might mean "by using", "that uses", or "to use". 
 2. When dates are written only in numerical form. For example, "9/12/20" would mean 9 December 2020 in most countries but September 12, 2020 in the US.
 3. When a verb phrase at the start of a sentence does not modify the correct word. 
@@ -690,18 +683,17 @@ Use the utility to run activities, and then when you are done, save your setting
 	 <section id="contractions-and-abbreviations">
 		<title>Contractions and Abbreviations</title>
 		 <para>
-			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't," "don't," "won't," and similar examples. Always write out in full. Take care also with abbreviations; replace "e.g." with "for example," and replace "i.e." with "that is," and so on. See <citetitle>The IBM Style Guide</citetitle> for full details.
+			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't," "don't," "won't," and similar examples. Always write out in full. Take care also with abbreviations; replace "e.g." with "for example," and replace "i.e." with "that is," and so on. 
 		</para>
-<!-- For this advice, cannot refer any longer to IBM Style, which now allows contractions. -->
 
 	</section>
 	 <xi:include href="Punctuation.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <section id="hyphenation">
 		<title>Hyphenation</title>
 		 <para>
-			There are no hard and fast rules for hyphenation. In general, do not hyphenate unless required for clarity, or our other references declare that hyphens are required. The following is general guidance; if you are unsure about whether or not to hyphenate, ask your peers.
+			There are no hard and fast rules for hyphenation. In general, do not hyphenate unless required for clarity, or our other references declare that hyphens are required. The following is general guidance; if you are unsure about whether or not to hyphenate, ask your peers. See also the "Hyphens" topic in the <citetitle>IBM Style Guide</citetitle>.
 		</para>
-<!-- Add a reference to the "Hyphens" topic in IBM Style, which provides detailed guidance and examples. -->		
+		
 		 <formalpara id="hyphenate-for-clarity">
 			<title>Hyphenate for Clarity</title>
 			 <para>
@@ -766,22 +758,18 @@ Use the utility to run activities, and then when you are done, save your setting
 	 <section id="gender-references">
 		<title>Gender References</title>
 		 <para>
-			Do not use gender-specific pronouns in documentation. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers." In most cases, use "you" when giving instructions, and "the user," "new users," and so on in more general explanations. Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal.
+			Do not use gender-specific pronouns in documentation, except to refer to a specific named user, such as in a case study. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers." It is acceptable to use "they" to refer to one person, with a plural verb. In most cases, when giving instructions, use the imperative mood or use "you". In more general explanations, you can use "the user" or "new users". Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal. Do not use "it" to refer to a person.
 		</para>
-	<!-- Do not use gender-specific pronouns ... except to refer to a specific named user, such as in a case study. 
-	Specify whether use of singular "they" is acceptable (with a plural verb)? 
-	Could also mention the option of using the imperative mood. 
-	Could also state not to use "it" to refer to a person (which some ESL writers do.) -->	
-
+	
 	</section>
 	 <section id="tense">
 		<title>Tense</title>
 		 <para>
-			Avoid future tense (or using the term "will") whenever possible. For example, future tense ("The screen will display...") does not read as well as the present tense ("The screen displays..."). Remember, the users you are writing for most often refer to the documentation while they are using the system, not after or in advance of using the system.
+			Avoid future tense (or using the term "will") whenever possible. For example, future tense ("The window will open ...") does not read as well as the present tense ("The window opens ..."). Remember, the users you are writing for most often refer to the documentation while they are using the system, not after or in advance of using the system.
 		</para>
-<!-- "Display" is a transitive verb; suggest to change these examples to "is displayed". -->		
+
 		 <para>
-			Use simple present tense as much as possible. It avoids problems with consequences and time related communications, and is the easiest tense for translation.
+			Use simple present tense as much as possible. It avoids problems with consequences and time-related communications, and is the easiest tense for translation.
 		</para>
 		 <para>
 			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>
