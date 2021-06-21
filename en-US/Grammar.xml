@@ -247,7 +247,7 @@
 			</itemizedlist>
 
 		</note>
-<!-- YES - Suggest to add a section about use of "that" in clauses (relative pronoun) to add clarity.-->
+
 	</section>
 	 <section id="sentence-structure">
 		<title>Sentence Structure</title>
@@ -414,6 +414,38 @@
 
 			</tgroup>
 
+<!-- Added section about use of relative pronoun "that" -->
+		 <formalpara id="that">
+			<title>"That" in Clauses</title>
+			 <para>
+				Include the word "that" in clauses unless it results in writing that is too formal or stilted. The use of the conjunction "that" makes the sentence easier to translate and improves clarity for readers whose primary language is not English,  
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Verify your directory service is working. </entry>
+						 <entry> Verify that your directory service is working. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
 		</table>
 		 <formalpara id="verbosity">
 			<title> Verbosity </title>
@@ -485,10 +517,50 @@
 
 		</table>
 
+<!-- Added more categories of ambiguity and how to avoid them. -->
 	</section>
 	 <section id="avoiding-ambiguities">
 		<title>Avoiding Ambiguities</title>
 		 <variablelist>
+
+			</varlistentry>
+			 <varlistentry id="dates">
+				<term>Dates</term>
+				 <listitem>
+					<para>
+						Do not use an all-numeric representation for dates. For example, 9/12/2020 means September 12, 2020 in the US but 9 December 2020 in most other countries. Instead, write the month as a word.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> The product was manufactured on 4/1/21. </entry>
+									 <entry> The product was manufactured on 1 April 2021. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+
 			<varlistentry id="proper-nouns">
 				<term> Capitalizing Proper Nouns </term>
 				 <listitem>
@@ -611,6 +683,43 @@
 				</listitem>
 
 			</varlistentry>
+			 <varlistentry id="infinitive">
+				<term>Verb phrases</term>
+				 <listitem>
+					<para>
+						When you have more than one infinitive verb within a sentence, be clear what each verb refers to.  
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Use the utility to run activities and save your settings. </entry>
+									 <entry> Either: Use the utility to run activities and to save your settings (if the utility does both functions); or: Use the utility to run activities, and then when you are done, save your settings (if the process consists of two separate steps, of which the utility does only one). </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>			
+
 			 <varlistentry id="invisible-plurals">
 				<term> Invisible Plurals </term>
 				 <listitem>
@@ -644,8 +753,44 @@
 					</table>
 
 				</listitem>
+			</varlistentry>		
 
+			 <varlistentry id="pronoun">
+				<term>Verb phrases</term>
+				 <listitem>
+					<para>
+						Avoid ambiguous pronoun references, where a pronoun can refer to more than one antecedent.  
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> If the completed field has text, it does not change. </entry>
+									 <entry> If the completed field has text, that text does not change. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
 			</varlistentry>
+
 			 <varlistentry id="synonymity">
 				<term>Synonymity</term>
 				 <listitem>
@@ -659,24 +804,82 @@
 				</listitem>
 
 			</varlistentry>
+			 <varlistentry id="using">
+				<term>Use of "using"</term>
+				 <listitem>
+					<para>
+						Use of the word "using" can result in ambiguity, which can often be resolved by using "that uses" or "by using", according to the meaning.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Create the resource using all relevant options. </entry>
+									 <entry> Create the resource by using all relevant options. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="verb">
+				<term>Verb phrases</term>
+				 <listitem>
+					<para>
+						Ensure that a verb phrase at the start of a sentence modifies the correct word.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Having configured your environment, the product is ready to be used. (The product does not configure the environment.) </entry>
+									 <entry> After you configure your environment, you can use the product. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>			
 
 		</variablelist>
-<!-- Suggest to add other types of ambiguity, some of which I have seen in recent chapter reviews:
-To do: Create section for dates and times, and link to it. 
-Also: separating pronoun from the noun it refers to: "The product, which nnnn nnn nnn  nnn. It ..." 
-1. When "using" occurs during a sentence, and it might mean "by using", "that uses", or "to use". 
-2. When dates are written only in numerical form. For example, "9/12/20" would mean 9 December 2020 in most countries but September 12, 2020 in the US.
-3. When a verb phrase at the start of a sentence does not modify the correct word. 
-Incorrect example: "Having configured your environment, the product is ready to be used." (The product does not configure the environment.)
-Correct example: "After you configure your environment, you can use the product."
-4. Ambiguous pronoun references, in which a pronoun can refer to more than one antecedent.  
-Incorrect example: "If the completed field has text, it does not change."
-Correct example: "If the completed field has text, that text does not change."
-5. When you have more than one infinitive verb within a sentence.  
-For example, the following sentence is ambiguous: "Use the utility to run activities and save your settings." 
-This sentence can be interpreted in two ways:
-Use the utility to run activities and to save your settings. (The utility does both functions.)
-Use the utility to run activities, and then when you are done, save your settings. (The process consists of two separate steps, of which the utility does only one.) -->
+
+<!-- To do: Create section for dates and times, and link to it. -->
 
 	</section>
 	 <xi:include href="Easily_Confused_Words.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
