@@ -4,6 +4,7 @@
 %BOOK_ENTITIES;
 ]>
 <chapter id="avoiding-slang">
+<!-- Expand scope of this chapter to include other language topics. -->
 	<title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title>
 	 <para>
 		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, avoid slang and other culture-specific terminology. This section attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
@@ -869,6 +870,378 @@
 		</itemizedlist>
 		 <para>
 			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>
+		</para>
+
+	</section>
+
+<!-- Add sections: 
+Inclusive Language (new)
+Avoiding Ambiguities (move from Chapter 2)
+Dates and Times (new) -->
+	 <section id="Inclusive-Language">
+		<title>Inclusive Language</title>
+		 <para>
+			Red&nbsp;Hat, together with other companies and institutions in the IT industry, is committed to identifying and eliminating the use of language that might exclude or be offensive to certain groups of people. 
+		</para>
+		<para>
+			Terms that reinforce cultural, racial, or other types of bias should be replaced with an alternative.  
+		</para>
+		<para>
+			Do not use the terms “white” or "black" in a context where white is represented as good or black is represented as bad, such as “whitelist” and “blacklist”. Such usage reinforces a model that promotes racial bias.  
+		</para>
+		<para>
+			Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use of “master” is acceptable in other contexts, such as to refer to mastery of a skill. 
+		</para>
+		<para>
+			Other considerations apply for inclusive writing, including to avoid gender bias. As an example, do not assume that the subject of a sentence is male if the context might refer to any gender. Thus, instead of using "man hours", use "labor hours" or "person hours". 
+		</para>
+		<para>
+			Such guidance, including judgement of what constitutes acceptable versus unacceptable use, will evolve over time. 
+		</para>
+	</section>
+
+<!-- Moved Ambiguities section here from Chapter 2 and added several more categories of ambiguity to avoid. -->
+	 <section id="avoiding-ambiguities">
+		<title>Avoiding Ambiguities</title>
+		 <variablelist>
+
+			<varlistentry id="proper-nouns">
+				<term> Capitalizing Proper Nouns </term>
+				 <listitem>
+					<para>
+						In some cases it is not clear if a term refers to a concept or a proper noun or product name. By using the correct capitalization, you will help translators identify untranslatable proper nouns and Red Hat product names.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> This property must be enabled when you are using CTDB in a Windows domain or in active directory security mode. </entry>
+									 <entry> This property must be enabled when you are using CTDB in a Windows domain or in Active Directory security mode. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="homographs">
+				<term> Homographic Verbs </term>
+				 <listitem>
+					<para>
+						The verb "may" might indicate possibility or grant permission. Similarly, "should" might imply a recommendation or express obligation or expectation. A sentence containing one of these verbs often has a double meaning. Avoid these types of words.
+					</para>
+					
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> The <methodname>next()</methodname> method should return <code>null</code> to indicate the end of results. </entry>
+									 <entry> The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. <emphasis>OR</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results. </entry>
+
+								</row>
+								 <row>
+									<entry> It may be held in memory. </entry>
+									 <entry> It can be held in memory. <emphasis>OR</emphasis> It might be held in memory. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="homonyms">
+				<term> Homonymity </term>
+				 <listitem>
+					<para>
+						When a single term has multiple meanings, be explicit in order to differentiate between them.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Tab through the dialog box. Set the tab. Move the tab on the ruler. How to show or hide tabs. Select the tab. </entry>
+									 <entry> Use the tab key to move through the dialog box. Set the tab stop. Move the tab mark on the ruler. How to show or hide tab characters. Select the <guimenuitem>View</guimenuitem> tab in the <guimenuitem>Options</guimenuitem> dialog box. </entry>
+
+								</row>
+								 <row>
+									<entry> To create another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
+									 <entry> To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. <emphasis>OR</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+					 <note>
+						<para>
+							See also <xref linkend="genders" />.
+						</para>
+
+					</note>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="infinitive">
+				<term>Verb phrases</term>
+				 <listitem>
+					<para>
+						When you have more than one infinitive verb within a sentence, be clear what each verb refers to.  
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Use the utility to run activities and save your settings. </entry>
+									 <entry> Either: Use the utility to run activities and to save your settings (if the utility does both functions); or: Use the utility to run activities, and then when you are done, save your settings (if the process consists of two separate steps, of which the utility does only one). </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>			
+
+			 <varlistentry id="invisible-plurals">
+				<term> Invisible Plurals </term>
+				 <listitem>
+					<para>
+						Some two-word phrases (noun + noun) do not clarify whether the first noun is singular or plural.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Once the file retrieval has been completed, you are ready to restart your system. </entry>
+									 <entry> After the files have been retrieved, you can restart your system. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+			</varlistentry>		
+
+			 <varlistentry id="pronoun">
+				<term>Verb phrases</term>
+				 <listitem>
+					<para>
+						Avoid ambiguous pronoun references, where a pronoun can refer to more than one antecedent.  
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> If the completed field has text, it does not change. </entry>
+									 <entry> If the completed field has text, that text does not change. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+			</varlistentry>
+
+			 <varlistentry id="synonymity">
+				<term>Synonymity</term>
+				 <listitem>
+					<para>
+						Sometimes multiple terms have a single meaning. If terms are used inconsistently, users (and translators) will assume they refer to different things. It is best to use a single term for a single concept throughout.
+					</para>
+					 <para>
+						For example, "Administration GUI" and "Administration Console" could both be used to refer to a single application or to different applications. For this reason it is important that writers choose the most suitable term for each situation and use it consistently.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="using">
+				<term>Use of "using"</term>
+				 <listitem>
+					<para>
+						Use of the word "using" can result in ambiguity, which can often be resolved by using "that uses" or "by using", according to the meaning.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Create the resource using all relevant options. </entry>
+									 <entry> Create the resource by using all relevant options. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="verb">
+				<term>Verb phrases</term>
+				 <listitem>
+					<para>
+						Ensure that a verb phrase at the start of a sentence modifies the correct word.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Having configured your environment, the product is ready to be used. (The product does not configure the environment.) </entry>
+									 <entry> After you configure your environment, you can use the product. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>			
+
+		</variablelist>
+
+	</section>
+
+<section id="Date-Time">
+		<title>Dates and Times</title>
+
+		 <para>
+		Do not use an all-numeric representation for dates. For example, 9/12/2020 means September 12, 2020 in the US but 9 December 2020 in most other countries. Instead, write the month as a word.
+		</para>
+		
+		 <para>
+		Instead of writing "The product was manufactured on 4/1/21", which is ambiguous, write "The product was manufactured on 1 April 2021". 	 
+		</para>
+
+		 <para>
+		Exception: Use of an all-numeric representation is allowed when space is limited, as in a user interface, or to enhance readability. In such cases, use the ISO date format with a 4-digit year (YYYY-MM-DD) and define the format in a header or legend.
+		</para>
+ 		
+		 <para>
+		For times of day, use uppercase without periods, such as “11&nbsp;AM”. Use a nonbreaking space between the numeral and “AM” or “PM”.
 		</para>
 
 	</section>

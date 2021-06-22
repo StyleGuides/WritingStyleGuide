@@ -110,12 +110,13 @@
 
 			</listitem>
 
+<!-- Updated entries for "AM" and "PM" to reflect latest IBM Style guidance. -->
 		</varlistentry>
     <varlistentry id="pm">
-			<term role="true">p.m.</term>
+			<term role="true">PM</term>
 			 <listitem>
 				<para>
-					Correct. Use the lowercase form and include the periods, and use a preceding space.
+					Use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "2&nbsp;PM".
 				</para>
         <para>
           See also <xref linkend="am"/>.

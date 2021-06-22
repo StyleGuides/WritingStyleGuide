@@ -409,16 +409,7 @@
 
 			</listitem>
 
-		</varlistentry>
-		 <varlistentry id="contractions">
-			<term>contractions</term>
-			 <listitem>
-				<para>
-					Do not use. Contractions are a mark of informal writing, and should be avoided when writing policy manuals or other more formal types of manuals. They also cause problems for translation.
-				</para>
-
-			</listitem>
-
+<!-- Moved "contractions" (not a named term) to Chapter 2. -->
 		</varlistentry>
 		 <varlistentry id="control-character">
 			<term>control character</term>
