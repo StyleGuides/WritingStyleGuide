@@ -5,13 +5,20 @@
 ]>
 <chapter id="avoiding-slang">
 <!-- Expand scope of this chapter to include other language topics. -->
-	<title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title>
+	<title>Language</title>
+<!-- Original title: <title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title> -->
 	 <para>
-		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, avoid slang and other culture-specific terminology. This section attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
+		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, avoid slang and other culture-specific terminology. This chapter attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
+	 <para>
+		If you find slang terms or other difficult-to-understand passages in our documentation, use this section to search for alternatives.
 	</para>
 	 <para>
-		If you find slang terms or other difficult-to-understand passages in our documentation, use this page to search for alternatives.
+		Red&nbsp;Hat is committed to eliminating use of language that might exclude or offend certain groups of people. This chapter describes some considerations for use of inclusive language.
 	</para>
+	 <para>
+	 	Also in this chapter is guidance on some common categories of ambiguity in writing and how to avoid it.
+	</para>
+	 
 	 <section id="avoiding-confusing-language">
 		<title>Avoiding Misleading or Confusing Language</title>
 		 <para>
@@ -61,10 +68,10 @@
 
 			</varlistentry>
 			 <varlistentry>
-				<term>anything you/they like</term>
+				<term>anything you like, anything they like</term>
 				 <listitem>
 					<para>
-						This is probably readily understood but should not appear in Red&nbsp;Hat documentation.
+						This phrase is probably readily understood but should not appear in Red&nbsp;Hat documentation.
 					</para>
 					 <itemizedlist>
 						<listitem>
@@ -72,7 +79,7 @@
 								"They can also use the slapi_register_plugin() call to register any kind of plug-in they like."
 							</para>
 							 <para>
-								Rephrase to something more suitable, such as "...to register any other kind of plug-in."
+								Rephrase to something more suitable, such as "... to register any other kind of plug-in."
 							</para>
 
 						</listitem>
@@ -188,7 +195,7 @@
 				<term>core competency</term>
 				 <listitem>
 					<para>
-						Jargon, cold and impersonal. Better choices include "specialization," "skill," "strength," "expertise," etc. The De-Jargonator says: "'Competent' means 'adequate but not exceptional.' Why would you describe what you do best as 'competence'? Try instead: What your organization does best; competitive advantage; special or unique expertise or ability; specialty."
+						Jargon, cold and impersonal. Better choices include "specialization," "skill," "strength," "expertise," and so on. The De-Jargonator says: "'Competent' means 'adequate but not exceptional.' Why would you describe what you do best as 'competence'? Try instead: What your organization does best; competitive advantage; special or unique expertise or ability; specialty."
 					</para>
 
 				</listitem>
@@ -238,7 +245,7 @@
 				<term>enterprise-ready</term>
 				 <listitem>
 					<para>
-						Although we used to use this term to emphasize our products' enterprise readiness, it is not as necessary now, especially when talking about a product with "Enterprise" in its name, unless you're calling this out as a key selling point.
+						Although Red&nbsp;Hat used to use this term to emphasize its products' enterprise readiness, it is not as necessary now, especially when talking about a product with "Enterprise" in its name, unless you're calling this out as a key selling point.
 					</para>
 
 				</listitem>
@@ -258,7 +265,7 @@
 				<term>fib</term>
 				 <listitem>
 					<para>
-						A fib is a "small lie," also known as a "white lie." This appeared in one of the GLS books: "this command tells fibs." Use something like "The output of this command can be misleading."
+						A fib is a "small lie," also known as a "white lie." This sentence appeared in one of the GLS books: "this command tells fibs." Use something like "The output of this command can be misleading."
 					</para>
 
 				</listitem>
@@ -288,8 +295,9 @@
 				<term>frown upon</term>
 				 <listitem>
 					<para>
-						"To frown upon" means to hold in low regard, not to approve of, etc. This appeared in the Seam guide: "...we generally frown on the use of session context...". This translates to (and should have been written as) "...the use of session context is not recommended..." (or words to that effect).
+						"To frown upon" means to hold in low regard, not to approve of, and so on. This appeared in the Seam guide: "...we generally frown on the use of session context...". This translates to (and should have been written as) "...the use of session context is not recommended..." (or words to that effect).
 					</para>
+<!-- What is Seam? -->
 
 				</listitem>
 
@@ -303,7 +311,7 @@
 					 <itemizedlist>
 						<listitem>
 							<para>
-								In Directory Server, if you do a fuzzy search for "Smith" you will probably also get "Smyth," because it sounds the same.
+								In Directory Server, if you do a fuzzy search for "Smith," you will probably also get "Smyth," because it sounds the same.
 							</para>
 
 						</listitem>
@@ -336,7 +344,7 @@
 				<term>happy path</term>
 				 <listitem>
 					<para>
-						Do not use. Often understood to mean "a path or method of least resistance" or "the preferred way to solve the current issue", this is very localized slang and could easily be misunderstood. It could also produce problems for translation.
+						Do not use. Often understood to mean "a path or method of least resistance" or "the preferred way to solve the current issue", this is localized slang and could easily be misunderstood. It could also produce problems for translation.
 					</para>
 
 				</listitem>
@@ -353,7 +361,7 @@
 
 			</varlistentry>
 			 <varlistentry>
-				<term>have a crack at/jump right in</term>
+				<term>have a crack at, jump right in</term>
 				 <listitem>
 					<para>
 						Have a crack at and jump right in are closely related in meaning as they imply to "get started or give it a try." Alternatives to these are "start," "try," and "begin," and will depend on the context of what is being discussed.
@@ -464,7 +472,7 @@
 						Avoid using this term, because 1) it is jargon, 2) not everyone knows what it means, and 3) the meaning could be lost or confused in translation to other languages.
 					</para>
 					 <para>
-						Typically used to mean maintaining the <foreignphrase>status quo</foreignphrase> or just doing what is required to keep things up and running (versus being proactive and innovative). For example, "A cloud can deliver strategic advantages to the business by redirecting resources from lights-on to innovation."
+						It is typically used to mean maintaining the <foreignphrase>status quo</foreignphrase> or just doing what is required to keep things up and running (versus being proactive and innovative). For example, "A cloud can deliver strategic advantages to the business by redirecting resources from lights-on to innovation."
 					</para>
 
 				</listitem>
@@ -504,7 +512,7 @@
 				<term>mission-critical</term>
 				 <listitem>
 					<para>
-						Overused and jargony. Unless the topic is actually critical to a mission, use a factual term or phrase, for example, "Make sure you have the applications you need to help your customers." vs. "Make sure you have the mission-critical applications your customers demand."
+						Overused and jargony. Unless the topic is actually critical to a mission, use a factual term or phrase, for example, "Ensure that you have the applications that you need to help your customers." versus "Ensure that you have the mission-critical applications that your customers demand."
 					</para>
 
 				</listitem>
@@ -534,7 +542,7 @@
 				<term>over the wire</term>
 				 <listitem>
 					<para>
-						Commonly used in expressions such as "password information is sent in plain text over the wire," meaning "sent unencrypted through the transmission medium" (whether it is a wired or wireless network, the internet, or whatever). The phrase is probably not required at all. "Sent/transmitted in plain text" is fine.
+						Commonly used in expressions such as "password information is sent in plain text over the wire," meaning "sent unencrypted through the transmission medium" (whether it is a wired or wireless network, the internet, or whatever). The phrase is probably not required at all. "Sent or transmitted in plain text" is fine.
 					</para>
 
 				</listitem>
@@ -544,7 +552,7 @@
 				<term>pain in the backside</term>
 				 <listitem>
 					<para>
-						Nobody should ever write this or anything like it in any Red&nbsp;Hat documentation. Most people should know what it means. Use "problematic," "difficult," or something similar.
+						Nobody should ever write this expression or anything like it in any Red&nbsp;Hat documentation. Most people should know what it means. Use "problematic," "difficult," or something similar.
 					</para>
 
 				</listitem>
@@ -642,7 +650,7 @@
 				<term>root your server in the /serverRoot directory</term>
 				 <listitem>
 					<para>
-						This is not very elegant. Be aware of the multiple meanings of words. Try something like "Use the /serverRoot directory as the root directory for your server." This example came from the Directory Server documentation, but it could apply to Web Servers or any other type of server.
+						This expression is inelegant. Be aware of the multiple meanings of words. Try something like "Use the /serverRoot directory as the root directory for your server." This example came from the Directory Server documentation, but it could apply to Web Servers or any other type of server.
 					</para>
 
 				</listitem>
@@ -652,7 +660,7 @@
 				<term>shoot yourself in the foot</term>
 				 <listitem>
 					<para>
-						To "shoot yourself in the foot" indicates that you have done something to harm your own cause, or acting against your own best interests. Remove the sentence - it should be self-evident from the surrounding information. (Found this statement alongside the "double-edged sword" comment with an added note about "preserving all your toes.")
+						To "shoot yourself in the foot" indicates that you did something to harm your own cause, or acting against your own best interests. Remove the sentence; it should be self-evident from the surrounding information. (Found this statement alongside the "double-edged sword" comment with an added note about "preserving all your toes.")
 					</para>
 
 				</listitem>
@@ -662,7 +670,7 @@
 				<term>shy of</term>
 				 <listitem>
 					<para>
-						Apart from the "normal" meaning of shy, it is also found in such phrases as "he was just shy of the mark," meaning that he didn't quite succeed. Also, to be "a few items shy of what's required" means to have less than the minimum number required. Avoid this terminology and use more easily understood terms; it will help our translators and also those reading our English documentation who are unfamiliar with such slang.
+						Apart from the "normal" meaning of shy, it is also found in such phrases as "he was just shy of the mark," meaning that he didn't quite succeed. Also, to be "a few items shy of what's required" means to have fewer than the minimum required number. Avoid this terminology and use more easily understood terms; it will help translators and also those reading English documentation who are unfamiliar with such slang.
 					</para>
 
 				</listitem>
@@ -672,8 +680,9 @@
 				<term>silo, siloed</term>
 				 <listitem>
 					<para>
-						Useful in farming, but in business it is jargon. Use "stand-alone," "confined," "separated," "segregated," or something similar.
+						Useful in farming, but in business it is jargon. Use "stand-alone," "confined," "separated," or something similar.
 					</para>
+<!-- Not "segregated", which has negative cultural connotations. -->
 
 				</listitem>
 
@@ -783,7 +792,7 @@
 				<term>very</term>
 				 <listitem>
 					<para>
-						Use with caution. For example, there is little value in saying "very cost-effective" vs. "cost-effective."
+						Use with caution. For example, there is little value in saying "very cost-effective" versus "cost-effective."
 					</para>
 
 				</listitem>
@@ -806,7 +815,7 @@
 	 <section id="Avoiding_Slang_Metaphors-MisleadingLanguage-Neologisms_Invented_Words">
 		<title>Neologisms (Invented Words)</title>
 		 <para>
-			The English language is full of these. Some of them are useful, some of them are less so, others are just painful, difficult to translate, and should be avoided. Many of them are the result of creating nouns from verbs, verbs from nouns, and adjectives from just about anything. Unless a particular word has been in use for some time and has been generally accepted into common English, try to avoid these neologisms. If necessary, reword or restructure your sentences.
+			The English language is full of these words. Some of them are useful; some of them are less so; others are just painful, difficult to translate, and should be avoided. Many of them are the result of creating nouns from verbs, verbs from nouns, and adjectives from just about anything. Unless a particular word has been in use for some time and is generally accepted into common English, try to avoid these neologisms. If necessary, reword or restructure your sentences.
 		</para>
 		 <itemizedlist id="item-Neologisms_Invented_Words-Examples">
 			<title>Examples</title>
@@ -817,7 +826,7 @@
 				 <itemizedlist>
 					<listitem>
 						<para>
-							This sentence has converted three verbs to nouns. A better structure might be, "This feature allows the synchronization of add, delete, and change operations..."
+							This sentence converted three verbs to nouns. A better structure might be, "This feature allows the synchronization of add, delete, and change operations..."
 						</para>
 
 					</listitem>
@@ -832,7 +841,7 @@
 	 <section id="Avoiding_Slang_Metaphors-MisleadingLanguage-Anthropomorphism">
 		<title>Anthropomorphism</title>
 		 <para>
-			Anthropomorphism is applying human qualities to non-human things or animals. Avoid this in your writing.
+			Anthropomorphism is applying human qualities to non-human things or animals. Avoid it in your writing.
 		</para>
 		 <itemizedlist id="item-Anthropomorphism-Examples">
 			<title>Examples</title>
@@ -1248,6 +1257,11 @@ Dates and Times (new) -->
  		
 		 <para>
 		For times of day, use uppercase without periods, such as “11&nbsp;AM”. Use a nonbreaking space between the numeral and “AM” or “PM”.
+		</para>
+
+		 <para>
+		Use "noon" or "12 noon" instead of "12 PM".
+		Use "midnight" or "12 midnight" instead of "12 AM".
 		</para>
 
 	</section>
