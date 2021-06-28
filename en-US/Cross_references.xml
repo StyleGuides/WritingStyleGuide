@@ -6,10 +6,11 @@
 <chapter id="using-xrefs">
 	<title>Using Cross-references Effectively</title>
 	 <para>
-		This section contains suggestions on how to use cross-references in the most effective way. That is, so that it works for the reader, rather than the author. In DocBook XML, cross-references are formatted according to the style sheets; at this point no references are available that describe how they should be formatted in other media. Formatting is not described in this section.
+		This section contains suggestions on how to use cross-references in the most effective way: that is, so that they work for the reader rather than for the author. In DocBook XML, cross-references are formatted according to the style sheets; at this point no references are available that describe how they should be formatted in other media. Formatting is not described in this section.
 	</para>
+	<!-- In AsciiDoc? -->
 	 <para>
-		In the days of print-only documentation, cross-references referred readers to additional or related information that existed elsewhere in the physical printed book; on other pages. The readers had to physically turn pages to find the referenced page, so authors, editors, and proofreaders developed a certain caution about scattering cross-references through the text. Despite the ease of use and creation of cross-references and links in online documents today, the author must still do the work for the reader. It is still the author who must do the heavy lifting and arrange the information so that the reader can absorb it in the smoothest possible fashion. Forcing the reader to leap from link to link could indicate that the author is writing for their own ease, and not for the good of the reader.
+		In the days of print-only documentation, cross-references referred readers to additional or related information that existed elsewhere in the physical printed book, on other pages. The readers had to physically turn pages to find the referenced page, so authors, editors, and proofreaders developed a certain caution about scattering cross-references through the text. Despite the ease of use and creation of cross-references and links in online documents today, the author must still do the work for the reader. The author must still do the heavy lifting and arrange the information so that the reader can absorb it in the smoothest possible fashion. Forcing the reader to leap from link to link might indicate that the author is writing for their own ease, and not for the good of the reader.
 	</para>
 	 <section id="additional-information">
 		<title>The Additional Information Test</title>
@@ -17,7 +18,7 @@
 			Is the cross-reference pointing to vital information or additional information?
 		</para>
 		 <para>
-			A cross-reference should always point to additional information, not core information that the reader needs to perform the task at hand. For example, in a procedure to configure an application, do not merely provide a link to the appendix where the correct naming conventions are described. Give the reader examples and explanations of a valid file name, and at the end of the procedure provide the link to the appendix.
+			A cross-reference should always point to additional information, not to core information that the reader needs to perform the task at hand. For example, in a procedure to configure an application, do not merely provide a link to the appendix where the correct naming conventions are described. Give the reader examples and explanations of a valid file name, and at the end of the procedure, provide a link to the appendix.
 		</para>
 
 	</section>
@@ -27,11 +28,11 @@
 			Does the paragraph or section consist largely of links?
 		</para>
 		 <para>
-			In running text, there should not be more than a couple of links per paragraph. There should not be links in every paragraph, and there certainly must not be links in titles, subheadings, figure or table captions. Cross-references interrupt the flow of thought, and can actively interfere with the absorption of information. If the reader needs a lot of additional information, rethink the structure of the section, and enrich the quality of the information. Do not let the cross-references overpower the message. A solution is to add a sentence to the end of the section indicating where more information is available.
+			In running text, each paragraph should contain no more than a couple of links. Links should not occur in every paragraph, and they must not occur in titles, subheadings, figure captions, or table captions. Cross-references interrupt the flow of thought, and can actively interfere with the absorption of information. If the reader needs much extra information, rethink the structure of the section, and enrich the quality of the information. Do not let the cross-references overpower the message. A solution is to add a sentence to the end of the section to indicate where to find more information.
 		</para>
 		 <note>
 			<para>
-				Lists can be an exception, but try to provide the reader with a descriptive phrase or sentence for each cross-referenced item, as well as a lead-in and concluding sentence for the paragraph that contains the list.
+				Lists can be an exception, but try to provide the reader with a descriptive phrase or sentence for each cross-referenced item, as well as a lead-in and a concluding sentence for the paragraph that contains the list.
 			</para>
 
 		</note>
@@ -40,10 +41,10 @@
 	 <section id="repeatability-test">
 		<title>The Repeatability Test</title>
 		 <para>
-			Does the information have to be repeated?
+			Must the information be repeated?
 		</para>
 		 <para>
-			This is a hard one, and one that many authors abhor. Often the answer is yes. If the information is vital, and needs to appear in multiple places, it just has to be done. It's not a crime. In some circumstances, like online help, the reader wants the answer immediately. Do not force even one extra click on them. In a safety situation, it may be the only chance the reader has to find critical information quickly. Any vital information, that is not more than a couple of paragraphs, (or half a page, or 5 rows of a table) can be repeated rather than cross-referenced to.
+			This is a hard question, and one that many authors abhor. Often the answer is yes. If the information is vital, and must appear in multiple places, then it must be repeated. It's not a crime. In some circumstances, such is in online help, the reader wants the answer immediately. Do not force even one extra click on them. In a safety situation, it might be the only chance for the reader to find critical information quickly. Any vital information, which is not more than a couple of paragraphs (or half a page, or five rows of a table), can be repeated rather than be cross-referenced to.
 		</para>
 		 <para>
 			Cross-referencing is a good servant but a poor master. Content still rules!

@@ -8,13 +8,15 @@
 	 <para>
 		This section lists some books and websites for you to consult on your quest to create the perfect document.
 	</para>
+<!-- A provocative statement: do we want writers to create "the perfect document", or "the good-enough document"? -->	
 	 <para>
-		The guides that you refer to first are generally dictated by the type of material you are writing. It is important to establish this first because the guidelines in the following references sometimes contradict each other. This does not mean they are wrong; different audiences require different writing styles, and different references are sometimes required when you change styles. The following documentation types are recognized:
+		The guides that you refer to first are generally dictated by the type of material that you are writing. It is important to establish this point first because the guidelines in the following references sometimes contradict each other. It does not mean that the guidelines are wrong; different audiences require different writing styles, and different references are sometimes required when you change styles. The following documentation types are recognized:
 		<itemizedlist>
 			<listitem>
 				<para>
-					Technical content: software manuals and documentation, user guides
+					Technical content: software manuals and documentation, user guides, training courses
 				</para>
+<!-- Added training courses --> 				
 
 			</listitem>
 			 <listitem>
@@ -50,8 +52,9 @@
 		 <itemizedlist>
 			<listitem>
 				<para>
-					<citetitle>IBM Style Guide, Sixth Edition</citetitle>. IBM Corp, 2004.
+					<citetitle>IBM Style Guide</citetitle>. IBM Corporation, latest version.
 				</para>
+<!-- Updated IBM Style information -->				
 
 			</listitem>
 			 <listitem>
@@ -104,10 +107,11 @@
 	 <section id="secondary-refs">
 		<title>Secondary References</title>
 		 <para>
-			The following references may provide guidance when the primary references cannot provide a suitable solution.
+			The following references might provide guidance when the primary references cannot provide a suitable solution.
 		</para>
 		 <itemizedlist>
 			<listitem>
+<!-- Review these references for currency. -->			
 				<para>
 					<citetitle>Microsoft Manual of Style for Technical Publications, Third Edition</citetitle>. Redmond, WA: Microsoft Press, 2004.
 				</para>
