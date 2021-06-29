@@ -10,7 +10,7 @@
 			<term>can, may</term>
 			 <listitem>
 				<para>
-					Use "can" to describe actions or conditions that are possible. Use "may" only to describe situations where permission is being given. If either "can," "could," or "may" apply, use "can" - it is less tentative.
+					Use "can" to describe actions or conditions that are possible. Use "may" only to describe situations where permission is being given. If any of "can," "could," or "may" apply, use "can"; it is less tentative.
 				</para>
 
 			</listitem>
@@ -20,7 +20,7 @@
 			<term>cannot</term>
 			 <listitem>
 				<para>
-					Correct, when used in the negative form. For example, "you cannot end a sentence with a preposition." Do not use "can not." When used as an additive, use two words. For example, "you can not only end a sentence with a preposition, but you can also start a sentence with a conjunction."
+					Correct, as one word, when used in the negative form. For example, "you cannot end a sentence with a preposition." Do not use "can not." When used as an additive, use two words. For example, "you can not only end a sentence with a preposition, but you can also start a sentence with a conjunction."
 				</para>
 
 			</listitem>
@@ -56,7 +56,7 @@
 			<term>CD #1</term>
 			 <listitem>
 				<para>
-					When referring to a specific CD in the Red&nbsp;Hat Enterprise Linux CD set, it is correct to refer to it as: Red&nbsp;Hat Enterprise Linux CD #1. Avoid using Red&nbsp;Hat Enterprise Linux CD 1
+					When referring to a specific CD in the Red&nbsp;Hat Enterprise Linux CD set, it is correct to refer to it as: Red&nbsp;Hat Enterprise Linux CD #1. Avoid using Red&nbsp;Hat Enterprise Linux CD 1.
 				</para>
 
 			</listitem>
@@ -79,7 +79,7 @@
 			<term>cgroup</term>
 			 <listitem>
 				<para>
-					Correct (all lowercase) when referring to the kernel-based technology. This is a contraction of control group, and not a proper noun in itself; proper nouns use initial caps. This being the case, it is permissible to capitalize if used at the beginning of a sentence.
+					Correct (all lowercase) when referring to the kernel-based technology. It is a contraction of control group, and not a proper noun in itself; proper nouns use initial caps. It is therefore permissible to capitalize it if used at the beginning of a sentence.
 				</para>
 				 <para>
 					Where cgroup refers to something else, for example, a package name, file name, and so on, use a literal rendition.
@@ -92,7 +92,7 @@
 			<term>characters</term>
 			 <listitem>
 				<para>
-					Do not use "characters" when you should use "bytes." In English, bytes and characters can be used interchangeably; in other languages a single character may consist of multiple bytes.
+					Do not use "characters" to mean "bytes." In English, bytes and characters can be used interchangeably; in other languages, a single character might consist of multiple bytes.
 				</para>
 				 <para>
 					In computer software, any symbol that requires one byte of storage. This includes all the ASCII and extended ASCII characters, including the space character. In character-based software, everything that appears on the screen, including graphics symbols, is considered to be a character. In graphics-based applications, the term character is generally reserved for letters, numbers, and punctuation.
@@ -105,7 +105,7 @@
 			<term>check</term>
 			 <listitem>
 				<para>
-					Avoid. Use "verify," "make sure," "ensure," or "read," depending on the context.
+					Avoid. Use "verify," "ensure," or "read," depending on the context.
 				</para>
 
 			</listitem>
@@ -135,7 +135,7 @@
 			<term>CI/CD</term>
 			 <listitem>
 				<para>
-					Define on first use; generally continuous integration/continuous delivery. This is not continuous development, a term with questionable usefulness and only marginal adoption.
+					Define on first use; generally continuous integration/continuous delivery. It does not mean continuous development, a term with questionable usefulness and only marginal adoption.
 				</para>
 				 <para>
 					See also <xref linkend="continuous-integration" />, <xref linkend="continuous-delivery" />, <xref linkend="continuous-deployment" />.
@@ -148,7 +148,7 @@
 			<term>ciphertext</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> One word. Do not use "cipher text" or "cipher-text" or other variants.
+					<emphasis>n.</emphasis> One word. Do not use "cipher text", "cipher-text", or other variants.
 				</para>
 
 			</listitem>
@@ -158,8 +158,9 @@
 			<term>click</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Use when referring to a GUI control button, for example, "Click <guibutton>OK</guibutton>."
+					<emphasis>v.</emphasis> Use when referring to a GUI control button, for example, "Click <guibutton>OK</guibutton>." Do not use "click on".
 				</para>
+<!-- Added comment about "click on". -->
 				 <para>
 					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle> for more information.
 				</para>
@@ -171,8 +172,9 @@
 			<term>client-side, client side</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example: "Winbind is a client-side service used to connect to Windows NT servers."
+					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example: "Winbind is a client-side service to connect to Windows NT servers."
 				</para>
+<!-- The reference to Windows NT sounds quite dated. -->				
 				 <para>
 					<emphasis>n.</emphasis> Use the two-word form as a noun. For example: "Winbind runs on the client side of a client/server Samba implementation."
 				</para>
@@ -181,10 +183,10 @@
 
 		</varlistentry>
 		 <varlistentry id="clobber">
-			<term>clobber or clobbered</term>
+			<term>clobber, clobbered</term>
 			 <listitem>
 				<para>
-					Avoid these and similar terms unless they are the actual name of something. Use "altered," "invalidated," or "overwritten," or whatever is appropriate in the specific context.
+					Avoid these and similar terms unless they are the actual name of something. Use "altered," "invalidated," or "overwritten," or whatever is appropriate in the context.
 				</para>
 
 			</listitem>
@@ -194,7 +196,7 @@
 			<term>cloud</term>
 			 <listitem>
 				<para>
-					Although cloud is important to our business, it is not a proper noun. Do not capitalize, unless it is part of a Red&nbsp;Hat product, service, solution, or business unit name. Use a lowercase “c” when referring to cloud or cloud computing in a general sense. Use a capitalized “C” when referring to the full name of official products, such as Red&nbsp;Hat CloudForms or Red&nbsp;Hat Cloud Foundations. See also "big data."
+					Although cloud is important to Red&nbsp;Hat's business, it is not a proper noun. Do not capitalize, unless it is part of a Red&nbsp;Hat product, service, solution, or business unit name. Use a lowercase “c” when referring to cloud or cloud computing in a general sense. Use a capitalized “C” when referring to the full name of official products, such as Red&nbsp;Hat CloudForms or Red&nbsp;Hat Cloud Foundations. See also "big data."
 				</para>
 
 			</listitem>
@@ -207,7 +209,7 @@
 					Define briefly on first use.
 				</para>
 				 <para>
-					Refers to the event where a private cloud exceeds its capacity and "bursts" into and uses public cloud resources. The advantage of such a hybrid cloud deployment is that an organization only pays for extra compute resources when they are needed.<footnote> <para>
+					Refers to the event where a private cloud exceeds its capacity and "bursts" into and uses public cloud resources. The advantage of such a hybrid cloud deployment is that an organization pays only for extra computing resources when they are needed.<footnote> <para>
 						<ulink url="http://searchcloudcomputing.techtarget.com/definition/cloud-bursting" />
 					</para>
 					 </footnote>
@@ -235,6 +237,7 @@
 				<para>
 					<emphasis>n.</emphasis> Use only as a noun, not a verb. Use "write" for a verb.
 				</para>
+<!-- Is this restriction still in force, even though Merriam-Webster allows "code" as a verb? What about "coding"? -->				
 
 			</listitem>
 
@@ -263,7 +266,7 @@
 			<term>comma-separated values (CSV)</term>
 			 <listitem>
 				<para>
-					Use this in preference to "comma-delimited values" whenever possible. The initialism CSV is widely used to denote information broken up through use of commas. Often used to share data between different, but similar applications, wherein the comma is a translator of the data.
+					Use this in preference to "comma-delimited values" whenever possible. The initialism CSV is widely used to denote information that is broken up through use of commas. This method is often used to share data between different, but similar applications, wherein the comma is a translator of the data.
 				</para>
 
 			</listitem>
@@ -286,7 +289,7 @@
 					<emphasis>adj.</emphasis> Correct (compound adjective). Do not use "command driven" or "commanddriven."
 				</para>
 				 <para>
-					Refers to programs and operating systems that accept commands in the form of special words or letters. In contrast, programs that provide a list of options in a menu are said to be menu-driven.
+					Refers to programs and operating systems that accept commands in the form of special words or letters. In contrast, programs that provide a list of options in a menu are said to be <emphasis>menu-driven</emphasis>.
 				</para>
 
 			</listitem>
@@ -296,10 +299,10 @@
 			<term>command language</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> The programming language through which a user communicates with the operating system or an application. For example, the DOS command language includes the commands DIR, COPY, and DEL, to name a few. The part of an operating system that responds to operating system commands is called the command processor.
+					<emphasis>n.</emphasis> The programming language through which a user communicates with the operating system or an application. For example, the DOS command language includes the commands DIR, COPY, and DEL, to name a few. The part of an operating system that responds to operating system commands is called the <emphasis>command processor</emphasis>.
 				</para>
 				 <para>
-					With graphical user interfaces, the command language consists of operations you perform with a mouse or similar input device.
+					With graphical user interfaces, the command language consists of operations that you perform with a mouse or similar input device.
 				</para>
 
 			</listitem>
@@ -319,7 +322,7 @@
 			<term>commodity</term>
 			 <listitem>
 				<para>
-					Avoid using "commodity" when referring to hardware, including servers or storage, because it implies that the hardware is undifferentiated and can make conservative readers think it is cheap. Use instead:
+					Avoid using "commodity" when referring to hardware, including servers or storage, because it implies that the hardware is undifferentiated and might imply that it is cheap. Use instead:
 				</para>
 				 <itemizedlist>
 					<listitem>
@@ -354,7 +357,7 @@
 			<term>Containers-as-a-Service</term>
 			 <listitem>
 				<para>
-					The term "Containers-as-a-Service" is owned by Docker and should only be used when referring to that company's offering. See also <xref linkend="as-a-service" />.
+					The term "Containers-as-a-Service" is owned by Docker and should be used only when referring to that company's offering. See also <xref linkend="as-a-service" />.
 				</para>
 
 			</listitem>
@@ -364,7 +367,7 @@
 			<term>container-based</term>
 			 <listitem>
 				<para>
-					Used to refer to more complex applications made up of multiple services that are distributed in containers. More common than "containerized."
+					Used to refer to more complex applications with multiple services that are distributed in containers. More common than "containerized."
 				</para>
 
 			</listitem>
@@ -384,7 +387,7 @@
 			<term>continuous delivery (CD)</term>
 			 <listitem>
 				<para>
-					A software implementation architecture that ensures all approved code can be easily pushed to production.
+					A software implementation architecture that ensures that all approved code can be easily pushed to production.
 				</para>
 
 			</listitem>
@@ -404,8 +407,9 @@
 			<term>continuous integration (CI)</term>
 			 <listitem>
 				<para>
-					A software development architecture where the developer code branch is synchronized with the main code branch or master multiple times per day. Development always works with the current code base.
+					A software development architecture where the developer code branch is synchronized with the main code branch multiple times per day. Development always works with the current code base.
 				</para>
+<!-- Deleted "or master". -->				
 
 			</listitem>
 
@@ -415,7 +419,7 @@
 			<term>control character</term>
 			 <listitem>
 				<para>
-					A special, non-printing character that begins, modifies, or ends a function, event, operation or control operation. The ASCII character set defines 32 control characters. Originally, these codes were designed to control teletype machines. Now, however, they are often used to control display monitors, printers, and other modern devices.
+					A special, non-printing character that begins, modifies, or ends a function, event, operation, or control operation. The ASCII character set defines 32 control characters. Originally, these codes were designed to control teletype machines. Now, however, they are often used to control display monitors, printers, and other modern devices.
 				</para>
 
 			</listitem>
@@ -438,7 +442,7 @@
 					A program that enhances an operating system by creating an environment in which you can run other programs. Control programs generally provide a graphical interface and enable you to run several programs at once in different windows.
 				</para>
 				 <para>
-					Control programs are also called operating environments.
+					Control programs are also called <emphasis>operating environments</emphasis>.
 				</para>
 
 			</listitem>
@@ -450,7 +454,7 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> A message given to a web browser by a web server.
-          The browser stores the message in a text file called <filename>cookie.txt</filename>.
+          The browser stores the message in a text file named <filename>cookie.txt</filename>.
           The message is then sent back to the server each time the browser requests a page from the server.
 				</para>
 
@@ -462,7 +466,7 @@
 			<term>CR</term>
 			 <listitem>
 				<para>
-					Use if referring to code, such as "Type CR at the end of each line..." If referring to the keyboard key, use either <keycap>Enter</keycap> or <keycap>Return</keycap>, depending upon the platform.
+					Use if referring to code, such as "Type CR at the end of each line ..." If referring to the keyboard key, use either <keycap>Enter</keycap> or <keycap>Return</keycap>, depending on the platform.
 				</para>
 
 			</listitem>
@@ -472,7 +476,7 @@
 			<term>crash</term>
 			 <listitem>
 				<para>
-					IBM recommends the use of "fail" rather than "crash." The latter is not outlawed, but you would have to justify its use; that is, indicate why "fail" is inadequate.
+					IBM recommends the use of "fail" rather than "crash." Use the latter only if you can justify why "fail" is inadequate.
 				</para>
 
 			</listitem>
@@ -505,7 +509,7 @@
       <term>CVE</term>
       <listitem>
         <para>
-          <emphasis>n.</emphasis> CVE stands for Common Vulnerabilities and Exposures and should be capitalized as shown.
+          <emphasis>n.</emphasis> CVE stands for Common Vulnerabilities and Exposures, and should be capitalized as shown.
           See <ulink url="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures"></ulink> for more information.
         </para>
       </listitem>
@@ -514,7 +518,7 @@
 			<term>Cygmon</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "CygMon," "cygmon," or "CYGMON." An exception is if a command is being typed (such as cygmon).
+					Correct. Do not use "CygMon," "cygmon," or "CYGMON." An exception is if a command is being typed (such as <command>cygmon</command>).
 				</para>
 				 <para>
 					Refer to it as "Cygmon: a ROM monitor," not "Cygmon: the Cygnus ROM monitor," or "Cygmon: the ROM monitor."

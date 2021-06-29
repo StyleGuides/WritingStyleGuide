@@ -3,6 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
+<!-- Suggest not to use numbered chapters for these group separator headings. -->
 <chapter id="a0-9">
 	<title>0-9</title>
 	 <variablelist>
@@ -20,7 +21,7 @@
 			<term>2-track (IT)</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> A less common way to refer to bimodal or hybrid IT. See <xref linkend="bimodal-it" />
+					<emphasis>adj.</emphasis> A less common way to refer to bimodal or hybrid IT. See <xref linkend="bimodal-it" />.
 				</para>
 
 			</listitem>
@@ -30,7 +31,7 @@
 			<term>3-D</term>
 			 <listitem>
 				<para>
-					<emphasis>adj., n.</emphasis>. Correct. Do not use 3D, 3-d, or other variations.
+					<emphasis>adj., n.</emphasis> Correct. Do not use 3D, 3-d, or other variations.
 				</para>
 
 			</listitem>

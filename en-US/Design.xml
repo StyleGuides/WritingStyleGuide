@@ -705,16 +705,27 @@ $ vi myFile.txt
 		 <formalpara id="using-acronyms">
 			<title>Acronyms</title>
 			 <para>
-				What are acronyms anyway? They are similar to abbreviations and initialisms but they are pronounced as an actual word. For example, <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
+				What are acronyms anyway? They are similar to abbreviations and initialisms but they are pronounced as a word. An acronym is a word that is formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead <emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader. <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
 			</para>
 
-		</formalpara>
 		 <para>
 			Consider pronunciation when using articles. For example, use "an <abbrev>RTS</abbrev> (real-time strategy)," because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade," because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
 		</para>
+
+		 <para>
+			Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK) ..."
+          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)."
+          	Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
+		</para>
+
+		 <para>
+			To form the plural of an acronym, add a trailing, lowercase "s" or "es" without an apostrophe, for example, ROMs, PINs, BIOSes.
+		</para>
+	
 		 <para>
 			Be sure to use correct capitalization for acronyms. Not all acronyms are capitalized (for example, "spool"); see <citetitle>The IBM Style Guide</citetitle> or another suitable reference if you are unsure.
 		</para>
+
 		 <formalpara>
 			<title>Initialisms</title>
 			 <para>

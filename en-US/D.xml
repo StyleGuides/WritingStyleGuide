@@ -10,10 +10,10 @@
 			<term>daisy chain</term>
 			 <listitem>
 				<para>
-					Noun: A hardware configuration in which devices are connected to each other in a series. The SCSI interface, for example, supports a daisy chain of up to seven devices.
+					<emphasis>n.</emphasis> A hardware configuration in which devices are connected to each other in a series. The SCSI interface, for example, supports a daisy chain of up to seven devices.
 				</para>
 				 <para>
-					Verb: To connect devices in a daisy chain pattern.
+					<emphasis>v.</emphasis> To connect devices in a daisy chain pattern.
 				</para>
 
 			</listitem>
@@ -50,7 +50,7 @@
 			<term>data mirroring</term>
 			 <listitem>
 				<para>
-					The act of copying data from one location to a storage device in real time. Because the data is copied in real time, the information stored from the original location is always an exact copy of the data from the production device. Data mirroring is useful in the speedy recovery of critical data after a disaster. Data mirroring can be implemented locally or offsite at a completely different location.
+					The act of copying data from one location to a storage device in real time. Because the data is copied in real time, the information that is stored from the original location is always an exact copy of the data from the production device. Data mirroring is useful in the speedy recovery of critical data after a disaster. Data mirroring can be implemented locally or offsite at a different location.
 				</para>
 
 			</listitem>
@@ -104,13 +104,14 @@
 			<term>data type</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Do not use "datatype" or "data-type" unless they are actually variable names or some other literal value.
+					<emphasis>n.</emphasis> Do not use "datatype" or "data-type" unless they are variable names or some other literal value.
 				</para>
 
 			</listitem>
 
+<!-- Removed "dates" as it is not a literal term entry. This information is now in "Dates and times" section in chapter 4. -->
 		</varlistentry>
-		 <varlistentry id="dates">
+<!--		 <varlistentry id="dates">
 			<term>dates</term>
 			 <listitem>
 				<para>
@@ -119,6 +120,7 @@
 				</para>
 
 			</listitem>
+-->
 
 		</varlistentry>
 		 <varlistentry id="debug">
@@ -158,7 +160,7 @@
 					Any machine or component that attaches to a computer. Examples of devices include disk drives, printers, mice, and modems. These particular devices fall into the category of peripheral devices because they are separate from the main computer.
 				</para>
 				 <para>
-					Most devices, whether peripheral or not, require a program called a device driver that acts as a translator, converting general commands from an application into specific commands that the device understands.
+					Most devices, whether peripheral or not, require a program called a <emphasis>device driver</emphasis> that acts as a translator, converting general commands from an application into specific commands that the device understands.
 				</para>
 
 			</listitem>
@@ -168,7 +170,7 @@
 			<term>DevOps</term>
 			 <listitem>
 				<para>
-					<emphasis>n., adj.</emphasis> A portmanteau that combines "development" and "operations." It refers to a specific method or organizational approach where developers and IT operations work together to create the applications that run the business. DevOps may also refer to the engineers and developers who work within these modern IT organizations.
+					<emphasis>n., adj.</emphasis> A portmanteau that combines "development" and "operations." It refers to a specific method or organizational approach where developers and IT operations work together to create the applications that run the business. DevOps can also refer to the engineers and developers who work within these modern IT organizations.
 				</para>
 
 			</listitem>
@@ -198,14 +200,14 @@
       <term>digital transformation</term>
       <listitem>
         <para>
-          Avoid this phrase. It is vague and could mean using digital technology to do something faster, to do something differently, or to do a completely new thing. The word "transform" implies a process with a beginning and an end. Some people use the phrase "digital leadership" to describe the ongoing adoption of digital technologies to advance their organization. If you must discuss the concepts of digital transformation or digital leadership, briefly define what you mean on the first occurrence. Describe, rather than label.
+          Avoid this phrase. It is vague and could mean use of digital technology to do something faster, to do something differently, or to do a completely new thing. The word "transform" implies a process with a beginning and an end. Some people use the phrase "digital leadership" to describe the ongoing adoption of digital technologies to advance their organization. If you must discuss the concepts of digital transformation or digital leadership, briefly define what you mean on the first occurrence. Describe, rather than label.
         </para></listitem>
       </varlistentry>
 		 <varlistentry id="disk-druid">
 			<term>Disk Druid</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Disk druid," "disk druid," or "diskdruid." This is a partitioning tool incorporated into Red&nbsp;Hat Enterprise&nbsp;Linux.
+					Correct. Do not use "Disk druid," "disk druid," or "diskdruid." This is a partitioning tool that is  incorporated into Red&nbsp;Hat Enterprise&nbsp;Linux.
 				</para>
 
 			</listitem>
@@ -217,6 +219,7 @@
 				<para>
 					Use "compact disc," but "diskette" or "hard disk." See <citetitle>The IBM Style Guide</citetitle> for more information and example use cases.
 				</para>
+<!-- Perhaps dated still to refer to diskettes? -->
 
 			</listitem>
 
@@ -268,7 +271,7 @@
 			<term>double-click</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Do not use "double click."
+					<emphasis>v.</emphasis> Always write hyphenated.
 				</para>
 
 			</listitem>
