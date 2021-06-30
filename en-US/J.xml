@@ -10,7 +10,7 @@
 			<term>JavaScript </term>
 			 <listitem>
 				<para>
-					"JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file written using this language, use all lowercase; for example, "...copy the IPA javascript file to the <filename>/temp</filename> directory."
+					"JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file that is written with this language, use all lowercase; for example, "...copy the IPA javascript file to the <filename>/temp</filename> directory."
 				</para>
 
 			</listitem>
@@ -30,7 +30,7 @@
 			<term>job</term>
 			 <listitem>
 				<para>
-					A task performed by a computer system. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.
+					A task that a computer system performs. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.
 				</para>
 
 			</listitem>
@@ -40,7 +40,7 @@
 			<term>jsvc</term>
 			 <listitem>
 				<para>
-					The Apache Commons Daemon jsvc is a set of libraries and applications for making Java applications run on UNIX more easily. At the beginning of a sentence, use "Jsvc", otherwise all lowercase.
+					The Apache Commons Daemon jsvc is a set of libraries and applications to run Java applications on UNIX more easily. At the beginning of a sentence, use "Jsvc", otherwise all lowercase.
 				</para>
 
 			</listitem>

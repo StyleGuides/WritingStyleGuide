@@ -19,11 +19,11 @@
             Diagram labels, table headings, procedure, and formal paragraph titles all fall under this heading, and consequently, standard title case capitalization rules apply.
             The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase.</ulink>
 					</para>
-        <!-- What about figure captions? -->
+        <!-- Add that sentence case is required for captions and legends. -->
 		  </formalpara>
 					 <para>
-						Use sentence case for table column headers.
-            These are not classified as titles.
+						Use sentence case for captions, legends, and table column headers.
+            They are not classified as titles.
 					</para>
 					 <warning>
 						<title>Marketing and Brand Capitalization Guide</title>

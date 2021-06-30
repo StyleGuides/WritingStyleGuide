@@ -6,6 +6,7 @@
 <chapter id="a">
 	<title>A</title>
 	 <variablelist>
+<!-- Entries previously used a mixture of "v." and "vb." to denote a verb. Changed all occurrences to "v." -->
 		<varlistentry id="amp-and-">
 			<term>"&amp;" and "+"</term>
 			 <listitem>
@@ -144,7 +145,7 @@
 			<term role="true">alternate</term>
 			 <listitem>
 				<para>
-					<emphasis>vb.</emphasis> "Alternate" as a verb means to change between two states or options.
+					<emphasis>v.</emphasis> "Alternate" as a verb means to change between two states or options.
 				</para>
         <para>
           See also <xref linkend="alternative"/>.

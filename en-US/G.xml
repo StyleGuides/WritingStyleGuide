@@ -108,6 +108,7 @@
 				<para>
 					Do not use. Use "region" or "geographical location" according to your needs.
 				</para>
+<!-- When I have seen the term "geo" used, it has not been in all-caps. -->
 
 			</listitem>
 
@@ -116,7 +117,7 @@
 			<term>GFS, GFS2</term>
 			 <listitem>
 				<para>
-					As of Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6, this is known as the Resilient Storage Add-On. Ensure you use the correct term.
+					As of Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6, it is known as the Resilient Storage Add-On. Ensure that you use the correct term.
 				</para>
 
 			</listitem>
@@ -166,7 +167,7 @@
 			<term>GNOME</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="gnome-classic" />
+					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="gnome-classic" />.
 				</para>
 
 			</listitem>
@@ -176,7 +177,7 @@
 			<term>GNOME Classic</term>
 			 <listitem>
 				<para>
-					Correct. Although the desktop team tends to refer to GNOME Classic (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, we should stay consistent with what is exposed to the user on the GDM login screen, that is, "GNOME Classic". The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere).
+					Correct. Although the desktop team tends to refer to GNOME Classic (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, stay consistent with what is exposed to the user on the GDM login screen, that is, "GNOME Classic". The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere).
 				</para>
 
 			</listitem>
@@ -208,6 +209,7 @@
 				<para>
 					Do not use.
 				</para>
+<!-- Is the intention to use instead the US English past participle form "gotten", or not to use either form? -->
 
 			</listitem>
 

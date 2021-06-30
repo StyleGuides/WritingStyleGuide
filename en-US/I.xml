@@ -10,7 +10,7 @@
 			<term>IA64 or ia64</term>
 			 <listitem>
 				<para>
-					Do not use. Always use the term Itanium instead. It can be used in file names because they are not visible in the content.
+					Do not use. Always use the term <emphasis>Itanium</emphasis> instead. These terms can be used in file names because they are not visible in the content.
 				</para>
 
 			</listitem>
@@ -25,6 +25,7 @@
 
 			</listitem>
 
+<!-- The following product name is now obsolete. 
 		</varlistentry>
 		 <varlistentry id="ibm-server-system-p">
 			<term>IBM eServer System p</term>
@@ -35,16 +36,18 @@
 
 			</listitem>
 
+-->
 		</varlistentry>
 		 <varlistentry id="ibm-z">
 			<term>IBM Z</term>
 			 <listitem>
 				<para>
-					IBM Z is a family name used by IBM for all of its mainframe computers from the Z900 on. In July 2017, with another generation of products, the official family was changed to IBM Z from IBM z Systems.
+					IBM Z is a family name used by IBM for all of its mainframe computers from the Z900 on. In 2017, the official family was changed to IBM Z from IBM z Systems.
 				</para>
 
 			</listitem>
 
+<!-- Added the following entry -->
 		</varlistentry>
 		 <varlistentry id="ie">
 			<term>i.e.</term>
@@ -70,7 +73,7 @@
 			<term>InfiniBand</term>
 			 <listitem>
 				<para>
-					InfiniBand is a switched fabric network topology used in high-performance computing. The term is both a service mark and a trademark of the InfiniBand Trade Association. Their rules for using the mark are standard ones: append the ™ symbol the first time it is used and respect the capitalization (including the inter-capped "B") from then on. In ASCII-only circumstances, the "(TM)" string is the acceptable alternative.
+					InfiniBand is a switched fabric network topology that is used in high-performance computing. The term is both a service mark and a trademark of the InfiniBand Trade Association. Their rules for using the mark are standard ones: append the ™ symbol the first time that it is used and respect the capitalization (including the inter-capped "B") from then on. In ASCII-only circumstances, the "(TM)" string is the acceptable alternative.
 				</para>
 				 <para>
 					"Open InfiniBand" is deprecated and should not be used.
@@ -113,12 +116,13 @@
 			<term role="true">Intel 64</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Hammer," "x86_64," "x86-64," "x64," "64-bit x86" or other variations as the name of this architecture.
+					Correct. Do not use "Hammer," "x86_64," "x86-64," "x64," "64-bit x86," or other variations as the name of this architecture.
 				</para>
 				 <para>
 					The correct term for Intel's implementation of this architecture is "Intel&reg;&nbsp;64."
           Until late 2006, Intel's official name for the architecture was "Intel EM64T" (for Extended Memory 64 Technology).
           They have since changed the name to "Intel&reg;&nbsp;64" however, and Red&nbsp;Hat documentation should reflect this change.
+<!-- Should this change information be modified or deleted, now that it happened a while ago? -->		  
           When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
 				</para>
         <para>
@@ -127,8 +131,9 @@
 				 <note>
 					<para>
 						The AMD64 logo is trademarked; the term "AMD64" is not.
-            For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="http://www.amd.com/us/aboutamd/Pages/trademarks.aspx" />.
+            For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
 					</para>
+<!-- Updated URL for AMD trademarks. -->					
 					 <para>
 						For more information about Intel&reg; trademarks, see <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
 					</para>
@@ -166,7 +171,7 @@
 					Correct. The first and all prominent uses of the name should be fully spelled out, immediately followed by the initialism. For example, "Intel Virtualization Technology (Intel VT) for Intel 64 or Itanium architecture (Intel Vi). Subsequent uses can be abbreviated to "Intel Vi."
 				</para>
 				 <para>
-					Always write the initialism in uppercase, accompanied by the "Intel" mark. Do not use "Vi" or "VT." Do not use the initialism in any prominent places, such as in titles or paragraph headings, nor include any trademark symbols, such as ™ or "(TM)."
+					Always write the initialism in uppercase, accompanied by the "Intel" mark. Do not use "Vi" or "VT." Do not use the initialism in any prominent places, such as in titles or paragraph headings, and do not include any trademark symbols, such as ™ or "(TM)."
 				</para>
 
 			</listitem>
@@ -207,7 +212,7 @@
 			<term>Internet of Things (IoT)</term>
 			 <listitem>
 				<para>
-					Correct. Capitalize as shown, spell out on the first occurrence, and use the initialism thereafter.
+					Correct. Capitalize as shown; spell out on the first occurrence; and use the initialism thereafter.
 				</para>
 				 <para>
 					The Internet of Things (IoT) refers to uniquely identifiable objects and their virtual representations in an internet-like structure.<footnote> <para>
@@ -233,10 +238,10 @@
 			<term>I/O</term>
 			 <listitem>
 				<para>
-					Correct. Stands for input/output (pronounced "eye-oh"). The term I/O is used to describe any program, operation or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mice are input-only devices, while devices such as printers are output-only. A writable CD is both an input and an output device.
+					Correct. Stands for input/output (pronounced "eye-oh"). The term "I/O" is used to describe any program, operation, or device that transfers data to or from a computer and to or from a peripheral device. Every transfer is an output from one device and an input into another. Devices such as keyboards and mice are input-only devices, while devices such as printers are output-only. A writable CD is both an input and an output device.
 				</para>
 				 <para>
-					The term I/O is a non-countable noun. Append "operations" in order to refer to multiple units of I/O. For example: I/O operations could not be recovered in situations where I/O should have been temporarily queued, such as when paths were unavailable.
+					The term "I/O" is a non-countable noun. Append "operations" to refer to multiple units of I/O. For example: I/O operations could not be recovered in situations where I/O should have been temporarily queued, such as when paths were unavailable.
 				</para>
 
 			</listitem>
@@ -266,10 +271,10 @@
 			<term>IP Masquerade</term>
 			 <listitem>
 				<para>
-					A Linux networking function. IP Masquerade, also called IPMASQ or MASQ, allows one or more computers in a network without assigned IP addresses to communicate with the internet using the Linux server's assigned IP address. The IPMASQ server acts as a gateway, and the other devices are invisible behind it, so to other machines on the internet the outgoing traffic appears to be coming from the IPMASQ server and not the internal PCs.
+					A Linux networking function. IP Masquerade, also called IPMASQ or MASQ, allows one or more computers in a network without assigned IP addresses to communicate with the internet by using the Linux server's assigned IP address. The IPMASQ server acts as a gateway, and the other devices are invisible behind it, so to other machines on the internet the outgoing traffic appears to be coming from the IPMASQ server and not from the internal PCs.
 				</para>
 				 <para>
-					Because IPMASQ is a generic technology, the server can be connected to other computers through LAN technologies such as Ethernet, Token Ring, and FDDI, as well as dial-up connections such as PPP or SLIP.
+					Because IPMASQ is a generic technology, the server can be connected to other computers through LAN technologies such as Ethernet, Token-Ring, and FDDI, as well as dial-up connections such as PPP or SLIP.
 				</para>
 
 			</listitem>
@@ -289,8 +294,9 @@
 			<term>IP switching</term>
 			 <listitem>
 				<para>
-					A new type of IP routing developed by Ipsilon Networks, Inc. Unlike conventional routers, IP switching routers use ATM hardware to speed packets through networks. Although the technology is new, it appears to be considerably faster than older router techniques.
+					A new type of IP routing that Ipsilon Networks, Inc. developed. Unlike conventional routers, IP switching routers use ATM hardware to speed packets through networks. Although the technology is new, it appears to be considerably faster than older router techniques.
 				</para>
+<!-- Is it still appropriate to refer to this technology as new? -->
 
 			</listitem>
 
@@ -299,7 +305,7 @@
 			<term>ISV</term>
 			 <listitem>
 				<para>
-					Short for independent software vendor, a company that produces software.
+					Short for "independent software vendor", a company that produces software.
 				</para>
 
 			</listitem>
@@ -309,7 +315,7 @@
 			<term>IT/I.T.</term>
 			 <listitem>
 				<para>
-					Use "I.T." (with periods) only in headlines or subheadings where all caps are used, in order to clarify that the word is "IT" vs. "it."
+					Use "I.T." (with periods) only in headlines or subheadings where all caps are used, to clarify that the word is "IT" versus "it."
 				</para>
 
 			</listitem>
@@ -319,31 +325,33 @@
 			<term>Itanium</term>
 			 <listitem>
 				<para>
-					A member of Intel's Merced family of processors, Itanium is a 64-bit RISC microprocessor. Based on the EPIC (Explicitly Parallel Instruction Computing) design philosophy, which states that the compiler should decide which instructions be executed together, Itanium has the highest FPU power available.
+					A member of Intel's Merced family of processors, Itanium is a 64-bit RISC microprocessor. Based on the EPIC (Explicitly Parallel Instruction Computing) design philosophy, which states that the compiler should decide which instructions should be executed together, Itanium has the highest FPU power available.
 				</para>
 				 <para>
-					In 64-bit mode, Itanium is able to calculate two bundles of a maximum of three instructions at a time. In 32-bit mode, it is much slower. Decoders must first translate 32-bit instruction sets into 64-bit instruction sets, which results in extra-clock cycle use.
+					In 64-bit mode, Itanium can calculate two bundles of a maximum of three instructions at a time. In 32-bit mode, it is much slower. Decoders must first translate 32-bit instruction sets into 64-bit instruction sets, which results in extra-clock cycle use.
 				</para>
 				 <para>
 					Itanium's primary use is driving large applications that require more than 4 GB of memory, such as databases, ERP, and future internet applications.
 				</para>
 				 <para>
-					Do not use the term IA64. It can be used in file names because they are not printed in the content.
+					Do not use the term "IA64". It can be used in file names because they are not printed in the content.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="itanium2">
-			<term>Itanium 2</term>
+			<term>Itanium&nbsp;2</term>
 			 <listitem>
 				<para>
-					Itanium 2 is correct. Do not use "Itanium2" and always use a non-breaking space between "Itanium" and "2."
+					Itanium&nbsp;2 is correct. Do not use "Itanium2" and always use a non-breaking space between "Itanium" and "2."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
+
+<!-- Obsolete - now superseded by IBM Power Systems running IBM i.
 		 <varlistentry id="iseries">
 			<term>ISeries</term>
 			 <listitem>
@@ -355,6 +363,7 @@
 
 		</varlistentry>
 
+-->		
 	</variablelist>
 </chapter>
 
