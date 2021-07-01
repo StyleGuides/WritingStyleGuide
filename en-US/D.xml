@@ -233,6 +233,17 @@
 
 			</listitem>
 
+<!-- Added "display". -->
+		</varlistentry>
+		 <varlistentry id="display">
+			<term>display</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Use only as a transitive verb. For example, write "the system displays a message" or "the message is displayed" (not "the message displays").
+				</para>
+
+			</listitem>
+
 		</varlistentry>
 		 <varlistentry id="dns">
 			<term>DNS</term>

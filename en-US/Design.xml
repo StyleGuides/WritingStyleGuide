@@ -19,10 +19,10 @@
             Diagram labels, table headings, procedure, and formal paragraph titles all fall under this heading, and consequently, standard title case capitalization rules apply.
             The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase.</ulink>
 					</para>
-        <!-- Add that sentence case is required for captions and legends. -->
+        <!-- Added that sentence case is required for captions, legends, and diagram labels. -->
 		  </formalpara>
 					 <para>
-						Use sentence case for captions, legends, and table column headers.
+						Use sentence case for captions, legends, diagram labels, and table column headers.
             They are not classified as titles.
 					</para>
 					 <warning>
@@ -42,10 +42,10 @@
             Do not use terminating periods.
             </para>
           </formalpara>
-			 <formalpara id="imperative-form">
-				<title>Avoid Imperative Form</title>
+			 <formalpara id="imperative-mood">
+				<title>Avoid Imperative Mood</title>
 					<para>
-						Use the gerund form (noun form of verb) for titles, not the imperative form. For example, "Testing the Product", not "Test the Product".
+						Use the gerund form (noun form of verb) for titles, not the imperative mood. For example, "Testing the Product", not "Test the Product".
 					</para>
 <!-- Added an example. -->  
           </formalpara>
@@ -74,7 +74,6 @@
 		 <para>
 			The preferred way to refer to each type of PostScript font is "PostScript Type x," substituting "x" with either 1, 2, or 3, if the problem is specific to a particular type.
 		</para>
-<!-- Is this font information still relevant? -->		
 
 	</section>
 	 <section id="documenting-ui">
@@ -126,28 +125,25 @@
 			<section>
 			 <title>Navigating Through Multiple GUI Options</title>
 				 <para>
-					 Use "Navigate to" when moving through multiple GUI options because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action.
+					 Use "Navigate to" when moving through multiple GUI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to initiate an action.
 				 </para>
 				 <para>
 					 From example, "From the OpenShift web console, navigate to Monitoring → Alerting."
 				 </para>
 
-<!-- Is the arrow character preferred to a greater-than symbol as a separator for menu options? -->
-
-<!-- Mention mobile devices? -->
-
 		 </section>
 		</section>
 		 <section id="starting-apps">
-			<title>Starting Applications from the Red&nbsp;Hat Enterprise&nbsp;Linux Desktop</title>
+			<title>Starting Applications from the Desktop</title>
 			 <para>
-				Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;7 introduces a new approach to starting applications from the desktop.
-<!-- RHEL 7 would no longer be new. -->				
+			 	This section describes how to start applications from a Red&nbsp;Hat Enterprise&nbsp;Linux-based distribution.
+			</para> 
+			 <para>
+				RHEL&nbsp;8 uses the following approach to starting applications from the desktop.
 				In an effort to maintain consistency and to make translation easier, Red&nbsp;Hat documentation assumes use of GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to start applications.
 			</para>
 			 <para>
 				The preferred approach is to use the <keycap>Super</keycap> key to enter the Activities Overview, to enter the name of the required application, and to press <keycap>Enter</keycap>. 
-<!-- Is it necessary to highlight the Enter key? -->				
 				The <keycap>Super</keycap> key appears in various guises, depending on the keyboard and other hardware, but often as either the <keysym>Windows</keysym> or <keysym>Command</keysym> key, and typically to the left of the <keycap>Spacebar</keycap>. For example:
 			</para>
 			 <example id="exam-starting-apps">
@@ -248,7 +244,7 @@
 
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
-<!-- Is it necessary to repeat all the explanation of the command options from the previous section? -->
+<!-- Prune redundant repeated information from the previous section. -->
 			</example>
 			 <para>
 				In <xref linkend="exam-secure-copy" />, the entire command consists of the following components:
@@ -256,22 +252,22 @@
 			 <variablelist>
 				<varlistentry id="command-prompt">
 					<term>The command prompt (<prompt>$</prompt>)</term>
-					 <listitem>
+				<!-- <listitem>
 						<para>
 							Indicates that a normal user can run the command, as compared to the <systemitem>root</systemitem> user, which is indicated by the number sign (<prompt>#</prompt>).
 						</para>
 
-					</listitem>
+					</listitem> -->
 
 				</varlistentry>
 				 <varlistentry id="command-scp">
 					<term>The command (<command>scp</command>)</term>
-					 <listitem>
+				<!-- <listitem>
 						<para>
 							The actual command to run, without any optional or replaceable values. It must be typed as-is.
 						</para>
 
-					</listitem>
+					</listitem>  -->
 
 				</varlistentry>
 				 <varlistentry id="command-syntax-source-filename">
@@ -298,8 +294,7 @@
 			</variablelist>
 			 <warning>
 				<para>
-<!-- Added "Generally". -->				
-					Generally, avoid using the <option>--force (-f)</option> and <option>--assumeyes (-y)</option> options on most commands, especially when logged in as the <systemitem>root</systemitem> user. This can lead to unintended consequences, such as removing files or directories by mistake or installing packages or other software that might not suit your system. Refer to the following examples:
+					In most cases, avoid using the <option>--force (-f)</option> and <option>--assumeyes (-y)</option> options on most commands, especially when logged in as the <systemitem>root</systemitem> user. This can lead to unintended consequences, such as removing files or directories by mistake or installing packages or other software that might not suit your system. Refer to the following examples:
 				</para>
 
 <screen>[root@serverc pam.d]# rm -f system-auth password-auth
@@ -635,7 +630,6 @@ $ vi myFile.txt
 						You can use any of the following name generators to create realistic names for users:
 					</para>
 
-<!-- The first site gives a security warning. -->
 				</formalpara>
 				 <itemizedlist>
 					<listitem>
@@ -779,14 +773,13 @@ $ vi myFile.txt
 			</listitem>
 			 <listitem>
 				<para>
-					Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name. Consider the following examples:
+					Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name. Consider the following DocBook XML examples:
 				</para>
 				 <itemizedlist>
 					<listitem>
 						<para>
 							Standardize on Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux.
 						</para>
-<!-- Should the syntax for non-breaking spaces in AsciiDoc be mentioned as well as for XML? -->
 
 					</listitem>
 					 <listitem>
@@ -797,7 +790,9 @@ $ vi myFile.txt
 					</listitem>
 
 				</itemizedlist>
-
+				<para>
+					For other markup languages, use the equivalent non-breaking space character. 
+				</para>
 			</listitem>
 			 <listitem>
 				<para>
@@ -1020,12 +1015,11 @@ $ vi myFile.txt
 
 	</section>
 
-	 <section id="other-authors">
+<!-- <section id="other-authors">
 		<title>Citing Other Authors</title>
 		 <para>
 			DocBook provides the &lt;blockquote&gt; and &lt;attribution&gt; tags for this purpose, but how they should be rendered is currently being discussed. For example:
 		</para>
-<!-- Is this still being discussed? What about AsciiDoc? -->		
 		 <blockquote>
 			<attribution>Thomas Jefferson</attribution> <para>
 				Why use two words when one will do?
@@ -1034,5 +1028,5 @@ $ vi myFile.txt
 		</blockquote>
 
 	</section>
-
+-->
 </chapter>

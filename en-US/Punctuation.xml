@@ -432,14 +432,23 @@
 		 <para>
 			Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quote; if not, they go outside.
 		</para>
-		 <para>
+<!-- Add examples of when to use or not to use quotation marks. -->
+
+		<example><title>A Correct Example of the Use of Quotation Marks</title>
+        <para>
+        For example, the following message indicates multiple possible solutions: "This message could be resolved by changing the time."  
+        </para>
+      	</example>
+
+<!-- 	 <para>
 			Do not put quotation marks around cliches or slang terms (in fact, avoid using cliches and slang as it makes the translation of content more difficult).
 		</para>
-<!-- Suggest to remove this sentence, and leave it to chapter 4 to cover avoidance of slang. -->		
-		 <para>
+Remove this sentence, and leave it to chapter 4 to cover avoidance of slang. -->		
+
+<!--	 <para>
 			A word or words being introduced to readers should not be placed in quotation marks. In DocBook, use the &lt;firstterm&gt; element for first reference. If you are writing outside of the SGML tagging environment, use quotation marks for first references. Subsequent references do not need quotation marks or the &lt;firstterm&gt; element.
 		</para>
-<!-- And in AsciiDoc? -->		
+Deleted paragraph now that DocBook tagging no longer applies. -->		
 
 	</section>
 	 <section id="apostrophes">

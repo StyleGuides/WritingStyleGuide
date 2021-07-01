@@ -69,6 +69,19 @@
 			</listitem>
 
 		</varlistentry>
+
+<!-- Added "indexes" entry. -->
+		 <varlistentry id="indexes">
+			<term>matrixes</term>
+			 <listitem>
+				<para>
+					Correct. This is the correct plural form for US English spelling. Do not use "indices."
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
+
 		 <varlistentry id="infiniband">
 			<term>InfiniBand</term>
 			 <listitem>
