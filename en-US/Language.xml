@@ -5,7 +5,7 @@
 ]>
 <chapter id="avoiding-slang">
 <!-- Expand scope of this chapter to include other language topics. -->
-	<title>Language</title>
+	<title>Choosing Appropriate Language</title>
 <!-- Original title: <title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title> -->
 	 <para>
 		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, avoid slang and other culture-specific terminology. This chapter attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
@@ -295,9 +295,8 @@
 				<term>frown upon</term>
 				 <listitem>
 					<para>
-						"To frown upon" means to hold in low regard, not to approve of, and so on. This appeared in the Seam guide: "...we generally frown on the use of session context...". This translates to (and should have been written as) "...the use of session context is not recommended..." (or words to that effect).
+						"To frown upon" means to hold in low regard, not to approve of, and so on. For example: "...we generally frown on the use of session context...". This translates to (and should have been written as) "...the use of session context is not recommended..." (or words to that effect).
 					</para>
-<!-- What is Seam? -->
 
 				</listitem>
 
@@ -883,17 +882,17 @@
 
 	</section>
 
-<!-- Add sections: 
+<!-- Added sections: 
 Inclusive Language (new)
 Avoiding Ambiguities (move from Chapter 2)
 Dates and Times (new) -->
-	 <section id="Inclusive-Language">
+	 <section id="inclusive-language">
 		<title>Inclusive Language</title>
 		 <para>
 			Red&nbsp;Hat, together with other companies and institutions in the IT industry, is committed to identifying and eliminating the use of language that might exclude or be offensive to certain groups of people. 
 		</para>
 		<para>
-			Terms that reinforce cultural, racial, or other types of bias should be replaced with an alternative.  
+			Replace terms that reinforce cultural, racial, or other types of bias with an alternative.
 		</para>
 		<para>
 			Do not use the terms “white” or "black" in a context where white is represented as good or black is represented as bad, such as “whitelist” and “blacklist”. Such usage reinforces a model that promotes racial bias.  
@@ -1065,7 +1064,8 @@ Dates and Times (new) -->
 							 <tbody>
 								<row>
 									<entry> Use the utility to run activities and save your settings. </entry>
-									 <entry> Either: Use the utility to run activities and to save your settings (if the utility does both functions); or: Use the utility to run activities, and then when you are done, save your settings (if the process consists of two separate steps, of which the utility does only one). </entry>
+								<!-- Split into 2 sentences	 -->
+									 <entry> Depending on the meaning: Use the utility to run activities and to save your settings (if the utility does both functions). Or:  Use the utility to run activities, and then when you are done, save your settings (if the process consists of two separate steps, of which the utility does only one). </entry>
 
 								</row>
 
@@ -1136,8 +1136,8 @@ Dates and Times (new) -->
 							</thead>
 							 <tbody>
 								<row>
-									<entry> If the completed field has text, it does not change. </entry>
-									 <entry> If the completed field has text, that text does not change. </entry>
+									<entry> If the completed field contains text, it does not change. </entry>
+									 <entry> If the completed field contains text, that text does not change. </entry>
 
 								</row>
 
@@ -1184,9 +1184,15 @@ Dates and Times (new) -->
 
 							</thead>
 							 <tbody>
+<!-- Added better examples.		  -->
 								<row>
-									<entry> Create the resource using all relevant options. </entry>
-									 <entry> Create the resource by using all relevant options. </entry>
+									<entry> Open the firewall ports using the existing service configuration. </entry>
+									 <entry> Open the firewall ports by using the existing service configuration. </entry>
+
+								</row>
+								<row>
+									<entry> The resource agents using mail alerts require a mail transport agent. </entry>
+									 <entry> The resource agents that use mail alerts require a mail transport agent. </entry>
 
 								</row>
 
@@ -1256,13 +1262,25 @@ Dates and Times (new) -->
 		</para>
  		
 		 <para>
-		For times of day, use uppercase without periods, such as “11&nbsp;AM”. Use a nonbreaking space between the numeral and “AM” or “PM”.
+		For times of day, use uppercase without periods, such as "11&nbsp;AM". Use a nonbreaking space between the numeral and "AM" or "PM".
 		</para>
 
 		 <para>
 		Use "noon" or "12 noon" instead of "12 PM".
 		Use "midnight" or "12 midnight" instead of "12 AM".
 		</para>
+
+			<title>Examples</title>
+			 <listitem>
+				<para>
+				The laptop was manufactured at 10 AM on 1 April 2021.
+				</para>
+				<para>
+				The coffee break is from 2:00 PM to 2:30 PM.
+				</para>
+			</listitem>
+
+<!-- Added examples to combine date and time. -->
 
 	</section>
 

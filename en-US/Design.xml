@@ -244,7 +244,7 @@
 
 <screen>$ scp <replaceable>filename [username@]hostname:/directory</replaceable></screen>
 
-<!-- Prune redundant repeated information from the previous section. -->
+<!-- Pruned redundant repeated information from the previous section. -->
 			</example>
 			 <para>
 				In <xref linkend="exam-secure-copy" />, the entire command consists of the following components:
@@ -701,6 +701,7 @@ $ vi myFile.txt
 			 <para>
 				What are acronyms anyway? They are similar to abbreviations and initialisms but they are pronounced as a word. An acronym is a word that is formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead <emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader. <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
 			</para>
+		</formalpara>
 
 		 <para>
 			Consider pronunciation when using articles. For example, use "an <abbrev>RTS</abbrev> (real-time strategy)," because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade," because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
@@ -955,6 +956,7 @@ $ vi myFile.txt
 </example>
  </section>
 
+<!-- Describe at beginning of guide what it covers, but not to use markup. -->
 	 <section id="citing-other-works">
 		<title>Citing Other Works</title>
 		 <formalpara id="other-books">
@@ -964,14 +966,15 @@ $ vi myFile.txt
 			</para>
 
 		</formalpara>
-		 <para>
+		<!--  <para>
 			In XML:
-		</para>
+		</para> -->
 
 <programlisting>
-&lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
+<!-- &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher. -->
+Book Title by First name Surname; Publisher. 
 </programlisting>
-<!-- And in AsciiDoc? -->
+
 		 <para>
 			For example, <citetitle>Maximum RPM</citetitle> by
 			<author>

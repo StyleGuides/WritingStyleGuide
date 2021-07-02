@@ -414,6 +414,8 @@
 
 			</tgroup>
 
+		</table>
+
 <!-- Added section about use of relative pronoun "that" -->
 		 <formalpara id="that">
 			<title>"That" in Clauses</title>
@@ -477,7 +479,7 @@
 						<entry> Perform the installation of the product. </entry>
 						 <entry> Install the product. </entry>
 
-					 /<row>
+					 </row>
 
 				</tbody>
 
@@ -516,6 +518,8 @@
 			</tgroup>
 
 		</table>
+
+	</section>
 
 <!-- Moved Ambiguities section to Chapter 4. -->
 
@@ -601,7 +605,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 
 		</formalpara>
 
-	</section>
+	</section> 
 	 <section id="gender-references">
 		<title>Gender References</title>
 		 <para>
@@ -622,6 +626,6 @@ Split contractions and abbreviations into separate paragraphs. -->
 			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>
 		</para>
 
-	</section>
+	</section> 
 
 </chapter>
