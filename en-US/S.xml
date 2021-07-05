@@ -315,6 +315,25 @@
 
 			</listitem>
 
+<!-- Added entries for "sign in" and "sign in to". -->
+		</varlistentry>
+		 <varlistentry id="sign-in">
+			<term>sign in</term>
+			 <listitem>
+				 <para>
+					<emphasis>v.</emphasis> Write as two words. For example, "two options are available to sign in".
+				</para>
+			</listitem>
+				 
+		</varlistentry>
+		 <varlistentry id="sign-in-to">
+			<term>sign in to</term>
+			 <listitem>
+				 <para>
+					<emphasis>v.</emphasis> Write as three words. For example, "to sign in to the system".
+				</para>
+			</listitem>
+
 		</varlistentry>
 		 <varlistentry id="simply">
 			<term>simply</term>
