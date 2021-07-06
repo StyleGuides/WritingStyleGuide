@@ -55,7 +55,7 @@
 					 <important>
 						<para>
 							Gerunds should be avoided elsewhere.
-              Refer to <xref linkend="sentence-structure" />.
+              See <xref linkend="sentence-structure" />.
 						</para>
 					</important>
       <formalpara>
@@ -930,7 +930,7 @@ $ vi myFile.txt
 		<para>
 		When making a recommendation, the preferred verbiage is "Red&nbsp;Hat recommends..." instead of the common but indirect "It is recommended...".
 		Recommendations can include best practices, recommended practices, and product-specific suggestions.
-		Refer to <xref linkend="avoiding-confusing-language"/> for information on using the terms "best practices" and "recommended practices" in Red&nbsp;Hat documentation.
+		See <xref linkend="avoiding-confusing-language"/> for information on using the terms "best practices" and "recommended practices" in Red&nbsp;Hat documentation.
 	  </para>
 		<example>
 			<title>
