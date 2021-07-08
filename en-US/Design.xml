@@ -47,7 +47,7 @@
 					<para>
 						Use the gerund form (noun form of verb) for titles, not the imperative mood. For example, "Testing the Product", not "Test the Product".
 					</para>
-<!-- Added an example. -->  
+<!-- Added an example. -->
           </formalpara>
 					 <para>
 						See <citetitle>The IBM Style Guide</citetitle> for more information.
@@ -137,13 +137,13 @@
 			<title>Starting Applications from the Desktop</title>
 			 <para>
 			 	This section describes how to start applications from a Red&nbsp;Hat Enterprise&nbsp;Linux-based distribution.
-			</para> 
+			</para>
 			 <para>
 				RHEL&nbsp;8 uses the following approach to starting applications from the desktop.
 				In an effort to maintain consistency and to make translation easier, Red&nbsp;Hat documentation assumes use of GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to start applications.
 			</para>
 			 <para>
-				The preferred approach is to use the <keycap>Super</keycap> key to enter the Activities Overview, to enter the name of the required application, and to press <keycap>Enter</keycap>. 
+				The preferred approach is to use the <keycap>Super</keycap> key to enter the Activities Overview, to enter the name of the required application, and to press <keycap>Enter</keycap>.
 				The <keycap>Super</keycap> key appears in various guises, depending on the keyboard and other hardware, but often as either the <keysym>Windows</keysym> or <keysym>Command</keysym> key, and typically to the left of the <keycap>Spacebar</keycap>. For example:
 			</para>
 			 <example id="exam-starting-apps">
@@ -252,22 +252,22 @@
 			 <variablelist>
 				<varlistentry id="command-prompt">
 					<term>The command prompt (<prompt>$</prompt>)</term>
-				<!-- <listitem>
+				<listitem>
 						<para>
 							Indicates that a normal user can run the command, as compared to the <systemitem>root</systemitem> user, which is indicated by the number sign (<prompt>#</prompt>).
 						</para>
 
-					</listitem> -->
+					</listitem>
 
-				</varlistentry>
+          </varlistentry>
 				 <varlistentry id="command-scp">
 					<term>The command (<command>scp</command>)</term>
-				<!-- <listitem>
+				<listitem>
 						<para>
 							The actual command to run, without any optional or replaceable values. It must be typed as-is.
 						</para>
 
-					</listitem>  -->
+					</listitem>
 
 				</varlistentry>
 				 <varlistentry id="command-syntax-source-filename">
@@ -696,7 +696,7 @@ $ vi myFile.txt
 			</para>
 
 		</formalpara>
-		 <formalpara id="using-acronyms">
+		 <formalpara id="acronyms">
 			<title>Acronyms</title>
 			 <para>
 				What are acronyms anyway? They are similar to abbreviations and initialisms but they are pronounced as a word. An acronym is a word that is formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead <emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader. <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
@@ -716,7 +716,7 @@ $ vi myFile.txt
 		 <para>
 			To form the plural of an acronym, add a trailing, lowercase "s" or "es" without an apostrophe, for example, ROMs, PINs, BIOSes.
 		</para>
-	
+
 		 <para>
 			Be sure to use correct capitalization for acronyms. Not all acronyms are capitalized (for example, "spool"); see <citetitle>The IBM Style Guide</citetitle> or another suitable reference if you are unsure.
 		</para>
@@ -792,7 +792,7 @@ $ vi myFile.txt
 
 				</itemizedlist>
 				<para>
-					For other markup languages, use the equivalent non-breaking space character. 
+					For other markup languages, use the equivalent non-breaking space character.
 				</para>
 			</listitem>
 			 <listitem>
@@ -972,7 +972,7 @@ $ vi myFile.txt
 
 <programlisting>
 <!-- &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher. -->
-Book Title by First name Surname; Publisher. 
+Book Title by First name Surname; Publisher.
 </programlisting>
 
 		 <para>

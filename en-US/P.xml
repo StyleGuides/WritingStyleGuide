@@ -27,8 +27,8 @@
 			<term>PC</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Use to refer to a personal computer. 
-		<!-- IBM Style no longer includes specific advice for the term "PC".				
+					<emphasis>n.</emphasis> Use to refer to a personal computer.
+		<!-- IBM Style no longer includes specific advice for the term "PC".
 					See <citetitle>The IBM Style Guide</citetitle> for further information. -->
 				</para>
 
@@ -111,7 +111,7 @@
 					<emphasis>n.</emphasis> Write hyphenated. Do not use "plugin."
 				</para>
 				 <para>
-					A hardware or software module that adds a specific feature or service to a larger system. 
+					A hardware or software module that adds a specific feature or service to a larger system.
 <!-- Removed dated example. -->
 					<!-- For example, a number of plug-ins are available for the Netscape Navigator browser that enable it to display different types of audio or video messages. Navigator plug-ins are based on MIME file types. -->
 				</para>
@@ -257,11 +257,11 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> "IBM eServer System p" is correct for the first reference in a manual; use IBM System p or System p for subsequent references. Do not use "pSeries."
-				</para> 
+				</para>
 
-			</listitem> -->
+			</listitem>
 
-		</varlistentry>
+    </varlistentry> -->
 		 <varlistentry id="pull-down">
 			<term>pull-down</term>
 			 <listitem>

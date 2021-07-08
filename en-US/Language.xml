@@ -9,6 +9,7 @@
 <!-- Original title: <title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title> -->
 	 <para>
 		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, avoid slang and other culture-specific terminology. This chapter attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
+  </para>
 	 <para>
 		If you find slang terms or other difficult-to-understand passages in our documentation, use this section to search for alternatives.
 	</para>
@@ -18,7 +19,7 @@
 	 <para>
 	 	Also in this chapter is guidance on some common categories of ambiguity in writing and how to avoid it.
 	</para>
-	 
+
 	 <section id="avoiding-confusing-language">
 		<title>Avoiding Misleading or Confusing Language</title>
 		 <para>
@@ -882,7 +883,7 @@
 
 	</section>
 
-<!-- Added sections: 
+<!-- Added sections:
 Inclusive Language (new)
 Avoiding Ambiguities (move from Chapter 2)
 Dates and Times (new)
@@ -890,28 +891,28 @@ Numbers (move from N entry) -->
 	 <section id="inclusive-language">
 		<title>Inclusive Language</title>
 		 <para>
-			Red&nbsp;Hat, together with other companies and institutions in the IT industry, is committed to identifying and eliminating the use of language that might exclude or be offensive to certain groups of people. 
+			Red&nbsp;Hat, together with other companies and institutions in the IT industry, is committed to identifying and eliminating the use of language that might exclude or be offensive to certain groups of people.
 		</para>
 		<para>
 			Replace terms that reinforce cultural, racial, or other types of bias with an alternative.
 		</para>
 		<para>
-			Do not use the terms “white” or "black" in a context where white is represented as good or black is represented as bad, such as “whitelist” and “blacklist”. Such usage reinforces a model that promotes racial bias.  
+			Do not use the terms “white” or "black" in a context where white is represented as good or black is represented as bad, such as “whitelist” and “blacklist”. Such usage reinforces a model that promotes racial bias.
 		</para>
 		<para>
-			Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use of “master” is acceptable in other contexts, such as to refer to mastery of a skill. 
+			Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use of “master” is acceptable in other contexts, such as to refer to mastery of a skill.
 		</para>
 		<para>
-			Avoid gender bias. As an example, do not assume that the subject of a sentence is male if the context might refer to any gender. Thus, instead of using "man hours", use "labor hours" or "person hours". 
+			Avoid gender bias. As an example, do not assume that the subject of a sentence is male if the context might refer to any gender. Thus, instead of using "man hours", use "labor hours" or "person hours".
 		</para>
 		<para>
-			Avoid neurodiversity bias. For example, avoid the terms "sanity check" and "sanity test", and do not use "disabled" to refer to a person. 
+			Avoid neurodiversity bias. For example, avoid the terms "sanity check" and "sanity test", and do not use "disabled" to refer to a person.
 		</para>
 		<para>
-			Avoid superlatives in job titles and descriptions, such as "ninja", "rockstar", or "evangelist". 
+			Avoid superlatives in job titles and descriptions, such as "ninja", "rockstar", or "evangelist".
 		</para>
 		<para>
-			Such guidance, including judgement of what constitutes acceptable versus unacceptable use, will evolve over time. 
+			Such guidance, including judgement of what constitutes acceptable versus unacceptable use, will evolve over time.
 		</para>
 	</section>
 
@@ -961,7 +962,7 @@ Numbers (move from N entry) -->
 					<para>
 						The verb "may" might indicate possibility or grant permission. Similarly, "should" might imply a recommendation or express obligation or expectation. A sentence containing one of these verbs often has a double meaning. Avoid these types of words.
 					</para>
-					
+
 					 <table>
 						<title></title>
 						 <tgroup cols="2" colsep="1" rowsep="1">
@@ -1046,7 +1047,7 @@ Numbers (move from N entry) -->
 				<term>Verb phrases</term>
 				 <listitem>
 					<para>
-						When you have more than one infinitive verb within a sentence, be clear what each verb refers to.  
+						When you have more than one infinitive verb within a sentence, be clear what each verb refers to.
 					</para>
 
 					 <table>
@@ -1078,7 +1079,7 @@ Numbers (move from N entry) -->
 
 				</listitem>
 
-			</varlistentry>			
+			</varlistentry>
 
 			 <varlistentry id="invisible-plurals">
 				<term> Invisible Plurals </term>
@@ -1113,13 +1114,13 @@ Numbers (move from N entry) -->
 					</table>
 
 				</listitem>
-			</varlistentry>		
+			</varlistentry>
 
 			 <varlistentry id="pronoun">
 				<term>Verb phrases</term>
 				 <listitem>
 					<para>
-						Avoid ambiguous pronoun references, where a pronoun can refer to more than one antecedent.  
+						Avoid ambiguous pronoun references, where a pronoun can refer to more than one antecedent.
 					</para>
 
 					 <table>
@@ -1241,7 +1242,7 @@ Numbers (move from N entry) -->
 
 				</listitem>
 
-			</varlistentry>			
+			</varlistentry>
 
 		</variablelist>
 
@@ -1253,15 +1254,15 @@ Numbers (move from N entry) -->
 		 <para>
 		Do not use an all-numeric representation for dates. For example, 9/12/2020 means September 12, 2020 in the US but 9 December 2020 in most other countries. Instead, write the month as a word.
 		</para>
-		
+
 		 <para>
-		Instead of writing "The product was manufactured on 4/1/21", which is ambiguous, write "The product was manufactured on 1 April 2021". 	 
+		Instead of writing "The product was manufactured on 4/1/21", which is ambiguous, write "The product was manufactured on 1 April 2021".
 		</para>
 
 		 <para>
 		Exception: Use of an all-numeric representation is allowed when space is limited, as in a user interface, or to enhance readability. In such cases, use the ISO date format with a 4-digit year (YYYY-MM-DD) and define the format in a header or legend.
 		</para>
- 		
+
 		 <para>
 		For times of day, use uppercase without periods, such as "11&nbsp;AM". Use a nonbreaking space between the numeral and "AM" or "PM".
 		</para>
@@ -1270,7 +1271,7 @@ Numbers (move from N entry) -->
 		Use "noon" or "12 noon" instead of "12 PM".
 		Use "midnight" or "12 midnight" instead of "12 AM".
 		</para>
-
+<itemizedlist>
 			<title>Examples</title>
 			 <listitem>
 				<para>
@@ -1280,17 +1281,18 @@ Numbers (move from N entry) -->
 				The coffee break is from 2:00 PM to 2:30 PM.
 				</para>
 			</listitem>
+      </itemizedlist>
 
 <!-- Added examples to combine date and time. -->
 
 	</section>
 
 <!-- Moved Numbers entry here from N section, subdivided further into paragraphs, and updated example RHEL version. -->
-<section id="numbers">
-		<title>Numbers</title>
 
+  <section id="numbers">
+		<title>Numbers</title>
 		 <para>
-		Spell out the following number types: numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of...), and very large values. 
+		Spell out the following number types: numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of...), and very large values.
 		</para>
 		 <para>
 		Use numerals for numbers 10 and greater, and for numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (for example, "You answered 8 out of 14 questions correctly"). Use numerals for negative numbers, fractions, percentages, decimals, measurements, and references to book sections (for example, Chapter 3, Table 5, Page 11). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (such as Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8, Linux kernel&nbsp;4.18).
@@ -1298,10 +1300,9 @@ Numbers (move from N entry) -->
 		 <para>
 		Do not use commas in numbers with four digits (use 1000 rather than 1,000). Use commas, to separate goups of three digits, in numbers with five or more digits (such as 10,000; 123,456,789; 1,000,000,000).
 		</para>
-		 <para>
+    <para>
 		See <citetitle>The Chicago Manual of Style, 17th Edition</citetitle> for detailed information on numbering formats.
 		</para>
 
-	</section>
-
+</section>
 </chapter>
