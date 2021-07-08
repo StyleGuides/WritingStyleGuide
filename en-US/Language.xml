@@ -900,6 +900,9 @@ Numbers (move from N entry) -->
 			Do not use the terms “white” or "black" in a context where white is represented as good or black is represented as bad, such as “whitelist” and “blacklist”. Such usage reinforces a model that promotes racial bias.
 		</para>
 		<para>
+			For alternatives, choose words that describe the action that is taken or the function that is performed, rather than a metaphor for that action or function, for example “allowlist” instead of “whitelist”, or “blocklist” or “denylist” instead of “blacklist”. 
+		</para>
+		<para>
 			Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use of “master” is acceptable in other contexts, such as to refer to mastery of a skill.
 		</para>
 		<para>
@@ -1189,7 +1192,13 @@ Numbers (move from N entry) -->
 <!-- Added better examples.		  -->
 								<row>
 									<entry> Open the firewall ports using the existing service configuration. </entry>
-									 <entry> Open the firewall ports by using the existing service configuration. </entry>
+									<entry> 
+									<para>
+									Option 1: Open the firewall ports by using the existing service configuration.
+									</para>
+									<para>Option 2: Use the existing service configuration to open the firewall ports.
+									</para>
+									 </entry>
 
 								</row>
 								<row>
@@ -1275,7 +1284,7 @@ Numbers (move from N entry) -->
 			<title>Examples</title>
 			 <listitem>
 				<para>
-				The laptop was manufactured at 10 AM on 1 April 2021.
+				The training class begins at 10 AM on 1 April 2021.
 				</para>
 				<para>
 				The coffee break is from 2:00 PM to 2:30 PM.
@@ -1292,7 +1301,7 @@ Numbers (move from N entry) -->
   <section id="numbers">
 		<title>Numbers</title>
 		 <para>
-		Spell out the following number types: numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of...), and very large values.
+		Spell out the following number types: numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of ...), and very large values.
 		</para>
 		 <para>
 		Use numerals for numbers 10 and greater, and for numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (for example, "You answered 8 out of 14 questions correctly"). Use numerals for negative numbers, fractions, percentages, decimals, measurements, and references to book sections (for example, Chapter 3, Table 5, Page 11). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (such as Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8, Linux kernel&nbsp;4.18).
@@ -1300,9 +1309,18 @@ Numbers (move from N entry) -->
 		 <para>
 		Do not use commas in numbers with four digits (use 1000 rather than 1,000). Use commas, to separate goups of three digits, in numbers with five or more digits (such as 10,000; 123,456,789; 1,000,000,000).
 		</para>
-    <para>
+    	 <para>
 		See <citetitle>The Chicago Manual of Style, 17th Edition</citetitle> for detailed information on numbering formats.
 		</para>
+
+<!-- Moved Telephone numbers entry here from T section, and renamed to Phone numbers. -->
+  		<section id="phone-numbers">
+		<title>Phone numbers</title>
+		 <para>
+		Use spaces, not dashes or dots, to punctuate phone numbers. When indicating a number for international use, include the country code (+1 555 555 5555 for a US number, for example). US 800 numbers are not accessible from outside the country, so do not precede them with a country code (800 555 5555). Phone numbers beginning with 0 are not for international use. Make these numbers ready for international use by dropping the zero and adding the appropriate country code. For example, (055) 12345 would be for use in Italy only; change it to +39 (55) 12345 for international use.
+		</para>
+
+		</section>
 
 </section>
 </chapter>

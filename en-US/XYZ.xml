@@ -30,14 +30,15 @@
 			<term>Xen</term>
 			 <listitem>
 				<para>
-					Use where it accurately refers to the original Xen version of the package. If the Xen package we distribute is for all practical purposes the same as the upstream code, we can refer to the package we distribute as "Xen" in a referential way.
+					Use where it accurately refers to the original Xen version of the package. You can refer to the distributed package as "Xen" if it is essentially the same as the upstream code.
 				</para>
 				 <para>
-					A referential use is one that describes another entity's goods or services, not our own, such as referring to Microsoft Windows as a technology we compete and integrate with. When referring to another entity's trademark, always use good trademark practices; that is, only use the trademark as an adjective followed by the noun, do not use a logo form of the trademark, do not make it more prominent than our own marks, and do not incorporate the trademark into our own product names. Here, the proper use would be "Xen hypervisor."
+					A referential use is one that describes the goods or services of an entity other than Red Hat, such as referring to Microsoft Windows as a technology that Red Hat competes with and integrates with. When referring to another entity's trademark, always use good trademark practices; that is, only use the trademark as an adjective followed by a noun; do not use a logo form of the trademark; do not make it more prominent than Red Hat marks; and do not incorporate the trademark into Red Hat product names. Here, the proper use would be "Xen hypervisor."
 				</para>
 				 <para>
 					The Xen Trademark Policy is available at <ulink url="http://www.xenproject.org/trademark-policy.html">http://www.xenproject.org/trademark-policy.html</ulink>.
 				</para>
+<!-- This link now directs to the Linux Foundation site. Is this term entry still current? -->
 
 			</listitem>
 
@@ -56,7 +57,7 @@
 			<term>X Windows</term>
 			 <listitem>
 				<para>
-					Do not use. This is an incorrect reference to the X Window System (or X).
+					Do not use. It is an incorrect reference to the X Window System (or X).
 				</para>
 
 			</listitem>
@@ -66,7 +67,7 @@
 			<term>X Window System</term>
 			 <listitem>
 				<para>
-					Also referred to as X. When making multiple references to the X Window System, the complete reference must appear first, with shortened references following. For example, "Reinstalling the X Window System, or X, is not necessary if... To start an X session, from the shell prompt..."
+					Also referred to as X. When making multiple references to the X Window System, the complete reference must appear first, with shortened references following. For example, "Reinstalling the X Window System, or X, is not necessary if ..." "To start an X session, from the shell prompt ..."
 				</para>
 
 			</listitem>
@@ -86,7 +87,7 @@
 			<term>you</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "I," "he," or "she."
+					Use second person wherever possible. Do not use "I," "we," "he," or "she."
 				</para>
 
 			</listitem>
@@ -96,7 +97,7 @@
 			<term>you may</term>
 			 <listitem>
 				<para>
-					Avoid. For example, "you may" can be eliminated from the following: "You may double-click the desktop..."
+					Avoid. For example, "you may" can be eliminated from the following sentence: "You may double-click the desktop ..."
 				</para>
 
 			</listitem>
@@ -106,7 +107,7 @@
 			<term>zip</term>
 			 <listitem>
 				<para>
-					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle>.
+					See the Word Usage chapter of <citetitle>The IBM Style Guide</citetitle>.
 				</para>
 
 			</listitem>
@@ -118,10 +119,13 @@
 				<para>
 					Correct. Do not use "zip code," "Zip code," or any other variation.
 				</para>
+<!-- ZIP Codes are specific to the US and its territories and the Philippines. Elsewhere, "postal code" would be a more suitable generic alternative. -->
 
 			</listitem>
 
+
 		</varlistentry>
+<!-- Obsolete entry
 		 <varlistentry id="xyzseries">
 			<term>zSeries</term>
 			 <listitem>
@@ -131,7 +135,7 @@
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry> -->
 
 	</variablelist>
 </chapter>

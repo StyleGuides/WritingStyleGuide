@@ -6,9 +6,10 @@
 <chapter id="using-xrefs">
 	<title>Using Cross-references Effectively</title>
 	 <para>
-		This section contains suggestions on how to use cross-references in the most effective way: that is, so that they work for the reader rather than for the author. In DocBook XML, cross-references are formatted according to the style sheets; at this point no references are available that describe how they should be formatted in other media. Formatting is not described in this section.
+		This section contains suggestions on how to use cross-references in the most effective way: that is, so that they work for the reader rather than for the author. 
+		<!-- In DocBook XML, cross-references are formatted according to the style sheets; at this point no references are available that describe how they should be formatted in other media.  -->
+		Formatting is not described in this section.
 	</para>
-	<!-- In AsciiDoc? -->
 	 <para>
 		In the days of print-only documentation, cross-references referred readers to additional or related information that existed elsewhere in the physical printed book, on other pages. The readers had to physically turn pages to find the referenced page, so authors, editors, and proofreaders developed a certain caution about scattering cross-references through the text. Despite the ease of use and creation of cross-references and links in online documents today, the author must still do the work for the reader. The author must still do the heavy lifting and arrange the information so that the reader can absorb it in the smoothest possible fashion. Forcing the reader to leap from link to link might indicate that the author is writing for their own ease, and not for the good of the reader.
 	</para>

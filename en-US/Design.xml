@@ -254,7 +254,7 @@
 					<term>The command prompt (<prompt>$</prompt>)</term>
 				<listitem>
 						<para>
-							Indicates that a normal user can run the command, as compared to the <systemitem>root</systemitem> user, which is indicated by the number sign (<prompt>#</prompt>).
+							<!-- Indicates that a normal user can run the command, as compared to the <systemitem>root</systemitem> user, which is indicated by the number sign (<prompt>#</prompt>). -->
 						</para>
 
 					</listitem>
@@ -264,7 +264,7 @@
 					<term>The command (<command>scp</command>)</term>
 				<listitem>
 						<para>
-							The actual command to run, without any optional or replaceable values. It must be typed as-is.
+							<!-- The actual command to run, without any optional or replaceable values. It must be typed as-is. -->
 						</para>
 
 					</listitem>

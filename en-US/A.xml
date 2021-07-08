@@ -338,6 +338,17 @@
 
 			</listitem>
 
+<!-- Suggested addition of "as long as" -->
+		</varlistentry>
+		<varlistentry id="as-long-as">
+			<term role="caution">as long as</term>
+			 <listitem>
+				<para>
+					Use only to refer to a comparison of length or time. Otherwise, use an alternative, such as "provided that".
+				</para>
+
+			</listitem>
+
 		</varlistentry>
 		 <!--<varlistentry id="auto-detect">
 			<term>auto-detect</term>

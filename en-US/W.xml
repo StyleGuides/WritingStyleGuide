@@ -26,8 +26,9 @@
 			<term>WCA</term>
 			 <listitem>
 				<para>
-					An abbreviation of "web clipping application," an application that allows users to extract static information from a web server and load that data onto a web-enabled PDA.
+					An abbreviation of "web clipping application," to extract static information from a web server and load that data onto a web-enabled PDA.
 				</para>
+<!-- PDA meaning?				 -->
 				 <para>
 					WCAs are also called "query applications."
 				</para>
@@ -41,7 +42,7 @@
 				<para>
 					Use instead of "wish" or "would like."
           Rephrase to avoid whenever possible.
-          For example, "If you want to use the debugger..." can be rewritten as "To use the debugger..."
+          For example, "If you want to use the debugger, ..." can be rewritten as "To use the debugger, ..."
 				</para>
 
 			</listitem>
@@ -94,14 +95,14 @@
 
 		</varlistentry>
 		 <varlistentry id="whowhom">
-			<term>who/whom</term>
+			<term>who, whom</term>
 			 <listitem>
 				<para>
 					Use the pronoun "who" as a subject.
           Use the pronoun "whom" as a direct object, an indirect object, or the object of a preposition.
 				</para>
 				 <para>
-					For example: Who owns this? To whom does this belong?
+					For example: Who owns this phone? To whom does this phone belong?
 				</para>
 
 			</listitem>
@@ -110,6 +111,7 @@
 		 <varlistentry id="will">
 			<term>will</term>
 			 <listitem>
+<!-- Should review course template text for chapter and exercise titles and objectives to enforce this use.	-->
 				<para>
 					Do not use future tense unless it is absolutely necessary.
           For example, do not write "The next section will describe the process in detail."
@@ -126,6 +128,7 @@
 					Correct. Do not combine into one word or hyphenate.
           This is a window manager for the "X Window System."
 				</para>
+<!-- Are the quotation marks needed here?				 -->
 
 			</listitem>
 

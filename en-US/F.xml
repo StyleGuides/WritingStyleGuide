@@ -170,7 +170,7 @@
 <!-- "Floppy disk" and "Floppy drive" entries now obsolete? -->
 
 		</varlistentry>
-    <varlistentry>
+		    <varlistentry>
       <term>follow</term>
       <listitem>
         <para>
@@ -178,6 +178,17 @@
         </para>
       </listitem>
     </varlistentry>
+
+<!-- Added "following". -->
+    <varlistentry id="following">
+      <term>following</term>
+      <listitem>
+        <para>
+          When introducing a list or a procedure, use "following" with a noun. Instead of "Complete the following", use "Complete the following steps".
+        </para>
+      </listitem>
+    </varlistentry>
+
 		 <varlistentry id="foreground">
 			<term>foreground</term>
 			 <listitem>
