@@ -133,21 +133,21 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="gige">
-			<term>GigE</term>
-			 <listitem>
-				<para>
-					See <xref linkend="gbe" />.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="gigabyte">
 			<term>gigabyte</term>
 			 <listitem>
 				<para>
 					2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB." Use a non-breaking space between the unit and any value to prevent widows and orphans.
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
+		 <varlistentry id="gige">
+			<term>GigE</term>
+			 <listitem>
+				<para>
+					See <xref linkend="gbe" />.
 				</para>
 
 			</listitem>

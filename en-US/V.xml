@@ -36,6 +36,19 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="video-mode">
+			<term>video mode</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "video-mode" or "videomode."
+				</para>
+				 <para>
+					The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="vim">
 			<term>Vim</term>
 			 <listitem>
@@ -46,19 +59,6 @@
 				</para>
 				 <para>
 					Vim is an acronym, derived from Vi IMproved. (In the original 1991 release for the Amiga platform, the acronym was derived from Vi IMitation. It became Vi IMproved when ported to various UNIX-based operating systems in 1992.) Despite being an acronym, and despite the first word of the "About" text that appears when you start the editor, the standard, proper noun-derived, mixed-case spelling has been in use since its release on the Amiga.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="video-mode">
-			<term>video mode</term>
-			 <listitem>
-				<para>
-					Correct. Do not use "video-mode" or "videomode."
-				</para>
-				 <para>
-					The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
 				</para>
 
 			</listitem>
@@ -77,19 +77,6 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="virtual-machine-vm">
-			<term>virtual machine, VM</term>
-			 <listitem>
-				<para>
-					Refers to virtual hardware that consists of virtual CPUs, memory, devices, and so on. Do not use "guest virtual machine" except for specific emphasis that it is a guest.
-				</para>
-				 <para>
-					It can be abbreviated to "VM" provided that the term is first introduced in the same content in its full version, and without any possible confusion with other terms, such as "virtual memory." Author discretion is recommended.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="virtualized-guest">
 			<term>virtualized guest</term>
 			 <listitem>
@@ -98,6 +85,19 @@
 				</para>
 				 <para>
 					See also "guest operating system."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="virtual-machine-vm">
+			<term>virtual machine, VM</term>
+			 <listitem>
+				<para>
+					Refers to virtual hardware that consists of virtual CPUs, memory, devices, and so on. Do not use "guest virtual machine" except for specific emphasis that it is a guest.
+				</para>
+				 <para>
+					It can be abbreviated to "VM" provided that the term is first introduced in the same content in its full version, and without any possible confusion with other terms, such as "virtual memory." Author discretion is recommended.
 				</para>
 
 			</listitem>

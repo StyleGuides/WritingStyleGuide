@@ -63,16 +63,6 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="help-desk">
-			<term>help desk</term>
-			 <listitem>
-				<para>
-					Typically two words, but use the term accepted by your organization.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="healthcare">
 			<term>healthcare</term>
 			 <listitem>
@@ -117,6 +107,16 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="help-desk">
+			<term>help desk</term>
+			 <listitem>
+				<para>
+					Typically two words, but use the term accepted by your organization.
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
 		 <varlistentry id="hertz">
 			<term>hertz</term>
 			 <listitem>

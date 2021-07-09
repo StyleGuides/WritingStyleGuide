@@ -136,17 +136,8 @@
 			</listitem>
 
 		</varlistentry>
-<!-- Move to a new subsection in 2.7. Also cover what is meant by "standard punctuation"? -->
-		 <varlistentry id="exclamation-points-">
-			<term>exclamation points (!)</term>
-			 <listitem>
-				<para>
-					Do not use at the end of sentences. An exclamation point can be used when referring to a command, such as the bang (!) command.
-				</para>
+<!-- Moved "exclamation points" to a new subsection in 2.7. -->
 
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="exec-shield">
 			<term>Exec-Shield</term>
 			 <listitem>

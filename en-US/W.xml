@@ -22,20 +22,6 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="wca">
-			<term>WCA</term>
-			 <listitem>
-				<para>
-					An abbreviation of "web clipping application," to extract static information from a web server and load that data onto a web-enabled PDA.
-				</para>
-<!-- PDA meaning?				 -->
-				 <para>
-					WCAs are also called "query applications."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="want">
 			<term>want</term>
 			 <listitem>
@@ -48,13 +34,15 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="we-suggest">
-			<term>we suggest</term>
+		 <varlistentry id="wca">
+			<term>WCA</term>
 			 <listitem>
 				<para>
-					Do not use.
-          Use a more direct construction, or use "recommend."
-          For example, instead of "We suggest that you make a backup of your data disk," write "Back up your data disk."
+					An abbreviation of "web clipping application," to extract static information from a web server and load that data onto a web-enabled PDA.
+				</para>
+<!-- PDA meaning?				 -->
+				 <para>
+					WCAs are also called "query applications."
 				</para>
 
 			</listitem>
@@ -89,6 +77,18 @@
 				<para>
 					Correct. Use this term to refer to a browser-based interface to a software application, even if that application has no connection to the web.
           Do not hyphenate the abbreviation or use the one-word form.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="we-suggest">
+			<term>we suggest</term>
+			 <listitem>
+				<para>
+					Do not use.
+          Use a more direct construction, or use "recommend."
+          For example, instead of "We suggest that you make a backup of your data disk," write "Back up your data disk."
 				</para>
 
 			</listitem>

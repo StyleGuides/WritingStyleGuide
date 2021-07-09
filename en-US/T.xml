@@ -87,6 +87,16 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="text_based">
+			<term>text-based</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Correct. Do not use "text based."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="text-mode">
 			<term>text mode</term>
 			 <listitem>
@@ -95,16 +105,6 @@
 				</para>
 				 <para>
 					A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="text_based">
-			<term>text-based</term>
-			 <listitem>
-				<para>
-					<emphasis>adj.</emphasis> Correct. Do not use "text based."
 				</para>
 
 			</listitem>

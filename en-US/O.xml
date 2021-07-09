@@ -155,14 +155,6 @@
 			</listitem>
 
 		</varlistentry>
-    <varlistentry>
-      <term>OpenJDK</term>
-      <listitem>
-        <para>
-          The OpenJDK trademark is owned by Oracle with a fair-use clause, so be careful about how you use this term.
-        </para>
-      </listitem>
-    </varlistentry>
 		 <varlistentry id="open-architecture">
 			<term>open architecture</term>
 			 <listitem>
@@ -182,6 +174,14 @@
 
 			</listitem>
 
+		</varlistentry>
+		<varlistentry>
+		<term>OpenJDK</term>
+		<listitem>
+			<para>
+			The OpenJDK trademark is owned by Oracle with a fair-use clause, so be careful about how you use this term.
+			</para>
+		</listitem>
 		</varlistentry>
 		 <varlistentry id="openoffice">
 			<term>OpenOffice</term>

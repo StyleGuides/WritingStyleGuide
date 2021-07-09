@@ -94,6 +94,16 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="ms-dos">
+			<term>MDOS</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "ms-dos," "MSDOS," or "msdos."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="media">
 			<term>media</term>
 			 <listitem>
@@ -254,16 +264,6 @@
 			 <listitem>
 				<para>
 					Correct. First reference must be "Mozilla Thunderbird." Subsequent references can be "Thunderbird."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="ms-dos">
-			<term>MDOS</term>
-			 <listitem>
-				<para>
-					Correct. Do not use "ms-dos," "MSDOS," or "msdos."
 				</para>
 
 			</listitem>

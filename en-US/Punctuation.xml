@@ -5,6 +5,7 @@
 ]>
 <section id="punctuation">
 	<title>Punctuation</title>
+<!-- Cover what is meant by "standard punctuation"?	 -->
 	 <para>
 		This section contains information on common punctuation topics. For more information, consult The Chicago Manual of Style, 17th Edition.
 	</para>
@@ -425,18 +426,21 @@
 	</section>
 	 <section id="quotation-marks">
 		<title>Quotation Marks</title>
+<!-- Change to previous guidance, per IBM Style. 
 		 <para>
 			Commas and periods go inside quotation marks.
-		</para>
-<!-- The previous statement now diverges from IBM Style. -->		
+		</para> -->
 		 <para>
-			Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quote; if not, they go outside.
+			In technical documentation, punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside.
 		</para>
 <!-- Add examples of when to use or not to use quotation marks. -->
 
-		<example><title>A Correct Example of the Use of Quotation Marks</title>
+		<example><title>Correct Examples of the Use of Quotation Marks</title>
         <para>
         For example, the following message indicates multiple possible solutions: "This message could be resolved by changing the time."  
+        </para>
+		<para>
+        In this example, the final period is not part of the command in the quoted text: Use "xemacs" only when referring to a command, such as "To start XEmacs, type xemacs".  
         </para>
       	</example>
 
@@ -474,5 +478,13 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 
 	</section>
 
+<!-- Moved from A-Z section to add here instead -->
+	 <section id="exclamation">
+		<title>Exclamation Points</title>
+		<para>
+			Do not use at the end of sentences. An exclamation point can be used when referring to a command, such as the bang (!) command.
+		</para>
+
+	</section>
 </section>
 

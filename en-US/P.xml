@@ -146,6 +146,19 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="posix">
+			<term>POSIX</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Do not use "Posix," "posix," or variations thereof.
+				</para>
+				 <para>
+					An acronym for "Portable Operating System Interface for UNIX."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="postscript">
 			<term>PostScript</term>
 			 <listitem>
@@ -168,19 +181,6 @@
 <!-- What is ABI? -->
 				 <para>
 					Note: The PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM Power Series hardware in almost all cases.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="posix">
-			<term>POSIX</term>
-			 <listitem>
-				<para>
-					<emphasis>n.</emphasis> Do not use "Posix," "posix," or variations thereof.
-				</para>
-				 <para>
-					An acronym for "Portable Operating System Interface for UNIX."
 				</para>
 
 			</listitem>

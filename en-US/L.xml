@@ -201,6 +201,16 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="look-at">
+			<term>look at</term>
+			 <listitem>
+				<para>
+					Do not use. Use "examine" or "inspect" or some other more precise term instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="lookup">
 			<term>lookup, look-up, look up</term>
 			 <listitem>
@@ -212,16 +222,6 @@
 				</para>
 				 <para>
 					<emphasis>adj.</emphasis> Hyphenate when used as a modifier. For example, "a look-up table."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="look-at">
-			<term>look at</term>
-			 <listitem>
-				<para>
-					Do not use. Use "examine" or "inspect" or some other more precise term instead.
 				</para>
 
 			</listitem>
