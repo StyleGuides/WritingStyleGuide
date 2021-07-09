@@ -106,11 +106,9 @@
 				<para>
           <emphasis>n.</emphasis> Write as shown, two words, unless used as a variable. See the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
-<!-- The term "file mode" applies to IBM mainframe systems. Would it apply to Red Hat? -->				
         <para>
           <emphasis>adj.</emphasis> Hyphenate when used as a compound adjective. For example, "file-system attributes."
         </para>
-<!-- Would any ambiguity exist if "file system" was not hyphenated as an adjective? -->		
 
 			</listitem>
 
@@ -121,7 +119,7 @@
 				<para>
 					Correct. Do not use "Firewire" or "firewire." Although FireWire is a trademark of Apple Computer, it is not needed to append a trademark symbol, except to refer to Apple's FireWire software license or specific logos. See <ulink url="https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html">https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html</ulink>.
 				</para>
-<!-- Updated Apple trademark guidelines URL, although it does not seem to mention FireWire specifically. -->				
+<!-- Updated Apple trademark guidelines URL. -->				
 
 			</listitem>
 
@@ -149,7 +147,8 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="floppy-disk">
+<!-- Deleted "Floppy disk" and "Floppy drive" entries. -->
+		 <!-- <varlistentry id="floppy-disk">
 			<term>floppy disk</term>
 			 <listitem>
 				<para>
@@ -167,9 +166,8 @@
 				</para>
 
 			</listitem>
-<!-- "Floppy disk" and "Floppy drive" entries now obsolete? -->
 
-		</varlistentry>
+		</varlistentry> -->
 		    <varlistentry>
       <term>follow</term>
       <listitem>
@@ -247,8 +245,6 @@
 				<para>
 					Do not use. Instead, use "compatible with later versions." See also <xref linkend="backwards-compatible" />.
 				</para>
-<!-- Why is "backwards-compatible" allowed but "forwards-compatible" is not? Why not replace the former with "compatible with earlier versions"? -->
-
 			</listitem>
 
 		</varlistentry>
@@ -264,7 +260,7 @@
 				 <para>
 					An FQDN always starts with a host name and continues all the way up to the top-level domain name; consequently <quote>www.parc.xerox.com</quote> is also an FQDN.
 				</para>
-<!-- I assume "an FQDN". --> 				
+<!-- Changed to "an FQDN". --> 				
 
 			</listitem>
 

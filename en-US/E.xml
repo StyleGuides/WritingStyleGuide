@@ -7,12 +7,12 @@
 	<title>E</title>
 	 <variablelist>
 		<varlistentry id="e-book">
-			<term>e-book, e-business, e-commerce, e-learning, email</term>
+			<term>e-book, e-commerce, e-learning, email</term>
 			 <listitem>
 				<para>
 					Refer to the primary reference for the type of copy you are creating, either AP or IBM.
 				</para>
-<!-- The term "e-business" is quite dated now. -->				
+<!-- Deleted the dated term "e-business". -->				
 
 			</listitem>
 
@@ -64,7 +64,6 @@
 				<para>
 					When referring to the keyboard key, use <keycap>Enter</keycap>. If referring to the keyboard key on Solaris, use <keycap>Return</keycap>.
 				</para>
-<!-- Is Solaris still relevant? -->
 				 <para>
 					When referring to typing a command, use "type" instead, such as "To open Source-Navigator from the command line, type <command>snavigator</command>."
 				</para>
@@ -137,6 +136,7 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Move to a new subsection in 2.7. Also cover what is meant by "standard punctuation"? -->
 		 <varlistentry id="exclamation-points-">
 			<term>exclamation points (!)</term>
 			 <listitem>

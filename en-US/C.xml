@@ -172,9 +172,8 @@
 			<term>client-side, client side</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example: "Winbind is a client-side service to connect to Windows NT servers."
+					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example: "Winbind is a client-side service to connect to some Windows servers."
 				</para>
-<!-- The reference to Windows NT sounds quite dated. -->				
 				 <para>
 					<emphasis>n.</emphasis> Use the two-word form as a noun. For example: "Winbind runs on the client side of a client/server Samba implementation."
 				</para>

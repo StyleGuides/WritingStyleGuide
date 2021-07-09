@@ -69,23 +69,13 @@
 
 			</listitem>
 		</varlistentry>
-		 <varlistentry id="backwards">
-			<term>backwards</term>
-			 <listitem>
-				<para>
-					Avoid using "backwards" unless you are stating that something has "backwards compatibility."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="backwards-compatible">
 			<term>backwards compatible</term>
 			 <listitem>
 				<para>
-					Correct. Use to refer to something that is compatible with older equipment or previous versions of software. See also <xref linkend="forwards-compatible" />.
+					Do not use. Instead, use "compatible with earlier versions" to refer to something that is compatible with older equipment or previous versions of software. See also <xref linkend="forwards-compatible" />.
 				</para>
-<!-- Replace with "compatible with earlier versions", to align with advice for "forwards-compatible"? -->				
+<!-- Replaced with "compatible with earlier versions", to align with advice for "forwards-compatible". -->				
 
 			</listitem>
 

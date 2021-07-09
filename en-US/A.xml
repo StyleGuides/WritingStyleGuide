@@ -52,6 +52,7 @@
 
 			</listitem>
 
+		</varlistentry>
 		 <varlistentry id="all-in-one">
 			<term role="true">all-in-one</term>
       <term role="false">allinone</term>
@@ -94,10 +95,9 @@
 		</varlistentry>
 
 <!-- Updated entries for "AM" and "PM" to reflect latest IBM Style guidance. -->
-		</varlistentry>
 		 <varlistentry id="am">
 			<term role="true">AM</term>
-      <term role="false">am</term>
+      <!-- <term role="false">am</term> -->
 			 <listitem>
 				<para>
 					Use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "11&nbsp;AM".
@@ -152,7 +152,7 @@
 			</listitem>
 
 		</varlistentry>
-<!-- Commenting out this entry as it is not a literal term entry. Should the content be moved somewhere else? 		
+<!-- Commenting out this entry as it is not a literal term entry. Consider moving elsewhere, such as to Section 3.7 and expand scope of that section? 		
 		 <varlistentry id="application">
 			<term>application</term>
 			 <listitem>
