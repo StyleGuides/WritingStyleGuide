@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="j" lang="en-US">
+	<title>J</title>
+	 <variablelist>
+		<varlistentry id="JavaScript-">
+			<term>JavaScript </term>
+			 <listitem>
+				<para>
+					"JavaScript" is a trademark of Oracle Corporation, and should be used when referring to the scripting language. When referring to a file that is written with this language, use all lowercase; for example, "...copy the IPA javascript file to the <filename>/temp</filename> directory."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="jboss-community">
+			<term>JBoss Community</term>
+			 <listitem>
+				<para>
+					No longer referred to as "JBoss.org." Use when referring to the community of users and contributors.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="job">
+			<term>job</term>
+			 <listitem>
+				<para>
+					A task that a computer system performs. For example, printing a file is a job. Jobs can be performed by a single program or by a collection of programs.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="jsvc">
+			<term>jsvc</term>
+			 <listitem>
+				<para>
+					The Apache Commons Daemon jsvc is a set of libraries and applications to run Java applications on UNIX more easily. At the beginning of a sentence, use "Jsvc", otherwise all lowercase.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="just">
+			<term>just</term>
+			 <listitem>
+				<para>
+					Use sparingly. In the phrase, "Just open the file...", omit the word "just."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="jvm">
+			<term>JVM</term>
+			 <listitem>
+				<para>
+					Initialism for Java Virtual Machine, and a registered trademark of Oracle Corporation. Due to this registration, rather than using "JVM" as a noun when referring to the virtual machine, use the full phrase "Java Virtual Machine," or "Java VM," or only the noun itself, "virtual machine." You can include "JVM" for clarity, because most people know it as such, for example, "Java Virtual Machine (JVM)." Do not use Jvm or jvm.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

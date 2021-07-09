@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="r">
+	<title>R</title>
+	 <variablelist>
+		<varlistentry id="ram">
+			<term>RAM</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Ram" or any other variations. It is an acronym for "random access memory."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="ram-disk">
+			<term>RAM disk</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "RAMdisk," "ramdisk," or "RAdisk."
+				</para>
+				 <para>
+					Refers to RAM that is configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a real disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful, therefore, for applications that require frequent disk accesses.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="raw">
+			<term>raw</term>
+			 <listitem>
+				<para>
+					Unprocessed. The term refers to data that is passed to an I/O device without being interpreted. In contrast, cooked refers to data that is processed before being passed to the I/O device.
+				</para>
+				 <para>
+					The term comes from UNIX, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill, are processed by the device driver before being sent to the output device.
+				</para>
+
+			</listitem>
+
+<!-- Is a separate entry from "raw" needed? -->
+		</varlistentry>
+		 <varlistentry id="raw-data">
+			<term>raw data</term>
+			 <listitem>
+				<para>
+					Information that is not organized, formatted, or analyzed.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="read">
+			<term>read</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> To copy data to a place where a program can use it. The term is commonly used to describe copying data from a storage medium, such as a disk, to main memory. It can also refer to the act of determining the contents of a variable or parameter.
+				</para>
+				 <para>
+					<emphasis>n.</emphasis> The act of reading. For example, a fast disk drive performs 100 reads per second.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="read-only">
+			<term>read-only</term>
+			 <listitem>
+				<para>
+					Capable of being displayed, but not modified or deleted. For all operating systems, you can protect objects (disks, files, or directories) with a read-only attribute that prevents other users from modifying the object.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="readwrite">
+			<term>read/write</term>
+			 <listitem>
+				<para>
+					Capable of being displayed (read) and modified (written to). Most objects (disks, files, or directories) are read/write, but you can also protect objects with a read-only attribute that prevents other users from modifying the object.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="realtime">
+			<term>real time/real-time</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> The actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March."
+				</para>
+<!-- Whose quotation is this? I would prefer "might" instead of "may".				 -->
+				 <para>
+					<emphasis>adj.</emphasis> Use the hyphenated version. For example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="reboot">
+			<term>reboot</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "re-boot."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="redboot">
+			<term>RedBoot</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Redboot" or "Red Boot."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="refer-to">
+			<term>refer to</term>
+			 <listitem>
+				<para>
+					Do not use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source). Use "See."
+				</para>
+<!-- Theory and practice diverge in this matter! -->
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="remote-access">
+			<term>remote access</term>
+			 <listitem>
+				<para>
+					The ability to log on to a network from a distant location. Generally, it implies a computer, a modem, and some remote access software to connect to the network. Whereas remote control refers to taking control of another computer, remote access means that the remote computer becomes a full-fledged host on the network. The remote access software dials in directly to the network server. The only difference between a remote host and workstations that are connected directly to the network is slower data transfer speeds.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="remote-access-server">
+			<term>remote access server</term>
+			 <listitem>
+				<para>
+					A dedicated server to handle users who are not on a LAN but who need remote access to it. With a remote access server, users can gain access to files and print services on the LAN from a remote location. For example, a user who dials in to a network from home with an analog modem or an ISDN connection dials in to a remote access server. An authenticated user can then access shared drives and printers as if they were physically connected to the office LAN.
+				</para>
+<!-- This example seems a bit dated. -->
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="required">
+			<term>required</term>
+			 <listitem>
+				<para>
+					See <xref linkend="must" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="return">
+			<term>return</term>
+			 <listitem>
+				<para>
+					When referring to the keyboard key on Solaris or Mac, use <keycap>Return</keycap> or <keycap>return</keycap>, respectively. See <xref linkend="enter" /> for other platforms.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="right-click">
+			<term>right-click</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Write the term hyphenated. Do not use "right click."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="right-now">
+			<term>right now</term>
+			 <listitem>
+				<para>
+					Use "now" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="rom-prom">
+			<term>ROM, PROM</term>
+			 <listitem>
+				<para>
+					Acronym for read-only memory, computer memory on which data is prerecorded. After data has been written to a ROM chip, it cannot be removed and can only be read.
+				</para>
+				 <para>
+					A variation of a ROM is a PROM (programmable read-only memory). PROMs are manufactured as blank chips on which data can be written with a device called a PROM programmer.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="roundtable">
+			<term>roundtable, round table</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Use the one-word form to refer to a type of event or gathering.
+				</para>
+<!-- I have never seen this term used as a verb. -->
+				 <para>
+					<emphasis>n.</emphasis> Use the two-word form to refer to a circular table.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="rpm">
+			<term>RPM</term>
+			 <listitem>
+				<para>
+					Initialism for RPM Package Manager. RPM manages files in the RPM format, known as RPM packages. Note: RPM packages are known informally as <firstterm>rpm files</firstterm>, but this informal usage is not used in Red Hat documentation, to avoid confusion with the command name. Files in RPM format are referred to as "RPM packages."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="runlevel">
+			<term>runlevel</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "run level" or "run-level."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>

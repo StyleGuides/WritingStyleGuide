@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE itemizedlist PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "../Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<itemizedlist lang="en-US">
+	<listitem>
+		<para>
+			Start managing your cloud applications for free
+		</para>
+
+	</listitem>
+	 <listitem>
+		<para>
+			Deploy your applications to the cloud at no extra cost
+		</para>
+
+	</listitem>
+	 <listitem>
+		<para>
+			Access your logs, databases, and file I/O, in the cloud
+		</para>
+
+	</listitem>
+	 <listitem>
+		<para>
+			Easily migrate components across OpenShift offerings using its consistent framework across deployment levels
+		</para>
+
+	</listitem>
+
+</itemizedlist>
+

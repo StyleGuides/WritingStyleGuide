@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="g" lang="en-US">
+	<title>G</title>
+	 <variablelist>
+		<varlistentry id="g-g">
+			<term>g++, G++</term>
+			 <listitem>
+				<para>
+					When referring to the command, use g++. When referring to the program, use G++.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gas">
+			<term>gas, GAS</term>
+			 <listitem>
+				<para>
+					When referring to the command, use gas. When referring to the program, use GAS.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gb">
+			<term>GB</term>
+			 <listitem>
+				<para>
+					Abbreviation of gigabyte. Depending on the type of content you are writing, refer either to <citetitle>The AP Style Guide</citetitle> or the <citetitle>IBM Style Guide.</citetitle>
+				</para>
+				 <para>
+					AP style: Do not use a space between the value and the abbreviation. For example, "a 2GB file."
+				</para>
+				 <para>
+					IBM style: Use a non-breaking space between the value and the abbreviation. For example, "a 2&nbsp;GB file."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gbe">
+			<term>GbE</term>
+			 <listitem>
+				<para>
+					Correct. Approved abbreviation of Gigabit Ethernet. Do not use GigE or any other variations. Use a non-breaking space between the unit and any value to prevent widows and orphans.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gbps">
+			<term>Gbps</term>
+			 <listitem>
+				<para>
+					Abbreviation of Gigabits per second, a data transfer speed measurement for high-speed networks such as Gigabit Ethernet. When used to describe data transfer rates, a gigabit equals 1,000,000,000 bits. Use a non-breaking space between the unit and any value to prevent widows and orphans.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gcc">
+			<term>gcc, GCC</term>
+			 <listitem>
+				<para>
+					When referring to the command, use gcc. When referring to the program, use GCC.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gcj">
+			<term>gcj, GCJ</term>
+			 <listitem>
+				<para>
+					When referring to the command, use gcj. When referring to the program, use GCJ.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gdb">
+			<term>gdb, GDB</term>
+			 <listitem>
+				<para>
+					When referring to the command, use gdb. When referring to the program, use GDB.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gdbtk">
+			<term>GDBTK</term>
+			 <listitem>
+				<para>
+					Do not use. Use "Insight" instead. GDBTK is an obsolete name for the GNU debugger.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="geo">
+			<term>GEO</term>
+			 <listitem>
+				<para>
+					Do not use. Use "region" or "geographical location" according to your needs.
+				</para>
+				<!--  When I have seen the term "geo" used, it has not been in all-caps.  -->
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gfs2">
+			<term>GFS, GFS2</term>
+			 <listitem>
+				<para>
+					As of Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6, it is known as the Resilient Storage Add-On. Ensure that you use the correct term.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gid">
+			<term>GID</term>
+			 <listitem>
+				<para>
+					Acronym for Group ID. Do not use "gid."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gige">
+			<term>GigE</term>
+			 <listitem>
+				<para>
+					See <xref linkend="gbe" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gigabyte">
+			<term>gigabyte</term>
+			 <listitem>
+				<para>
+					2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB." Use a non-breaking space between the unit and any value to prevent widows and orphans.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gimp">
+			<term>GIMP</term>
+			 <listitem>
+				<para>
+					Acronym for GNU Image Manipulation Program. Do not use "Gimp" or "gimp."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gnome">
+			<term>GNOME</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="gnome-classic" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gnome-classic">
+			<term>GNOME Classic</term>
+			 <listitem>
+				<para>
+					Correct. Although the desktop team tends to refer to GNOME Classic (technically, GNOME Shell with the classic mode extensions enabled) as "classic mode" in internal and developer-oriented community documents, stay consistent with what is exposed to the user on the GDM login screen, that is, "GNOME Classic". The GNOME "modern mode" (technically, GNOME Shell with the classic mode extensions disabled) is referred to as "GNOME" (on the login screen and elsewhere).
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gnu">
+			<term>GNU</term>
+			 <listitem>
+				<para>
+					Recursive initialism for "GNU's Not UNIX." Do not use "Gnu" or "gnu."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gnupro">
+			<term>GNUPro</term>
+			 <listitem>
+				<para>
+					When referring to the Red&nbsp;Hat product, use GNUPro.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="got">
+			<term>got</term>
+			 <listitem>
+				<para>
+					Do not use.
+				</para>
+				<!--  Is the intention to use instead the US English past participle form "gotten", or not to use either form?  -->
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gpl">
+			<term>GPL</term>
+			 <listitem>
+				<para>
+					Initialism for General Public License. Do not use "Gpl" or "gpl."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="grayscale">
+			<term>grayscale</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Correct. Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="grub">
+			<term>GRUB</term>
+			 <listitem>
+				<para>
+					Correct. All caps. Do not use "Grub."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="gtk">
+			<term>GTK+</term>
+			 <listitem>
+				<para>
+					Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="guest-operating-system">
+			<term>guest operating system</term>
+			 <listitem>
+				<para>
+					Refers to the operating system that is installed in a virtual machine. Do not use "guest" by itself because it is ambiguous.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "../Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<section id="sect_JBoss-Getting_Help_and_Giving_Feedback" lang="en-US">
+	<title>Getting Help and Giving Feedback</title>
+	 <section id="sect_JBoss-Do_You_Need_Help">
+		<title>Do You Need Help?</title>
+		 <indexterm>
+			<primary>help</primary>
+			 <secondary>getting help</secondary>
+
+		</indexterm>
+		 <para>
+			If you experience difficulty with a procedure described in this documentation, visit the Red&nbsp;Hat Customer Portal at <ulink url="http://access.redhat.com" />. From the Customer Portal, you can:
+		</para>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					Search or browse through a knowledge base of technical support articles about Red&nbsp;Hat products.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Submit a support case to Red&nbsp;Hat Global Support Services (GSS).
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Access other product documentation.
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+		 <para>
+			Red&nbsp;Hat also hosts a large number of electronic mailing lists for discussion of Red&nbsp;Hat software and technology. You can find a list of publicly available mailing lists at <ulink url="https://www.redhat.com/mailman/listinfo" />. Click the name of any mailing list to subscribe to that list or to access the list archives.
+		</para>
+
+	</section>
+	 <section id="jboss-feedback">
+		<title>Give us Feedback</title>
+		 <!--  NOTE: You will need the following entities defined in your .ent file.
+			You will need to replace _YOUR_PRODUCT_HERE_, _YOUR_COMPONENT_
+			and _YOUR_SUMMARY_ - entities are not replaced in URLs.
+		<!ENTITY PRODUCT "JBoss Product Name">
+		<!ENTITY BZCOMPONENT "doc-triage">
+		<!ENTITY BZURL "<ulink url='https://bugzilla.example.com/enter_bug.cgi?product=_YOUR_PRODUCT_HERE_&amp;component=_YOUR_COMPONENT_&amp;version=12&amp;short_desc=_YOUR_SUMMARY_'>http://bugzilla.redhat.com/</ulink>">
+
+		These entities should not affect translated documents, since Bugzilla is not localised.
+		  --> <indexterm>
+			<primary>feedback</primary>
+			 <secondary>contact information for this manual</secondary>
+
+		</indexterm>
+		 <para>
+			If you find a typographical error, or know how this guide can be improved, we would love to hear from you. Submit a report in Bugzilla against the product &BZPRODUCT; and the component &BZCOMPONENT;. The following link will take you to a pre-filled bug report for this product: &BZURL;.
+		</para>
+		 <para>
+			Complete the following template in Bugzilla's <guilabel>Description</guilabel> field. Be as specific as possible when describing the issue; this will help ensure that we can fix it quickly.
+		</para>
+		 
+<screen>Document URL:
+
+
+Section Number and Name:
+
+
+Describe the issue:
+
+
+Suggestions for improvement:
+
+
+Additional information:
+
+
+</screen>
+		 <para>
+			Be sure to give us your name so that you can receive full credit for reporting the issue.
+		</para>
+
+	</section>
+
+</section>
+

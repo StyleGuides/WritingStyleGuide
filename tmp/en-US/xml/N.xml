@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="n" lang="en-US">
+	<title>N</title>
+	 <variablelist>
+		<varlistentry id="navigate-to">
+			<term>navigate to</term>
+			 <listitem>
+				<para>
+					Use "Navigate to" when moving through multiple GUI options, because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action. For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
+				</para>
+				 <para>
+					Do not use "Go to", or "point to", or other variations.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="need">
+			<term>need</term>
+			 <listitem>
+				<para>
+					Use "need" instead of "desire" and "wish." Use "want" when the reader's actions are optional (that is, they might not "need" something but might still "want" something).
+				</para>
+
+			</listitem>
+			 <!--  The following entry seems partially contradictory to the previous entry.  -->
+		</varlistentry>
+		 <varlistentry id="needs">
+			<term>needs, needs to be, need to</term>
+			 <listitem>
+				<para>
+					Avoid when possible. Suggested alternatives include "must," "required," or "should."
+				</para>
+				<!--  "Should" is not a synonym of "need to" or "must".  -->
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="net">
+			<term>.NET</term>
+			 <listitem>
+				<para>
+					The Microsoft .NET Framework is a software framework for Microsoft Windows operating systems. It includes a large library, and supports several programming languages.
+				</para>
+				 <para>
+					"Microsoft .NET" is correct for the first reference, and ".NET" for all following references.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="network-transparency">
+			<term>network transparency</term>
+			 <listitem>
+				<para>
+					A condition in which an operating system or other service gives user access to a remote resource through a network without needing to know if the resource is remote or local. For example, Sun Microsystems NFS, now a de facto industry standard, provides access to shared files through the Virtual File System (VFS) interface that runs on top of the TCP/IP stack. Users can manipulate shared files as if they were stored locally on the user's own hard disk.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="nfs">
+			<term>NFS</term>
+			 <listitem>
+				<para>
+					Abbreviation of Network File System, a client/server application designed by Sun Microsystems that provides access for all network users to shared files stored on computers of different types. NFS provides access to shared files through the Virtual File System (VFS) interface that runs in a layer above TCP/IP. Users can manipulate shared files as if they were stored locally on the user's own hard disk.
+				</para>
+				 <para>
+					With NFS, computers that are connected to a network operate as clients while accessing remote files, and as servers while providing remote users access to local shared files. The NFS standards are publicly available and widely used.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="node">
+			<term>node</term>
+			 <listitem>
+				<orderedlist>
+					<listitem>
+						<para>
+							In networks, a processing location. A node can be a computer or some other device such as a printer. Every node has a unique network address, sometimes called a Data Link Control (DLC) address or a Media Access Control (MAC) address.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							In tree structures, a point where two or more lines meet.
+						</para>
+
+					</listitem>
+
+				</orderedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="nonsecure">
+			<term>nonsecure</term>
+			 <listitem>
+				<para>
+					Do not use. Use "insecure" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="null">
+			<term>NULL or null</term>
+			 <listitem>
+				<para>
+					When a command or value is stated, use NULL. When stating that something is null, use "null," all lowercase.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <!--  Moved "Numbers" entry to Chapter 4.  --> <!--  <varlistentry id="numbers">
+			<term>numbers</term>
+		</varlistentry>  -->
+	</variablelist>
+</chapter>
+
