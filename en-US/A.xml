@@ -152,6 +152,19 @@
 			</listitem>
 
 		</varlistentry>
+
+<!-- Added "appendixes" entry. -->
+		 <varlistentry id="appendixes">
+			<term>appendixes</term>
+			 <listitem>
+				<para>
+					Correct. This is the correct plural form for US English spelling. Do not use "appendices."
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
+
 <!-- Commenting out this entry as it is not a literal term entry. Consider moving elsewhere, such as to Section 3.7 and expand scope of that section? 		
 		 <varlistentry id="application">
 			<term>application</term>

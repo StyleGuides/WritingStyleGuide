@@ -63,18 +63,17 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="healthcare">
+		 <!-- <varlistentry id="healthcare">
 			<term>healthcare</term>
 			 <listitem>
 				<para>
 					<remark>Under review. Need context and example.</remark>
 
 				</para>
-<!-- Should we add advice to write "healthcare" as one word? -->
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry> -->
 		 <varlistentry id="health-check">
 			<term>health check</term>
 			 <listitem>
@@ -127,13 +126,15 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Hyphenate except as part of a product name. -->	
 		 <varlistentry id="high-availability">
 			<term>high-availability, high availability</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Hyphenate. For example, "high-availability cluster." Do not use "high availability."
+					<emphasis>adj.</emphasis> Hyphenate, except as part of a product name. For example, "high-availability cluster." 
+					<!-- Do not use "high availability." -->
 				</para>
-<!-- But it was decided to write "high availability cluster" unhyphenated in the RH436 course. -->				
+
 				 <para>
 					<emphasis>n.</emphasis> Two words. For example, "Support is available 24x7 to help maintain high availability."
 				</para>
@@ -152,12 +153,11 @@
 
 		</varlistentry>
 		 <varlistentry id="home-page">
-			<term>homepage</term>
+			<term>home page</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> One word. Capitalize the "H" at the beginning of a sentence. If part of a proper noun, capitalize accordingly.
+					<emphasis>n.</emphasis> Two words. Capitalize the "H" at the beginning of a sentence. If part of a proper noun, capitalize accordingly.
 				</para>
-<!-- The Word Nerds group decided to change "homepage" and "webpage" to be one word. -->
 
 			</listitem>
 

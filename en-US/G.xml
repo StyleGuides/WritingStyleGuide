@@ -103,12 +103,11 @@
 
 		</varlistentry>
 		 <varlistentry id="geo">
-			<term>GEO</term>
+			<term>GEO, geo</term>
 			 <listitem>
 				<para>
 					Do not use. Use "region" or "geographical location" according to your needs.
 				</para>
-<!-- When I have seen the term "geo" used, it has not been in all-caps. -->
 
 			</listitem>
 
@@ -203,17 +202,16 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="got">
+		 <!-- <varlistentry id="got">
 			<term>got</term>
 			 <listitem>
 				<para>
 					Do not use.
 				</para>
-<!-- Is the intention to use instead the US English past participle form "gotten", or not to use either form? -->
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry> -->
 		 <varlistentry id="gpl">
 			<term>GPL</term>
 			 <listitem>

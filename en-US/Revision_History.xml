@@ -19,7 +19,8 @@
 					<simplelist>
 						<member>Major update to align with some recent changes in IBM Style.</member>
 						<member>Sentence case is required for captions, legends, and diagram labels.</member>
-						<member>All punctuation, including periods and commas, is now placed outside quotation marks unless the punctuation is part of the quotation.</member>
+						<!-- <member>All punctuation, including periods and commas, is now placed outside quotation marks unless the punctuation is part of the quotation.</member> -->
+						<member>Punctuation: Added sections on referring to punctuation marks and names of punctuation marks and special characters.</member>
 						<member>Rename Chapter 4 to "Choosing Appropriate Language": expand scope beyond slang and jargon, to cover inclusive language; avoiding ambiguities (moved from Chapter 2 and added more categories); dates and times (AM and PM are now written in uppercase without periods); and numbers.</member>
 						<member>Usage A-Z: Various additions and updates. Corrected alphabetical sorting sequence. Moved items that are not literal term entries to an earlier chapter.</member>
 						<member>Minor edits so the guide itself conforms with its own advice.</member>

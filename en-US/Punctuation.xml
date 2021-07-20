@@ -5,7 +5,6 @@
 ]>
 <section id="punctuation">
 	<title>Punctuation</title>
-<!-- Cover what is meant by "standard punctuation"?	 -->
 	 <para>
 		This section contains information on common punctuation topics. For more information, consult The Chicago Manual of Style, 17th Edition.
 	</para>
@@ -426,15 +425,19 @@
 	</section>
 	 <section id="quotation-marks">
 		<title>Quotation Marks</title>
-<!-- Change to previous guidance, per IBM Style. 
+
 		 <para>
 			Commas and periods go inside quotation marks.
-		</para> -->
+		</para>
+ 		 <para>
+		Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside. 
+		</para>
+
+<!-- Not implementing this change for now.  		
 		 <para>
 			In technical documentation, punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside.
-		</para>
-<!-- Add examples of when to use or not to use quotation marks. -->
-
+		</para> 
+Add examples of when to use or not to use quotation marks. 
 		<example><title>Correct Examples of the Use of Quotation Marks</title>
         <para>
         For example, the following message indicates multiple possible solutions: "This message could be resolved by changing the time."  
@@ -442,14 +445,14 @@
 		<para>
         In this example, the final period is not part of the command in the quoted text: Use "xemacs" only when referring to a command, such as "To start XEmacs, type xemacs".  
         </para>
-      	</example>
+      	</example> 
 
-<!-- 	 <para>
+ 	 	 <para>
 			Do not put quotation marks around cliches or slang terms (in fact, avoid using cliches and slang as it makes the translation of content more difficult).
 		</para>
-Remove this sentence, and leave it to chapter 4 to cover avoidance of slang. -->		
+Remove this sentence, and leave it to chapter 4 to cover avoidance of slang. 		
 
-<!--	 <para>
+		 <para>
 			A word or words being introduced to readers should not be placed in quotation marks. In DocBook, use the &lt;firstterm&gt; element for first reference. If you are writing outside of the SGML tagging environment, use quotation marks for first references. Subsequent references do not need quotation marks or the &lt;firstterm&gt; element.
 		</para>
 Deleted paragraph now that DocBook tagging no longer applies. -->		
@@ -486,5 +489,228 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 		</para>
 
 	</section>
-</section>
 
+<!-- Added section -->
+ 	 <section id="referring">
+		<title>Referring to Punctuation Marks</title>
+		<para>
+			To refer to a punctuation mark or special character, use its name alone if it is one of the following standard characters:
+		</para>
+		<para>
+			. , : ; ' " ( ) [ ] ! ?
+		</para>
+		<para>
+			For another character, use its name followed by the symbol in parentheses.  
+		</para>
+		<para>
+			Do not use the symbol on its own.   
+		</para>
+		<example><title>Referring to Punctuation Marks</title>
+
+          <para>
+            Use a semicolon to separate two parts of a sentence that can each stand on their own.
+          </para>
+		  <para>
+            The path contains the library qualifier in braces, &lbrace; &rbrace;.
+          </para>
+          </example>
+		<para>
+			For more details, see the <citetitle>IBM Style Guide</citetitle>.
+		</para>
+
+	</section>
+
+<!-- Added section -->
+	 <section id="punc-names">
+		<title>Names of Punctuation Marks and Special Characters</title>
+		<para>
+			Use the names in the following table to refer to punctuation marks or special characters:
+		</para>	
+
+		<table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Symbol </entry>
+						 <entry> Name </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> &amp; </entry>
+						 <entry> Ampersand </entry>
+
+					</row>
+					<row>
+						<entry> &lt; &gt; </entry>
+						 <entry> Angle brackets </entry>
+
+					</row>
+					<row>
+						<entry> &apos; </entry>
+						 <entry> Apostrophe </entry>
+
+					</row>
+					<row>
+						<entry> * </entry>
+						 <entry> Asterisk </entry>
+
+					</row>
+					<row>
+						<entry> &commat; </entry>
+						 <entry> At sign </entry>
+
+					</row>
+					<row>
+						<entry> &bsol; </entry>
+						 <entry> Backslash </entry>
+
+					</row>
+					<row>
+						<entry> &grave; </entry>
+						 <entry> Backtick </entry>
+
+					</row>					
+					<row>
+						<entry> &lbrace; &rbrace; </entry>
+						 <entry> Braces </entry>
+
+					</row>
+					<row>
+						<entry> &lbrack; &rbrack; </entry>
+						 <entry> Brackets </entry>
+
+					</row>
+					<row>
+						<entry> &Hat; </entry>
+						 <entry> Caret </entry>
+
+					</row>
+					<row>
+						<entry> &#x2713; </entry>
+						 <entry> Check mark </entry>
+
+					</row>
+					<row>
+						<entry> : </entry>
+						 <entry> Colon </entry>
+
+					</row>
+					<row>
+						<entry> , </entry>
+						 <entry> Comma </entry>
+
+					</row>
+					<row>
+						<entry> &quot; &quot; </entry>
+						 <entry> Double quotation marks </entry>
+
+					</row>
+					<row>
+						<entry> ... </entry>
+						 <entry> Ellipsis </entry>
+
+					</row>
+					<row>
+						<entry> &mdash; </entry>
+						 <entry> Em dash </entry>
+
+					</row>
+					<row>
+						<entry> &ndash; </entry>
+						 <entry> En dash </entry>
+
+					</row>
+					<row>
+						<entry> = </entry>
+						 <entry> Equal sign </entry>
+
+					</row>
+					<row>
+						<entry> &excl; </entry>
+						 <entry> Exclamation point </entry>
+
+					</row>
+					<row>
+						<entry> &sol; </entry>
+						 <entry> Forward slash </entry>
+
+					</row>
+					<row>
+						<entry> &gt; </entry>
+						 <entry> Greater than symbol </entry>
+
+					</row>
+					<row>
+						<entry> - </entry>
+						 <entry> Hyphen or minus sign </entry>
+
+					</row>					
+					<row>
+						<entry> &lt; </entry>
+						 <entry> Less than symbol </entry>
+
+					</row>
+					<row>
+						<entry> &num; </entry>
+						 <entry> Number sign; use <emphasis>hash</emphasis> to refer to a hashtag in social media </entry>
+
+					</row>
+					<row>
+						<entry> ( ) </entry>
+						 <entry> Parentheses </entry>
+
+					</row>
+					<row>
+						<entry> % </entry>
+						 <entry> Percent sign </entry>
+
+					</row>
+					<row>
+						<entry> . </entry>
+						 <entry> Period; dot (when not referring to punctuation) </entry>
+
+					</row>
+					<row>
+						<entry> + </entry>
+						 <entry> Plus sign </entry>
+
+					</row>
+					<row>
+						<entry> ? </entry>
+						 <entry> Question mark </entry>
+
+					</row>
+					<row>
+						<entry> ; </entry>
+						 <entry> Semicolon </entry>
+
+					</row>
+					<row>
+						<entry> &apos; &apos; </entry>
+						 <entry> Single quotation marks </entry>
+
+					</row>
+					<row>
+						<entry> ~ </entry>
+						 <entry> Tilde </entry>
+
+					</row>
+					<row>
+						<entry> _ </entry>
+						 <entry> Underscore </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+</section>

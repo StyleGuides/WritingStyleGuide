@@ -838,6 +838,54 @@
 		</itemizedlist>
 
 	</section>
+<!-- Added phrasal verbs section. -->
+	 <section id="phrasal-verbs">
+		<title>Phrasal Verbs</title>
+		 <para>
+			Avoid using a two-word verb form (a <emphasis>phrasal verb</emphasis>) if a one-word equivalent exists.
+		</para>
+	<table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> click on </entry>
+						 <entry> click </entry>
+
+					</row>
+					<row>
+						<entry> fill in, fill out (a form) </entry>
+						 <entry> complete (a form) </entry>
+
+					</row>
+					<row>
+						<entry> leave out </entry>
+						 <entry> omit </entry>
+
+					</row>
+					<row>
+						<entry> print out </entry>
+						 <entry> print </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	</section>
 	 <section id="Avoiding_Slang_Metaphors-MisleadingLanguage-Anthropomorphism">
 		<title>Anthropomorphism</title>
 		 <para>
@@ -1265,7 +1313,7 @@ Numbers (move from N entry) -->
 		</para>
 
 		 <para>
-		Instead of writing "The product was manufactured on 4/1/21", which is ambiguous, write "The product was manufactured on 1 April 2021".
+		Instead of writing "The product was manufactured on 4/1/21", which is ambiguous, use a format in running text where the month is represented as a word rather than as a numeral, such as "The product was manufactured on 1 April 2021".
 		</para>
 
 		 <para>

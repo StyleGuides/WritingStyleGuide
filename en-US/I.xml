@@ -133,10 +133,8 @@
 				</para>
 				 <para>
 					The correct term for Intel's implementation of this architecture is "Intel&reg;&nbsp;64."
-          Until late 2006, Intel's official name for the architecture was "Intel EM64T" (for Extended Memory 64 Technology).
-          They have since changed the name to "Intel&reg;&nbsp;64" however, and Red&nbsp;Hat documentation should reflect this change.
-<!-- Should this change information be modified or deleted, now that it happened a while ago? -->		  
-          When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
+          
+          			When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
 				</para>
         <para>
           See also <xref linkend="AMD64"/>.
@@ -307,9 +305,8 @@
 			<term>IP switching</term>
 			 <listitem>
 				<para>
-					A new type of IP routing that Ipsilon Networks, Inc. developed. Unlike conventional routers, IP switching routers use ATM hardware to speed packets through networks. Although the technology is new, it appears to be considerably faster than older router techniques.
+					A type of IP routing that Ipsilon Networks, Inc. developed. Unlike conventional routers, IP switching routers use ATM hardware to speed packets through networks. This type of IP routing appears to be considerably faster than older router techniques.
 				</para>
-<!-- Is it still appropriate to refer to this technology as new? -->
 
 			</listitem>
 
