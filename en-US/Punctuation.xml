@@ -432,6 +432,7 @@
  		 <para>
 		Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside. 
 		</para>
+	</section>
 
 <!-- Not implementing this change for now.  		
 		 <para>
@@ -457,7 +458,6 @@ Remove this sentence, and leave it to chapter 4 to cover avoidance of slang.
 		</para>
 Deleted paragraph now that DocBook tagging no longer applies. -->		
 
-	</section>
 	 <section id="apostrophes">
 		<title>Apostrophes</title>
 		<para>
@@ -511,7 +511,7 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
             Use a semicolon to separate two parts of a sentence that can each stand on their own.
           </para>
 		  <para>
-            The path contains the library qualifier in braces, &lbrace; &rbrace;.
+            The path contains the library qualifier in braces, { }.
           </para>
           </example>
 		<para>
@@ -577,17 +577,17 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 
 					</row>					
 					<row>
-						<entry> &lbrace; &rbrace; </entry>
+						<entry> { } </entry>
 						 <entry> Braces </entry>
 
 					</row>
 					<row>
-						<entry> &lbrack; &rbrack; </entry>
+						<entry> [ ] </entry>
 						 <entry> Brackets </entry>
 
 					</row>
 					<row>
-						<entry> &Hat; </entry>
+						<entry> ^ </entry>
 						 <entry> Caret </entry>
 
 					</row>
@@ -712,5 +712,7 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 			</tgroup>
 
 		</table>
+
+	</section>
 
 </section>
