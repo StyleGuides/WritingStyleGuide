@@ -41,6 +41,19 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Added for inclusive language -->
+		 <varlistentry id="master">
+			<term>master</term>
+			 <listitem>
+				<para>
+					Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use another term such as “main”, “primary”, "controller", or "leader".
+				</para>
+				<para>
+					Use of “master” is acceptable in other contexts, such as to refer to mastery of a skill.
+				</para>
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="matrixes">
 			<term>matrixes</term>
 			 <listitem>

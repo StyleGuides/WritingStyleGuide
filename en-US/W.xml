@@ -93,6 +93,19 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Added for inclusive language -->
+		 <varlistentry id="whitelist">
+			<term>whitelist</term>
+			 <listitem>
+				<para>
+					Do not use. Use “allowlist".
+				</para>
+				<para>
+					Do not use the terms “white” or "black" in a context where white is represented as good or black is represented as bad. Such usage reinforces a model that promotes racial bias.
+				</para>
+			</listitem>
+
+		</varlistentry>		
 		 <varlistentry id="whowhom">
 			<term>who, whom</term>
 			 <listitem>

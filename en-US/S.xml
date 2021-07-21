@@ -401,6 +401,16 @@
       </listitem>
     </varlistentry>
 
+<!-- Added for inclusive language -->
+		 <varlistentry id="slave">
+			<term>slave</term>
+			 <listitem>
+				<para>
+					Do not use. It diminishes the horror of the dehumanizing practice of slavery. Use another term such as "worker", "child", "helper", "replica", or "secondary (server, node, process, or other noun)".
+				</para>
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="smart-card">
 			<term>smart card</term>
 			 <listitem>
