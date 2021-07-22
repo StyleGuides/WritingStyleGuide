@@ -98,10 +98,10 @@
 			<term>whitelist</term>
 			 <listitem>
 				<para>
-					Do not use. Use “allowlist".
+					Do not use. Use "allowlist".
 				</para>
 				<para>
-					Do not use the terms “white” or "black" in a context where white is represented as good or black is represented as bad. Such usage reinforces a model that promotes racial bias.
+					Do not use the terms "white" or "black" in a context where white is represented as good or black is represented as bad. Such usage reinforces a model that promotes racial bias.
 				</para>
 			</listitem>
 
@@ -145,6 +145,17 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Added "wish". -->
+		<varlistentry id="wish">
+			<term>desire</term>
+			 <listitem>
+				<para>
+					Use "want" instead of "wish" when the reader's actions are optional (that is, they might not "need" something but might still "want" something).
+				</para>
+
+			</listitem>
+
+		</varlistentry>			
 
 	</variablelist>
 </chapter>

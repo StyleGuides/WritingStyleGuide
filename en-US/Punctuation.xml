@@ -527,11 +527,12 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 			Use the names in the following table to refer to punctuation marks or special characters:
 		</para>	
 
+<!-- If possible, reduce width of first column. -->
 		<table>
-			<title></title>
+			<title>Names of Punctuation Marks and Special Characters</title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
+				 <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+    			 <colspec colname="c2" colnum="2" colwidth="2.0*"/>
 				 <thead>
 					<row>
 						<entry> Symbol </entry>
@@ -607,8 +608,8 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 
 					</row>
 					<row>
-						<entry> &quot; &quot; </entry>
-						 <entry> Double quotation marks </entry>
+						<entry> &quot; </entry>
+						 <entry> Double quotation mark </entry>
 
 					</row>
 					<row>
@@ -692,8 +693,8 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 
 					</row>
 					<row>
-						<entry> &apos; &apos; </entry>
-						 <entry> Single quotation marks </entry>
+						<entry> &apos; </entry>
+						 <entry> Single quotation mark </entry>
 
 					</row>
 					<row>

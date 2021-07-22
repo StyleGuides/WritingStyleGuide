@@ -142,6 +142,17 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Added "desire". -->
+		<varlistentry id="desire">
+			<term>desire</term>
+			 <listitem>
+				<para>
+					Use "want" instead of "desire" when the reader's actions are optional (that is, they might not "need" something but might still "want" something).
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
 		 <varlistentry id="desktop">
 			<term>desktop</term>
 			 <listitem>

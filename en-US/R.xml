@@ -35,19 +35,11 @@
 				<para>
 					Unprocessed. The term refers to data that is passed to an I/O device without being interpreted. In contrast, cooked refers to data that is processed before being passed to the I/O device.
 				</para>
+				<para>
+					The term can also refer to information that is not organized, formatted, or analyzed.
+				</para>
 				 <para>
 					The term comes from UNIX, which supports cooked and raw modes for data output to a terminal. In cooked mode, special characters, such as erase and kill, are processed by the device driver before being sent to the output device.
-				</para>
-
-			</listitem>
-
-<!-- Is a separate entry from "raw" needed? -->
-		</varlistentry>
-		 <varlistentry id="raw-data">
-			<term>raw data</term>
-			 <listitem>
-				<para>
-					Information that is not organized, formatted, or analyzed.
 				</para>
 
 			</listitem>
@@ -87,12 +79,11 @@
 
 		</varlistentry>
 		 <varlistentry id="realtime">
-			<term>real time/real-time</term>
+			<term>real time, real-time</term>
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> The actual time during which something takes place. For example, "The computer may partly analyze the data in real time (as it comes in) -- R. H. March."
 				</para>
-<!-- Whose quotation is this? I would prefer "might" instead of "may".				 -->
 				 <para>
 					<emphasis>adj.</emphasis> Use the hyphenated version. For example, "XEmacs is a self-documenting, customizable, extensible, real-time display editor."
 				</para>
@@ -126,7 +117,6 @@
 				<para>
 					Do not use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source). Use "See."
 				</para>
-<!-- Theory and practice diverge in this matter! -->
 
 			</listitem>
 
@@ -145,9 +135,8 @@
 			<term>remote access server</term>
 			 <listitem>
 				<para>
-					A dedicated server to handle users who are not on a LAN but who need remote access to it. With a remote access server, users can gain access to files and print services on the LAN from a remote location. For example, a user who dials in to a network from home with an analog modem or an ISDN connection dials in to a remote access server. An authenticated user can then access shared drives and printers as if they were physically connected to the office LAN.
+					A dedicated server to handle users who are not on a LAN but who need remote access to it. With a remote access server, users can gain access to files and print services on the LAN from a remote location. 
 				</para>
-<!-- This example seems a bit dated. -->
 
 			</listitem>
 
@@ -209,9 +198,8 @@
 			<term>roundtable, round table</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Use the one-word form to refer to a type of event or gathering.
+					<emphasis>n.</emphasis> Use the one-word form to refer to a type of event or gathering.
 				</para>
-<!-- I have never seen this term used as a verb. -->
 				 <para>
 					<emphasis>n.</emphasis> Use the two-word form to refer to a circular table.
 				</para>

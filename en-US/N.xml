@@ -18,25 +18,12 @@
  			</listitem>
 
  		</varlistentry>
-		<varlistentry id="need">
-			<term>need</term>
-			 <listitem>
-				<para>
-					Use "need" instead of "desire" and "wish." Use "want" when the reader's actions are optional (that is, they might not "need" something but might still "want" something).
-				</para>
-
-			</listitem>
-
-<!-- The following entry seems partially contradictory to the previous entry. -->
-
-		</varlistentry>
 		 <varlistentry id="needs">
 			<term>needs, needs to be, need to</term>
 			 <listitem>
 				<para>
-					Avoid when possible. Suggested alternatives include "must," "required," or "should."
+					Avoid when possible. Suggested alternatives include "must" or "required."
 				</para>
-<!-- "Should" is not a synonym of "need to" or "must". -->
 
 			</listitem>
 

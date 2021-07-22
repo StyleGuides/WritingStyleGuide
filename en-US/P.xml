@@ -19,6 +19,9 @@
 					</para>
 
 				</warning>
+				<para>
+					See also <xref linkend="saas" />.
+				</para>
 
 			</listitem>
 
@@ -28,8 +31,6 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Use to refer to a personal computer.
-		<!-- IBM Style no longer includes specific advice for the term "PC".
-					See the <citetitle>IBM Style Guide</citetitle> for further information. -->
 				</para>
 
 			</listitem>
@@ -118,20 +119,23 @@
 
 			</listitem>
 
-<!-- Updated entries for "AM" and "PM" to reflect latest IBM Style guidance. -->
 		</varlistentry>
     <varlistentry id="pm">
-			<term role="true">PM</term>
+			<term role="true">p.m.</term>
 			 <listitem>
+			  	<para>
+					Use lowercase with periods, such as "2&nbsp;p.m.". Use a nonbreaking space between the numeral and "p.m.".
+				</para>
+<!-- Not implementing this change yet.			 
 				<para>
 					Use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "2&nbsp;PM".
-				</para>
+				</para> -->
         <para>
           See also <xref linkend="am"/>.
         </para>
-				 <para>
+				 <!-- <para>
 					See the <citetitle>IBM Style Guide</citetitle> for a full discussion of how to represent times.
-				</para>
+				</para> -->
 
 			</listitem>
 
@@ -176,9 +180,8 @@
 					<emphasis>n.</emphasis> The name of the Power architecture is "Power", but the designation of individual chips tends to be either "PowerPC" or "POWER". Refer to IBM marketing or the <ulink url="http://openpowerfoundation.org">Open Power Foundation</ulink> if unsure.
 				</para>
 				 <para>
-					Do not use the "PPC64" or "ppc64le" shorthand. Depending on context, either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct. Additional ABI features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
+					Do not use the "PPC64" or "ppc64le" shorthand. Depending on context, either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct. Additional application binary interface (ABI) features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
 				</para>
-<!-- What is ABI? -->
 				 <para>
 					Note: The PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM Power Series hardware in almost all cases.
 				</para>
@@ -316,7 +319,6 @@
 				 <para>
 					PXE is a mandatory element of the WfM specification. To be considered compliant, PXE must be supported by the computer's BIOS and its NIC.
 				</para>
-<!-- Need to define NIC? -->
 
 			</listitem>
 

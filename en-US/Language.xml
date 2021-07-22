@@ -948,22 +948,22 @@ Numbers (move from N entry) -->
 			Follow these guiding principles:
 		</para>
 		 <para>
-			Do not use the terms “white” or "black" in a context where white is represented as good or black is represented as bad, such as “whitelist” and “blacklist”. Such usage reinforces a model that promotes racial bias.  
+			Do not use the terms "white" or "black" in a context where white is represented as good or black is represented as bad, such as "whitelist" and "blacklist". Such usage reinforces a model that promotes racial bias.  
 		</para>
 		 <para>
-			For alternatives, choose words that describe the action that is taken or the function that is performed, rather than a metaphor for that action or function, for example “allowlist” instead of “whitelist”, or “blocklist” or “denylist” instead of “blacklist”. 
+			For alternatives, choose words that describe the action that is taken or the function that is performed, rather than a metaphor for that action or function, for example "allowlist" instead of "whitelist", or "blocklist" or "denylist" instead of "blacklist". 
 		</para>
 		 <para>
-			Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use of “master” is acceptable in other contexts, such as to refer to mastery of a skill. 
+			Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use of "master" is acceptable in other contexts, such as to refer to mastery of a skill. 
 		</para>
 		 <para>
-			Avoid gender bias. As an example, do not assume that the subject of a sentence is male if the context might refer to any gender. Thus, instead of using "man hours", use "labor hours" or "person hours". Avoid binary gendered language, such as “he” or “she”, except to refer to a specific named person. Do not use “he or she”. Instead, use the ungendered “they” as the preferred pronoun.
+			Avoid gender bias. As an example, do not assume that the subject of a sentence is male if the context might refer to any gender. Thus, instead of using "man hours", use "labor hours" or "person hours". Avoid binary gendered language, such as "he" or "she", except to refer to a specific named person. Do not use "he or she". Instead, use the ungendered "they" as the preferred pronoun.
 		</para>
 		 <para>
 			Avoid neurodiversity bias. For example, avoid the terms "sanity check" and "sanity test", and do not use "disabled" to refer to a person. 
 		</para>
 		 <para>
-			Avoid superlatives in job titles and descriptions, especially problematic terms such as “guru”, "ninja", "rockstar", or "evangelist". 
+			Avoid superlatives in job titles and descriptions, especially problematic terms such as "guru", "ninja", "rockstar", or "evangelist". 
 		</para>
 		 <para>
 			Such guidance, including judgement of what constitutes acceptable versus unacceptable use, will evolve over time. 
@@ -1322,23 +1322,26 @@ Numbers (move from N entry) -->
 		 <para>
 		Exception: Use of an all-numeric representation is allowed when space is limited, as in a user interface, or to enhance readability. In such cases, use the ISO date format with a 4-digit year (YYYY-MM-DD) and define the format in a header or legend.
 		</para>
-
+		 <para>
+		For times of day, use lowercase with periods, such as "11&nbsp;a.m.". Use a nonbreaking space between the numeral and "a.m." or "p.m.".
+		</para>
+		 <!-- Not implementing this change yet.
 		 <para>
 		For times of day, use uppercase without periods, such as "11&nbsp;AM". Use a nonbreaking space between the numeral and "AM" or "PM".
-		</para>
+		</para> -->
 
 		 <para>
-		Use "noon" or "12 noon" instead of "12 PM".
-		Use "midnight" or "12 midnight" instead of "12 AM".
+		Use "noon" or "12 noon" instead of "12 p.m.".
+		Use "midnight" or "12 midnight" instead of "12 a.m.".
 		</para>
 <itemizedlist>
 			<title>Examples</title>
 			 <listitem>
 				<para>
-				The training class begins at 10 AM on 1 April 2021.
+				The training class begins at 10 a.m. on 1 April 2021.
 				</para>
 				<para>
-				The coffee break is from 2:00 PM to 2:30 PM.
+				The coffee break is from 2:00 p.m. to 2:30 p.m.
 				</para>
 			</listitem>
       </itemizedlist>

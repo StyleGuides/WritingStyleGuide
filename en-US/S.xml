@@ -21,8 +21,7 @@
 			 <listitem>
 				<para>
 					The correct abbreviation for "Software-as-a-Service." 
-<!-- Self-referential  -->
-					See also <xref linkend="saas" />.
+					See also <xref linkend="paas" />.
 				</para>
 
 			</listitem>
@@ -39,8 +38,7 @@
 
 		</varlistentry>
 		 <varlistentry id="s-record">
-<!-- Is "record" the correct term here, and if so, shouldn't it go in R? -->
-			<term>record</term>
+			<term>S-record</term>
 			 <listitem>
 				<para>
 					Correct. Do not use "s-record," "Record," "s-Record," or any other variations.
@@ -179,13 +177,13 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Changed from "set-up" > "setup" for adjective, to align with IBM Style. -->
 		 <varlistentry id="setup">
 			<term>setup</term>
 			 <listitem>
 				<para>
-					Use "setup" as a noun, "set up" as a verb, and "set-up" as an adjective. For example:
+					Use "setup" as a noun or an adjective, and "set up" as a verb. For example:
 				</para>
-<!-- IBM Style says to use "setup" (n., adj.) and never to use the hyphenated form. Can we review? -->
 				 <itemizedlist>
 					<listitem>
 						<para>
@@ -201,7 +199,7 @@
 					</listitem>
 					 <listitem>
 						<para>
-							Follow the set-up instructions included with the hardware.
+							Follow the setup instructions that are included with the hardware.
 						</para>
 
 					</listitem>
@@ -264,9 +262,8 @@
 			<term>share name</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sharename" or "Sharename" unless you are quoting the output of commands, such as "smbclient -L."
+					Correct. Do not use "sharename" or "Sharename" unless you are quoting the output of commands, such as <command>smbclient -L</command> or similar.
 				</para>
-<!-- If the final period is not part of the command, I would move it after the closed quotation mark. -->
 
 			</listitem>
 
@@ -660,8 +657,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>subcommand</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-command" or "verb."
-<!-- Not sure what "or verb" means.	-->
+					Correct. Do not use "sub-command" or refer to a subcommand as a "verb."
 					 A subcommand refers to a secondary or even a tertiary command that is used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
 				</para>
 

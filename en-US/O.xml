@@ -20,12 +20,9 @@
 			<term>object-oriented</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "object oriented" or "objectoriented." It is a modifier, such as "Java is an object-oriented language."
+					Correct. Do not use "object oriented," "objectoriented," or "object-orientated." It is a modifier, such as "Java is an object-oriented language."
 				</para>
-<!-- Added paragraph -->
-				<para>
-					Also, do not use "object-orientated".
-				</para>
+<!-- Added to avoid "object-orientated". -->
 
 			</listitem>
 
@@ -35,10 +32,6 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Stands for <emphasis>original equipment manufacturer</emphasis>, which is a misleading term for a company that has a special relationship with computer producers. OEMs buy computers in bulk and customize them for a particular application. They then sell the customized computer under their own name. The term is a misnomer because OEMs are not the original manufacturers; they are the customizers.
-				</para>
-<!-- Is the following paragraph needed? -->				
-				 <para>
-					To provide equipment to another company, an OEM, which customizes and markets the equipment.
 				</para>
 
 			</listitem>
@@ -78,7 +71,10 @@
 				<para>
 					When referring to the <guibutton>OK</guibutton> button, it is not necessary to use "button" in the sentence. For example, "Click <guibutton>OK</guibutton> to close the dialog box."
 				</para>
-<!-- Is it acceptable to use the term "OK" when not referring to a button? -->
+				<para>
+					Use "OK" only to refer to an interface element, not in general text. For example, instead of using "It is OK to run the command", use alternative wording, such as "You can run the command".
+				</para>
+<!-- Added paragraph to avoid "OK" when not referring to a button. -->
 
 			</listitem>
 
