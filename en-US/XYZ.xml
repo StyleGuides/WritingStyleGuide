@@ -106,14 +106,14 @@
 			</listitem>
 
 		</varlistentry>
-<!-- Update entry per IBM -->
+<!-- Updated entry per IBM -->
+<!-- ZIP Codes are specific to the US and its territories and the Philippines. Elsewhere, "postal code" would be a more suitable generic alternative. -->
 		 <varlistentry id="xyzip-code">
-			<term>Zip Code</term>
+			<term>ZIP Code</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "zip code," "Zip code," or any other variation.
+					Use only for an address in the US, a US territory, or the Philippines. Otherwise, use "postal code".
 				</para>
-<!-- ZIP Codes are specific to the US and its territories and the Philippines. Elsewhere, "postal code" would be a more suitable generic alternative. -->
 
 			</listitem>
 
