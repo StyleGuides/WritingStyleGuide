@@ -25,7 +25,6 @@
 
 			</listitem>
 
-<!-- This term can also be used to refer to the telecommunications industry. -->
 		</varlistentry>
 		 <varlistentry id="telco">
 			<term>telco</term>
@@ -149,8 +148,8 @@
 
 			</listitem>
 
-<!-- IBM has now changed to use of one-word forms for many "time-" prefixed words: timebox, timeframe, timeline, timeout, timeslice, timestamp, but still "time zone". -->
 		</varlistentry>
+<!-- IBM has now changed to use of one-word forms for many "time-" prefixed words: timebox, timeframe, timeline, timeout, timeslice, timestamp, but still "time zone". -->
 		 <varlistentry id="time-frame">
 			<term>time frame (n.)</term>
 			 <listitem>

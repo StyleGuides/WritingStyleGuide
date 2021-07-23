@@ -32,13 +32,6 @@
 				<para>
 					Use where it accurately refers to the original Xen version of the package. You can refer to the distributed package as "Xen" if it is essentially the same as the upstream code.
 				</para>
-				 <para>
-					A referential use is one that describes the goods or services of an entity other than Red Hat, such as referring to Microsoft Windows as a technology that Red Hat competes with and integrates with. When referring to another entity's trademark, always use good trademark practices; that is, only use the trademark as an adjective followed by a noun; do not use a logo form of the trademark; do not make it more prominent than Red Hat marks; and do not incorporate the trademark into Red Hat product names. Here, the proper use would be "Xen hypervisor."
-				</para>
-				 <para>
-					The Xen Trademark Policy is available at <ulink url="http://www.xenproject.org/trademark-policy.html">http://www.xenproject.org/trademark-policy.html</ulink>.
-				</para>
-<!-- This link now directs to the Linux Foundation site. Is this term entry still current? -->
 
 			</listitem>
 
@@ -113,6 +106,7 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Update entry per IBM -->
 		 <varlistentry id="xyzip-code">
 			<term>Zip Code</term>
 			 <listitem>

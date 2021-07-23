@@ -38,9 +38,8 @@
 			<term>WCA</term>
 			 <listitem>
 				<para>
-					An abbreviation of "web clipping application," to extract static information from a web server and load that data onto a web-enabled PDA.
+					An abbreviation of "web clipping application," to extract static information from a web server and load that data onto a web-enabled personal digital assistant (PDA).
 				</para>
-<!-- PDA meaning?				 -->
 				 <para>
 					WCAs are also called "query applications."
 				</para>
@@ -138,16 +137,15 @@
 			 <listitem>
 				<para>
 					Correct. Do not combine into one word or hyphenate.
-          This is a window manager for the "X Window System."
+          This is a window manager for the X Window System.
 				</para>
-<!-- Are the quotation marks needed here?				 -->
 
 			</listitem>
 
 		</varlistentry>
 <!-- Added "wish". -->
 		<varlistentry id="wish">
-			<term>desire</term>
+			<term>wish</term>
 			 <listitem>
 				<para>
 					Use "want" instead of "wish" when the reader's actions are optional (that is, they might not "need" something but might still "want" something).
