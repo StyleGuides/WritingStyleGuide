@@ -23,13 +23,13 @@
 		 <itemizedlist>
 			<listitem>
 				<para>
-					They had been writing code all night: this could explain their bloodshot eyes.
+					They had been writing code all night: this factor could explain their bloodshot eyes.
 				</para>
 
 			</listitem>
 			 <listitem>
 				<para>
-					They had been writing code all night; this could explain their bloodshot eyes.
+					They had been writing code all night; this factor could explain their bloodshot eyes.
 				</para>
 
 			</listitem>
@@ -125,13 +125,13 @@
 				 <orderedlist>
 					<listitem>
 						<para>
-							Open a terminal
+							Open a terminal.
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							Type <command>cd Documents/Books</command>
+							Type <command>cd Documents/Books</command>.
 						</para>
 
 					</listitem>
@@ -199,8 +199,9 @@
 
 		</itemizedlist>
 		 <para>
-			Use a semicolon before a conjunctive adverb, such as however, therefore, otherwise, namely, for example, and so on.
+			Use a semicolon before a conjunctive adverb, such as <emphasis>however, therefore, otherwise, namely, for example</emphasis>, and so on.
 		</para>
+
 		 <itemizedlist>
 			<listitem>
 				<para>
@@ -380,8 +381,9 @@
 	 <section id="parentheses">
 		<title>Parentheses</title>
 		 <para>
-			Parentheses are similar to commas in that they set off information that further explains or enhances a statement. Information that is very closely related to the statement should be set off with commas; information that is more incidental should be set off with parentheses.
+			Parentheses are similar to commas in that they set off information that further explains or enhances a statement. Information that is closely related to the statement should be set off with commas; information that is more incidental should be set off with parentheses.
 		</para>
+
 		 <itemizedlist>
 			<listitem>
 				<para>
@@ -398,8 +400,9 @@
 
 		</itemizedlist>
 		 <para>
-			Expressions beginning with <emphasis>i.e., e.g., that is</emphasis> and so on can be set off with parentheses if they cause a major break in the sentence. If the break is minor, use commas.
+			Expressions beginning with <emphasis>for example, that is</emphasis> and so on can be set off with parentheses if they cause a major break in the sentence. If the break is minor, use commas.
 		</para>
+
 		 <itemizedlist>
 			<listitem>
 				<para>
@@ -409,7 +412,7 @@
 			</listitem>
 			 <listitem>
 				<para>
-					Classic works of literature (e.g., Dickens, Shakespeare, the Brontes) lined the shelves.
+					Classic works of literature (such as Dickens, Shakespeare, the Brontes) lined the shelves.
 				</para>
 
 			</listitem>
@@ -422,22 +425,47 @@
 	</section>
 	 <section id="quotation-marks">
 		<title>Quotation Marks</title>
+
 		 <para>
 			Commas and periods go inside quotation marks.
 		</para>
-		 <para>
-			Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quote; if not, they go outside.
+ 		 <para>
+		Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside. 
 		</para>
+	</section>
+
+<!-- Not implementing this change for now.  		
 		 <para>
+			In technical documentation, punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside.
+		</para> 
+Add examples of when to use or not to use quotation marks. 
+		<example><title>Correct Examples of the Use of Quotation Marks</title>
+        <para>
+        For example, the following message indicates multiple possible solutions: "This message could be resolved by changing the time."  
+        </para>
+		<para>
+        In this example, the final period is not part of the command in the quoted text: Use "xemacs" only when referring to a command, such as "To start XEmacs, type xemacs".  
+        </para>
+      	</example> 
+
+ 	 	 <para>
 			Do not put quotation marks around cliches or slang terms (in fact, avoid using cliches and slang as it makes the translation of content more difficult).
 		</para>
+Remove this sentence, and leave it to chapter 4 to cover avoidance of slang. 		
+
 		 <para>
 			A word or words being introduced to readers should not be placed in quotation marks. In DocBook, use the &lt;firstterm&gt; element for first reference. If you are writing outside of the SGML tagging environment, use quotation marks for first references. Subsequent references do not need quotation marks or the &lt;firstterm&gt; element.
 		</para>
+Deleted paragraph now that DocBook tagging no longer applies. -->		
 
-	</section>
 	 <section id="apostrophes">
 		<title>Apostrophes</title>
+		<para>
+			Do not use an apostrophe to denote a plural. 
+		</para>
+		<para>
+			To denote a possessive, use an apostrophe as follows: 
+		</para>
 		 <para>
 			Plural nouns not ending in <emphasis>s</emphasis> should add an <emphasis>'s </emphasis> (for example, the alumni's contribution).
 		</para>
@@ -453,5 +481,239 @@
 
 	</section>
 
-</section>
+<!-- Moved from A-Z section to add here instead -->
+	 <section id="exclamation">
+		<title>Exclamation Points</title>
+		<para>
+			Do not use at the end of sentences. An exclamation point can be used when referring to a command, such as the bang (!) command.
+		</para>
 
+	</section>
+
+<!-- Added section -->
+ 	 <section id="referring">
+		<title>Referring to Punctuation Marks</title>
+		<para>
+			To refer to a punctuation mark or special character, use its name alone if it is one of the following standard characters:
+		</para>
+		<para>
+			. , : ; ' " ( ) [ ] ! ?
+		</para>
+		<para>
+			For another character, use its name followed by the symbol in parentheses.  
+		</para>
+		<para>
+			Do not use the symbol on its own.   
+		</para>
+		<example><title>Referring to Punctuation Marks</title>
+
+          <para>
+            Use a semicolon to separate two parts of a sentence that can each stand on their own.
+          </para>
+		  <para>
+            The path contains the library qualifier in braces, { }.
+          </para>
+          </example>
+		<para>
+			For more details, see the <citetitle>IBM Style Guide</citetitle>.
+		</para>
+
+	</section>
+
+<!-- Added section -->
+	 <section id="punc-names">
+		<title>Names of Punctuation Marks and Special Characters</title>
+		<para>
+			Use the names in the following table to refer to punctuation marks or special characters:
+		</para>	
+
+<!-- If possible, reduce width of first column. -->
+		<table>
+			<title>Names of Punctuation Marks and Special Characters</title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				 <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+    			 <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+				 <thead>
+					<row>
+						<entry> Symbol </entry>
+						 <entry> Name </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> &amp; </entry>
+						 <entry> Ampersand </entry>
+
+					</row>
+					<row>
+						<entry> &lt; &gt; </entry>
+						 <entry> Angle brackets </entry>
+
+					</row>
+					<row>
+						<entry> &apos; </entry>
+						 <entry> Apostrophe </entry>
+
+					</row>
+					<row>
+						<entry> * </entry>
+						 <entry> Asterisk </entry>
+
+					</row>
+					<row>
+						<entry> &commat; </entry>
+						 <entry> At sign </entry>
+
+					</row>
+					<row>
+						<entry> &bsol; </entry>
+						 <entry> Backslash </entry>
+
+					</row>
+					<row>
+						<entry> &grave; </entry>
+						 <entry> Backtick </entry>
+
+					</row>					
+					<row>
+						<entry> { } </entry>
+						 <entry> Braces </entry>
+
+					</row>
+					<row>
+						<entry> [ ] </entry>
+						 <entry> Brackets </entry>
+
+					</row>
+					<row>
+						<entry> ^ </entry>
+						 <entry> Caret </entry>
+
+					</row>
+					<row>
+						<entry> &#x2713; </entry>
+						 <entry> Check mark </entry>
+
+					</row>
+					<row>
+						<entry> : </entry>
+						 <entry> Colon </entry>
+
+					</row>
+					<row>
+						<entry> , </entry>
+						 <entry> Comma </entry>
+
+					</row>
+					<row>
+						<entry> &quot; </entry>
+						 <entry> Double quotation mark </entry>
+
+					</row>
+					<row>
+						<entry> ... </entry>
+						 <entry> Ellipsis </entry>
+
+					</row>
+					<row>
+						<entry> &mdash; </entry>
+						 <entry> Em dash </entry>
+
+					</row>
+					<row>
+						<entry> &ndash; </entry>
+						 <entry> En dash </entry>
+
+					</row>
+					<row>
+						<entry> = </entry>
+						 <entry> Equal sign </entry>
+
+					</row>
+					<row>
+						<entry> &excl; </entry>
+						 <entry> Exclamation point </entry>
+
+					</row>
+					<row>
+						<entry> &sol; </entry>
+						 <entry> Forward slash </entry>
+
+					</row>
+					<row>
+						<entry> &gt; </entry>
+						 <entry> Greater than symbol </entry>
+
+					</row>
+					<row>
+						<entry> - </entry>
+						 <entry> Hyphen or minus sign </entry>
+
+					</row>					
+					<row>
+						<entry> &lt; </entry>
+						 <entry> Less than symbol </entry>
+
+					</row>
+					<row>
+						<entry> &num; </entry>
+						 <entry> Number sign; use <emphasis>hash</emphasis> to refer to a hashtag in social media </entry>
+
+					</row>
+					<row>
+						<entry> ( ) </entry>
+						 <entry> Parentheses </entry>
+
+					</row>
+					<row>
+						<entry> % </entry>
+						 <entry> Percent sign </entry>
+
+					</row>
+					<row>
+						<entry> . </entry>
+						 <entry> Period; dot (when not referring to punctuation) </entry>
+
+					</row>
+					<row>
+						<entry> + </entry>
+						 <entry> Plus sign </entry>
+
+					</row>
+					<row>
+						<entry> ? </entry>
+						 <entry> Question mark </entry>
+
+					</row>
+					<row>
+						<entry> ; </entry>
+						 <entry> Semicolon </entry>
+
+					</row>
+					<row>
+						<entry> &apos; </entry>
+						 <entry> Single quotation mark </entry>
+
+					</row>
+					<row>
+						<entry> ~ </entry>
+						 <entry> Tilde </entry>
+
+					</row>
+					<row>
+						<entry> _ </entry>
+						 <entry> Underscore </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	</section>
+
+</section>

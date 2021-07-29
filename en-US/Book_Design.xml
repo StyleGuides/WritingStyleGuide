@@ -6,7 +6,7 @@
 <section id="overall-book-design">
 	<title>Overall Book Design</title>
 	 <para>
-		This section describes a general approach to the overall layout and design of technical documentation. This design was developed specifically for technical documentation and may not suit content produced by other groups.
+		This section describes a general approach to the overall layout and design of technical documentation. This design was developed specifically for technical documentation and might not suit content produced by other groups.
 	</para>
 	 <para>
 		This section covers the following topics:
@@ -51,7 +51,7 @@
 			The title should be a combination of the complete product name, its version, and the name of the book. For example, "Red&nbsp;Hat Satellite&nbsp;5.6 Installation Guide", or "Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6 Deployment Guide".
 		</para>
 		 <para>
-			The subtitle should be a single, succinct phrase that describes the intent of the book; an abstract of the abstract. For example, "Installing Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6 for all architectures".
+			The subtitle should be a single, succinct phrase that describes the intent of the book; an abstract of the abstract. For example, "Installing Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8 for all architectures".
 		</para>
 
 	</section>
@@ -87,7 +87,7 @@
 				</listitem>
 				 <listitem>
 					<para>
-						Why (and possibly Who): A basic rationale for why this book exists, and its audience (and elaborate on the target audience inside the book). For example, "This provides a basis for administrators and developers to write custom scripts and integrate Red&nbsp;Hat Satellite with third-party applications."
+						Why (and possibly Who): A basic rationale for why this book exists, and its audience (and elaborate on the target audience inside the book). For example, "This book provides a basis for administrators and developers to write custom scripts and to integrate Red&nbsp;Hat Satellite with third-party applications."
 					</para>
 
 				</listitem>
@@ -99,10 +99,10 @@
 			Drawing these basics together might produce the following example abstract:
 		</para>
 		 <para>
-			"The Red&nbsp;Hat Satellite&nbsp;5.6 API Guide is a full reference for Satellite's XMRPC API. The guide explains each API method and demonstrates examples of data models for input and output. This provides a basis for administrators and developers to write custom scripts and integrate Red Hat Satellite with third-party applications."
+			"The Red&nbsp;Hat Satellite&nbsp;5.6 API Guide is a full reference for Satellite's XMRPC API. The guide explains each API method and demonstrates examples of data models for input and output. This book provides a basis for administrators and developers to write custom scripts and to integrate Red Hat Satellite with third-party applications."
 		</para>
 		 <para>
-			Update or modify each component according to the type of book you are writing.
+			Update or modify each component according to the type of book that you are writing.
 		</para>
 
 	</section>
@@ -116,12 +116,12 @@
 	 <section id="unused-heading-titles">
 		<title>Unused Heading Titles</title>
 		 <para>
-			This section lists various heading titles that have been used in Red&nbsp;Hat technical documentation, but should be avoided except in specific circumstances.
+			This section lists various heading titles that might be  used in Red&nbsp;Hat technical documentation, but that should be avoided except in specific circumstances.
 		</para>
 		 <formalpara id="overview">
 			<title>Overview</title>
 			 <para>
-				Do not use "overview" as a title. No justification was found for using this as a title; anywhere that it might be considered is already covered by either better or more common titles.
+				Do not use "overview" as a title. No justification was found for using it as a title; anywhere that it might be considered is already covered by either better or more common titles.
 			</para>
 
 		</formalpara>

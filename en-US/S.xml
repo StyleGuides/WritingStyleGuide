@@ -20,7 +20,8 @@
 			<term>SaaS</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct abbreviation for "Software-as-a-Service." See also <xref linkend="saas" />.
+					The correct abbreviation for "Software-as-a-Service." 
+					See also <xref linkend="paas" />.
 				</para>
 
 			</listitem>
@@ -37,7 +38,7 @@
 
 		</varlistentry>
 		 <varlistentry id="s-record">
-			<term>record</term>
+			<term>S-record</term>
 			 <listitem>
 				<para>
 					Correct. Do not use "s-record," "Record," "s-Record," or any other variations.
@@ -50,7 +51,7 @@
 			<term>screen capture</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Do not use "screen shot," "screenshot," or other terms or variations. See the relevant entry in <citetitle>The IBM Style Guide.</citetitle>
+					<emphasis>n.</emphasis> Do not use "screen shot," "screenshot," or other terms or variations. See the relevant entry in the <citetitle>IBM Style Guide.</citetitle>
 				</para>
 
 			</listitem>
@@ -99,8 +100,8 @@
                 <entry>With this new version, the application is running on a more secure, gateway-protected endpoint.</entry>
               </row>
               <row>
-                <entry>This functionality secures your connection.</entry>
-                <entry>This functionality improves the security of your connection.</entry>
+                <entry>This function secures your connection.</entry>
+                <entry>This function improves the security of your connection.</entry>
               </row>
               <row>
                 <entry>Developers can easily change the code to implement secured access.</entry>
@@ -146,11 +147,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="sends-out">
-			<term>sends out</term>
+		 <varlistentry id="send-out">
+			<term>send out</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "emits" or "issues."
+					Do not use. Instead, use "emit" or "issue."
 				</para>
 
 			</listitem>
@@ -160,7 +161,7 @@
 			<term>server farm</term>
 			 <listitem>
 				<para>
-					Also referred to as server cluster, computer farm or ranch. A server farm is a group of networked servers that are housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm and expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks and scheduling and rescheduling them depending on priority and demand that users put on the network. When one server in the farm fails, another can step in as a backup.
+					Also referred to as a server cluster, computer farm, or ranch. A server farm is a group of networked servers that are housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm and expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them depending on priority and demand that users put on the network. When one server in the farm fails, another can step in as a backup.
 				</para>
 
 			</listitem>
@@ -176,11 +177,12 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Changed from "set-up" > "setup" for adjective, to align with IBM Style. -->
 		 <varlistentry id="setup">
 			<term>setup</term>
 			 <listitem>
 				<para>
-					Use "setup" as a noun, "set up" as a verb, and "set-up" as an adjective. For example:
+					Use "setup" as a noun or an adjective, and "set up" as a verb. For example:
 				</para>
 				 <itemizedlist>
 					<listitem>
@@ -197,7 +199,7 @@
 					</listitem>
 					 <listitem>
 						<para>
-							Follow the set-up instructions included with the hardware.
+							Follow the setup instructions that are included with the hardware.
 						</para>
 
 					</listitem>
@@ -214,7 +216,7 @@
 					Pronounced "shä" and thus requires "an" as the indefinite article.
         </para>
         <para>
-          SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA2 variants are often specified using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SHA224," "SHA256," "SHA384," and "SHA512" are considered correct when referring to these specific hash functions.
+          SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA2 variants are often specified by using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SHA224," "SHA256," "SHA384," and "SHA512" are considered correct when referring to these specific hash functions.
 				</para>
         <para>
           See <ulink url="https://en.wikipedia.org/wiki/Secure_Hash_Algorithms"></ulink> for full details.
@@ -260,7 +262,7 @@
 			<term>share name</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sharename" or "Sharename" unless you are quoting the output of commands, such as "smbclient -L."
+					Correct. Do not use "sharename" or "Sharename" unless you are quoting the output of commands, such as <command>smbclient -L</command> or similar.
 				</para>
 
 			</listitem>
@@ -315,6 +317,25 @@
 
 			</listitem>
 
+<!-- Added entries for "sign in" and "sign in to". -->
+		</varlistentry>
+		 <varlistentry id="sign-in">
+			<term>sign in</term>
+			 <listitem>
+				 <para>
+					<emphasis>v.</emphasis> Write as two words. For example, "two options are available to sign in".
+				</para>
+			</listitem>
+				 
+		</varlistentry>
+		 <varlistentry id="sign-in-to">
+			<term>sign in to</term>
+			 <listitem>
+				 <para>
+					<emphasis>v.</emphasis> Write as three words. For example, "to sign in to the system".
+				</para>
+			</listitem>
+
 		</varlistentry>
 		 <varlistentry id="simply">
 			<term>simply</term>
@@ -330,7 +351,7 @@
 			<term>since, as, because</term>
 			 <listitem>
 				<para>
-					Do not use "since" or "as" to mean "because," it is ambiguous. Use "because" to refer to a reason. Use "since" or "as" to refer to the passage of time.
+					Do not use "since" or "as" to mean "because"; it is ambiguous. Use "because" to refer to a reason. Use "since" or "as" to refer to the passage of time.
 				</para>
 
 			</listitem>
@@ -340,7 +361,7 @@
 			<term>skill set, skills, knowledge</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective. Do not use "skill-set knowledge;" it is redundant. See the following examples:
+					<emphasis>n.</emphasis> Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective. Do not use "skill-set knowledge"; it is redundant. See the following examples:
 				</para>
 				 <example id="exam-skillset">
 					<title>Example Use of Term "Skillset" Versus "Skills"</title>
@@ -372,11 +393,21 @@
         <para>
           <emphasis>n.</emphasis> SLA stands for Service Level agreement.
           The phrase itself is not normally capitalized but official SLA defect ratings, such as Low, Moderate, and Critical, carry initial caps.
-          This distinguishes the SLA-defined ratings from the severity of general issues and identifies them as requiring a predetermined response time and level of support according to agreements.
+          This capitalization distinguishes the SLA-defined ratings from the severity of general issues and identifies them as requiring a predetermined response time and level of support according to agreements.
         </para>
       </listitem>
     </varlistentry>
 
+<!-- Added for inclusive language -->
+		 <varlistentry id="slave">
+			<term>slave</term>
+			 <listitem>
+				<para>
+					Do not use. It diminishes the horror of the dehumanizing practice of slavery. Use another term such as "worker", "child", "helper", "replica", or "secondary (server, node, process, or other noun)".
+				</para>
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="smart-card">
 			<term>smart card</term>
 			 <listitem>
@@ -402,7 +433,7 @@
 			<term>softcopy</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "online." For example, "To view the online documentation..."
+					Do not use. Instead, use "online." For example, "To view the online documentation ..."
 				</para>
 
 			</listitem>
@@ -433,7 +464,7 @@
         <listitem>
           <para>
             <emphasis>v.</emphasis> In addition to the generic use of this term as a noun and verb, in
-a programming and technical sense this also means "Run the <command>source</command> command against the named file."
+a programming and technical sense, it also means "Run the <command>source</command> command against the named file."
           </para>
         </listitem>
       </varlistentry>
@@ -441,7 +472,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>space</term>
 			 <listitem>
 				<para>
-					Use when referring to white space, such as "Ensure there is a space between each command." Use "Spacebar" when referring to the keyboard key.
+					Use when referring to white space, such as "Ensure that a space occurs between each command." Use "Spacebar" when referring to the keyboard key.
 				</para>
 
 			</listitem>
@@ -481,11 +512,11 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>spelled</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "spelt."
+					Correct. It is the standard US English spelling. Do not use "spelt."
 				</para>
-				 <para>
+				 <!-- <para>
 					"Spelt" is the standard spelling in Commonwealth English. US English prefers "spelled," although "spelt" is occasionally seen.
-				</para>
+				</para> -->
 
 			</listitem>
 
@@ -494,16 +525,16 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>SQL</term>
 			 <listitem>
 				<para>
-					When referring to the ISO standard (ISO 9075 and its descendants), this is pronounced as an initialism: ĕs kyü ĕl. Consequently, it takes "an" as an indefinite article.
+					When referring to the ISO standard (ISO 9075 and its descendants), it is pronounced as an initialism: ĕs kyü ĕl. Consequently, it takes "an" as an indefinite article.
 				</para>
 				 <para>
 					When referring to Microsoft's proprietary product, SQL Server, pronounce it as a word: "sequel." In this case, it takes "a" as an indefinite article.
 				</para>
 				 <para>
-					NB: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
+					Note: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
 				</para>
 				 <para>
-					More generally, avoid using "SQL" as a generic marker if at all possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced pŏstgrĕs kyü ĕl), write "PostgreSQL."
+					More generally, avoid use of "SQL" as a generic marker if possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced pŏstgrĕs kyü ĕl), write "PostgreSQL."
 				</para>
 
 			</listitem>
@@ -513,7 +544,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>SR-IOV</term>
 			 <listitem>
 				<para>
-					Correct. SR-IOV stands for Single Root I/O Virtualization. It is a virtualization specification that allows a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV.
+					Correct. SR-IOV stands for Single Root I/O Virtualization. It is a virtualization specification for a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV.
 				</para>
 
 			</listitem>
@@ -523,7 +554,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>SSH</term>
 			 <listitem>
 				<para>
-					Initialism for Secure Shell, a network protocol that allows data exchange using a secure channel. When referring to the protocol, do not use "ssh," "Ssh," or other variants. When referring to the command, use <command>ssh</command>.
+					Initialism for Secure Shell, a network protocol for data exchange with a secure channel. When referring to the protocol, do not use "ssh," "Ssh," or other variants. When referring to the command, use <command>ssh</command>.
 				</para>
 				<para>
 				Do not use as a verb.
@@ -546,7 +577,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>SSL</term>
 			 <listitem>
 				<para>
-					Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. The majority of web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with https: instead of http:.
+					Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. Most web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with <emphasis>https:</emphasis> instead of <emphasis>http:</emphasis>.
 				</para>
 
 			</listitem>
@@ -556,10 +587,13 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>stand-alone</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Correct. Do not use "standalone."
+					<emphasis>adj.</emphasis> Write hyphenated. Do not use "standalone."
 				</para>
 				 <para>
-					Refers to something that is self-contained, or that does not require any other devices to function. For example, a fax machine is a stand-alone device because it does not require a computer, printer, modem, or other device. A printer, on the other hand, is not a stand-alone device because it requires a computer to feed it data.
+					Refers to something that is self-contained, or that does not require any other devices to function. 
+<!-- Updated dated example that referred to a fax machine. -->
+					For example, a smartphone is a stand-alone device because it does not require a computer, printer, modem, or other device. 
+					A printer, on the other hand, is not a stand-alone device because it requires a computer to feed it data.
 				</para>
 
 			</listitem>
@@ -571,6 +605,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 				<para>
 					A legacy Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office."
 				</para>
+<!-- Is it acceptable to use "legacy"?				 -->
 				 <para>
 					The successors of StarOffice are <xref linkend="libreoffice" /> and <xref linkend="openoffice" />.
 				</para>
@@ -578,11 +613,11 @@ a programming and technical sense this also means "Run the <command>source</comm
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="starts-up">
-			<term>starts up</term>
+		 <varlistentry id="start-up">
+			<term>start up</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "activates" or "invokes."
+					<emphasis>v.</emphasis> Do not use. Instead, use "activate" or "invoke."
 				</para>
 
 			</listitem>
@@ -622,7 +657,8 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>subcommand</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-command" or "verb." A subcommand refers to a secondary or even tertiary command used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
+					Correct. Do not use "sub-command" or refer to a subcommand as a "verb."
+					 A subcommand refers to a secondary or even a tertiary command that is used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
 				</para>
 
 <screen>hammer import organization --help</screen>
@@ -669,7 +705,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 					Any other use of this word is strongly discouraged.
 				</para>
 				 <para>
-					NB: subpackages are <emphasis>not</emphasis> the same as dependencies and should not be treated as such.
+					Note: Subpackages are <emphasis>not</emphasis> the same as dependencies and should not be treated as such.
 				</para>
 
 			</listitem>
@@ -679,7 +715,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>superuser</term>
 			 <listitem>
 				<para>
-					A synonym for the <systemitem>root</systemitem> user. More common in Solaris documentation than Linux. If and when used, this is the correct spelling. Do not use "super user" or "super-user."
+					A synonym for the <systemitem>root</systemitem> user. More common in Solaris documentation than Linux. If and when used, this spelling is correct. Do not use "super user" or "super-user."
 				</para>
 
 			</listitem>
@@ -722,7 +758,7 @@ a programming and technical sense this also means "Run the <command>source</comm
 			<term>symmetric encryption</term>
 			 <listitem>
 				<para>
-					A type of encryption where the same key is used to encrypt and decrypt the message. This differs from asymmetric (or public-key) encryption, which uses one key to encrypt a message and another to decrypt the message.
+					A type of encryption where the same key is used to encrypt and to decrypt the message. It differs from asymmetric (or public-key) encryption, which uses one key to encrypt a message and another to decrypt the message.
 				</para>
 
 			</listitem>

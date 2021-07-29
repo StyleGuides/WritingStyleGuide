@@ -10,7 +10,7 @@
 			<term>KB, kB</term>
 			 <listitem>
 				<para>
-					Refer to <citetitle>The IBM Style Guide</citetitle> for the correct abbreviation to use for specific use cases.
+					See the <citetitle>IBM Style Guide</citetitle> for the correct abbreviation to use for specific use cases.
 				</para>
 
 			</listitem>
@@ -43,7 +43,7 @@
 			<term>kernel</term>
 			 <listitem>
 				<para>
-					The central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services required by other parts of the operating system and applications. Typically, the kernel is responsible for memory management, process and task management, and disk management.
+					The central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services that other parts of the operating system and applications require. Typically, the kernel is responsible for memory management, process and task management, and disk management.
 				</para>
 
 			</listitem>
@@ -63,7 +63,7 @@
 			<term>kernel panic</term>
 			 <listitem>
 				<para>
-					Correct. Numerous circumstances may cause a kernel panic, but unlike a kernel oops, when confronted with a kernel panic the operating system shuts down to prevent the possibility of further damage or security breaches.
+					Correct. Numerous circumstances might cause a kernel panic, but unlike a kernel oops, when confronted with a kernel panic the operating system shuts down to prevent the possibility of further damage or security breaches.
 				</para>
 
 			</listitem>
@@ -115,7 +115,7 @@
 			<term>keytab</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> <emphasis>(Kerberos)</emphasis> Correct. A keytab (short for "key table") stores long-term keys for one or more principals. See <ulink url="https://web.mit.edu/kerberos/krb5-1.12/doc/basic/keytab_def.html" /> for full details.
+					<emphasis>n.</emphasis> <emphasis>(Kerberos)</emphasis> Correct. A keytab (short for "key table") stores long-term keys for one or more principals. For details, see <ulink url="https://web.mit.edu/kerberos/krb5-1.12/doc/basic/keytab_def.html" />.
 				</para>
 
 			</listitem>

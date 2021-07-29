@@ -20,7 +20,7 @@
 			<term>VDSM</term>
 			 <listitem>
 				<para>
-					Initialism for Virtual Desktop Server Management. DO NOT spell out this initialism. Using the term "virtual desktop" in this context has negative marketing implications. Use VDSM without expansion.
+					Initialism for Virtual Desktop Server Management. Do not spell out this initialism. Using the term "virtual desktop" in this context has negative marketing implications. Use VDSM without expansion.
 				</para>
 
 			</listitem>
@@ -31,6 +31,19 @@
 			 <listitem>
 				<para>
 					Correct. Use all lowercase letters. Do not use "VI" (all caps).
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="video-mode">
+			<term>video mode</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "video-mode" or "videomode."
+				</para>
+				 <para>
+					The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
 				</para>
 
 			</listitem>
@@ -51,19 +64,6 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="video-mode">
-			<term>video mode</term>
-			 <listitem>
-				<para>
-					Correct. Do not use "video-mode" or "videomode."
-				</para>
-				 <para>
-					The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="virtual-console">
 			<term>virtual console</term>
 			 <listitem>
@@ -71,20 +71,7 @@
 					Correct. Do not use "virtual-console" or "Virtual Console" for general use.
 				</para>
 				 <para>
-					This can be abbreviated to "VC" as long as the term has been introduced in the same content in its full version first, such as "A virtual console (VC) is a shell prompt in a non-graphical environment. Multiple VCs can be accessed simultaneously."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="virtual-machine-vm">
-			<term>virtual machine, VM</term>
-			 <listitem>
-				<para>
-					Refers to virtual hardware that consists of virtual CPUs, memory, devices, and so on. Do not use "guest virtual machine" unless you want to specifically emphasize the fact that it is a guest.
-				</para>
-				 <para>
-					This can be abbreviated to "VM" as long as the term has been introduced in the same content in its full version first, and provided there is no possibility of confusion with other terms, such as "virtual memory." Author discretion is recommended.
+					It can be abbreviated to "VC" provided that the term is first introduced in the same content in its full version, such as "A virtual console (VC) is a shell prompt in a non-graphical environment. Multiple VCs can be accessed simultaneously."
 				</para>
 
 			</listitem>
@@ -98,6 +85,19 @@
 				</para>
 				 <para>
 					See also "guest operating system."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="virtual-machine-vm">
+			<term>virtual machine, VM</term>
+			 <listitem>
+				<para>
+					Refers to virtual hardware that consists of virtual CPUs, memory, devices, and so on. Do not use "guest virtual machine" except for specific emphasis that it is a guest.
+				</para>
+				 <para>
+					It can be abbreviated to "VM" provided that the term is first introduced in the same content in its full version, and without any possible confusion with other terms, such as "virtual memory." Author discretion is recommended.
 				</para>
 
 			</listitem>
@@ -127,7 +127,7 @@
 			<term>VPN</term>
 			 <listitem>
 				<para>
-					Initialism for virtual private network, a network that is constructed by using public wires to connect nodes. For example, there are a number of systems that enable you to create networks using the internet as the medium for transporting data. These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.
+					Initialism for virtual private network, a network that uses public wires to connect nodes. For example, various systems can create networks with the internet as the medium for transporting data. These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.
 				</para>
 
 			</listitem>

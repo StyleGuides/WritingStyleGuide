@@ -54,7 +54,7 @@
 
 		</varlistentry>
 		 <varlistentry id="he-she">
-			<term>he, she</term>
+			<term>he/she</term>
 			 <listitem>
 				<para>
 					Do not use. Reword to avoid. In most cases, "they" is acceptable as a singular pronoun.
@@ -63,17 +63,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="help-desk">
-			<term>help desk</term>
-			 <listitem>
-				<para>
-					Typically two words, but use the term accepted by your organization.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="healthcare">
+		 <!-- <varlistentry id="healthcare">
 			<term>healthcare</term>
 			 <listitem>
 				<para>
@@ -83,7 +73,7 @@
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry> -->
 		 <varlistentry id="health-check">
 			<term>health check</term>
 			 <listitem>
@@ -110,12 +100,22 @@
 
 				</para>
 				 <para>
-					Do not capitalize when referring to those services in a general way. For example: "A health check ensures your systems perform at their best."
+					Do not capitalize when referring to those services in a general way. For example: "A health check ensures that your systems perform at their best."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="help-desk">
+			<term>help desk</term>
+			 <listitem>
+				<para>
+					Typically two words, but use the term accepted by your organization.
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
 		 <varlistentry id="hertz">
 			<term>hertz</term>
 			 <listitem>
@@ -126,12 +126,15 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Hyphenate except as part of a product name. -->	
 		 <varlistentry id="high-availability">
 			<term>high-availability, high availability</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Hyphenate. For example, "high-availability cluster." Do not use "high availability."
+					<emphasis>adj.</emphasis> Hyphenate, except as part of a product name. For example, "high-availability cluster." 
+					<!-- Do not use "high availability." -->
 				</para>
+
 				 <para>
 					<emphasis>n.</emphasis> Two words. For example, "Support is available 24x7 to help maintain high availability."
 				</para>
@@ -153,7 +156,7 @@
 			<term>home page</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Two words. Capitalize the "H" at the beginning of a sentence. If part of a proper noun, capitalize accordingly. See <citetitle>The IBM Style Guide</citetitle> for more information.
+					<emphasis>n.</emphasis> Two words. Capitalize the "H" at the beginning of a sentence. If part of a proper noun, capitalize accordingly.
 				</para>
 
 			</listitem>
@@ -173,7 +176,7 @@
 			<term>host name</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Two words in most cases. Capitalize the "H" at the beginning of a sentence. See <citetitle>The IBM Style Guide</citetitle> for more information.
+					<emphasis>n.</emphasis> Two words in most cases. Capitalize the "H" at the beginning of a sentence. See the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>
@@ -244,7 +247,7 @@
 			<term>HTML</term>
 			 <listitem>
 				<para>
-					When referring to the language, use "HTML," such as "To see the HTML version of this documentation..." When referring to a web page extension, use "html," such as "The main page is <filename>index.html</filename>."
+					When referring to the language, use "HTML," such as "To see the HTML version of this documentation ..." When referring to a web page extension, use "html," such as "The main page is <filename>index.html</filename>."
 				</para>
 
 			</listitem>
@@ -257,7 +260,7 @@
 					<emphasis>adj.</emphasis> Hyphenate. Normal hyphenation rules apply.
 				</para>
 				 <para>
-					<emphasis>n.</emphasis> Use the two-word version in all cases. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization used in that interface.
+					<emphasis>n.</emphasis> Use the two-word version in all cases. Capitalize "huge" at the beginning of a sentence, and capitalize both words in titles. If you are documenting a user interface, use the capitalization that is used in that interface.
 				</para>
 
 			</listitem>
@@ -267,7 +270,7 @@
 			<term>hybrid IT</term>
 			 <listitem>
 				<para>
-					The preferred term when talking about IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of these. Because hybrid can indicate either infrastructure or environment or both, be specific about the underlying combination. See also <xref linkend="bimodal-it" />.
+					The preferred term to refer to IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of them. Because hybrid can indicate either infrastructure or environment, or both, be specific about the underlying combination. See also <xref linkend="bimodal-it" />.
 				</para>
 
 			</listitem>
@@ -277,7 +280,7 @@
 			<term>Hyper-Threading</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Hyper-Threading is Intel's implementation of simultaneous multithreading. Do not use hyperthreading or hyper-threading. If you are not referring specifically to Intel's implementation, use "simultaneous multithreading" or "SMT" instead.
+					<emphasis>n.</emphasis> Hyper-Threading is Intel's implementation of simultaneous multithreading. Do not use "hyperthreading" or "hyper-threading". If you are not referring specifically to Intel's implementation, use "simultaneous multithreading" or "SMT" instead.
 				</para>
 
 			</listitem>

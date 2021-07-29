@@ -1,0 +1,1380 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="avoiding-slang">
+<!-- Expand scope of this chapter to include other language topics. -->
+	<title>Choosing Appropriate Language</title>
+<!-- Original title: <title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title> -->
+	 <para>
+		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, avoid slang and other culture-specific terminology. This chapter attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
+  </para>
+	 <para>
+		If you find slang terms or other difficult-to-understand passages in our documentation, use this section to search for alternatives.
+	</para>
+	 <para>
+		Red&nbsp;Hat is committed to eliminating use of language that might exclude or offend certain groups of people. This chapter describes some considerations for use of inclusive language.
+	</para>
+	 <para>
+	 	Also in this chapter is guidance on some common categories of ambiguity in writing and how to avoid it.
+	</para>
+
+	 <section id="avoiding-confusing-language">
+		<title>Avoiding Misleading or Confusing Language</title>
+		 <para>
+			Some terms, phrases, and general language can be confusing if you are not a native speaker or if the phraseology has regional significance. Sometimes spelling changes are introduced over time and regions, based purely on differences in pronunciation. Some phrases can carry hidden or unintentional meanings. This section attempts to introduce a few examples.
+		</para>
+		 <variablelist>
+			<varlistentry>
+				<term>best practices</term>
+				 <listitem>
+					<para>
+						This is a commonly understood phrase, and despite some concerns about using superlatives without statistics to back them up, Red&nbsp;Hat does not actively discourage its use. It is also a more common search term than most alternatives. If you are in any doubt, the preferred alternative is "recommended practices."
+					</para>
+					<para>
+						See the section <xref linkend="making-recommendations" /> for additional information about recommendations in Red&nbsp;Hat documentation.
+					</para>
+		 		 </listitem>
+
+			</varlistentry>
+			 <varlistentry id="first-come-first-served">
+				<term>first come, first served</term>
+				 <listitem>
+					<para>
+						Indicates that customers will be attended to in the order that they arrive. The phrase abbreviates the sentence "The first to come is the first to be served," so use "served" instead of "serve" to keep the verb function the same. This phrase is an idiom, so avoid using it when content will be translated. When you use this phrase as an adjective, it is hyphenated as follows: Admittance is on a first-come, first-served basis.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+
+	</section>
+	 <section id="identify-avoid-slang">
+		<title>Identifying and Avoiding Slang</title>
+		 <para>
+			Examples of slang terms:
+		</para>
+		 <variablelist>
+			<varlistentry>
+				<term>administrivia</term>
+				 <listitem>
+					<para>
+						Not a word. Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>anything you like, anything they like</term>
+				 <listitem>
+					<para>
+						This phrase is probably readily understood but should not appear in Red&nbsp;Hat documentation.
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								"They can also use the slapi_register_plugin() call to register any kind of plug-in they like."
+							</para>
+							 <para>
+								Rephrase to something more suitable, such as "... to register any other kind of plug-in."
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</listitem>
+
+			</varlistentry>
+
+			 <varlistentry>
+				<term>ask (as a noun), make the ask</term>
+				 <listitem>
+					<para>
+						Ask is a verb. Do not use it as a noun.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>at this point in time</term>
+				 <listitem>
+					<para>
+						Do not use. In most cases, use "now." In some cases it is acceptable to use "at this point," for example, when you have reached a specific point in a procedure.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>automagic</term>
+				 <listitem>
+					<para>
+						Also, automagical. Both terms are slang. Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>best-of-breed</term>
+				 <listitem>
+					<para>
+						Jargon. Say exactly what you mean, for example, "the best product in its class" or "the best product of its type." Other alternatives include best, foremost, most advanced, optimum. The category is usually implied. Be wary of using superlatives without data to back up any claims.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>bleeding edge</term>
+				 <listitem>
+					<para>
+						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>bottom line</term>
+				 <listitem>
+					<para>
+						Traditionally used in financial contexts; avoid overuse.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+
+			 <varlistentry>
+				<term>bucketize</term>
+				 <listitem>
+					<para>
+						Not a word. Try "categorize" or "organize into logical groups."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>center of competency</term>
+				 <listitem>
+					<para>
+						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>check this site</term>
+				 <listitem>
+					<para>
+						Understood to mean "have a look at this website." The preferred phraseology is "See www.somewhere.com for more information." It is better to avoid "check" because it has so many meanings.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>coopetition</term>
+				 <listitem>
+					<para>
+						Not a word. Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>core competency</term>
+				 <listitem>
+					<para>
+						Jargon, cold and impersonal. Better choices include "specialization," "skill," "strength," "expertise," and so on. The De-Jargonator says: "'Competent' means 'adequate but not exceptional.' Why would you describe what you do best as 'competence'? Try instead: What your organization does best; competitive advantage; special or unique expertise or ability; specialty."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>eat your own dogfood</term>
+				 <listitem>
+					<para>
+						Developer-speak. It means to use your own products. You can get a detailed description at <ulink url="http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food">http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food</ulink>.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>data point</term>
+				 <listitem>
+					<para>
+						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>dig deeper, delve deeper</term>
+				 <listitem>
+					<para>
+						"Visit the following web link to dig deeper into [subject]..." Using "dig deeper" may translate awkwardly. Consider rewording: "For detailed information regarding [subject], see [link]."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>double-edged sword, double-bladed sword</term>
+				 <listitem>
+					<para>
+						If something is described as a double-edged sword, it indicates that it has two opposing behaviors or consequences. Instead, state that it can have unexpected consequences, or that the positive result might be offset by the negative result.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>enterprise-ready</term>
+				 <listitem>
+					<para>
+						Although Red&nbsp;Hat used to use this term to emphasize its products' enterprise readiness, it is not as necessary now, especially when talking about a product with "Enterprise" in its name, unless you're calling this out as a key selling point.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>exceed your expectations</term>
+				 <listitem>
+					<para>
+						Vague. Clarify with specifics, for example, "The movie made more money on the opening weekend than anyone expected." instead of "The movie exceeded our expectations."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>fib</term>
+				 <listitem>
+					<para>
+						A fib is a "small lie," also known as a "white lie." This sentence appeared in one of the GLS books: "this command tells fibs." Use something like "The output of this command can be misleading."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>flying by the seat of your pants</term>
+				 <listitem>
+					<para>
+						Generally understood to mean "reacting to events as they occur." Difficult to offer alternatives without context.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>frame it up</term>
+				 <listitem>
+					<para>
+						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>frown upon</term>
+				 <listitem>
+					<para>
+						"To frown upon" means to hold in low regard, not to approve of, and so on. For example: "...we generally frown on the use of session context...". This translates to (and should have been written as) "...the use of session context is not recommended..." (or words to that effect).
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>fuzzy (search)</term>
+				 <listitem>
+					<para>
+						Even though "fuzzy" is slang, it is common when referring to searches, especially in databases. This example came from the Directory Server documentation:
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								In Directory Server, if you do a fuzzy search for "Smith," you will probably also get "Smyth," because it sounds the same.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+					 <para>
+						The use of "fuzzy" is valid in this context.
+					</para>
+					 <para>
+						Note the difference between this and "wildcard" searches: "Sm?th" could return "Smith," "Smyth," "Smeth," or even "Smrth."
+					</para>
+					 <para>
+						Do not use "fuzzy" to describe something that is not clear, such as an image, a concept, an idea, and so on. For example, "He was a bit fuzzy on the details" is not valid.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>going-forward basis</term>
+				 <listitem>
+					<para>
+						Jargon. Say "from now on," "in the future," or something similar.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>happy path</term>
+				 <listitem>
+					<para>
+						Do not use. Often understood to mean "a path or method of least resistance" or "the preferred way to solve the current issue", this is localized slang and could easily be misunderstood. It could also produce problems for translation.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>harness the power</term>
+				 <listitem>
+					<para>
+						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>have a crack at, jump right in</term>
+				 <listitem>
+					<para>
+						Have a crack at and jump right in are closely related in meaning as they imply to "get started or give it a try." Alternatives to these are "start," "try," and "begin," and will depend on the context of what is being discussed.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>if you want, if you wish</term>
+				 <listitem>
+					<para>
+						Do not use. For example, instead of saying "If you want to perform an action,..." say "To perform an action,..."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>in concert with</term>
+				 <listitem>
+					<para>
+						Do not use. Instead, say "with." For example, change "Use gcov in concert with GCC to analyze..." to "Use gcov with GNU CC to analyze..."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>improve, enhance</term>
+				 <listitem>
+					<para>
+						Vague. Try to be more specific.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>in a pinch</term>
+				 <listitem>
+					<para>
+						Under a tight schedule, hard pressed to achieve something.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>infomediary</term>
+				 <listitem>
+					<para>
+						Not a word. Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>is designed to</term>
+				 <listitem>
+					<para>
+						Avoid this and similar phrases when describing products and services. Instead, state what the product does.
+					</para>
+					 <itemizedlist>
+						<listitem>
+							<para>
+								Incorrect: SSH is designed to work with almost any kind of public key algorithm or encoding format.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Correct: SSH works with almost any kind of public key algorithm or encoding format.
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>kettle of fish</term>
+				 <listitem>
+					<para>
+						Commonly used in the expression "a different kettle of fish," meaning "that's a different matter (altogether)." Depending on the context, try to use "topic," "subject," "matter," or something similar.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>leverage</term>
+				 <listitem>
+					<para>
+						Avoid. Alternatives include "use" and "take advantage of".
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>lights on, lights-on</term>
+				 <listitem>
+					<para>
+						Avoid using this term, because 1) it is jargon, 2) not everyone knows what it means, and 3) the meaning could be lost or confused in translation to other languages.
+					</para>
+					 <para>
+						It is typically used to mean maintaining the <foreignphrase>status quo</foreignphrase> or just doing what is required to keep things up and running (versus being proactive and innovative). For example, "A cloud can deliver strategic advantages to the business by redirecting resources from lights-on to innovation."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>low-hanging fruit</term>
+				 <listitem>
+					<para>
+						Metaphor. Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>marketecture</term>
+				 <listitem>
+					<para>
+						Not a word. Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>meet your needs</term>
+				 <listitem>
+					<para>
+						Vague. Try to be more specific, for example, "lower your middleware costs."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>mission-critical</term>
+				 <listitem>
+					<para>
+						Overused and jargony. Unless the topic is actually critical to a mission, use a factual term or phrase, for example, "Ensure that you have the applications that you need to help your customers." versus "Ensure that you have the mission-critical applications that your customers demand."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>net-net</term>
+				 <listitem>
+					<para>
+						Jargon. Use "in summary," "the end result," or something similar.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>niche focus</term>
+				 <listitem>
+					<para>
+						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>over the wire</term>
+				 <listitem>
+					<para>
+						Commonly used in expressions such as "password information is sent in plain text over the wire," meaning "sent unencrypted through the transmission medium" (whether it is a wired or wireless network, the internet, or whatever). The phrase is probably not required at all. "Sent or transmitted in plain text" is fine.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>pain in the backside</term>
+				 <listitem>
+					<para>
+						Nobody should ever write this expression or anything like it in any Red&nbsp;Hat documentation. Most people should know what it means. Use "problematic," "difficult," or something similar.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>paradigm</term>
+				 <listitem>
+					<para>
+						Avoid. Use "model," "standard," or something similar.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>performant</term>
+				 <listitem>
+					<para>
+						In the technical industry context, it means "performs as expected" or "well-performing." It is not necessarily a word everyone knows (and technically, it means "a performer," as in a play, according to most dictionaries), so use an alternative if possible.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>physicalize</term>
+				 <listitem>
+					<para>
+						Not a word. Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>piggyback</term>
+				 <listitem>
+					<para>
+						Slang. Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+      <varlistentry>
+        <term>pre-baked</term>
+        <listitem>
+          <para>
+            Means "prepared beforehand." Choose a suitable alternative, such as "preconfigured," depending on the context.
+          </para>
+        </listitem>
+      </varlistentry>
+			 <varlistentry>
+				<term>productize</term>
+				 <listitem>
+					<para>
+						Not a word. Find another way to say "modify something to become suitable as a commercial product." [wiktionary]
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>ready to rumble</term>
+				 <listitem>
+					<para>
+						"Let's get ready to rumble!" is a trademarked catchphrase used to introduce televised boxing or wrestling events. In US English slang, being "ready to rumble" means you are "ready to go ahead" or "ready to start."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>rest on your laurels</term>
+				 <listitem>
+					<para>
+						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>right before doing something</term>
+				 <listitem>
+					<para>
+						Preferred phrase would be "immediately before doing something." Otherwise, write around the phrase.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>root your server in the /serverRoot directory</term>
+				 <listitem>
+					<para>
+						This expression is inelegant. Be aware of the multiple meanings of words. Try something like "Use the /serverRoot directory as the root directory for your server." This example came from the Directory Server documentation, but it could apply to Web Servers or any other type of server.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>shoot yourself in the foot</term>
+				 <listitem>
+					<para>
+						To "shoot yourself in the foot" indicates that you did something to harm your own cause, or acting against your own best interests. Remove the sentence; it should be self-evident from the surrounding information. (Found this statement alongside the "double-edged sword" comment with an added note about "preserving all your toes.")
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>shy of</term>
+				 <listitem>
+					<para>
+						Apart from the "normal" meaning of shy, it is also found in such phrases as "he was just shy of the mark," meaning that he didn't quite succeed. Also, to be "a few items shy of what's required" means to have fewer than the minimum required number. Avoid this terminology and use more easily understood terms; it will help translators and also those reading English documentation who are unfamiliar with such slang.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>silo, siloed</term>
+				 <listitem>
+					<para>
+						Useful in farming, but in business it is jargon. Use "stand-alone," "confined," "separated," or something similar.
+					</para>
+<!-- Not "segregated", which has negative cultural connotations. -->
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>solutioning</term>
+				 <listitem>
+					<para>
+						Not a word. Lazy version of "creating a solution."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>solutions-based</term>
+				 <listitem>
+					<para>
+						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>solution stack</term>
+				 <listitem>
+					<para>
+						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+
+			 <varlistentry>
+				<term>stovepipe</term>
+				 <listitem>
+					<para>
+						Jargon. In business, related to lack of cross-organizational communication, similar to "silo."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>synergistic, synergy</term>
+				 <listitem>
+					<para>
+						Jargon. Use "cooperative," "working together," "collaborative," "harmonious," or something similar.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>synergical connectivity</term>
+				 <listitem>
+					<para>
+						Seriously?
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>to think outside the box</term>
+				 <listitem>
+					<para>
+						1990 called and wants its jargon back. How about "(think) creatively" or "(think) unconventionally"?
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>tunnel vision</term>
+				 <listitem>
+					<para>
+						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>under the covers</term>
+				 <listitem>
+					<para>
+						This refers to something being out of plain sight or not immediately obvious. For example, you might only see the results of some action or command, but what happens "under the covers" is what is going on in the background, that you can't see or are not aware of, to make that action of command possible.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>value-added</term>
+				 <listitem>
+					<para>
+						Jargon. Say "added value" or "valuable." Or be more specific, for example, "adds value by improving productivity."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>very</term>
+				 <listitem>
+					<para>
+						Use with caution. For example, there is little value in saying "very cost-effective" versus "cost-effective."
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>virtual elephants</term>
+				 <listitem>
+					<para>
+						This refers to a group of blind-folded people all touching different parts of an elephant and trying to describe what it is. Nobody sees the "big picture." Curiously, it appeared in an STC article about working in global and virtual teams and using effective communication. It falls into the same category as "skeletons in the closet," "dark horse," "black sheep," and so on. Use descriptions and adjectives that are not specific to a particular culture or locale. See <ulink url="http://en.wikipedia.org/wiki/Blind_Men-anElephant">http://en.wikipedia.org/wiki/Blind_Men-anElephant</ulink> for more information.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+
+	</section>
+	 <section id="Avoiding_Slang_Metaphors-MisleadingLanguage-Neologisms_Invented_Words">
+		<title>Neologisms (Invented Words)</title>
+		 <para>
+			The English language is full of these words. Some of them are useful; some of them are less so; others are just painful, difficult to translate, and should be avoided. Many of them are the result of creating nouns from verbs, verbs from nouns, and adjectives from just about anything. Unless a particular word has been in use for some time and is generally accepted into common English, try to avoid these neologisms. If necessary, reword or restructure your sentences.
+		</para>
+		 <itemizedlist id="item-Neologisms_Invented_Words-Examples">
+			<title>Examples</title>
+			 <listitem>
+				<para>
+					"This feature allows synchronization of adds, deletes, and changes ..."
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							This sentence converted three verbs to nouns. A better structure might be, "This feature allows the synchronization of add, delete, and change operations..."
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</itemizedlist>
+
+	</section>
+<!-- Added phrasal verbs section. -->
+	 <section id="phrasal-verbs">
+		<title>Phrasal Verbs</title>
+		 <para>
+			Avoid using a two-word verb form (a <emphasis>phrasal verb</emphasis>) if a one-word equivalent exists.
+		</para>
+	<table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> click on </entry>
+						 <entry> click </entry>
+
+					</row>
+					<row>
+						<entry> fill in, fill out (a form) </entry>
+						 <entry> complete (a form) </entry>
+
+					</row>
+					<row>
+						<entry> leave out </entry>
+						 <entry> omit </entry>
+
+					</row>
+					<row>
+						<entry> print out </entry>
+						 <entry> print </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	</section>
+	 <section id="Avoiding_Slang_Metaphors-MisleadingLanguage-Anthropomorphism">
+		<title>Anthropomorphism</title>
+		 <para>
+			Anthropomorphism is applying human qualities to non-human things or animals. Avoid it in your writing.
+		</para>
+		 <itemizedlist id="item-Anthropomorphism-Examples">
+			<title>Examples</title>
+			 <listitem>
+				<para>
+					The computer will think for a brief period.
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Computers do not actually think but they might take a while to "process" commands.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+			 <listitem>
+				<para>
+					The Proxy Server is talking to either RHN Hosted or a Satellite Server.
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							It is quite common to say "talk to" in this context, but "communicate with," "connected to," "registered with," or something similar would be better.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</itemizedlist>
+		 <para>
+			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>
+		</para>
+
+	</section>
+
+<!-- Added sections:
+Inclusive Language (new)
+Avoiding Ambiguities (move from Chapter 2)
+Dates and Times (new)
+Numbers (move from N entry) -->
+	 <section id="inclusive-language">
+		<title>Inclusive Language</title>
+		 <para>
+			In a blog post, Red&nbsp;Hat senior vice president and chief technology officer, Chris Wright, affirms a commitment for Red&nbsp;Hat to identify and replace problematic language that is potentially divisive and does not foster inclusion:
+		</para>
+		 <para>
+			<ulink url="https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language" />
+		</para>
+		 <para>
+			Follow these guiding principles:
+		</para>
+		 <para>
+			Do not use the terms "white" or "black" in a context where white is represented as good or black is represented as bad, such as "whitelist" and "blacklist". Such usage reinforces a model that promotes racial bias.  
+		</para>
+		 <para>
+			For alternatives, choose words that describe the action that is taken or the function that is performed, rather than a metaphor for that action or function, for example "allowlist" instead of "whitelist", or "blocklist" or "denylist" instead of "blacklist". 
+		</para>
+		 <para>
+			Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use of "master" is acceptable in other contexts, such as to refer to mastery of a skill. 
+		</para>
+		 <para>
+			Avoid gender bias. As an example, do not assume that the subject of a sentence is male if the context might refer to any gender. Thus, instead of using "man hours", use "labor hours" or "person hours". Avoid binary gendered language, such as "he" or "she", except to refer to a specific named person. Do not use "he or she". Instead, use the ungendered "they" as the preferred pronoun.
+		</para>
+		 <para>
+			Avoid neurodiversity bias. For example, avoid the terms "sanity check" and "sanity test", and do not use "disabled" to refer to a person. 
+		</para>
+		 <para>
+			Avoid superlatives in job titles and descriptions, especially problematic terms such as "guru", "ninja", "rockstar", or "evangelist". 
+		</para>
+		 <para>
+			Such guidance, including judgement of what constitutes acceptable versus unacceptable use, will evolve over time. 
+		</para>
+	</section>
+
+<!-- Moved Ambiguities section here from Chapter 2 and added several more categories of ambiguity to avoid. -->
+	 <section id="avoiding-ambiguities">
+		<title>Avoiding Ambiguities</title>
+		 <variablelist>
+
+			<varlistentry id="proper-nouns">
+				<term> Capitalizing Proper Nouns </term>
+				 <listitem>
+					<para>
+						In some cases it is not clear if a term refers to a concept or a proper noun or product name. By using the correct capitalization, you will help translators identify untranslatable proper nouns and Red Hat product names.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> This property must be enabled when you are using CTDB in a Windows domain or in active directory security mode. </entry>
+									 <entry> This property must be enabled when you are using CTDB in a Windows domain or in Active Directory security mode. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="homographs">
+				<term> Homographic Verbs </term>
+				 <listitem>
+					<para>
+						The verb "may" might indicate possibility or grant permission. Similarly, "should" might imply a recommendation or express obligation or expectation. A sentence containing one of these verbs often has a double meaning. Avoid these types of words.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> The <methodname>next()</methodname> method should return <code>null</code> to indicate the end of results. </entry>
+									 <entry> The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. <emphasis>OR</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results. </entry>
+
+								</row>
+								 <row>
+									<entry> It may be held in memory. </entry>
+									 <entry> It can be held in memory. <emphasis>OR</emphasis> It might be held in memory. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="homonyms">
+				<term> Homonymity </term>
+				 <listitem>
+					<para>
+						When a single term has multiple meanings, be explicit in order to differentiate between them.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Tab through the dialog box. Set the tab. Move the tab on the ruler. How to show or hide tabs. Select the tab. </entry>
+									 <entry> Use the tab key to move through the dialog box. Set the tab stop. Move the tab mark on the ruler. How to show or hide tab characters. Select the <guimenuitem>View</guimenuitem> tab in the <guimenuitem>Options</guimenuitem> dialog box. </entry>
+
+								</row>
+								 <row>
+									<entry> To create another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
+									 <entry> To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. <emphasis>OR</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+					 <note>
+						<para>
+							See also <xref linkend="genders" />.
+						</para>
+
+					</note>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="infinitive">
+				<term>Verb phrases</term>
+				 <listitem>
+					<para>
+						When you have more than one infinitive verb within a sentence, be clear what each verb refers to.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Use the utility to run activities and save your settings. </entry>
+								<!-- Split into 2 sentences	 -->
+									 <entry> Depending on the meaning: Use the utility to run activities and to save your settings (if the utility does both functions). Or:  Use the utility to run activities, and then when you are done, save your settings (if the process consists of two separate steps, of which the utility does only one). </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+
+			 <varlistentry id="invisible-plurals">
+				<term> Invisible Plurals </term>
+				 <listitem>
+					<para>
+						Some two-word phrases (noun + noun) do not clarify whether the first noun is singular or plural.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Once the file retrieval has been completed, you are ready to restart your system. </entry>
+									 <entry> After the files have been retrieved, you can restart your system. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+			</varlistentry>
+
+			 <varlistentry id="pronoun">
+				<term>Verb phrases</term>
+				 <listitem>
+					<para>
+						Avoid ambiguous pronoun references, where a pronoun can refer to more than one antecedent.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> If the completed field contains text, it does not change. </entry>
+									 <entry> If the completed field contains text, that text does not change. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+			</varlistentry>
+
+			 <varlistentry id="synonymity">
+				<term>Synonymity</term>
+				 <listitem>
+					<para>
+						Sometimes multiple terms have a single meaning. If terms are used inconsistently, users (and translators) will assume they refer to different things. It is best to use a single term for a single concept throughout.
+					</para>
+					 <para>
+						For example, "Administration GUI" and "Administration Console" could both be used to refer to a single application or to different applications. For this reason it is important that writers choose the most suitable term for each situation and use it consistently.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="using">
+				<term>Use of "using"</term>
+				 <listitem>
+					<para>
+						Use of the word "using" can result in ambiguity, which can often be resolved by using "that uses" or "by using", according to the meaning.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+<!-- Added better examples.		  -->
+								<row>
+									<entry> Open the firewall ports using the existing service configuration. </entry>
+									<entry> 
+									<para>
+									Option 1: Open the firewall ports by using the existing service configuration.
+									</para>
+									<para>Option 2: Use the existing service configuration to open the firewall ports.
+									</para>
+									 </entry>
+
+								</row>
+								<row>
+									<entry> The resource agents using mail alerts require a mail transport agent. </entry>
+									 <entry> The resource agents that use mail alerts require a mail transport agent. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="verb">
+				<term>Verb phrases</term>
+				 <listitem>
+					<para>
+						Ensure that a verb phrase at the start of a sentence modifies the correct word.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Having configured your environment, the product is ready to be used. (The product does not configure the environment.) </entry>
+									 <entry> After you configure your environment, you can use the product. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+
+		</variablelist>
+
+	</section>
+
+<section id="date-time">
+		<title>Dates and Times</title>
+
+		 <para>
+		Do not use an all-numeric representation for dates. For example, 9/12/2020 means September 12, 2020 in the US but 9 December 2020 in most other countries. Instead, write the month as a word.
+		</para>
+
+		 <para>
+		Instead of writing "The product was manufactured on 4/1/21", which is ambiguous, use a format in running text where the month is represented as a word rather than as a numeral, such as "The product was manufactured on 1 April 2021".
+		</para>
+
+		 <para>
+		Exception: Use of an all-numeric representation is allowed when space is limited, as in a user interface, or to enhance readability. In such cases, use the ISO date format with a 4-digit year (YYYY-MM-DD) and define the format in a header or legend.
+		</para>
+		 <para>
+		For times of day, use lowercase with periods, such as "11&nbsp;a.m.". Use a nonbreaking space between the numeral and "a.m." or "p.m.".
+		</para>
+		 <!-- Not implementing this change yet.
+		 <para>
+		For times of day, use uppercase without periods, such as "11&nbsp;AM". Use a nonbreaking space between the numeral and "AM" or "PM".
+		</para> -->
+
+		 <para>
+		Use "noon" or "12 noon" instead of "12 p.m.".
+		Use "midnight" or "12 midnight" instead of "12 a.m.".
+		</para>
+<itemizedlist>
+			<title>Examples</title>
+			 <listitem>
+				<para>
+				The training class begins at 10 a.m. on 1 April 2021.
+				</para>
+				<para>
+				The coffee break is from 2:00 p.m. to 2:30 p.m.
+				</para>
+			</listitem>
+      </itemizedlist>
+
+<!-- Added examples to combine date and time. -->
+
+	</section>
+
+<!-- Moved Numbers entry here from N section, subdivided further into paragraphs, and updated example RHEL version. -->
+
+  <section id="numbers">
+		<title>Numbers</title>
+		 <para>
+		Spell out the following number types: numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of ...), and very large values.
+		</para>
+		 <para>
+		Use numerals for numbers 10 and greater, and for numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (for example, "You answered 8 out of 14 questions correctly"). Use numerals for negative numbers, fractions, percentages, decimals, measurements, and references to book sections (for example, Chapter 3, Table 5, Page 11). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (such as Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8, Linux kernel&nbsp;4.18).
+		</para>
+		 <para>
+		Do not use commas in numbers with four digits (use 1000 rather than 1,000). Use commas, to separate goups of three digits, in numbers with five or more digits (such as 10,000; 123,456,789; 1,000,000,000).
+		</para>
+    	 <para>
+		See <citetitle>The Chicago Manual of Style, 17th Edition</citetitle> for detailed information on numbering formats.
+		</para>
+
+<!-- Moved Telephone numbers entry here from T section, and renamed to Phone numbers. -->
+  		<section id="phone-numbers">
+		<title>Phone numbers</title>
+		 <para>
+		Use spaces, not dashes or dots, to punctuate phone numbers. When indicating a number for international use, include the country code (+1 555 555 5555 for a US number, for example). US 800 numbers are not accessible from outside the country, so do not precede them with a country code (800 555 5555). Phone numbers beginning with 0 are not for international use. Make these numbers ready for international use by dropping the zero and adding the appropriate country code. For example, (055) 12345 would be for use in Italy only; change it to +39 (55) 12345 for international use.
+		</para>
+
+		</section>
+
+</section>
+</chapter>

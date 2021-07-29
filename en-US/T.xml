@@ -20,7 +20,7 @@
 			<term>tar, tarball</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle>.
+					<emphasis>n.</emphasis> See the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
 				</para>
 
 			</listitem>
@@ -59,17 +59,10 @@
 
 			</listitem>
 
-		</varlistentry>
-		 <varlistentry id="telephone-numbers">
-			<term>telephone numbers</term>
-			 <listitem>
-				<para>
-					Use spaces, not dashes or dots, to punctuate phone numbers. When indicating a number for international use, include the country code (+1 555 555 5555 for a US number, for example). US 800 numbers are not accessible from outside the country, so do not precede them with a country code (800 555 5555). Phone numbers beginning with 0 are not for international use. Make these numbers ready for international by dropping the zero and adding the appropriate country code. For example, (055) 12345 would be for use in Italy only; change it to +39 (55) 12345 for international use.
-				</para>
+	 </varlistentry>
 
-			</listitem>
+<!-- Moved "telephone numbers" entry to Chapter 4 and renamed to "phone numbers". -->
 
-		</varlistentry>
 		 <varlistentry id="terminal">
 			<term>terminal</term>
 			 <listitem>
@@ -77,7 +70,7 @@
 					<emphasis>n.</emphasis> Do not use to describe where to type commands. Use "command line" instead.
 				</para>
 				 <para>
-					See the Word Usage appendix of <citetitle>The IBM Style Guide</citetitle> for more information.
+					See the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>
@@ -87,7 +80,17 @@
 			<term>terminal emulation</term>
 			 <listitem>
 				<para>
-					Refers to making a computer respond like a particular type of terminal. Terminal emulation programs allow you to access a mainframe computer or bulletin board service with a personal computer.
+					Refers to making a computer respond like a particular type of terminal. With a terminal emulation program, you can access a mainframe computer or bulletin board service with a personal computer.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="text_based">
+			<term>text-based</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Correct. Do not use "text based."
 				</para>
 
 			</listitem>
@@ -101,16 +104,6 @@
 				</para>
 				 <para>
 					A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="text_based">
-			<term>text-based</term>
-			 <listitem>
-				<para>
-					<emphasis>adj.</emphasis> Correct. Do not use "text based."
 				</para>
 
 			</listitem>
@@ -140,7 +133,7 @@
 			<term>throughput</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> The amount of data transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See <citetitle>The IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
+					<emphasis>n.</emphasis> The amount of data that is transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See the <citetitle>IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
 				</para>
 
 			</listitem>
@@ -156,6 +149,7 @@
 			</listitem>
 
 		</varlistentry>
+<!-- IBM has now changed to use of one-word forms for many "time-" prefixed words: timebox, timeframe, timeline, timeout, timeslice, timestamp, but still "time zone". -->
 		 <varlistentry id="time-frame">
 			<term>time frame (n.)</term>
 			 <listitem>
@@ -177,10 +171,11 @@
 
 		</varlistentry>
 		 <varlistentry id="token-ring">
-			<term>token ring (n.)</term>
+			<term>token-ring (n.)</term>
 			 <listitem>
 				<para>
-					When capitalized, Token Ring refers to the PC network architecture developed by IBM. The IBM Token-Ring specification has been standardized by the IEEE as the IEEE 802.5 standard. See <citetitle>The IBM Style Guide</citetitle> for further uses of this term.
+					When capitalized, Token-Ring refers to the PC network architecture that IBM developed. The IBM Token-Ring specification is standardized by the IEEE as the IEEE 802.5 standard. 
+					<!-- See the <citetitle>IBM Style Guide</citetitle> for further uses of this term. -->
 				</para>
 
 			</listitem>
