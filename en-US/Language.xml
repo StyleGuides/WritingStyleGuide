@@ -77,7 +77,7 @@
 					 <itemizedlist>
 						<listitem>
 							<para>
-								"They can also use the slapi_register_plugin() call to register any kind of plug-in they like."
+								"They can also use the <systemitem>slapi_register_plugin()</systemitem> call to register any kind of plug-in they like."
 							</para>
 							 <para>
 								Rephrase to something more suitable, such as "... to register any other kind of plug-in."
@@ -95,7 +95,9 @@
 				<term>ask (as a noun), make the ask</term>
 				 <listitem>
 					<para>
-						Ask is a verb. Do not use it as a noun.
+						"To ask" is a verb.
+            As a noun, "ask" is chiefly British and also considered informal.
+            Do not use it in technical documentation.
 					</para>
 
 				</listitem>
@@ -182,16 +184,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
-				<term>coopetition</term>
-				 <listitem>
-					<para>
-						Not a word. Do not use.
-					</para>
 
-				</listitem>
-
-			</varlistentry>
 			 <varlistentry>
 				<term>core competency</term>
 				 <listitem>
@@ -266,7 +259,8 @@
 				<term>fib</term>
 				 <listitem>
 					<para>
-						A fib is a "small lie," also known as a "white lie." This sentence appeared in one of the GLS books: "this command tells fibs." Use something like "The output of this command can be misleading."
+						A fib is a "small lie," also known as a "white lie."
+            For example, "This command tells fibs" is better written as "The output of this command can be misleading."
 					</para>
 
 				</listitem>
@@ -410,16 +404,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
-				<term>infomediary</term>
-				 <listitem>
-					<para>
-						Not a word. Do not use.
-					</para>
 
-				</listitem>
-
-			</varlistentry>
 			 <varlistentry>
 				<term>is designed to</term>
 				 <listitem>
@@ -488,16 +473,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
-				<term>marketecture</term>
-				 <listitem>
-					<para>
-						Not a word. Do not use.
-					</para>
 
-				</listitem>
-
-			</varlistentry>
 			 <varlistentry>
 				<term>meet your needs</term>
 				 <listitem>
@@ -548,16 +524,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
-				<term>pain in the backside</term>
-				 <listitem>
-					<para>
-						Nobody should ever write this expression or anything like it in any Red&nbsp;Hat documentation. Most people should know what it means. Use "problematic," "difficult," or something similar.
-					</para>
 
-				</listitem>
-
-			</varlistentry>
 			 <varlistentry>
 				<term>paradigm</term>
 				 <listitem>
@@ -578,16 +545,7 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
-				<term>physicalize</term>
-				 <listitem>
-					<para>
-						Not a word. Do not use.
-					</para>
 
-				</listitem>
-
-			</varlistentry>
 			 <varlistentry>
 				<term>piggyback</term>
 				 <listitem>
@@ -647,10 +605,12 @@
 
 			</varlistentry>
 			 <varlistentry>
-				<term>root your server in the /serverRoot directory</term>
+				<term>root your server in the <filename>/serverRoot</filename> directory</term>
 				 <listitem>
 					<para>
-						This expression is inelegant. Be aware of the multiple meanings of words. Try something like "Use the /serverRoot directory as the root directory for your server." This example came from the Directory Server documentation, but it could apply to Web Servers or any other type of server.
+						This expression is inelegant.
+            Be aware of the multiple meanings of words.
+            Try something like "Use the <filename>/serverRoot</filename> directory as the root directory for your server."
 					</para>
 
 				</listitem>
@@ -680,23 +640,14 @@
 				<term>silo, siloed</term>
 				 <listitem>
 					<para>
-						Useful in farming, but in business it is jargon. Use "stand-alone," "confined," "separated," or something similar.
+						Use "stand-alone," "confined," "separated," or something similar.
 					</para>
 <!-- Not "segregated", which has negative cultural connotations. -->
 
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
-				<term>solutioning</term>
-				 <listitem>
-					<para>
-						Not a word. Lazy version of "creating a solution."
-					</para>
 
-				</listitem>
-
-			</varlistentry>
 			 <varlistentry>
 				<term>solutions-based</term>
 				 <listitem>
@@ -738,21 +689,12 @@
 				</listitem>
 
 			</varlistentry>
-			 <varlistentry>
-				<term>synergical connectivity</term>
-				 <listitem>
-					<para>
-						Seriously?
-					</para>
 
-				</listitem>
-
-			</varlistentry>
 			 <varlistentry>
 				<term>to think outside the box</term>
 				 <listitem>
 					<para>
-						1990 called and wants its jargon back. How about "(think) creatively" or "(think) unconventionally"?
+						Use "think creatively" or "think unconventionally" or rephrase completely.
 					</para>
 
 				</listitem>
@@ -948,25 +890,25 @@ Numbers (move from N entry) -->
 			Follow these guiding principles:
 		</para>
 		 <para>
-			Do not use the terms "white" or "black" in a context where white is represented as good or black is represented as bad, such as "whitelist" and "blacklist". Such usage reinforces a model that promotes racial bias.  
+			Do not use the terms "white" or "black" in a context where white is represented as good or black is represented as bad, such as "whitelist" and "blacklist". Such usage reinforces a model that promotes racial bias.
 		</para>
 		 <para>
-			For alternatives, choose words that describe the action that is taken or the function that is performed, rather than a metaphor for that action or function, for example "allowlist" instead of "whitelist", or "blocklist" or "denylist" instead of "blacklist". 
+			For alternatives, choose words that describe the action that is taken or the function that is performed, rather than a metaphor for that action or function, for example "allowlist" instead of "whitelist", or "blocklist" or "denylist" instead of "blacklist".
 		</para>
 		 <para>
-			Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use of "master" is acceptable in other contexts, such as to refer to mastery of a skill. 
+			Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use of "master" is acceptable in other contexts, such as to refer to mastery of a skill.
 		</para>
 		 <para>
 			Avoid gender bias. As an example, do not assume that the subject of a sentence is male if the context might refer to any gender. Thus, instead of using "man hours", use "labor hours" or "person hours". Avoid binary gendered language, such as "he" or "she", except to refer to a specific named person. Do not use "he or she". Instead, use the ungendered "they" as the preferred pronoun.
 		</para>
 		 <para>
-			Avoid neurodiversity bias. For example, avoid the terms "sanity check" and "sanity test", and do not use "disabled" to refer to a person. 
+			Avoid neurodiversity bias. For example, avoid the terms "sanity check" and "sanity test", and do not use "disabled" to refer to a person.
 		</para>
 		 <para>
-			Avoid superlatives in job titles and descriptions, especially problematic terms such as "guru", "ninja", "rockstar", or "evangelist". 
+			Avoid superlatives in job titles and descriptions, especially problematic terms such as "guru", "ninja", "rockstar", or "evangelist".
 		</para>
 		 <para>
-			Such guidance, including judgement of what constitutes acceptable versus unacceptable use, will evolve over time. 
+			Such guidance, including judgement of what constitutes acceptable versus unacceptable use, will evolve over time.
 		</para>
 	</section>
 
@@ -1243,7 +1185,7 @@ Numbers (move from N entry) -->
 <!-- Added better examples.		  -->
 								<row>
 									<entry> Open the firewall ports using the existing service configuration. </entry>
-									<entry> 
+									<entry>
 									<para>
 									Option 1: Open the firewall ports by using the existing service configuration.
 									</para>
