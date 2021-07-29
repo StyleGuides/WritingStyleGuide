@@ -369,8 +369,8 @@ $ vi myFile.txt
 <screen># cd /var/lib/katello
 
 # myCommand --option funky --color=true
-  --config_file=&lt;replaceable&gt;/home/user/config.conf&lt;/replaceable&gt;
-  --output_file=&lt;replaceable&gt;/home/user/output.txt&lt;/replaceable&gt;</screen>
+  --config_file=/home/user/config.conf
+  --output_file=/home/user/output.txt</screen>
 
 				</example>
 
@@ -379,12 +379,12 @@ $ vi myFile.txt
       <section id="replaceable-paths">
         <title>Referring to Replaceable Paths</title>
           <para>
-            To refer to a path that users need to replace with something that is specific to their system, use &lt;replaceable&gt; tags, the correct syntax for the system and object in question, and an indicative name.
+            To refer to a path that users need to replace with something that is specific to their system, use the appropriate markup for your content, the correct syntax for the system and object in question, and an indicative name.
             Use a leading slash if the absolute path is required.
           </para>
           <example><title>Referring to Replaceable Paths on Linux Systems</title>
             <para>
-              "Mount the ISO file in &lt;filename&gt;&lt;replaceable&gt;/path/to/iso/file&lt;/replaceable&gt;&lt;/filename&gt;."
+              "Mount the ISO file in <replaceable>/path/to/iso/file</replaceable>."
             </para>
           </example>
           <para>
@@ -393,7 +393,7 @@ $ vi myFile.txt
           <example><title>Referring to Replaceable Paths on Microsoft Windows Systems</title>
 
           <para>
-            "Mount the ISO file in &lt;filename&gt;&lt;replaceable&gt;C:\path\to\iso\file&lt;/replaceable&gt;&lt;/filename&gt;."
+            "Mount the ISO file in <replaceable>C:\path\to\iso\file</replaceable>."
           </para>
           </example>
           <para>
@@ -401,10 +401,10 @@ $ vi myFile.txt
             For example:
           </para>
           <para>
-            A PATH variable for Bash might appear as &lt;replaceable&gt;/usr/bin:/usr/local/bin&lt;/replaceable&gt;.
+            A PATH variable for Bash might appear as <replaceable>/usr/bin:/usr/local/bin</replaceable>.
           </para>
           <para>
-            A package path in Lua might appear as &lt;replaceable&gt;local.share.lua&lt;/replaceable&gt;.
+            A package path in Lua might appear as <replaceable>local.share.lua</replaceable>.
           </para>
         </section>
 
