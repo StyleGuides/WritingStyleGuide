@@ -14,7 +14,7 @@
       This section describes how to construct your content for clarity and readability.
       A full discussion of this topic is beyond the scope of this guide.
     </para>
-    
+
 		 <section id="Sentence_Structure-Using_Lists_Correctly">
 			<title>Using and Formatting Lists</title>
 			 <para>
@@ -71,7 +71,7 @@
     <para>
         You can nest lists, but try to keep the number of levels to two or fewer.
         To nest procedures in DocBook, use &lt;substep&gt; elements.
-<!-- In AsciiDoc? -->		
+<!-- In AsciiDoc? -->
     </para>
     <section><title>Formatting Lists for Readability</title>
       <para>
@@ -80,7 +80,7 @@
         The same consideration applies to lists.
         If you use DocBook to build itemized, ordered, or variable (definition) lists, you can use the <option>compact</option> or <option>normal</option> attributes to specify the spacing between list items.
         DocBook uses the <option>normal</option> spacing attribute by default.
-		<!-- In AsciiDoc? -->	
+		<!-- In AsciiDoc? -->
       </para>
       <para>
         Use a list with normal spacing if any list item contains the following components:
@@ -112,7 +112,7 @@
         </para>
       </note>
 
-    
+
 		 <para>
 			The following discussion provides some initial insight into using lists correctly. See the <citetitle>IBM Style Guide</citetitle> for a full discussion.
 		</para>
@@ -182,7 +182,7 @@
 		</table>
     </section>
     </section>
-    
+
 		 <section id="Sentence_Structure-Noun_Stacking">
 			<title>Noun Stacking</title>
 			 <para>
@@ -252,7 +252,7 @@
 					 <row>
 						<entry> The RPM is useful. </entry>
 						 <entry> The RPM package is useful. <emphasis>OR</emphasis> The RPM Package Manager is useful. </entry>
-	<!-- Does this sentence add any value? -->					 
+	<!-- Does this sentence add any value? -->
 
 					</row>
 
@@ -264,18 +264,16 @@
 
 	</section>
 	 <section id="Writing_Clearly_and_Succinctly-DocBook_Elements">
-		<title>DocBook Elements</title>
+		<title>Using Markup Correctly</title>
+    <para>
+      If you use a markup language to write your content, make the most of the available tagging options.
+      Many terms are not translatable, and should not be used as structural parts of a sentence.
+    </para>
 		 <para>
-			Use the correct DocBook elements to help translators to understand the meaning of, and to identify, translatable and non-translatable terms.
+			Correctly marking up terms can help translators to understand the meaning of, and to identify, translatable and non-translatable terms.
 		</para>
-		 
-		 <formalpara id="DocBook_Elements-Tagged_Terms_in_Sentences">
-			<title>Tagged Terms in Sentences</title>
-			 <para>
-				Many tagged terms are not translatable, and so they should not be used as structural parts of a sentence. Otherwise, translators must complete the blanks or tag terms themselves.
-			</para>
 
-		</formalpara>
+
 		 <table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
@@ -316,6 +314,12 @@
 			</tgroup>
 
 		</table>
+    <note>
+      <para>
+        This guide does not try to cover the many ways that you can use markup languages to write content.
+        Many online resources exist for these languages.
+      </para>
+    </note>
 
 	</section>
 	 <section id="Writing_Clearly_and_Succinctly-Code_Blocks">
@@ -339,7 +343,7 @@
 			</para>
 			 </footnote>. Entities are called by reference, and take the form &amp;name; (both the ampersand and the semicolon are required).
 		</para>
-<!-- Is this information still useful and needed? -->		
+<!-- Is this information still useful and needed? -->
 		 <para>
 			Entities can be helpful in some cases, but they are more of a hindrance when used for terms that need translation. Translators must compare the string with the built document to determine what the entity stands for. These entities might even be overlooked and not be translated at all.
 		</para>
