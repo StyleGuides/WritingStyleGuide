@@ -699,7 +699,10 @@ $ vi myFile.txt
 		 <formalpara id="acronyms">
 			<title>Acronyms</title>
 			 <para>
-				What are acronyms anyway? They are similar to abbreviations and initialisms but they are pronounced as a word. An acronym is a word that is formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead <emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader. <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
+				What are acronyms anyway?
+        They are similar to abbreviations and initialisms but they are pronounced as a word.
+        An acronym is a word that is formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead-<emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader.
+        <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
 			</para>
 		</formalpara>
 
