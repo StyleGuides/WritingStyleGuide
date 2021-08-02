@@ -119,7 +119,7 @@
 				<para>
 					Correct. Do not use "Firewire" or "firewire." Although FireWire is a trademark of Apple Computer, it is not needed to append a trademark symbol, except to refer to Apple's FireWire software license or specific logos. See <ulink url="https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html">https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html</ulink>.
 				</para>
-<!-- Updated Apple trademark guidelines URL. -->				
+<!-- Updated Apple trademark guidelines URL. -->
 
 			</listitem>
 
@@ -258,9 +258,9 @@
           For example, <uri>www.redhat.com</uri> is a fully qualified domain name, where <quote>www</quote> is the host, <quote>redhat</quote> is the second-level domain, and <quote>com</quote> is the top-level domain.
 				</para>
 				 <para>
-					An FQDN always starts with a host name and continues all the way up to the top-level domain name; consequently <quote>www.parc.xerox.com</quote> is also an FQDN.
+					An FQDN always starts with a hostname and continues all the way up to the top-level domain name; consequently <quote>www.parc.xerox.com</quote> is also an FQDN.
 				</para>
-<!-- Changed to "an FQDN". --> 				
+<!-- Changed to "an FQDN". -->
 
 			</listitem>
 
@@ -310,7 +310,7 @@
 				<para>
 					Correct. "Futex" is an abbreviation of "fast user-space mutex." Consequently, "futexes" is the correct plural form.
 				</para>
-<!-- Removed term capitalization for "futexes". -->				
+<!-- Removed term capitalization for "futexes". -->
 
 			</listitem>
 
@@ -321,7 +321,7 @@
 				<para>
 					Correct only when referring to fuzzy searches. See <xref linkend="avoiding-slang" /> for details and examples.
 				</para>
-<!-- Removed term capitalization for "fuzzy". -->						
+<!-- Removed term capitalization for "fuzzy". -->
 
 			</listitem>
 
