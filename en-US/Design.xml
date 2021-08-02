@@ -219,7 +219,7 @@
 					<term>Source options <replaceable>[username@]hostname:/repository_filename</replaceable>)</term>
 					 <listitem>
 						<para>
-							The optional user name, indicated by brackets ([]), followed by the host name and path to the repository.
+							The optional username, indicated by brackets ([]), followed by the hostname and path to the repository.
               All aspects of this component must be replaced with valid values.
 						</para>
 
@@ -284,7 +284,7 @@
 					<term>Target options (<replaceable>[username@]hostname:/directory</replaceable>)</term>
 					 <listitem>
 						<para>
-							The optional user name, indicated by brackets ([]), followed by the host name and path to the target directory. All aspects of this component must be replaced with valid values.
+							The optional username, indicated by brackets ([]), followed by the hostname and path to the target directory. All aspects of this component must be replaced with valid values.
 						</para>
 
 					</listitem>
@@ -528,9 +528,9 @@ $ vi myFile.txt
 
 		</section>
 		 <section id="use-hostnames-correctly">
-			<title>Using Host and User Names Correctly</title>
+			<title>Using Host and Usernames Correctly</title>
 			 <para>
-				Many examples in Red&nbsp;Hat documentation require the use of user names, host names, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following approach.
+				Many examples in Red&nbsp;Hat documentation require the use of usernames, hostnames, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following approach.
 			</para>
 			 <note>
 				<para>
@@ -594,7 +594,7 @@ $ vi myFile.txt
 					Sometimes, the recommended list of user and group names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable.
 				</para>
 				 <formalpara id="using-realistic-names">
-					<title>Using Realistic User Names</title>
+					<title>Using Realistic Usernames</title>
 					 <para>
 						When you are writing a detailed case study, such as training exercises, reviews, and similar material, use realistic names. These names should not be real people. In other words, do not use the name of an employee, a well-known person, or your neighbor.
 					</para>
@@ -671,7 +671,7 @@ $ vi myFile.txt
 				 <formalpara id="using-extended-group-names">
 					<title>Group Names</title>
 					 <para>
-						Use any lowercase name that is a logical extension of the accepted user names, without the numerical suffix. For example, <systemitem>architects</systemitem>, <systemitem>developers</systemitem>, <systemitem>operators</systemitem>.
+						Use any lowercase name that is a logical extension of the accepted usernames, without the numerical suffix. For example, <systemitem>architects</systemitem>, <systemitem>developers</systemitem>, <systemitem>operators</systemitem>.
 					</para>
 
 				</formalpara>

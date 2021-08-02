@@ -164,7 +164,7 @@
 			</listitem>
 
 		</varlistentry>
-		 
+
 		 <varlistentry id="user">
 			<term>user</term>
 			 <listitem>
@@ -192,10 +192,12 @@
 
 		</varlistentry>
 		 <varlistentry id="user-name">
-			<term>user name</term>
+			<term>username</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct. Do not use "username" unless you are using it as a variable.
+					<emphasis>n.</emphasis> One word in most cases.
+          Capitalize the "U" at the beginning of a sentence.
+          See the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>

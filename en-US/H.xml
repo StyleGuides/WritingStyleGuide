@@ -115,7 +115,7 @@
 
 			</listitem>
 
-		</varlistentry>		
+		</varlistentry>
 		 <varlistentry id="hertz">
 			<term>hertz</term>
 			 <listitem>
@@ -126,12 +126,12 @@
 			</listitem>
 
 		</varlistentry>
-<!-- Hyphenate except as part of a product name. -->	
+<!-- Hyphenate except as part of a product name. -->
 		 <varlistentry id="high-availability">
 			<term>high-availability, high availability</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Hyphenate, except as part of a product name. For example, "high-availability cluster." 
+					<emphasis>adj.</emphasis> Hyphenate, except as part of a product name. For example, "high-availability cluster."
 					<!-- Do not use "high availability." -->
 				</para>
 
@@ -173,10 +173,12 @@
 
 		</varlistentry>
 		 <varlistentry id="host-name">
-			<term>host name</term>
+			<term>hostname</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Two words in most cases. Capitalize the "H" at the beginning of a sentence. See the <citetitle>IBM Style Guide</citetitle> for more information.
+					<emphasis>n.</emphasis> One word in most cases.
+          Capitalize the "H" at the beginning of a sentence.
+          See the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>
