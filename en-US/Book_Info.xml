@@ -4,11 +4,11 @@
 %BOOK_ENTITIES;
 ]>
 <bookinfo id="conventions">
-	<title>Conventions for Writers and Editors</title>
+	<title>Style Conventions for Writers and Editors</title>
 	<!-- Change title to "The Red Hat Style Guide" -->
-	 <productname>The Red Hat Style Guide</productname>
+	 <productname>Red&nbsp;Hat Technical Writing Style&nbsp;Guide</productname>
 	 <productnumber></productnumber>
-	 <edition>4.2</edition>
+	 <edition>5.0</edition>
 	 <pubsnumber>1</pubsnumber>
 	 <abstract>
 		<para>
