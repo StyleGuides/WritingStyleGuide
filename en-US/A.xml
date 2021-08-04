@@ -94,16 +94,16 @@
 
 		</varlistentry>
 		 <varlistentry id="am">
-			<term role="true">a.m.</term>
-      <!-- <term role="false">am</term> -->
+			<term role="true">AM</term>
+      <!-- <term role="false">a.m.</term> -->
 			 <listitem>
-			  	<para>
+			  	<!-- <para>
 					Use lowercase with periods, such as "11&nbsp;a.m.". Use a nonbreaking space between the numeral and "a.m.".
-				</para>
-<!-- Not implementing this change yet.
-				<para>
-					Use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "11&nbsp;AM".
 				</para> -->
+<!-- Change to guidance, August 2021. -->
+				<para>
+					For times of day, use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "11&nbsp;AM".
+				</para> 
         <para>
           See also <xref linkend="pm"/>.
         </para>
