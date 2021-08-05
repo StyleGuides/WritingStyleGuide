@@ -1264,23 +1264,19 @@ Numbers (move from N entry) -->
 		 <para>
 		Exception: Use of an all-numeric representation is allowed when space is limited, as in a user interface, or to enhance readability. In such cases, use the ISO date format with a 4-digit year (YYYY-MM-DD) and define the format in a header or legend.
 		</para>
-		 <!-- <para>
-		For times of day, use lowercase with periods, such as "11&nbsp;a.m.". Use a nonbreaking space between the numeral and "a.m." or "p.m.".
-		</para> -->
-		 <!-- Change of guidance from lowercase with periods to uppercase without periods, August 2021. -->
 		 <para>
 		For times of day, use uppercase without periods, such as "11&nbsp;AM". Use a nonbreaking space between the numeral and "AM" or "PM".
 		</para> 
 
 		 <para>
-		Use "noon" or "12 noon" instead of "12 PM".
-		Use "midnight" or "12 midnight" instead of "12 AM".
+		Use "noon" or "12 noon" instead of "12&nbsp;PM".
+		Use "midnight" or "12 midnight" instead of "12&nbsp;AM".
 		</para>
 <itemizedlist>
 			<title>Examples</title>
 			 <listitem>
 				<para>
-				The training class begins at 10 AM on 1 April 2021.
+				The training class begins at 10&nbsp;AM on 1 April 2021.
 				</para>
 			</listitem>
 			<listitem>
