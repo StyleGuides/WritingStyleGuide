@@ -97,19 +97,12 @@
 			<term role="true">AM</term>
       <!-- <term role="false">a.m.</term> -->
 			 <listitem>
-			  	<!-- <para>
-					Use lowercase with periods, such as "11&nbsp;a.m.". Use a nonbreaking space between the numeral and "a.m.".
-				</para> -->
-<!-- Change to guidance, August 2021. -->
 				<para>
 					For times of day, use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "11&nbsp;AM".
 				</para> 
         <para>
           See also <xref linkend="pm"/>.
         </para>
-				 <!-- <para>
-					See the <citetitle>IBM Style Guide</citetitle> for a full discussion of how to represent times.
-				</para> -->
 
 			</listitem>
 
