@@ -1269,14 +1269,14 @@ Numbers (move from N entry) -->
 		</para> 
 
 		 <para>
-		Use "noon" or "12 noon" instead of "12 PM".
-		Use "midnight" or "12 midnight" instead of "12 AM".
+		Use "noon" or "12 noon" instead of "12&nbsp;PM".
+		Use "midnight" or "12 midnight" instead of "12&nbsp;AM".
 		</para>
 <itemizedlist>
 			<title>Examples</title>
 			 <listitem>
 				<para>
-				The training class begins at 10 AM on 1 April 2021.
+				The training class begins at 10&nbsp;AM on 1 April 2021.
 				</para>
 			</listitem>
 			<listitem>
