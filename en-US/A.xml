@@ -5,17 +5,32 @@
 ]>
 <chapter id="a">
 	<title>A</title>
+<!-- Some of the entries were not listed in alphabetical order.	 -->
 	 <variablelist>
+<!-- Entries previously used a mixture of "v." and "vb." to denote a verb. Changed all occurrences to "v." -->
 		<varlistentry id="amp-and-">
 			<term>"&amp;" and "+"</term>
 			 <listitem>
 				<para>
-					Ampersands or plus signs can be used in design elements and graphics when space is limited, and when either referring to or quoting third-party content that uses them. Do not use them in original body copy.
+					Ampersands or plus signs can be used instead of the word "and" in design elements and graphics when space is limited, and when either referring to or quoting third-party content that uses them. Do not use them in original body copy.
+				</para>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="above">
+			<term role="caution">above</term>
+			 <listitem>
+				<para>
+					Do not use to refer to information that was mentioned previously.
+          When documents are converted to online format, the information might no longer be "above."
+          Use a cross-reference if the referenced material is sufficiently removed, or write "as mentioned previously" instead.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
+<!-- Removed "acronyms" entry (as it is not a literal term) and added this content instead to section 3.6. -->
+
 		 <varlistentry id="agile-development">
 			<term role="true">agile</term>
       <term role="true">agile development</term>
@@ -38,30 +53,55 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="am">
-			<term role="true">a.m.</term>
-      <term role="false">am</term>
-			 <listitem>
-				<para>
-					Correct. Use the lowercase form and include the periods, and use a preceding space.
-				</para>
-        <para>
-          See also <xref linkend="pm"/>.
-        </para>
-				 <para>
-					See <citetitle>The IBM Style Guide</citetitle> for a full discussion of how to represent times.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="all-in-one">
 			<term role="true">all-in-one</term>
       <term role="false">allinone</term>
 			 <listitem>
 				<para>
-					<emphasis>n., adj.</emphasis> Correct. Hyphenate in both cases. Do not use "allinone" or other variations.
+					<emphasis>n., adj.</emphasis> Hyphenate in both places. Do not use "allinone" or other variations.
 				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+    <varlistentry id="alternate">
+			<term role="true">alternate</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> "Alternate" as a verb means to change between two states or options.
+				</para>
+        <para>
+          See also <xref linkend="alternative"/>.
+        </para>
+
+			</listitem>
+
+		</varlistentry>
+		 
+		 <varlistentry id="alternative">
+			<term role="true">alternative</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Describes another way or method of doing something.
+          "Alternate" (vb.) means to change between two states or options. If you mean "another way of doing something," use "an alternative method is to ..."
+				</para>
+        <para>
+          See also <xref linkend="alternate"/>.
+        </para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="am">
+			<term role="true">AM</term>
+			 <listitem>
+				<para>
+					For times of day, use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "11&nbsp;AM".
+				</para> 
+        <para>
+          See also <xref linkend="pm"/>.
+        </para>
 
 			</listitem>
 
@@ -81,84 +121,14 @@
         </para>
 				 <note>
 					<para>
-						The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="http://www.amd.com/us/aboutamd/Pages/trademarks.aspx" />.
+						The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
 					</para>
+		<!-- Updated URL for AMD trademarks. -->			
 					 <para>
 						For more information about Intel&reg; trademarks, see <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
 					</para>
 
 				</note>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="atm">
-			<term role="true">ATM</term>
-			 <listitem>
-				<para>
-					Initialism for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size.
-          The cell size used with ATM is relatively small compared to units used with older technologies.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="above">
-			<term role="caution">above</term>
-			 <listitem>
-				<para>
-					Do not use to refer to information mentioned previously.
-          When documents are converted to online format, the information may no longer be "above."
-          Use a cross-reference if the referenced material is sufficiently removed, or write "as mentioned previously" instead.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="acronyms">
-			<term>acronyms</term>
-			 <listitem>
-				<para>
-					An acronym is a word formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead <emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader.
-          Note that an acronym is pronounced as a word.
-          Compare this to an initialism, which is also formed in a similar fashion to an acronym, but in which each letter is pronounced separately.
-				</para>
-				 <para>
-					Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK)..."
-          Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version - for example, "central processing unit (CPU)."
-          Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
-				</para>
-				 <para>
-					To form the plural of an acronym, add a trailing, lowercase "s," or "es," for example, ROMs, PINs, BIOSes.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-    <varlistentry id="alternate">
-			<term role="true">alternate</term>
-			 <listitem>
-				<para>
-					<emphasis>vb.</emphasis> "Alternate" as a verb means to change between two states or options.
-				</para>
-        <para>
-          See also <xref linkend="alternative"/>.
-        </para>
-
-			</listitem>
-
-		</varlistentry>
-		 
-		 <varlistentry id="alternative">
-			<term role="true">alternative</term>
-			 <listitem>
-				<para>
-					<emphasis>adj.</emphasis> Used to describe another way or method of doing something.
-          "Alternate" (vb.) means to change between two states or options. If you mean "another way of doing something," use "an alternative method is to..."
-				</para>
-        <para>
-          See also <xref linkend="alternate"/>.
-        </para>
 
 			</listitem>
 
@@ -170,12 +140,26 @@
 					Avoid if possible.
           Try to rewrite to make the available options explicit and clear.
           Do not write <emphasis>this and/or that</emphasis>.
-          Write <emphasis>this or that or both</emphasis>.
+          Write <emphasis>this or that, or both</emphasis>.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
+
+<!-- Added "appendixes" entry. -->
+		 <varlistentry id="appendixes">
+			<term>appendixes</term>
+			 <listitem>
+				<para>
+					Correct. This is the correct plural form for US English spelling. Do not use "appendices."
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
+
+<!-- Commenting out this entry as it is not a literal term entry. Consider moving elsewhere, such as to Section 3.7 and expand scope of that section? 		
 		 <varlistentry id="application">
 			<term>application</term>
 			 <listitem>
@@ -193,13 +177,15 @@
 			</listitem>
 
 		</varlistentry>
+-->
+
 		 <varlistentry id="applixware">
 			<term role="true">Applixware</term>
       <term role="false">Applix</term>
       <term role="false">ApplixWare</term>
 			 <listitem>
 				<para>
-					Correct.
+					"Applixware" is correct.
           Do not use "Applix" or "ApplixWare."
 				</para>
 
@@ -211,9 +197,9 @@
       <listitem>
         <para>
           Do not use as a verb.
-          Even though it might make sense in the correct context, using it as a verb can be jargon or unclear for your audience.
+          Even though it might make sense in the correct context, using it as a verb can be jargon or be unclear for your audience.
           Use "design," "build," "create," or another descriptive verb instead.
-          Before replacing the verb form of "architect" during the editing process, check with the writer to find out the intended meaning.
+          Before replacing the verb form of "architect" during the editing process, clarify with the writer the intended meaning.
           For example, a sentence that mentions rearchitecting might require "refactoring" as a replacement rather than "rebuilding."
         </para>
       </listitem>
@@ -235,7 +221,7 @@
 			<term role="caution">as-a-Service</term>
 			 <listitem>
 				<para>
-					Be aware that there is a great deal of overlap in as-a-Service acronyms.
+					Some as-a-Service acronyms overlap.
           To avoid confusion, always spell out the full term on first use.
 				</para>
 				 <itemizedlist>
@@ -259,7 +245,7 @@
 					</listitem>
 					 <listitem>
 						<para>
-							FaaS (Function[s]-as-a-Service)
+							FaaS (Functions-as-a-Service)
 						</para>
 
 					</listitem>
@@ -301,27 +287,28 @@
 				 <itemizedlist>
 					<listitem>
 						<para>
-							Capitalize the noun (e.g., Platform, Software, Infrastructure) and Service, both when abbreviated and written out.
+							Capitalize the noun (such as Platform, Software, Infrastructure) and Service, both when abbreviated and when written out.
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							When in all capitals, such as a title or headline, the "aa" in the acronym remains lowercase (e.g., INTRODUCTION TO PaaS SOLUTIONS).
+							When in all capitals, such as a title or headline, the "aa" in the acronym remains lowercase (such as INTRODUCTION TO PaaS SOLUTIONS).
 						</para>
+<!-- When would all capitals be used? -->						
 
 					</listitem>
 					 <listitem>
 						<para>
 							Hyphenate when written out: Thing-as-a-Service.
-              For two-word prefixes, do not include a hyphen between the first and second words: Mobile Backend-as-a-Service.
-              Can be used as an adjective to describe multiple (e.g., when referring to an IaaS, PaaS, and SaaS, use as-a-Service offerings, as-a-Service products, or similar wording).
+              For two-word prefixes, do not include a hyphen between the first and second words, for example: Mobile Backend-as-a-Service.
+              It can be used as an adjective to describe multiple: for example, when referring to IaaS, PaaS, and SaaS, use as-a-Service offerings, as-a-Service products, or similar wording.
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							Avoid an acronym if it could stand for more than one term in a single asset (e.g., if you're writing content that discusses both Cloud-as-a-Service and Containers-as-a-Service).
+							Avoid use of an acronym if it could stand for more than one term in a single asset. for example, if you are writing content that discusses both Cloud-as-a-Service and Containers-as-a-Service.
 						</para>
 
 					</listitem>
@@ -330,7 +317,30 @@
 
 			</listitem>
 
+<!-- Suggested addition of "as long as" -->
 		</varlistentry>
+		<varlistentry id="as-long-as">
+			<term role="caution">as long as</term>
+			 <listitem>
+				<para>
+					Use only to refer to a comparison of length or time. Otherwise, use an alternative, such as "provided that".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="atm">
+			<term role="true">ATM</term>
+			 <listitem>
+				<para>
+					Initialism for Asynchronous Transfer Mode, a network technology based on transferring data in cells or packets of a fixed size.
+          The cell size used with ATM is relatively small compared to units that are used with older technologies.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
 		 <!--<varlistentry id="auto-detect">
 			<term>auto-detect</term>
 			 <listitem>
@@ -346,7 +356,7 @@
 			 <listitem>
 				<para>
 					Always lowercase.
-          This refers to the kernel-based automount utility.
+          It refers to the kernel-based automount utility.
           No other forms are recognized.
 				</para>
 

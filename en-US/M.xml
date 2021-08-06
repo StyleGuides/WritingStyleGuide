@@ -10,7 +10,9 @@
 		 <term>macOS</term>
 			<listitem>
 			 <para>
-				 In 2016, Apple rebranded OS X to macOS, adopting the nomenclature that it uses for their other operating systems: iOS, watchOS, and tvOS. The latest version of macOS is macOS 10.12 Sierra, which was publicly released in September 2016.	 
+				 In 2016, Apple rebranded OS X to macOS, adopting the nomenclature that it uses for their other operating systems: iOS, watchOS, and tvOS. 
+				 
+				 <!-- The latest version of macOS is macOS 10.12 Sierra, which was publicly released in September 2016.	  -->
 			 </para>
 
 		 </listitem>
@@ -20,17 +22,17 @@
 			<term>make sure</term>
 			 <listitem>
 				<para>
-					This means "be careful to remember, attend to, or find out something." For example, "make sure the rhedk group is listed in the output."
+					This means "be careful to remember, attend to, or find out something." For example, "make sure that the rhedk group is listed in the output."
 				</para>
 				 <para>
-					You may be able to use "verify" or "ensure" instead.
+					You might be able to use "verify" or "ensure" instead.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="manualman-page">
-			<term>manual/man page</term>
+			<term>manual, man page</term>
 			 <listitem>
 				<para>
 					Correct. Two words. Do not use "manpage."
@@ -39,12 +41,26 @@
 			</listitem>
 
 		</varlistentry>
+<!-- Added for inclusive language -->
+		 <varlistentry id="master">
+			<term>master</term>
+			 <listitem>
+				<para>
+					Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use another term such as "main", "primary", "controller", or "leader".
+				</para>
+				<para>
+					Use of "master" is acceptable in other contexts, such as to refer to mastery of a skill.
+				</para>
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="matrixes">
 			<term>matrixes</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct plural form for U.S. English spelling. Do not use "matrices."
+					Correct. This is the correct plural form for US English spelling. Do not use "matrices."
 				</para>
+<!-- "US" without periods? -->
 
 			</listitem>
 
@@ -91,25 +107,36 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="ms-dos">
+			<term>MDOS</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "ms-dos," "MSDOS," or "msdos."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="media">
 			<term>media</term>
 			 <listitem>
 				<itemizedlist>
 					<listitem>
 						<para>
-							Objects on which data can be stored. These include hard disks, diskettes, CDs, and tapes.
+							Objects on which data can be stored. These include hard disks, CDs, and tapes.
+						</para>
+<!-- Deleted "diskettes". -->
+
+					</listitem>
+					 <listitem>
+						<para>
+							In computer networks, "media" refers to the cables that link workstations together. Out of many types of transmission media, the most popular are twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fiber optic cable (cables made out of glass).
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							In computer networks, media refers to the cables linking workstations together. There are many different types of transmission media, the most popular being twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fibre optic cable (cables made out of glass).
-						</para>
-
-					</listitem>
-					 <listitem>
-						<para>
-							The form and technology used to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media.
+							The form and technology to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media.
 						</para>
 
 					</listitem>
@@ -192,7 +219,7 @@
 			<term>Montecito</term>
 			 <listitem>
 				<para>
-					Do not use. This is a code name for the "Intel Itanium Processor 9000 Sequence." This latter phrase should be used instead.
+					Do not use. It is a code name for the "Intel Itanium Processor 9000 Sequence." This latter phrase should be used instead.
 				</para>
 
 			</listitem>
@@ -207,7 +234,7 @@
 				 <orderedlist>
 					<listitem>
 						<para>
-							To make a mass storage device available. In Linux environments, for example, inserting a floppy disk into the drive is called mounting the floppy.
+							To make a mass storage device available. For example, inserting a USB flash drive is called mounting the drive.
 						</para>
 
 					</listitem>
@@ -253,16 +280,6 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="ms-dos">
-			<term>MDOS</term>
-			 <listitem>
-				<para>
-					Correct. Do not use "ms-dos," "MSDOS," or "msdos."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="multiprocessing">
 			<term>multiprocessing</term>
 			 <listitem>
@@ -284,11 +301,12 @@
 
 		</varlistentry>
 		 <varlistentry id="mutexes">
-			<term>Mutexes</term>
+			<term>mutexes</term>
 			 <listitem>
 				<para>
 					Correct. "Mutex" is an abbreviation of "mutual exclusion." Consequently, "mutexes" is the correct plural form.
 				</para>
+<!-- Changed term entry to lowercase. -->
 
 			</listitem>
 
@@ -297,7 +315,9 @@
 			<term>MySQL</term>
 			 <listitem>
 				<para>
-					Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with an <firstterm>ball</firstterm> (®) to denote a registered trademark.
+					Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with an 
+					<!-- <firstterm>ball</firstterm> (®)  -->
+					® symbol to denote a registered trademark.
 				</para>
 
 			</listitem>

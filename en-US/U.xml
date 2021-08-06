@@ -23,7 +23,7 @@
 					Correct. Do not use "ULTRASPARC," "UltraSparc," or other variations.
 				</para>
 				 <para>
-					UltraSPARC is a trademark of SPARC International, Inc., and is used under license by Sun Microsystems, Inc. Products bearing the SPARC trademarks are based upon an architecture developed by Sun Microsystems, Inc.
+					UltraSPARC is a trademark of SPARC International, Inc., and is used under license by Sun Microsystems, Inc. Products that bear the SPARC trademarks are based on an architecture developed by Sun Microsystems, Inc.
 				</para>
 
 			</listitem>
@@ -33,7 +33,7 @@
 			<term>undercloud</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Always lowercase. This is a concept, not a technology or product name. Being a common noun, this requires an article in most cases. See also <xref linkend="overcloud" />.
+					<emphasis>n.</emphasis> Always lowercase. It is a concept, not a technology or product name. Being a common noun, it requires an article in most cases. See also <xref linkend="overcloud" />.
 				</para>
 
 			</listitem>
@@ -69,13 +69,13 @@
 			<term>unset</term>
 			 <listitem>
 				<para>
-					Incorrect. Use "Clear" instead.
+					Incorrect. Use "Clear" instead, to refer to removing a selection from a check box.
 				</para>
 				 <para>
 					To disable the <application>Wobbly Widget</application> application, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> check box.
 				</para>
 				 <para>
-					This rule only matches TCP packets that have the <guilabel>SYN</guilabel> flag set and the <guilabel>ACK</guilabel> flag cleared.
+					This rule matches only TCP packets where the <guilabel>SYN</guilabel> flag is set and the <guilabel>ACK</guilabel> flag is cleared.
 				</para>
 
 			</listitem>
@@ -164,15 +164,15 @@
 			</listitem>
 
 		</varlistentry>
-		 
+
 		 <varlistentry id="user">
 			<term>user</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> When referring to the reader, use "you" instead of "user." For example, "The user must..." is incorrect. Use "You must..." instead.
+					<emphasis>n.</emphasis> When referring to the reader, use "you" instead of "the user." For example, "The user must..." is incorrect. Use "You must..." instead.
 				</para>
 				 <para>
-					If referring to more than one user, calling the collection "users" is acceptable, such as "Other users may want to access your database."
+					If referring to more than one user, calling the collection "users" is acceptable, such as "Other users might want to access your database."
 				</para>
 
 			</listitem>
@@ -185,17 +185,19 @@
 					<emphasis>n.</emphasis> Correct. Do not use "user-interface" or "userinterface."
 				</para>
 				 <para>
-					The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. A command-driven interface is one in which you enter commands. A menu-driven interface is one in which you select command choices from various menus displayed on the screen.
+					The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. In a command-driven interface, you enter commands. In a menu-driven interface, you select command choices from various menus that are displayed on the screen.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="user-name">
-			<term>user name</term>
+			<term>username</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct. Do not use "username" unless you are using it as a variable.
+					<emphasis>n.</emphasis> One word in most cases.
+          Capitalize the "U" at the beginning of a sentence.
+          See the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>

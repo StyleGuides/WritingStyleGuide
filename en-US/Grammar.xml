@@ -121,7 +121,7 @@
 				<term> Who </term>
 				 <listitem>
 					<para>
-						Relative pronoun when a person (or persons) is the subject.
+						Relative pronoun when persons are the subject.
 					</para>
 
 				</listitem>
@@ -131,7 +131,7 @@
 				<term> Whom </term>
 				 <listitem>
 					<para>
-						Relative pronoun when person is not the subject.
+						Relative pronoun when persons are not the subject.
 					</para>
 
 				</listitem>
@@ -219,7 +219,7 @@
 			</listitem>
 			 <listitem>
 				<para>
-					The GNOME developers to whom I owe my gratitude are...
+					The GNOME developers to whom they owe gratitude are...
 				</para>
 
 			</listitem>
@@ -227,18 +227,19 @@
 		</itemizedlist>
 		 <note>
 			<para>
-				To help you choose between who and whom, substitute the person about whom you are speaking with either him or he.
+				To help you choose between <emphasis>who</emphasis> and <emphasis>whom</emphasis>, substitute the person about whom you are speaking with <emphasis>he</emphasis>, <emphasis>she</emphasis>, <emphasis>him</emphasis>, or <emphasis>her</emphasis>.
 			</para>
+
 			 <itemizedlist>
 				<listitem>
 					<para>
-						If your restatement contains him, her, them, me, or us, then use whom or whomever. "I'm giving the book to him." "To whom am I giving the book?"
+						If your restatement contains <emphasis>him</emphasis>, <emphasis>her</emphasis>, <emphasis>them</emphasis>, <emphasis>me</emphasis>, or <emphasis>us</emphasis>, then use <emphasis>whom</emphasis> or <emphasis>whomever</emphasis>. "I'm giving the book to him." "To whom am I giving the book?"
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						If the restatement contains the word he, she, they, I, or we, then use who or whoever. "Do you think he would mind?" "Who do you think would mind?" "She's walking in the door." "Who's walking in the door?"
+						If the restatement contains the word <emphasis>he</emphasis>, <emphasis>she</emphasis>, <emphasis>they</emphasis>, I<emphasis>I</emphasis>, or <emphasis>we</emphasis>, then use <emphasis>who</emphasis> or <emphasis>whoever</emphasis>. "Do you think he would mind?" "Who do you think would mind?" "She's walking in the door." "Who's walking in the door?"
 					</para>
 
 				</listitem>
@@ -254,12 +255,13 @@
 			A <emphasis>sentence</emphasis> is one, complete thought. A sentence expresses something about a subject (a person, place, or thing) and a verb (what the subject is or does).
 		</para>
 		 <para>
-			The following are things to consider when constructing sentences:
+			Consider the following points when constructing sentences:
 		</para>
+		
 		 <formalpara id="length">
 			<title>Sentence Length</title>
 			 <para>
-				Try not to pack too much information into one sentence. Keep it short. For example, the following sentence is a good example of how not to write:
+				Try not to pack too much information into one sentence. In technical documentation, try not to exceed 30 words in a sentence. Keep it short. The following sentence is a bad writing example:
 			</para>
 
 		</formalpara>
@@ -269,7 +271,7 @@
 		 <formalpara id="run-on">
 			<title>Run-on Sentences</title>
 			 <para>
-				Two or more complete ideas that are joined without punctuation create a <emphasis>run-on sentence</emphasis> (also called a <emphasis>fused sentence</emphasis>). The sentence does not have to be long to be a run-on sentence, although the longer the sentence the more difficult it is to read. You can:
+				Two or more complete ideas that are joined without punctuation, or separated only by a comma, create a <emphasis>run-on sentence</emphasis> (also called a <emphasis>fused sentence</emphasis>). The sentence does not have to be long to be a run-on sentence, although the longer the sentence the more difficult it is to read. You can:
 			</para>
 
 		</formalpara>
@@ -282,19 +284,19 @@
 			</listitem>
 			 <listitem>
 				<para>
-					Use semicolons to form a compound sentence. Think of a semicolon as an extended breather; longer than a comma.
+					Use semicolons to form a compound sentence. Think of a semicolon as an extended breather; it is longer than a comma.
 				</para>
 
 			</listitem>
 			 <listitem>
 				<para>
-					Insert a <firstterm>coordinating conjunction</firstterm>, such as "and" or "but", between the independent clauses to form a compound sentence. For example, "The process will start, but it will produce an error."
+					Insert a <firstterm>coordinating conjunction</firstterm>, such as "and" or "but", between the independent clauses to form a compound sentence. For example, "The process starts, but it produces an error."
 				</para>
 
 			</listitem>
 			 <listitem>
 				<para>
-					Insert a <firstterm>subordinating conjunction</firstterm>, such as "although" or "because", which will form a compound sentence with a subordinate clause. For example, "Although the process will start, it will produce an error."
+					Insert a <firstterm>subordinating conjunction</firstterm>, such as "although" or "because", which forms a compound sentence with a subordinate clause. For example, "Although the process starts, it produces an error."
 				</para>
 
 			</listitem>
@@ -338,7 +340,7 @@
 		 <formalpara id="fragments">
 			<title>Sentence Fragments</title>
 			 <para>
-				A <firstterm>sentence fragment</firstterm> is an incomplete sentence. For example, "We will release no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade. At least, before its time." the second of the two sentences is a fragment. Repair sentence fragments by making them complete sentences.
+				A <firstterm>sentence fragment</firstterm> is an incomplete sentence. For example, "Red Hat releases no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade. At least, before its time." the second of the two sentences is a fragment. Repair sentence fragments by making them complete sentences.
 			</para>
 
 		</formalpara>
@@ -413,6 +415,40 @@
 			</tgroup>
 
 		</table>
+
+<!-- Added section about use of relative pronoun "that" -->
+		 <formalpara id="that">
+			<title>"That" in Clauses</title>
+			 <para>
+				Include the word "that" in clauses unless it results in writing that is too formal or stilted. The use of the conjunction "that" makes the sentence easier to translate and improves clarity for readers whose primary language is not English,  
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Verify your directory service is working. </entry>
+						 <entry> Verify that your directory service is working. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
 		 <formalpara id="verbosity">
 			<title> Verbosity </title>
 			 <para>
@@ -435,10 +471,15 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> The individual member of the social community often receives his information via visual, symbolic channels. </entry>
+						<entry> The individual member of the social community often receives information via visual, symbolic channels. </entry>
 						 <entry> People read. (Translation by Richard Feynman.) </entry>
 
 					</row>
+					<row>
+						<entry> Perform the installation of the product. </entry>
+						 <entry> Install the product. </entry>
+
+					 </row>
 
 				</tbody>
 
@@ -467,8 +508,8 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> To update the address lists may be your primary concern. </entry>
-						 <entry> Your primary concern may be to update the address lists. </entry>
+						<entry> To update the address lists might be your primary concern. </entry>
+						 <entry> Your primary concern might be to update the address lists. </entry>
 
 					</row>
 
@@ -479,187 +520,21 @@
 		</table>
 
 	</section>
-	 <section id="avoiding-ambiguities">
-		<title>Avoiding Ambiguities</title>
-		 <variablelist>
-			<varlistentry id="proper-nouns">
-				<term> Capitalizing Proper Nouns </term>
-				 <listitem>
-					<para>
-						In some cases it is not clear if a term refers to a concept or a proper noun or product name. By using the correct capitalization, you will help translators identify untranslatable proper nouns and Red Hat product names.
-					</para>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
 
-								</row>
+<!-- Moved Ambiguities section to Chapter 4. -->
 
-							</thead>
-							 <tbody>
-								<row>
-									<entry> This property must be enabled when you are using CTDB in a Windows domain or in active directory security mode. </entry>
-									 <entry> This property must be enabled when you are using CTDB in a Windows domain or in Active Directory security mode. </entry>
-
-								</row>
-
-							</tbody>
-
-						</tgroup>
-
-					</table>
-
-				</listitem>
-
-			</varlistentry>
-			 <varlistentry id="homographs">
-				<term> Homographic Verbs </term>
-				 <listitem>
-					<para>
-						The verb "may" can be used to express possibility as well as to grant permissions. Similarly, "should" can be used to make recommendations as well as to express obligation or expectation. A sentence containing one of these verbs often has a double meaning. Avoid these types of words.
-					</para>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-
-								</row>
-
-							</thead>
-							 <tbody>
-								<row>
-									<entry> The <methodname>next()</methodname> method should return <code>null</code> to indicate the end of results. </entry>
-									 <entry> The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. <emphasis>OR</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results. </entry>
-
-								</row>
-								 <row>
-									<entry> It may be held in memory. </entry>
-									 <entry> It can be held in memory. <emphasis>OR</emphasis> It might be held in memory. </entry>
-
-								</row>
-
-							</tbody>
-
-						</tgroup>
-
-					</table>
-
-				</listitem>
-
-			</varlistentry>
-			 <varlistentry id="homonyms">
-				<term> Homonymity </term>
-				 <listitem>
-					<para>
-						When a single term has multiple meanings, be explicit in order to differentiate between them.
-					</para>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-
-								</row>
-
-							</thead>
-							 <tbody>
-								<row>
-									<entry> Tab through the dialog box. Set the tab. Move the tab on the ruler. How to show or hide tabs. Select the tab. </entry>
-									 <entry> Use the tab key to move through the dialog box. Set the tab stop. Move the tab mark on the ruler. How to show or hide tab characters. Select the <guimenuitem>View</guimenuitem> tab in the <guimenuitem>Options</guimenuitem> dialog box. </entry>
-
-								</row>
-								 <row>
-									<entry> To create another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
-									 <entry> To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. <emphasis>OR</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
-
-								</row>
-
-							</tbody>
-
-						</tgroup>
-
-					</table>
-					 <note>
-						<para>
-							See also <xref linkend="genders" />.
-						</para>
-
-					</note>
-
-				</listitem>
-
-			</varlistentry>
-			 <varlistentry id="invisible-plurals">
-				<term> Invisible Plurals </term>
-				 <listitem>
-					<para>
-						Some two-word phrases (noun + noun) do not clarify whether the first noun is singular or plural.
-					</para>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-
-								</row>
-
-							</thead>
-							 <tbody>
-								<row>
-									<entry> Once the file retrieval has been completed, you are ready to restart your system. </entry>
-									 <entry> After the files have been retrieved, you can restart your system. </entry>
-
-								</row>
-
-							</tbody>
-
-						</tgroup>
-
-					</table>
-
-				</listitem>
-
-			</varlistentry>
-			 <varlistentry id="synonymity">
-				<term>Synonymity</term>
-				 <listitem>
-					<para>
-						Sometimes multiple terms have a single meaning. If terms are used inconsistently, users (and translators) will assume they refer to different things. It is best to use a single term for a single concept throughout.
-					</para>
-					 <para>
-						For example, "Administration GUI" and "Administration Console" could both be used to refer to a single application or to different applications. For this reason it is important that writers choose the most suitable term for each situation and use it consistently.
-					</para>
-
-				</listitem>
-
-			</varlistentry>
-
-		</variablelist>
-
-	</section>
+<!-- Moved "Contractions" content from Usage A-Z list to here. 
+Changed "policy manuals" > "technical documentation". 
+Split contractions and abbreviations into separate paragraphs. -->
 	 <xi:include href="Easily_Confused_Words.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	 <section id="contractions-and-abbreviations">
 		<title>Contractions and Abbreviations</title>
 		 <para>
-			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't," "don't," "won't," and similar examples. Always write out in full. Take care also with abbreviations; replace "e.g." with "for example," and replace "i.e." with "that is," and so on. See <citetitle>The IBM Style Guide</citetitle> for full details.
+			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't," "don't," "won't," and similar examples. Write out the words in full. Contractions are a mark of informal writing, and should be avoided when writing technical documentation or other more formal types of manuals. They can also cause problems for translation. 
+		</para>
+
+ 		<para>
+			Take care also with abbreviations; replace "e.g." with "for example," and replace "i.e." with "that is," and so on. 
 		</para>
 
 	</section>
@@ -667,8 +542,9 @@
 	 <section id="hyphenation">
 		<title>Hyphenation</title>
 		 <para>
-			There are no hard and fast rules for hyphenation. In general, do not hyphenate unless required for clarity, or our other references declare that hyphens are required. The following is general guidance; if you are unsure about whether or not to hyphenate, ask your peers.
+			There are no hard and fast rules for hyphenation. In general, do not hyphenate unless required for clarity, or our other references declare that hyphens are required. The following is general guidance; if you are unsure about whether or not to hyphenate, ask your peers. See also the "Hyphens" topic in the <citetitle>IBM Style Guide</citetitle>.
 		</para>
+		
 		 <formalpara id="hyphenate-for-clarity">
 			<title>Hyphenate for Clarity</title>
 			 <para>
@@ -729,26 +605,27 @@
 
 		</formalpara>
 
-	</section>
+	</section> 
 	 <section id="gender-references">
 		<title>Gender References</title>
 		 <para>
-			Do not use gender-specific pronouns in documentation. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers." In most cases, use "you" when giving instructions, and "the user," "new users," and so on in more general explanations. Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal.
+			Do not use gender-specific pronouns in documentation, except to refer to a specific named user, such as in a case study. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers." It is acceptable to use "they" to refer to one person, with a plural verb. In most cases, when giving instructions, use the imperative mood or use "you". In more general explanations, you can use "the user" or "new users". Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal. Do not use "it" to refer to a person.
 		</para>
-
+	
 	</section>
 	 <section id="tense">
 		<title>Tense</title>
 		 <para>
-			Avoid future tense (or using the term "will") whenever possible. For example, future tense ("The screen will display...") does not read as well as the present tense ("The screen displays..."). Remember, the users you are writing for most often refer to the documentation while they are using the system, not after or in advance of using the system.
+			Avoid future tense (or using the term "will") whenever possible. For example, future tense ("The window will open ...") does not read as well as the present tense ("The window opens ..."). Remember, the users you are writing for most often refer to the documentation while they are using the system, not after or in advance of using the system.
 		</para>
+
 		 <para>
-			Use simple present tense as much as possible. It avoids problems with consequences and time related communications, and is the easiest tense for translation.
+			Use simple present tense as much as possible. It avoids problems with consequences and time-related communications, and is the easiest tense for translation.
 		</para>
 		 <para>
 			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>
 		</para>
 
-	</section>
+	</section> 
 
 </chapter>
