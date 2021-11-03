@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE bookinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
 <bookinfo id="conventions">
