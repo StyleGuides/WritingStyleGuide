@@ -115,8 +115,8 @@
 			 <listitem>
 				<para>
 					<emphasis>adverb</emphasis> Write as shown.
-					If an adjective before a noun, use "<xref linkend="on-premise">on-premise</xref>."
-					Do not use "<xref linkend="onpremises">on premises</xref>".
+					If an adjective before a noun, use "<xref linkend="on-premise"/>."
+					Do not use "<xref linkend="onpremises"/>."
 				</para>
 
 			</listitem>
@@ -128,8 +128,8 @@
 			 <listitem>
 				<para>
 					<emphasis>adjective</emphasis> Write as shown.
-					Use as an adjective before a noun, otherwise use "<xref linkend="onpremise">on premise</xref>."
-					Do not use "<xref linkend="on-premises">on-premises</xref>."
+					Use as an adjective before a noun, otherwise use "<xref linkend="onpremise"/>."
+					Do not use "<xref linkend="on-premises"/>."
 				</para>
 			</listitem>
 
@@ -139,7 +139,7 @@
 			<term>on premises</term>
 			 <listitem>
 				<para>
-					Do not use, use "<xref linkend="onpremise">on premise</xref>."
+					Do not use, use "<xref linkend="onpremise"/>."
 				</para>
 
 			</listitem>
@@ -150,7 +150,7 @@
 			<term>on-premises</term>
 			 <listitem>
 				<para>
-					Do not use, use "<xref linkend="on-premise">on premise</xref>."
+					Do not use, use "<xref linkend="on-premise"/>."
 				</para>
 
 			</listitem>
