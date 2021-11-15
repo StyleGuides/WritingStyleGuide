@@ -114,48 +114,32 @@
 			<term>on premise</term>
 			 <listitem>
 				<para>
-					<emphasis>adverb</emphasis> Write as shown.
-					If an adjective before a noun, use "<xref linkend="on-premise">on-premise</xref>."
-					Do not use "<xref linkend="onpremises">on premises</xref>".
+					<emphasis>adverb</emphasis>
+          Two words.
+        </para>
+        <para>
+					<emphasis>adj.</emphasis>
+          Hyphenate if used as an adjective before a noun.
+          Otherwise, use the two-word form.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 
-		 <varlistentry id="on-premise">
-			<term>on-premise</term>
-			 <listitem>
-				<para>
-					<emphasis>adjective</emphasis> Write as shown.
-					Use as an adjective before a noun, otherwise use "<xref linkend="onpremise">on premise</xref>."
-					Do not use "<xref linkend="on-premises">on-premises</xref>."
-				</para>
-			</listitem>
-
-		</varlistentry>
 
 		 <varlistentry id="onpremises">
-			<term>on premises</term>
+			<term>on premises, on-premises</term>
 			 <listitem>
 				<para>
-					Do not use, use "<xref linkend="onpremise">on premise</xref>."
+					Do not use.
+          See <xref linkend="onpremise"/>.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 
-		 <varlistentry id="on-premises">
-			<term>on-premises</term>
-			 <listitem>
-				<para>
-					Do not use, use "<xref linkend="on-premise">on premise</xref>."
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 
 <!-- Advice differs from IBM Style, which says to use "onsite". -->
 		 <varlistentry id="on-site">
