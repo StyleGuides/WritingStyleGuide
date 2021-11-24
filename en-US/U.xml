@@ -69,10 +69,10 @@
 			<term>unset</term>
 			 <listitem>
 				<para>
-					Incorrect. Use "Clear" instead, to refer to removing a selection from a check box.
+					Incorrect. Use "Clear" instead, to refer to removing a selection from a checkbox.
 				</para>
 				 <para>
-					To disable the <application>Wobbly Widget</application> application, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> check box.
+					To disable the <application>Wobbly Widget</application> application, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> checkbox.
 				</para>
 				 <para>
 					This rule matches only TCP packets where the <guilabel>SYN</guilabel> flag is set and the <guilabel>ACK</guilabel> flag is cleared.
