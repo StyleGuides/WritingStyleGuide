@@ -435,12 +435,13 @@
 		</para> -->
 
 		 <para>
-			In technical documentation, punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation or part of a programming element that uses quotation marks; if not, they go outside the quotation marks. If a sentence ends with a quotation, use only one punctuation mark to end the sentence, and place it inside the closing quotation mark if it is part of the quotation, or outside if it is not.
+			In technical documentation, place punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons inside the quotation marks if they are part of the quotation or part of a programming element that uses quotation marks; if not, place punctuation marks outside the quotation marks. 
+			If a sentence ends with a quotation, use only one punctuation mark to end the sentence, and place it inside the closing quotation mark if it is part of the quotation, or outside if it is not.
 
 		</para> 
 		<example><title>Correct Examples of the Use of Punctuation with Quotation Marks</title>
         <para>
-        For bind mounts, add "bind" and set fstype to "none".
+        For bind mounts, add "bind" and set <command>fstype</command> to "none".
         </para>
 		<screen>
 		Login successful.
@@ -452,14 +453,14 @@
 		</para>
 		<para>
 		In the program segment, ensure that the value is X'FF'.
-        </para>		
-		<para>
+    	</para>		
+		<!-- <para>
 		If you use the keyword operand PGMID="PAYCOM", you must ...
-        </para>
+    	</para> -->
 		<para>
 		Julius Caesar said, “I came. I saw. I conquered.”
-        </para>
-      	</example> 
+    	</para>
+    	</example> 
 
 	</section>
 <!-- Add examples of when to use or not to use quotation marks. 
