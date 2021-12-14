@@ -3,7 +3,7 @@ WritingStyleGuide
 
 A guide to writing clear, concise, and consistent technical documentation.
 
-The Red Hat Style Guide and Word Usage Dictionary is a joint effort by various groups within Red Hat.
+The Red Hat Style Guide and Word Usage Dictionary is a joint effort by various groups within Red&nbsp;Hat.
 
 It covers recommended design practices, how to write for translation, common mistakes to avoid, rules for everyday punctuation, grammar, and sources of information for the less common cases.
 
