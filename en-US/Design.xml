@@ -16,10 +16,9 @@
 				<title>Capitalization</title>
 					<para>
 						The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
-            Diagram labels, table headings, procedure, and formal paragraph titles all fall under this heading, and consequently, standard title case capitalization rules apply.
+            Table headings, procedure headings, and formal paragraph titles fall under this heading, and consequently, standard title case capitalization rules apply.
             The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase.</ulink>
 					</para>
-        <!-- Added that sentence case is required for captions, legends, and diagram labels. -->
 		  </formalpara>
 					 <para>
 						Use sentence case for captions, legends, diagram labels, and table column headers.
