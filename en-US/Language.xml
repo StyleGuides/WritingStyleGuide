@@ -867,6 +867,40 @@
 			</listitem>
 
 		</itemizedlist>
+
+		 <para>
+			Avoid stating that a product or feature allows the user to do something. Focus instead on what the user does.
+		</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Using the ausearch command allows administrators to focus on only the messages they are interested in. </entry>
+									 <entry> Administrators can use the ausearch command to focus on only messages of interest. </entry>
+
+								</row>
+								<row>
+									<entry> Collections allow updates to the core Ansible code to be separated from updates to modules and plug-ins. </entry>
+									 <entry> You can use collections to separate core Ansible code updates from updates to modules and plug-ins. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
 		 <para>
 			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>
 		</para>
