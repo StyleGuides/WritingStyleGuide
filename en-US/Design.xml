@@ -771,50 +771,6 @@ $ vi myFile.txt
 			</listitem>
 			 <listitem>
 				<para>
-					Use non-breaking spaces to avoid breaking the company name, or product names and their versions, over multiple lines. For example, use a non-breaking space between "Red" and "Hat," and also between "Enterprise," "Linux," and the version number.
-				</para>
-				 <para>
-					If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
-				</para>
-
-			</listitem>
-			 <listitem>
-				<para>
-					Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name. Consider the following DocBook XML examples:
-				</para>
-				 <itemizedlist>
-					<listitem>
-						<para>
-							Standardize on Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux.
-						</para>
-
-					</listitem>
-					 <listitem>
-						<para>
-							The latest version is Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux&amp;nbsp;8.0
-						</para>
-
-					</listitem>
-
-				</itemizedlist>
-				<para>
-					For other markup languages, use the equivalent non-breaking space character.
-				</para>
-			</listitem>
-			 <listitem>
-				<para>
-					Do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise&nbsp;Linux OpenStack Platform" does not require a non-breaking space between "Linux" and "OpenStack", nor between "OpenStack" and "Platform."
-				</para>
-
-			</listitem>
-			 <listitem>
-				<para>
-					Do not use non-breaking spaces with other companies' product names.
-				</para>
-
-			</listitem>
-			 <listitem>
-				<para>
 					Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was..."
 				</para>
 				 <note>
@@ -825,8 +781,67 @@ $ vi myFile.txt
 				</note>
 
 			</listitem>
-
+			 <listitem>
+				<para>
+					Do not hyphenate or break a product name across lines, as in the following incorrect example:
+				</para>
+					<programlisting>
+					Open
+					-Shift
+					</programlisting>
+			</listitem>
 		</itemizedlist>
+
+	</section>
+	 <section id="nonbreaking-spaces">
+		<title>Using Non-breaking Spaces</title>
+		 <para>
+			Use a non-breaking space in the following situations to avoid a break across lines:
+		</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							In the company name, between "Red" and "Hat".
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							In a product name, between the last word and a version number.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+		 <para>
+			Examples (for AsciiDoc):
+		</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Red&#123;nbsp&#125;Hat Enterprise Linux&#123;nbsp&#125;8
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Red&#123;nbsp&#125;Hat OpenShift Container Platform&#123;nbsp&#125;4.9
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+		 <para>
+			If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
+		</para>
+		 <para>    
+			Non-breaking spaces are not needed elsewhere in a product name and might cause undesirable line-breaking behavior.
+			In particular, do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise Linux OpenStack Platform" does not require a non-breaking space between any of the words after "Red&nbsp;Hat".
+		</para>
+		<para>
+			Do not use non-breaking spaces with other companies' product names.
+		</para>
 
 	</section>
 	 <section id="version-numbers">
