@@ -497,7 +497,7 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 			To refer to a punctuation mark or special character, use its name alone if it is one of the following standard characters:
 		</para>
 		<para>
-			. , : ; ' " ( ) [ ] ! ?
+			. , : ; ' " ( ) [ ] { } ! ?
 		</para>
 		<para>
 			For another character, use its name followed by the symbol in parentheses.  
@@ -511,7 +511,7 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
             Use a semicolon to separate two parts of a sentence that can each stand on their own.
           </para>
 		  <para>
-            The path contains the library qualifier in braces, { }.
+            The path contains the library qualifier in braces.
           </para>
           </example>
 		<para>
