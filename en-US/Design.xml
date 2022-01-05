@@ -673,7 +673,41 @@ $ vi myFile.txt
 
 		</section>
 
-	</section>
+	 	<section id="refer-object-names">
+			<title>Referring to Object Names</title>
+			 <para>
+				Do not use object names as part of normative grammar. A sentence should be complete without the object name.
+			</para>
+
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Find the current default <systemitem>StorageClass</systemitem>. </entry>
+						 <entry> Either: Find the current default storage class. Or: Find the current default <systemitem>StorageClass</systemitem> value. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+		</section>		
+
+	</section>	 	
 	 <section id="document-currencies">
 		<title>Documenting Currencies</title>
 		 <para>
