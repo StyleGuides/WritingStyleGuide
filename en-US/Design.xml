@@ -311,7 +311,7 @@
 			 <section>
 				<title>Documenting Multiple or Long Commands</title>
 				 <para>
-					Sometimes you need to demonstrate how to use long commands that extend over two or more lines, or that include several commands in a single example. If the commands are relatively short and straightforward, include the commands on consecutive lines:
+					Sometimes you need to demonstrate how to use long commands that extend over two or more lines, or that include several commands in a single example. If the commands are relatively short and straightforward, then include the commands on consecutive lines:
 				</para>
 				 <example>
 					<title>Documenting Multiple Commands</title>
@@ -322,13 +322,13 @@ $ vi myFile.txt
 
 				</example>
 				 <para>
-					If the commands are long, complex, or wrap over multiple lines, two design options are available.
+					If the commands are long, complex, or wrap over multiple lines, then the following design options are available.
           </para>
           <itemizedlist>
             <listitem>
               <para>
                 Use line continuation characters and the associated PS2 prompts.
-                If you are documenting commands on a different operating system, update the prompts and line continuation characters to suit.
+                If you are documenting commands on a different operating system, then update the prompts and line continuation characters to suit.
               </para>
             </listitem>
             <listitem>
@@ -336,33 +336,37 @@ $ vi myFile.txt
                 Use neither line continuation characters nor the associated PS2 prompts.
               </para>
             </listitem>
+			<listitem>
+              <para>
+                Use line continuation characters without the associated PS2 prompts.
+              </para>
+            </listitem>
           </itemizedlist>
           <important>
             <para>
-              Do not mix these two styles.
-              Maintain the same style throughout your document or book.
+              Do not mix these styles.
+              Maintain the same style throughout your document, book, or product set.
             </para>
           </important>
           <para>
             You can also indent the second and subsequent lines of such commands to assist in clarity and readability if required.
-            You can use this option for either of these two designs.
+            You can use this option for any of these designs.
           </para>
 
-				 <example>
-					<title>Wrapping Long Commands with Continuation Characters</title>
-          <para>
-            This example uses both continuation characters and PS2 prompts.
-            These indicators are always used together.
-          </para>
+<example><title>Wrapping Long Commands with Continuation Characters and PS2 Prompts</title>
+  <para>
+    This example uses both continuation characters and PS2 prompts.
+    <!-- These indicators are always used together. -->
+  </para>
 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 > /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 > /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
 > /etc/sysconfig/katello /etc/sysconfig/elasticsearch \
 > /root/ssl–build /var/www/html/pub/* /var/lib/katello</screen>
-          </example>
+</example>
 
-<example><title>Wrapping Long Commands Without Continuation Characters</title>
+<example><title>Wrapping Long Commands Without Continuation Characters or PS2 Prompts</title>
   <para>
     This example uses neither continuation characters nor PS2 prompts, but it does demonstrate how to use line indentation to help to clarify long commands.
   </para>
@@ -372,9 +376,20 @@ $ vi myFile.txt
   --config_file=/home/user/config.conf
   --output_file=/home/user/output.txt</screen>
 
-				</example>
+</example>
 
-			</section>
+<example><title>Wrapping Long Commands with Continuation Characters and Without PS2 Prompts</title>
+  <para>
+    This example uses continuation characters but not PS2 prompts.
+  </para>
+<screen>[root@node]# cephadm bootstrap --mon-ip=MON_IP --registry-url=registry.redhat.io \
+--registry-username=REGISTRY_USERNAME --registry-password=REGISTRY_PASSWORD \
+--initial-dashboard-password=DASHBOARD_PASSWORD --dashboard-password-noupdate \
+--allow-fqdn-hostname</screen>
+
+</example>
+
+	</section>
 
       <section id="replaceable-paths">
         <title>Referring to Replaceable Paths</title>
