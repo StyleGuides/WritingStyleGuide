@@ -91,7 +91,7 @@
 				For example, for a button labeled <guibutton>Save As...</guibutton>, do not include the ellipsis in the documentation.
 			</para>
       <para>
-        In most cases, do not include the object type in instructions.
+        In most cases, do not include the GUI element type in instructions.
         For example, rather than "Click the <guibutton>Save</guibutton> button," write "Click <guibutton>Save</guibutton>."
       </para>
       <para>
