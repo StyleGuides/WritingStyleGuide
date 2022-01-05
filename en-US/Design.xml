@@ -41,12 +41,13 @@
             Do not use terminating periods.
             </para>
           </formalpara>
+<!-- Commenting out this section following a change of advice. 
 			 <formalpara id="imperative-mood">
 				<title>Avoid Imperative Mood</title>
 					<para>
 						Use the gerund form (noun form of verb) for titles, not the imperative mood. For example, "Testing the Product", not "Test the Product".
 					</para>
-<!-- Added an example. -->
+
           </formalpara>
 					 <para>
 						See the <citetitle>IBM Style Guide</citetitle> for more information.
@@ -56,11 +57,11 @@
 							Gerunds should be avoided elsewhere.
               See <xref linkend="sentence-structure" />.
 						</para>
-					</important>
+					</important> -->
       <formalpara>
         <title>File Names, Commands, and Related Terms</title>
           <para>
-            When creating chapter and section titles, do not include file, command, or similar names, and do not include DocBook elements.
+            When creating chapter and section titles, do not include file, command, or similar names, and do not include markup elements.
             Instead, focus on the task at hand and introduce the required file and command names in the text.
             Including such objects in titles is generally considered poor technical writing practice.
             Depending on how your documentation is built and delivered, including these object types can result in unpredictable results and can even cause failed builds.
