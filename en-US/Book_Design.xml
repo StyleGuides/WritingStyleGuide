@@ -113,10 +113,17 @@
 		</para>
 
 	</section>
+	 <section id="heading-placement">
+		<title>Placement of Headings</title>
+		 <para>
+			Do not include two consecutive headings without intervening text. Each heading must be followed by one or more paragraphs of text. If it is difficult to provide meaningful intervening text, then consider whether one of the headings is unnecessary.
+		</para>
+
+	</section>
 	 <section id="unused-heading-titles">
 		<title>Unused Heading Titles</title>
-		 <para>
-			This section lists various heading titles that might be  used in Red&nbsp;Hat technical documentation, but that should be avoided except in specific circumstances.
+		 <para>		
+			This section lists various heading titles that might be used in Red&nbsp;Hat technical documentation, but that should be avoided except in specific circumstances.
 		</para>
 		 <formalpara id="overview">
 			<title>Overview</title>
