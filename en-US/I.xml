@@ -25,6 +25,17 @@
 
 			</listitem>
 
+		</varlistentry>
+		 <varlistentry id="iac">
+			<term>infrastructure as code (IaC)</term>
+			 <listitem>
+				<para>
+					Based on search volume, the nonhyphenated full term and camel-case acronym are preferred. Use lowercase except in headings or at the start of a sentence.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 <!-- The following product name is now obsolete. 
 		</varlistentry>
 		 <varlistentry id="ibm-server-system-p">
@@ -37,7 +48,6 @@
 			</listitem>
 
 -->
-		</varlistentry>
 		 <varlistentry id="ibm-z">
 			<term>IBM Z</term>
 			 <listitem>
