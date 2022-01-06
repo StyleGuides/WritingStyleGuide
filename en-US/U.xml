@@ -69,7 +69,7 @@
 			<term>unset</term>
 			 <listitem>
 				<para>
-					Incorrect. Use "Clear" instead, to refer to removing a selection from a checkbox.
+					Use only to refer to deleting a variable. To refer instead to removing a selection from a checkbox, use "clear".
 				</para>
 				 <para>
 					To disable the <application>Wobbly Widget</application> application, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> checkbox.
