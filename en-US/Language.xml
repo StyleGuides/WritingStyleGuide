@@ -1189,7 +1189,7 @@ Numbers (move from N entry) -->
 						Sometimes multiple terms have a single meaning. If terms are used inconsistently, users (and translators) will assume they refer to different things. It is best to use a single term for a single concept throughout.
 					</para>
 					 <para>
-						For example, "Administration GUI" and "Administration Console" could both be used to refer to a single application or to different applications. For this reason it is important that writers choose the most suitable term for each situation and use it consistently.
+						For example, "Administration UI" and "Administration Console" could both be used to refer to a single application or to different applications. For this reason it is important that writers choose the most suitable term for each situation and use it consistently.
 					</para>
 
 				</listitem>

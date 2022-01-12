@@ -423,7 +423,7 @@
 			<term>button</term>
 			 <listitem>
 				<para>
-					Describe a GUI button as a "button," not a "pushbutton" or "push-button."
+					Describe a UI button as a "button," not a "pushbutton" or "push-button."
 				</para>
 				 <para>
 					Ordinarily you would not include the text "button" in a procedure or description. For example, "Click <guibutton>OK</guibutton> to continue" is perfectly acceptable. It might be necessary to distinguish between buttons and links; for example, "Click the <guibutton>Download</guibutton> link."

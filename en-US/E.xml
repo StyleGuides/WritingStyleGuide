@@ -100,7 +100,7 @@
 				 <emphasis>n.</emphasis> Initialism for "end of line"
 			 </para>
 				<para>
-					Always use uppercase for the initialism. Do not capitalize the expansion except at the beginning of a sentence. When documenting GUI objects, use the same capitalization as shown in the GUI.
+					Always use uppercase for the initialism. Do not capitalize the expansion except at the beginning of a sentence. When documenting UI objects, use the same capitalization as shown in the UI.
 			 </para>
 
 		 </listitem>
