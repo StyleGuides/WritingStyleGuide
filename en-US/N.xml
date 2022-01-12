@@ -10,7 +10,7 @@
  			<term>navigate to</term>
  			 <listitem>
  				<para>
-					Use "Navigate to" when moving through multiple GUI options, because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action. For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
+					Use "Navigate to" when moving through multiple UI options, because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action. For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
  				</para>
 				<para>
 					Do not use "Go to", or "point to", or other variations.

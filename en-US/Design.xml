@@ -83,9 +83,9 @@
       The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
 		 <section id="gui-elements-punctuation">
-			<title>GUI Elements, Punctuation, and Symbols</title>
+			<title>User Interface (UI) Elements, Punctuation, and Symbols</title>
 			 <para>
-				When describing GUI elements, do not include punctuation that appears on those elements, unless omission of that punctuation might lead to confusion.
+				When describing UI elements, do not include punctuation that appears on those elements, unless omission of that punctuation might lead to confusion.
 			</para>
 			 <para>
 				For example, for a button labeled <guibutton>Save As...</guibutton>, do not include the ellipsis in the documentation.
@@ -123,9 +123,9 @@
 				See the <citetitle>UI elements</citetitle> chapter in the <citetitle>IBM Style Guide</citetitle> for more information.
 			</para>
 			<section>
-			 <title>Navigating Through Multiple GUI Options</title>
+			 <title>Navigating Through Multiple UI Options</title>
 				 <para>
-					 Use "Navigate to" when moving through multiple GUI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to initiate an action.
+					 Use "Navigate to" when moving through multiple UI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to initiate an action.
 				 </para>
 				 <para>
 					 For example, "From the OpenShift web console, navigate to Monitoring → Alerting."

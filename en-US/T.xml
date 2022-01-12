@@ -228,7 +228,7 @@
 					Initialism for "time to live" (n.) and "time-to-live" (adj.)
 				</para>
 				 <para>
-					Neither the noun nor the adjective should be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism is always uppercase.
+					Neither the noun nor the adjective should be capitalized unless you are documenting a UI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism is always uppercase.
 				</para>
 
 			</listitem>
