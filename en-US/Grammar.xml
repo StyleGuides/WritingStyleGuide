@@ -11,7 +11,7 @@
 	 <section id="active-voice">
 		<title>Active Voice</title>
 		 <para>
-			Use the active voice ("Type ... to start Linuxconf.") rather than passive ("Linuxconf can be started by typing...") whenever possible. Active voice makes for more lively, interesting reading. It is more compelling than passive voice and helps to reduce word count.
+			Use the active voice ("Type ... to start Linuxconf".) rather than passive ("Linuxconf can be started by typing ...") whenever possible. Active voice makes for more lively, interesting reading. It is more compelling than passive voice and helps to reduce word count.
 		</para>
 		 <para>
 			This does not mean that the passive voice is forbidden. There are situations when using the passive voice is appropriate, such as release notes, technical notes, and similar material.
@@ -111,7 +111,7 @@
 	 <section id="using-who-whom">
 		<title>Using Who, Whom, That, and Which Correctly</title>
 		 <para>
-			Use "whom" or "who" to introduce a qualifying phrase when the antecedent is a person. Use "that" or "which" when referring to a thing. Use "which" or "that" to introduce a qualifying phrase when the antecedent is a concept or an object. Who, whom, that, and which are known as "relative pronouns."
+			Use "whom" or "who" to introduce a qualifying phrase when the antecedent is a person. Use "that" or "which" when referring to a thing. Use "which" or "that" to introduce a qualifying phrase when the antecedent is a concept or an object. Who, whom, that, and which are known as "relative pronouns".
 		</para>
 		 <para>
 			Use the following as guidelines:
@@ -609,7 +609,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 	 <section id="gender-references">
 		<title>Gender References</title>
 		 <para>
-			Do not use gender-specific pronouns in documentation, except to refer to a specific named user, such as in a case study. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers." It is acceptable to use "they" to refer to one person, with a plural verb. In most cases, when giving instructions, use the imperative mood or use "you". In more general explanations, you can use "the user" or "new users". Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal. Do not use "it" to refer to a person.
+			Do not use gender-specific pronouns in documentation, except to refer to a specific named user, such as in a case study. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers". It is acceptable to use "they" to refer to one person, with a plural verb. In most cases, when giving instructions, use the imperative mood or use "you". In more general explanations, you can use "the user" or "new users". Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal. Do not use "it" to refer to a person.
 		</para>
 	
 	</section>

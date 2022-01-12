@@ -33,10 +33,10 @@
 					Abbreviation of gigabyte. Depending on the type of content you are writing, refer either to <citetitle>The AP Style Guide</citetitle> or the <citetitle>IBM Style Guide.</citetitle>
 				</para>
 				 <para>
-					AP style: Do not use a space between the value and the abbreviation. For example, "a 2GB file."
+					AP style: Do not use a space between the value and the abbreviation. For example, "a 2GB file".
 				</para>
 				 <para>
-					IBM style: Use a non-breaking space between the value and the abbreviation. For example, "a 2&nbsp;GB file."
+					IBM style: Use a non-breaking space between the value and the abbreviation. For example, "a 2&nbsp;GB file".
 				</para>
 
 			</listitem>
@@ -126,7 +126,7 @@
 			<term>GID</term>
 			 <listitem>
 				<para>
-					Acronym for Group ID. Do not use "gid."
+					Acronym for Group ID. Do not use "gid".
 				</para>
 
 			</listitem>
@@ -136,7 +136,7 @@
 			<term>gigabyte</term>
 			 <listitem>
 				<para>
-					2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB." Use a non-breaking space between the unit and any value to prevent widows and orphans.
+					2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB". Use a non-breaking space between the unit and any value to prevent widows and orphans.
 				</para>
 
 			</listitem>
@@ -156,7 +156,7 @@
 			<term>GIMP</term>
 			 <listitem>
 				<para>
-					Acronym for GNU Image Manipulation Program. Do not use "Gimp" or "gimp."
+					Acronym for GNU Image Manipulation Program. Do not use "Gimp" or "gimp".
 				</para>
 
 			</listitem>
@@ -186,7 +186,7 @@
 			<term>GNU</term>
 			 <listitem>
 				<para>
-					Recursive initialism for "GNU's Not UNIX." Do not use "Gnu" or "gnu."
+					Recursive initialism for "GNU's Not UNIX". Do not use "Gnu" or "gnu".
 				</para>
 
 			</listitem>
@@ -216,7 +216,7 @@
 			<term>GPL</term>
 			 <listitem>
 				<para>
-					Initialism for General Public License. Do not use "Gpl" or "gpl."
+					Initialism for General Public License. Do not use "Gpl" or "gpl".
 				</para>
 
 			</listitem>
@@ -226,7 +226,7 @@
 			<term>grayscale</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct. Do not use "gray-scale" or "gray scale." Only the noun form is currently recognized.
+					<emphasis>n.</emphasis> Correct. Do not use "gray-scale" or "gray scale". Only the noun form is currently recognized.
 				</para>
 
 			</listitem>
@@ -236,7 +236,7 @@
 			<term>GRUB</term>
 			 <listitem>
 				<para>
-					Correct. All caps. Do not use "Grub."
+					Correct. All caps. Do not use "Grub".
 				</para>
 
 			</listitem>
@@ -246,7 +246,7 @@
 			<term>GTK+</term>
 			 <listitem>
 				<para>
-					Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk."
+					Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk".
 				</para>
 
 			</listitem>

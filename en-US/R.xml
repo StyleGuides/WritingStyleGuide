@@ -10,7 +10,7 @@
 			<term>RAM</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Ram" or any other variations. It is an acronym for "random access memory."
+					Correct. Do not use "Ram" or any other variations. It is an acronym for "random access memory".
 				</para>
 
 			</listitem>
@@ -20,7 +20,7 @@
 			<term>RAM disk</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "RAMdisk," "ramdisk," or "RAdisk."
+					Correct. Do not use "RAMdisk," "ramdisk," or "RAdisk".
 				</para>
 				 <para>
 					Refers to RAM that is configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a real disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful, therefore, for applications that require frequent disk accesses.
@@ -95,7 +95,7 @@
 			<term>reboot</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "re-boot."
+					Correct. Do not use "re-boot".
 				</para>
 
 			</listitem>
@@ -105,7 +105,7 @@
 			<term>RedBoot</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Redboot" or "Red Boot."
+					Correct. Do not use "Redboot" or "Red Boot".
 				</para>
 
 			</listitem>
@@ -115,7 +115,7 @@
 			<term>refer to</term>
 			 <listitem>
 				<para>
-					Do not use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source). Use "See."
+					Do not use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source). Use "See".
 				</para>
 
 			</listitem>
@@ -165,7 +165,7 @@
 			<term>right-click</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Write the term hyphenated. Do not use "right click."
+					<emphasis>v.</emphasis> Write the term hyphenated. Do not use "right click".
 				</para>
 
 			</listitem>
@@ -211,7 +211,7 @@
 			<term>RPM</term>
 			 <listitem>
 				<para>
-					Initialism for RPM Package Manager. RPM manages files in the RPM format, known as RPM packages. Note: RPM packages are known informally as <firstterm>rpm files</firstterm>, but this informal usage is not used in Red Hat documentation, to avoid confusion with the command name. Files in RPM format are referred to as "RPM packages."
+					Initialism for RPM Package Manager. RPM manages files in the RPM format, known as RPM packages. Note: RPM packages are known informally as <firstterm>rpm files</firstterm>, but this informal usage is not used in Red Hat documentation, to avoid confusion with the command name. Files in RPM format are referred to as "RPM packages".
 				</para>
 
 			</listitem>
@@ -221,7 +221,7 @@
 			<term>runlevel</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "run level" or "run-level."
+					Correct. Do not use "run level" or "run-level".
 				</para>
 
 			</listitem>

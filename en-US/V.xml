@@ -40,7 +40,7 @@
 			<term>video mode</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "video-mode" or "videomode."
+					Correct. Do not use "video-mode" or "videomode".
 				</para>
 				 <para>
 					The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
@@ -81,10 +81,10 @@
 			<term>virtualized guest</term>
 			 <listitem>
 				<para>
-					The term "virtualized guest" should be used only when comparing a "fully virtualized guest" with a "paravirtualized guest."
+					The term "virtualized guest" should be used only when comparing a "fully virtualized guest" with a "paravirtualized guest".
 				</para>
 				 <para>
-					See also "guest operating system."
+					See also "guest operating system".
 				</para>
 
 			</listitem>
@@ -97,7 +97,7 @@
 					Refers to virtual hardware that consists of virtual CPUs, memory, devices, and so on. Do not use "guest virtual machine" except for specific emphasis that it is a guest.
 				</para>
 				 <para>
-					It can be abbreviated to "VM" provided that the term is first introduced in the same content in its full version, and without any possible confusion with other terms, such as "virtual memory." Author discretion is recommended.
+					It can be abbreviated to "VM" provided that the term is first introduced in the same content in its full version, and without any possible confusion with other terms, such as "virtual memory". Author discretion is recommended.
 				</para>
 
 			</listitem>

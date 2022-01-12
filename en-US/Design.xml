@@ -92,7 +92,7 @@
 			</para>
       <para>
         In most cases, do not include the element type in instructions.
-        For example, rather than "Click the <guibutton>Save</guibutton> button," write "Click <guibutton>Save</guibutton>."
+        For example, rather than "Click the <guibutton>Save</guibutton> button," write "Click <guibutton>Save</guibutton>".
       </para>
       <para>
         In some cases it is preferred practice to include the object type for the sake of clarity.
@@ -169,7 +169,7 @@
       </para>
       <blockquote>
         <para>
-          "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter (‘-’). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, ‘-abc’ is equivalent to ‘-a -b -c’. [...] Certain options require an argument. For example, the ‘-o’ option of the ‘ld’ command requires an argument—an output file name." and so on.
+          "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter (‘-’). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, ‘-abc’ is equivalent to ‘-a -b -c’. [...] Certain options require an argument. For example, the ‘-o’ option of the ‘ld’ command requires an argument—an output file name". and so on.
         </para>
         <para>
           See <command>info libc argument syntax</command> for the full discussion.
@@ -508,7 +508,7 @@ $ vi myFile.txt
 				To describe how to view and edit files, such as configuration files, scripts, and so on, do not include editor names as part of the guidance, unless the topic is about a specific editor, or is otherwise necessary to achieve a wanted result.
 			</para>
 			 <para>
-				For example, do not refer to <command>cat</command> or <command>vi</command> if you need to tell readers to "view the <filename>my-script</filename> file." If you need to tell readers to edit a file and add or remove content, write "Edit the <filename>my-script</filename> file and add the following content:" and then include the required content in a &lt;screen&gt; block. Use &lt;code&gt; tags to highlight the text to change. Include some surrounding text in the file for context. Do not use line numbers as a reference point because they can change.
+				For example, do not refer to <command>cat</command> or <command>vi</command> if you need to tell readers to "view the <filename>my-script</filename> file". If you need to tell readers to edit a file and add or remove content, write "Edit the <filename>my-script</filename> file and add the following content:" and then include the required content in a &lt;screen&gt; block. Use &lt;code&gt; tags to highlight the text to change. Include some surrounding text in the file for context. Do not use line numbers as a reference point because they can change.
 			</para>
 			 <para>
 				If the file to edit is empty or does not exist, do not use &lt;code&gt; tags to highlight any content to add.
@@ -749,8 +749,8 @@ $ vi myFile.txt
 		</para>
 
 		 <para>
-			Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK) ..."
-          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)."
+			Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK) ...".
+          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
           	Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
 		</para>
 
@@ -799,7 +799,7 @@ $ vi myFile.txt
 		</para>
 		 <note>
 			<para>
-				In the following sections, "first use" refers to the first use of a name in body text. Titles, banners, and similar objects are not classified as "first use."
+				In the following sections, "first use" refers to the first use of a name in body text. Titles, banners, and similar objects are not classified as "first use".
 			</para>
 
 		</note>
@@ -824,7 +824,7 @@ $ vi myFile.txt
 			</listitem>
 			 <listitem>
 				<para>
-					Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was..."
+					Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was ...".
 				</para>
 				 <note>
 					<para>
@@ -1002,7 +1002,7 @@ $ vi myFile.txt
 	<section id="making-recommendations">
 	 <title>Making Recommendations</title>
 		<para>
-		When making a recommendation, the preferred verbiage is "Red&nbsp;Hat recommends..." instead of the common but indirect "It is recommended...".
+		When making a recommendation, the preferred verbiage is "Red&nbsp;Hat recommends ..." instead of the common but indirect "It is recommended ...".
 		Recommendations can include best practices, recommended practices, and product-specific suggestions.
 		See <xref linkend="avoiding-confusing-language"/> for information on using the terms "best practices" and "recommended practices" in Red&nbsp;Hat documentation.
 	  </para>

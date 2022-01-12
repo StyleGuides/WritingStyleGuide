@@ -10,7 +10,7 @@
 			<term>S/390</term>
 			 <listitem>
 				<para>
-					Use the full description "IBM S/390." Do not use "s390," "S390," or any other variations.
+					Use the full description "IBM S/390". Do not use "s390," "S390," or any other variations.
 				</para>
 
 			</listitem>
@@ -20,7 +20,7 @@
 			<term>SaaS</term>
 			 <listitem>
 				<para>
-					The correct abbreviation for "Software-as-a-Service." 
+					The correct abbreviation for "Software-as-a-Service". 
 					See also <xref linkend="paas" />.
 				</para>
 
@@ -31,7 +31,7 @@
 			<term>Samba</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "samba" or "SAMBA."
+					Correct. Do not use "samba" or "SAMBA".
 				</para>
 
 			</listitem>
@@ -61,7 +61,7 @@
 			<term>screen saver</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Do not use "screensaver."
+					<emphasis>n.</emphasis> Do not use "screensaver".
 				</para>
 
 			</listitem>
@@ -71,7 +71,7 @@
 			<term>scrollbar</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Do not use "scroll bar" or "scroll-bar."
+					<emphasis>n.</emphasis> Do not use "scroll bar" or "scroll-bar".
 				</para>
 
 			</listitem>
@@ -151,7 +151,7 @@
 			<term>send out</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "emit" or "issue."
+					Do not use. Instead, use "emit" or "issue".
 				</para>
 
 			</listitem>
@@ -216,7 +216,7 @@
 					Pronounced "shä" and thus requires "an" as the indefinite article.
         </para>
         <para>
-          SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA2 variants are often specified by using their digest size, in bits, as the trailing number, in lieu of "2." Thus "SHA224," "SHA256," "SHA384," and "SHA512" are considered correct when referring to these specific hash functions.
+          SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA2 variants are often specified by using their digest size, in bits, as the trailing number, in lieu of "2". Thus "SHA224," "SHA256," "SHA384," and "SHA512" are considered correct when referring to these specific hash functions.
 				</para>
         <para>
           See <ulink url="https://en.wikipedia.org/wiki/Secure_Hash_Algorithms"></ulink> for full details.
@@ -229,7 +229,7 @@
 			<term>Shadowman</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Shadow Man" or "ShadowMan." The Red&nbsp;Hat Shadowman logo is a trademark of Red&nbsp;Hat, Inc., registered in the United States and other countries.
+					Correct. Do not use "Shadow Man" or "ShadowMan". The Red&nbsp;Hat Shadowman logo is a trademark of Red&nbsp;Hat, Inc., registered in the United States and other countries.
 				</para>
 
 			</listitem>
@@ -292,7 +292,7 @@
 			<term>shell prompt</term>
 			 <listitem>
 				<para>
-					Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use "command prompt," "terminal," or "shell."
+					Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use "command prompt," "terminal," or "shell".
 				</para>
 
 			</listitem>
@@ -312,7 +312,7 @@
 			<term>shut down</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Correct. Do not use "shut-down." Only use "shutdown" when referring to the <command>/sbin/shutdown</command> system command.
+					<emphasis>v.</emphasis> Correct. Do not use "shut-down". Only use "shutdown" when referring to the <command>/sbin/shutdown</command> system command.
 				</para>
 
 			</listitem>
@@ -423,7 +423,7 @@
 			<term>SOCKS</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "socks." When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5."
+					Correct. Do not use "socks". When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5".
 				</para>
 
 			</listitem>
@@ -433,7 +433,7 @@
 			<term>softcopy</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "online." For example, "To view the online documentation ..."
+					Do not use. Instead, use "online". For example, "To view the online documentation ...".
 				</para>
 
 			</listitem>
@@ -443,7 +443,7 @@
 			<term>sound card</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Do not use "soundcard" or "sound-card."
+					<emphasis>n.</emphasis> Do not use "soundcard" or "sound-card".
 				</para>
 
 			</listitem>
@@ -453,7 +453,7 @@
 			<term>Source-Navigator™</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Source Navigator." Source-Navigator™ is a trademark of Red&nbsp;Hat.
+					Correct. Do not use "Source Navigator". Source-Navigator™ is a trademark of Red&nbsp;Hat.
 				</para>
 
 			</listitem>
@@ -492,7 +492,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>spec file</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Use to refer to an RPM spec file. Do not use "specfile."
+					<emphasis>n.</emphasis> Use to refer to an RPM spec file. Do not use "specfile".
 				</para>
 
 			</listitem>
@@ -502,7 +502,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>specific</term>
 			 <listitem>
 				<para>
-					When used as a modifier, put a hyphen before "specific," such as "MIP-specific," "Linux-specific," and "chip-specific."
+					When used as a modifier, put a hyphen before "specific," such as "MIP-specific," "Linux-specific," and "chip-specific".
 				</para>
 
 			</listitem>
@@ -512,7 +512,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>spelled</term>
 			 <listitem>
 				<para>
-					Correct. It is the standard US English spelling. Do not use "spelt."
+					Correct. It is the standard US English spelling. Do not use "spelt".
 				</para>
 				 <!-- <para>
 					"Spelt" is the standard spelling in Commonwealth English. US English prefers "spelled," although "spelt" is occasionally seen.
@@ -528,13 +528,13 @@ a programming and technical sense, it also means "Run the <command>source</comma
 					When referring to the ISO standard (ISO 9075 and its descendants), it is pronounced as an initialism: ĕs kyü ĕl. Consequently, it takes "an" as an indefinite article.
 				</para>
 				 <para>
-					When referring to Microsoft's proprietary product, SQL Server, pronounce it as a word: "sequel." In this case, it takes "a" as an indefinite article.
+					When referring to Microsoft's proprietary product, SQL Server, pronounce it as a word: "sequel". In this case, it takes "a" as an indefinite article.
 				</para>
 				 <para>
-					Note: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel."
+					Note: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel".
 				</para>
 				 <para>
-					More generally, avoid use of "SQL" as a generic marker if possible. When discussing MySQL, write "MySQL." When discussing Microsoft SQL Server, write "Microsoft SQL Server." When discussing PostgreSQL (which is pronounced pŏstgrĕs kyü ĕl), write "PostgreSQL."
+					More generally, avoid use of "SQL" as a generic marker if possible. When discussing MySQL, write "MySQL". When discussing Microsoft SQL Server, write "Microsoft SQL Server". When discussing PostgreSQL (which is pronounced pŏstgrĕs kyü ĕl), write "PostgreSQL".
 				</para>
 
 			</listitem>
@@ -564,7 +564,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 						Example Use of "SSH"
 				</title>
 				<para>
-				  Incorrect: To begin, "ssh to the remote server."
+				  Incorrect: To begin, "ssh to the remote server".
 				</para>
 				<para>
 					Correct: "Use SSH to connect to the remote server," "Open an SSH connection," or something similar.
@@ -587,7 +587,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>stand-alone</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Write hyphenated. Do not use "standalone."
+					<emphasis>adj.</emphasis> Write hyphenated. Do not use "standalone".
 				</para>
 				 <para>
 					Refers to something that is self-contained, or that does not require any other devices to function. 
@@ -603,7 +603,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>StarOffice</term>
 			 <listitem>
 				<para>
-					A legacy Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office."
+					A legacy Linux desktop suite. Do not use "Star," "Staroffice," or "Star Office".
 				</para>
 <!-- Is it acceptable to use "legacy"?				 -->
 				 <para>
@@ -617,7 +617,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>start up</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Do not use. Instead, use "activate" or "invoke."
+					<emphasis>v.</emphasis> Do not use. Instead, use "activate" or "invoke".
 				</para>
 
 			</listitem>
@@ -637,7 +637,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>straightforward</term>
 			 <listitem>
 				<para>
-					<emphasis>adj., adv.</emphasis> Accepted references prescribe the use of the one-word form in all cases. Do not use "straight-forward."
+					<emphasis>adj., adv.</emphasis> Accepted references prescribe the use of the one-word form in all cases. Do not use "straight-forward".
 				</para>
 
 			</listitem>
@@ -657,7 +657,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>subcommand</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-command" or refer to a subcommand as a "verb."
+					Correct. Do not use "sub-command" or refer to a subcommand as a "verb".
 					 A subcommand refers to a secondary or even a tertiary command that is used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
 				</para>
 
@@ -676,7 +676,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>subdirectory</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-directory." See also <xref linkend="hyphenate-double-prefixes" />.
+					Correct. Do not use "sub-directory". See also <xref linkend="hyphenate-double-prefixes" />.
 				</para>
 
 			</listitem>
@@ -686,7 +686,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>submenu</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-menu." See also <xref linkend="hyphenate-double-prefixes" />.
+					Correct. Do not use "sub-menu". See also <xref linkend="hyphenate-double-prefixes" />.
 				</para>
 
 			</listitem>
@@ -696,10 +696,10 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>subpackage</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-package."
+					Correct. Do not use "sub-package".
 				</para>
 				 <para>
-					This word has a specific, specialized meaning in Red&nbsp;Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages."
+					This word has a specific, specialized meaning in Red&nbsp;Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages".
 				</para>
 				 <para>
 					Any other use of this word is strongly discouraged.
@@ -715,7 +715,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>superuser</term>
 			 <listitem>
 				<para>
-					A synonym for the <systemitem>root</systemitem> user. More common in Solaris documentation than Linux. If and when used, this spelling is correct. Do not use "super user" or "super-user."
+					A synonym for the <systemitem>root</systemitem> user. More common in Solaris documentation than Linux. If and when used, this spelling is correct. Do not use "super user" or "super-user".
 				</para>
 
 			</listitem>
@@ -725,7 +725,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>swap space</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "swapspace." Capitalize at the beginning of a sentence only.
+					Correct. Do not use "swapspace". Capitalize at the beginning of a sentence only.
 				</para>
 
 			</listitem>
@@ -735,7 +735,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>Sybase Adaptive Server Enterprise (ASE)</term>
 			 <listitem>
 				<para>
-					Use <productname>SAP Sybase Adaptive Server Enterprise (ASE)</productname> in the first instance. Subsequent entries can use the abbreviation "Sybase ASE." If discussing the high-availability version, use "Sybase ASE and High Availability."
+					Use <productname>SAP Sybase Adaptive Server Enterprise (ASE)</productname> in the first instance. Subsequent entries can use the abbreviation "Sybase ASE". If discussing the high-availability version, use "Sybase ASE and High Availability".
 				</para>
 				 <para>
 					See <ulink url=" http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise"> http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise</ulink> for more information.

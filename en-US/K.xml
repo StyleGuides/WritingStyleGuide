@@ -76,7 +76,7 @@
 					<emphasis>n.</emphasis> Two words when used as a noun.
 				</para>
 				 <para>
-					<emphasis>adj.</emphasis> Hyphenate as an adjective, "kernel-space." Do not use "kernelspace."
+					<emphasis>adj.</emphasis> Hyphenate as an adjective, "kernel-space". Do not use "kernelspace".
 				</para>
 
 			</listitem>
@@ -86,7 +86,7 @@
 			<term>keyboard key</term>
 			 <listitem>
 				<para>
-					When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X." When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S."
+					When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X". When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S".
 				</para>
 				 <para>
 					See also <xref linkend="spacebar" />.
@@ -99,10 +99,10 @@
 			<term>key ring</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Use the two-word form as a noun. For example, "add your new key to the key ring."
+					<emphasis>n.</emphasis> Use the two-word form as a noun. For example, "add your new key to the key ring".
 				</para>
 				 <para>
-					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example, "copy the key-ring file to the server."
+					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example, "copy the key-ring file to the server".
 				</para>
 				 <para>
 					Only use the one-word form, "keyring," if it is the actual name of a command, package, or other proper noun.
@@ -125,7 +125,7 @@
 			<term>key-value</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Correct when referring to a data representation in computing systems and applications, for example a "key-value pair." Do not use "key/value" or any other variations.
+					<emphasis>adj.</emphasis> Correct when referring to a data representation in computing systems and applications, for example a "key-value pair". Do not use "key/value" or any other variations.
 				</para>
 
 			</listitem>
@@ -148,7 +148,7 @@
 			<term>kill</term>
 			 <listitem>
 				<para>
-					If terminating a UNIX process, use "kill." For example, to terminate the process, type <command>kill <replaceable>&lt;PID&gt;</replaceable></command>. If terminating a Windows process, use "terminate." For example, "To terminate the process, press <keycap>Q</keycap>."
+					If terminating a UNIX process, use "kill". For example, to terminate the process, type <command>kill <replaceable>&lt;PID&gt;</replaceable></command>. If terminating a Windows process, use "terminate". For example, "To terminate the process, press <keycap>Q</keycap>."
 				</para>
 
 			</listitem>
@@ -158,7 +158,7 @@
 			<term>knowledge base</term>
 			 <listitem>
 				<para>
-					Correct. Use the two-word form unless referring specifically to the "Red&nbsp;Hat Knowledgebase." In this case, use the one-word form and capitalize the "K." Do not capitalize the "b."
+					Correct. Use the two-word form unless referring specifically to the "Red&nbsp;Hat Knowledgebase". In this case, use the one-word form and capitalize the "K". Do not capitalize the "b".
 				</para>
 
 			</listitem>

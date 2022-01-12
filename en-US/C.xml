@@ -20,7 +20,7 @@
 			<term>cannot</term>
 			 <listitem>
 				<para>
-					Correct, as one word, when used in the negative form. For example, "you cannot end a sentence with a preposition." Do not use "can not." When used as an additive, use two words. For example, "you can not only end a sentence with a preposition, but you can also start a sentence with a conjunction."
+					Correct, as one word, when used in the negative form. For example, "you cannot end a sentence with a preposition". Do not use "can not". When used as an additive, use two words. For example, "you can not only end a sentence with a preposition, but you can also start a sentence with a conjunction".
 				</para>
 
 			</listitem>
@@ -43,7 +43,7 @@
 					When referring to the change directory command, use <command>cd</command>.
 				</para>
 				 <para>
-					When referring to a compact disk, use "CD." For example, "Insert the CD into the CD drive." The plural is "CDs."
+					When referring to a compact disk, use "CD". For example, "Insert the CD into the CD drive". The plural is "CDs".
 				</para>
 				 <para>
 					See the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
@@ -92,7 +92,7 @@
 			<term>characters</term>
 			 <listitem>
 				<para>
-					Do not use "characters" to mean "bytes." In English, bytes and characters can be used interchangeably; in other languages, a single character might consist of multiple bytes.
+					Do not use "characters" to mean "bytes". In English, bytes and characters can be used interchangeably; in other languages, a single character might consist of multiple bytes.
 				</para>
 				 <para>
 					In computer software, any symbol that requires one byte of storage. This includes all the ASCII and extended ASCII characters, including the space character. In character-based software, everything that appears on the screen, including graphics symbols, is considered to be a character. In graphics-based applications, the term character is generally reserved for letters, numbers, and punctuation.
@@ -116,7 +116,7 @@
 			<term>chipset</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> One word. Do not use "chip set" or "chip-set."
+					<emphasis>n.</emphasis> One word. Do not use "chip set" or "chip-set".
 				</para>
 
 			</listitem>
@@ -186,7 +186,7 @@
 			<term>cloud</term>
 			 <listitem>
 				<para>
-					Although cloud is important to Red&nbsp;Hat's business, it is not a proper noun. Do not capitalize, unless it is part of a Red&nbsp;Hat product, service, solution, or business unit name. Use a lowercase "c" when referring to cloud or cloud computing in a general sense. Use a capitalized "C" when referring to the full name of official products, such as Red&nbsp;Hat CloudForms or Red&nbsp;Hat Cloud Foundations. See also "big data."
+					Although cloud is important to Red&nbsp;Hat's business, it is not a proper noun. Do not capitalize, unless it is part of a Red&nbsp;Hat product, service, solution, or business unit name. Use a lowercase "c" when referring to cloud or cloud computing in a general sense. Use a capitalized "C" when referring to the full name of official products, such as Red&nbsp;Hat CloudForms or Red&nbsp;Hat Cloud Foundations. See also "big data".
 				</para>
 
 			</listitem>
@@ -247,7 +247,7 @@
 			<term>combo-box</term>
 			 <listitem>
 				<para>
-					Do not use as an abbreviation for "combination box." See the relevant entry in the <citetitle>IBM Style Guide</citetitle> for further usage information.
+					Do not use as an abbreviation for "combination box". See the relevant entry in the <citetitle>IBM Style Guide</citetitle> for further usage information.
 				</para>
 
 			</listitem>
@@ -287,7 +287,7 @@
 			<term>command-driven</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Correct (compound adjective). Do not use "command driven" or "commanddriven."
+					<emphasis>adj.</emphasis> Correct (compound adjective). Do not use "command driven" or "commanddriven".
 				</para>
 				 <para>
 					Refers to programs and operating systems that accept commands in the form of special words or letters. In contrast, programs that provide a list of options in a menu are said to be <emphasis>menu-driven</emphasis>.
@@ -368,7 +368,7 @@
 			<term>container-based</term>
 			 <listitem>
 				<para>
-					Used to refer to more complex applications with multiple services that are distributed in containers. More common than "containerized."
+					Used to refer to more complex applications with multiple services that are distributed in containers. More common than "containerized".
 				</para>
 
 			</listitem>
@@ -467,7 +467,7 @@
 			<term>CR</term>
 			 <listitem>
 				<para>
-					Use if referring to code, such as "Type CR at the end of each line ..." If referring to the keyboard key, use either <keycap>Enter</keycap> or <keycap>Return</keycap>, depending on the platform.
+					Use if referring to code, such as "Type CR at the end of each line ...". If referring to the keyboard key, use either <keycap>Enter</keycap> or <keycap>Return</keycap>, depending on the platform.
 				</para>
 
 			</listitem>
@@ -477,7 +477,7 @@
 			<term>crash</term>
 			 <listitem>
 				<para>
-					IBM recommends the use of "fail" rather than "crash." Use the latter only if you can justify why "fail" is inadequate.
+					IBM recommends the use of "fail" rather than "crash". Use the latter only if you can justify why "fail" is inadequate.
 				</para>
 
 			</listitem>
@@ -487,7 +487,7 @@
 			<term>cross-platform</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Hyphenate. Do not use "crossplatform" or "cross platform."
+					<emphasis>adj.</emphasis> Hyphenate. Do not use "crossplatform" or "cross platform".
 				</para>
 				 <para>
 					Refers to the capability of software or hardware to run identically on different platforms.
@@ -500,7 +500,7 @@
 			<term>cross-site scripting</term>
 			 <listitem>
 				<para>
-					Correct. When referring to cross-site scripting attacks, use "cross-site scripting attack." Acceptable use is also "cross-site scripting (XSS) attack."
+					Correct. When referring to cross-site scripting attacks, use "cross-site scripting attack". Acceptable use is also "cross-site scripting (XSS) attack".
 				</para>
 
 			</listitem>
@@ -519,10 +519,10 @@
 			<term>Cygmon</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "CygMon," "cygmon," or "CYGMON." An exception is if a command is being typed (such as <command>cygmon</command>).
+					Correct. Do not use "CygMon," "cygmon," or "CYGMON". An exception is if a command is being typed (such as <command>cygmon</command>).
 				</para>
 				 <para>
-					Refer to it as "Cygmon: a ROM monitor," not "Cygmon: the Cygnus ROM monitor," or "Cygmon: the ROM monitor."
+					Refer to it as "Cygmon: a ROM monitor," not "Cygmon: the Cygnus ROM monitor," or "Cygmon: the ROM monitor".
 				</para>
 
 			</listitem>

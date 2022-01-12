@@ -22,7 +22,7 @@
 			 <listitem>
 				<para>
 					Do not use to refer to information that was mentioned previously.
-          When documents are converted to online format, the information might no longer be "above."
+          When documents are converted to online format, the information might no longer be "above".
           Use a cross-reference if the referenced material is sufficiently removed, or write "as mentioned previously" instead.
 				</para>
 
@@ -47,7 +47,7 @@
       <term role="false">air wall</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Use "air gap" to describe systems that are separated, not by software, but physically. Do not use "air wall." "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.
+					<emphasis>n.</emphasis> Use "air gap" to describe systems that are separated, not by software, but physically. Do not use "air wall". "Air gap" is preferred in technical publications because there is no actual wall that you need to breach, but rather a gap that you need to bridge. You cannot break through something that does not exist.
 				</para>
 
 			</listitem>
@@ -84,7 +84,7 @@
 			 <listitem>
 				<para>
 					<emphasis>adj.</emphasis> Describes another way or method of doing something.
-          "Alternate" (vb.) means to change between two states or options. If you mean "another way of doing something," use "an alternative method is to ..."
+          "Alternate" (vb.) means to change between two states or options. If you mean "another way of doing something," use "an alternative method is to ...".
 				</para>
         <para>
           See also <xref linkend="alternate"/>.
@@ -113,7 +113,7 @@
 					Correct. Do not use "Hammer," "x86_64," "x86-64," "x64," "64-bit x86" or other variations as the name of this architecture.
 				</para>
 				 <para>
-					The correct term for AMD's implementation of this architecture is "AMD64."
+					The correct term for AMD's implementation of this architecture is "AMD64".
           When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
 				</para>
         <para>
@@ -152,7 +152,7 @@
 			<term>appendixes</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct plural form for US English spelling. Do not use "appendices."
+					Correct. This is the correct plural form for US English spelling. Do not use "appendices".
 				</para>
 
 			</listitem>
@@ -165,7 +165,7 @@
 			 <listitem>
 				<para>
 					When used as a proper name, use the capitalization of the product, such as GNUPro, Source-Navigator, and Red&nbsp;Hat Enterprise&nbsp;Linux.
-          When used as a command, use lowercase as appropriate, such as "To start GCC, type gcc."
+          When used as a command, use lowercase as appropriate, such as "To start GCC, type gcc".
 				</para>
 				 <note>
 					<para>
@@ -186,7 +186,7 @@
 			 <listitem>
 				<para>
 					"Applixware" is correct.
-          Do not use "Applix" or "ApplixWare."
+          Do not use "Applix" or "ApplixWare".
 				</para>
 
 			</listitem>
@@ -200,7 +200,7 @@
           Even though it might make sense in the correct context, using it as a verb can be jargon or be unclear for your audience.
           Use "design," "build," "create," or another descriptive verb instead.
           Before replacing the verb form of "architect" during the editing process, clarify with the writer the intended meaning.
-          For example, a sentence that mentions rearchitecting might require "refactoring" as a replacement rather than "rebuilding."
+          For example, a sentence that mentions rearchitecting might require "refactoring" as a replacement rather than "rebuilding".
         </para>
       </listitem>
     </varlistentry>
@@ -208,7 +208,7 @@
 			<term role="caution">as well as</term>
 			 <listitem>
 				<para>
-					Not interchangeable with "and."
+					Not interchangeable with "and".
           "As well as" used in a series places more emphasis on the items preceding it, whereas "and" places equal weight on all items in the series.
           For example, "We sell kitchen electronics and china, as well as some gourmet foods."
           But "We sell kitchen electronics, china, and silverware."
@@ -345,7 +345,7 @@
 			<term>auto-detect</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "autodetect."
+					Correct. Do not use "autodetect".
 				</para>
 
 			</listitem>
