@@ -42,7 +42,7 @@
 				<term>first come, first served</term>
 				 <listitem>
 					<para>
-						Indicates that customers will be attended to in the order that they arrive. The phrase abbreviates the sentence "The first to come is the first to be served," so use "served" instead of "serve" to keep the verb function the same. This phrase is an idiom, so avoid using it when content will be translated. When you use this phrase as an adjective, it is hyphenated as follows: Admittance is on a first-come, first-served basis.
+						Indicates that customers will be attended to in the order that they arrive. The phrase abbreviates the sentence "The first to come is the first to be served", so use "served" instead of "serve" to keep the verb function the same. This phrase is an idiom, so avoid using it when content will be translated. When you use this phrase as an adjective, it is hyphenated as follows: Admittance is on a first-come, first-served basis.
 					</para>
 
 				</listitem>
@@ -107,7 +107,7 @@
 				<term>at this point in time</term>
 				 <listitem>
 					<para>
-						Do not use. In most cases, use "now". In some cases it is acceptable to use "at this point," for example, when you have reached a specific point in a procedure.
+						Do not use. In most cases, use "now". In some cases it is acceptable to use "at this point", for example, when you have reached a specific point in a procedure.
 					</para>
 
 				</listitem>
@@ -189,7 +189,7 @@
 				<term>core competency</term>
 				 <listitem>
 					<para>
-						Jargon, cold and impersonal. Better choices include "specialization," "skill," "strength," "expertise," and so on. The De-Jargonator says: "'Competent' means 'adequate but not exceptional.' Why would you describe what you do best as 'competence'? Try instead: What your organization does best; competitive advantage; special or unique expertise or ability; specialty."
+						Jargon, cold and impersonal. Better choices include "specialization", "skill", "strength", "expertise", and so on. The De-Jargonator says: "'Competent' means 'adequate but not exceptional.' Why would you describe what you do best as 'competence'? Try instead: What your organization does best; competitive advantage; special or unique expertise or ability; specialty."
 					</para>
 
 				</listitem>
@@ -259,7 +259,7 @@
 				<term>fib</term>
 				 <listitem>
 					<para>
-						A fib is a "small lie," also known as a "white lie".
+						A fib is a "small lie", also known as a "white lie".
             For example, "This command tells fibs" is better written as "The output of this command can be misleading".
 					</para>
 
@@ -305,7 +305,7 @@
 					 <itemizedlist>
 						<listitem>
 							<para>
-								In Directory Server, if you do a fuzzy search for "Smith," you will probably also get "Smyth," because it sounds the same.
+								In Directory Server, if you do a fuzzy search for "Smith", you will probably also get "Smyth", because it sounds the same.
 							</para>
 
 						</listitem>
@@ -315,7 +315,7 @@
 						The use of "fuzzy" is valid in this context.
 					</para>
 					 <para>
-						Note the difference between this and "wildcard" searches: "Sm?th" could return "Smith," "Smyth," "Smeth," or even "Smrth".
+						Note the difference between this and "wildcard" searches: "Sm?th" could return "Smith", "Smyth", "Smeth", or even "Smrth".
 					</para>
 					 <para>
 						Do not use "fuzzy" to describe something that is not clear, such as an image, a concept, an idea, and so on. For example, "He was a bit fuzzy on the details" is not valid.
@@ -328,7 +328,7 @@
 				<term>going-forward basis</term>
 				 <listitem>
 					<para>
-						Jargon. Say "from now on," "in the future," or something similar.
+						Jargon. Say "from now on", "in the future", or something similar.
 					</para>
 
 				</listitem>
@@ -358,7 +358,7 @@
 				<term>have a crack at, jump right in</term>
 				 <listitem>
 					<para>
-						Have a crack at and jump right in are closely related in meaning as they imply to "get started or give it a try". Alternatives to these are "start," "try," and "begin," and will depend on the context of what is being discussed.
+						Have a crack at and jump right in are closely related in meaning as they imply to "get started or give it a try". Alternatives to these are "start", "try", and "begin", and will depend on the context of what is being discussed.
 					</para>
 
 				</listitem>
@@ -434,7 +434,7 @@
 				<term>kettle of fish</term>
 				 <listitem>
 					<para>
-						Commonly used in the expression "a different kettle of fish," meaning "that's a different matter (altogether)". Depending on the context, try to use "topic," "subject," "matter," or something similar.
+						Commonly used in the expression "a different kettle of fish", meaning "that's a different matter (altogether)". Depending on the context, try to use "topic", "subject", "matter", or something similar.
 					</para>
 
 				</listitem>
@@ -498,7 +498,7 @@
 				<term>net-net</term>
 				 <listitem>
 					<para>
-						Jargon. Use "in summary," "the end result," or something similar.
+						Jargon. Use "in summary", "the end result", or something similar.
 					</para>
 
 				</listitem>
@@ -518,7 +518,7 @@
 				<term>over the wire</term>
 				 <listitem>
 					<para>
-						Commonly used in expressions such as "password information is sent in plain text over the wire," meaning "sent unencrypted through the transmission medium" (whether it is a wired or wireless network, the internet, or whatever). The phrase is probably not required at all. "Sent or transmitted in plain text" is fine.
+						Commonly used in expressions such as "password information is sent in plain text over the wire", meaning "sent unencrypted through the transmission medium" (whether it is a wired or wireless network, the internet, or whatever). The phrase is probably not required at all. "Sent or transmitted in plain text" is fine.
 					</para>
 
 				</listitem>
@@ -529,7 +529,7 @@
 				<term>paradigm</term>
 				 <listitem>
 					<para>
-						Avoid. Use "model," "standard," or something similar.
+						Avoid. Use "model", "standard", or something similar.
 					</para>
 
 				</listitem>
@@ -539,7 +539,7 @@
 				<term>performant</term>
 				 <listitem>
 					<para>
-						In the technical industry context, it means "performs as expected" or "well-performing". It is not necessarily a word everyone knows (and technically, it means "a performer," as in a play, according to most dictionaries), so use an alternative if possible.
+						In the technical industry context, it means "performs as expected" or "well-performing". It is not necessarily a word everyone knows (and technically, it means "a performer", as in a play, according to most dictionaries), so use an alternative if possible.
 					</para>
 
 				</listitem>
@@ -560,7 +560,7 @@
         <term>pre-baked, prebaked</term>
         <listitem>
           <para>
-            Means "prepared beforehand". Choose a suitable alternative, such as "preconfigured," depending on the context.
+            Means "prepared beforehand". Choose a suitable alternative, such as "preconfigured", depending on the context.
           </para>
         </listitem>
       </varlistentry>
@@ -630,7 +630,7 @@
 				<term>shy of</term>
 				 <listitem>
 					<para>
-						Apart from the "normal" meaning of shy, it is also found in such phrases as "he was just shy of the mark," meaning that he didn't quite succeed. Also, to be "a few items shy of what's required" means to have fewer than the minimum required number. Avoid this terminology and use more easily understood terms; it will help translators and also those reading English documentation who are unfamiliar with such slang.
+						Apart from the "normal" meaning of shy, it is also found in such phrases as "he was just shy of the mark", meaning that he didn't quite succeed. Also, to be "a few items shy of what's required" means to have fewer than the minimum required number. Avoid this terminology and use more easily understood terms; it will help translators and also those reading English documentation who are unfamiliar with such slang.
 					</para>
 
 				</listitem>
@@ -640,7 +640,7 @@
 				<term>silo, siloed</term>
 				 <listitem>
 					<para>
-						Use "stand-alone," "confined," "separated," or something similar.
+						Use "stand-alone", "confined", "separated", or something similar.
 					</para>
 <!-- Not "segregated", which has negative cultural connotations. -->
 
@@ -683,7 +683,7 @@
 				<term>synergistic, synergy</term>
 				 <listitem>
 					<para>
-						Jargon. Use "cooperative," "working together," "collaborative," "harmonious," or something similar.
+						Jargon. Use "cooperative", "working together", "collaborative", "harmonious", or something similar.
 					</para>
 
 				</listitem>
@@ -744,7 +744,7 @@
 				<term>virtual elephants</term>
 				 <listitem>
 					<para>
-						This refers to a group of blind-folded people all touching different parts of an elephant and trying to describe what it is. Nobody sees the "big picture". Curiously, it appeared in an STC article about working in global and virtual teams and using effective communication. It falls into the same category as "skeletons in the closet," "dark horse," "black sheep," and so on. Use descriptions and adjectives that are not specific to a particular culture or locale. See <ulink url="http://en.wikipedia.org/wiki/Blind_Men-anElephant">http://en.wikipedia.org/wiki/Blind_Men-anElephant</ulink> for more information.
+						This refers to a group of blind-folded people all touching different parts of an elephant and trying to describe what it is. Nobody sees the "big picture". Curiously, it appeared in an STC article about working in global and virtual teams and using effective communication. It falls into the same category as "skeletons in the closet", "dark horse", "black sheep", and so on. Use descriptions and adjectives that are not specific to a particular culture or locale. See <ulink url="http://en.wikipedia.org/wiki/Blind_Men-anElephant">http://en.wikipedia.org/wiki/Blind_Men-anElephant</ulink> for more information.
 					</para>
 
 				</listitem>
@@ -857,7 +857,7 @@
 				 <itemizedlist>
 					<listitem>
 						<para>
-							It is quite common to say "talk to" in this context, but "communicate with," "connected to," "registered with," or something similar would be better.
+							It is quite common to say "talk to" in this context, but "communicate with", "connected to", "registered with", or something similar would be better.
 						</para>
 
 					</listitem>

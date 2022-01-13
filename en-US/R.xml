@@ -20,7 +20,7 @@
 			<term>RAM disk</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "RAMdisk," "ramdisk," or "RAdisk".
+					Correct. Do not use "RAMdisk", "ramdisk", or "RAdisk".
 				</para>
 				 <para>
 					Refers to RAM that is configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a real disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful, therefore, for applications that require frequent disk accesses.

@@ -177,7 +177,7 @@
 			</listitem>
 			 <listitem>
 				<para>
-					Edward C. Bailey, who wrote "Maximum RPM,"...
+					Edward C. Bailey, who wrote "Maximum RPM",...
 				</para>
 
 			</listitem>
@@ -530,11 +530,11 @@ Split contractions and abbreviations into separate paragraphs. -->
 	 <section id="contractions-and-abbreviations">
 		<title>Contractions and Abbreviations</title>
 		 <para>
-			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't," "don't," "won't," and similar examples. Write out the words in full. Contractions are a mark of informal writing, and should be avoided when writing technical documentation or other more formal types of manuals. They can also cause problems for translation. 
+			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't", "don't", "won't", and similar examples. Write out the words in full. Contractions are a mark of informal writing, and should be avoided when writing technical documentation or other more formal types of manuals. They can also cause problems for translation. 
 		</para>
 
  		<para>
-			Take care also with abbreviations; replace "e.g." with "for example," and replace "i.e." with "that is," and so on. 
+			Take care also with abbreviations; replace "e.g." with "for example", and replace "i.e." with "that is", and so on. 
 		</para>
 
 	</section>
@@ -548,7 +548,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 		 <formalpara id="hyphenate-for-clarity">
 			<title>Hyphenate for Clarity</title>
 			 <para>
-				Hyphenate when needed for clarity. Words that begin with prefixes are usually not hyphenated. Prefixes can include "multi," "non," "sub," "co," "semi," "pre," "re," and so on. The same applies to suffixes; for example, "less" as a suffix does not require hyphenation.
+				Hyphenate when needed for clarity. Words that begin with prefixes are usually not hyphenated. Prefixes can include "multi", "non", "sub", "co", "semi", "pre", "re", and so on. The same applies to suffixes; for example, "less" as a suffix does not require hyphenation.
 			</para>
 
 		</formalpara>
@@ -570,7 +570,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 		</formalpara>
 		 <note>
 			<para>
-				Do not hyphenate "open source," even when used as a complex adjective.
+				Do not hyphenate "open source", even when used as a complex adjective.
 			</para>
 			 <para>
 				Do not hyphenate a compound that includes an adverb ending in -ly, whether it comes before or after the noun. This is described in Chicago Manual of Style 7.82.

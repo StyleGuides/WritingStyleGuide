@@ -84,7 +84,7 @@
 			 <listitem>
 				<para>
 					<emphasis>adj.</emphasis> Describes another way or method of doing something.
-          "Alternate" (vb.) means to change between two states or options. If you mean "another way of doing something," use "an alternative method is to ...".
+          "Alternate" (vb.) means to change between two states or options. If you mean "another way of doing something", use "an alternative method is to ...".
 				</para>
         <para>
           See also <xref linkend="alternate"/>.
@@ -110,7 +110,7 @@
 			<term role="true">AMD64</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Hammer," "x86_64," "x86-64," "x64," "64-bit x86" or other variations as the name of this architecture.
+					Correct. Do not use "Hammer", "x86_64", "x86-64", "x64", "64-bit x86" or other variations as the name of this architecture.
 				</para>
 				 <para>
 					The correct term for AMD's implementation of this architecture is "AMD64".
@@ -198,7 +198,7 @@
         <para>
           Do not use as a verb.
           Even though it might make sense in the correct context, using it as a verb can be jargon or be unclear for your audience.
-          Use "design," "build," "create," or another descriptive verb instead.
+          Use "design", "build", "create", or another descriptive verb instead.
           Before replacing the verb form of "architect" during the editing process, clarify with the writer the intended meaning.
           For example, a sentence that mentions rearchitecting might require "refactoring" as a replacement rather than "rebuilding".
         </para>

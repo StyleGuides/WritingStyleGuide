@@ -20,7 +20,7 @@
 			<term>object-oriented</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "object oriented," "objectoriented," or "object-orientated". It is a modifier, such as "Java is an object-oriented language".
+					Correct. Do not use "object oriented", "objectoriented", or "object-orientated". It is a modifier, such as "Java is an object-oriented language".
 				</para>
 <!-- Added to avoid "object-orientated". -->
 
@@ -54,7 +54,7 @@
 					Correct. Use this term to refer to backing up a database while the database is not being accessed by applications. Do not use "cold backup" or any other variations.
 				</para>
 				 <para>
-					The counterpart to this term is "online backup," to refer to the process of backing up a database while it is being accessed by other applications. Do not use "hot backup" or any other variations.
+					The counterpart to this term is "online backup", to refer to the process of backing up a database while it is being accessed by other applications. Do not use "hot backup" or any other variations.
 <!-- Deleted footnote: URL is no longer valid. -->
 					<!-- <footnote> <para>
 						<ulink url="http://www-01.ibm.com/software/globalization/terminology/o.html" />
@@ -214,7 +214,7 @@
 			<term>OpenOffice</term>
 			 <listitem>
 				<para>
-					A Linux desktop suite. Do not use "Openoffice," "Open Office," or "ooo".
+					A Linux desktop suite. Do not use "Openoffice", "Open Office", or "ooo".
 				</para>
 				 <para>
 					See also <xref linkend="libreoffice" />.
@@ -227,7 +227,7 @@
 			<term>open source</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "OpenSource," "opensource," or "open-source".
+					Correct. Do not use "OpenSource", "opensource", or "open-source".
           Only capitalize the "o" in "open source" at the beginning of a sentence.
 				</para>
 
@@ -261,7 +261,7 @@
 			<term>orientate</term>
 			 <listitem>
 				<para>
-					Do not use. A user becomes "oriented" to an environment. Try a synonym such as "familiarize," as in "This section helps to familiarize you with the environment."
+					Do not use. A user becomes "oriented" to an environment. Try a synonym such as "familiarize", as in "This section helps to familiarize you with the environment."
 				</para>
 
 			</listitem>

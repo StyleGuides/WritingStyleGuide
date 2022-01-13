@@ -64,7 +64,7 @@
 			<term>backtrace</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> "Backtrace" is the most common term to refer to a stack trace (or stack backtrace), which is a report of the active stack frames (that is, function calls) at a certain point in time during the execution of a program. In contrast, the Python programming language calls its stack trace a "traceback," possibly because the stack frames are printed in the opposite order of those presented by gdb, the GNU Debugger. "Traceback" is the preferred term when referring to a Python stack trace.
+					<emphasis>n.</emphasis> "Backtrace" is the most common term to refer to a stack trace (or stack backtrace), which is a report of the active stack frames (that is, function calls) at a certain point in time during the execution of a program. In contrast, the Python programming language calls its stack trace a "traceback", possibly because the stack frames are printed in the opposite order of those presented by gdb, the GNU Debugger. "Traceback" is the preferred term when referring to a Python stack trace.
 				</para>
 
 			</listitem>
@@ -287,7 +287,7 @@
 			<term>bpp</term>
 			 <listitem>
 				<para>
-					Initialism for bits per pixel. All letters are lowercase, unless at the beginning of a sentence. Use a non-breaking space between the numeral and the units. For example, "16&nbsp;bpp," not "16bpp".
+					Initialism for bits per pixel. All letters are lowercase, unless at the beginning of a sentence. Use a non-breaking space between the numeral and the units. For example, "16&nbsp;bpp", not "16bpp".
 				</para>
 
 			</listitem>
@@ -423,7 +423,7 @@
 			<term>button</term>
 			 <listitem>
 				<para>
-					Describe a UI button as a "button," not a "pushbutton" or "push-button".
+					Describe a UI button as a "button", not a "pushbutton" or "push-button".
 				</para>
 				 <para>
 					Ordinarily you would not include the text "button" in a procedure or description. For example, "Click <guibutton>OK</guibutton> to continue" is perfectly acceptable. It might be necessary to distinguish between buttons and links; for example, "Click the <guibutton>Download</guibutton> link".

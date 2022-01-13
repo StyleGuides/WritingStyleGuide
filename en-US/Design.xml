@@ -72,7 +72,7 @@
 	 <section id="documenting-fonts">
 		<title>Documenting Fonts</title>
 		 <para>
-			The preferred way to refer to each type of PostScript font is "PostScript Type x," substituting "x" with either 1, 2, or 3, if the problem is specific to a particular type.
+			The preferred way to refer to each type of PostScript font is "PostScript Type x", substituting "x" with either 1, 2, or 3, if the problem is specific to a particular type.
 		</para>
 
 	</section>
@@ -92,7 +92,7 @@
 			</para>
       <para>
         In most cases, do not include the element type in instructions.
-        For example, rather than "Click the <guibutton>Save</guibutton> button," write "Click <guibutton>Save</guibutton>".
+        For example, rather than "Click the <guibutton>Save</guibutton> button", write "Click <guibutton>Save</guibutton>".
       </para>
       <para>
         In some cases it is preferred practice to include the object type for the sake of clarity.
@@ -730,7 +730,7 @@ $ vi myFile.txt
 		 <formalpara>
 			<title>Abbreviations</title>
 			 <para>
-				An abbreviation is a shortened form of a word or phrase. For example, <abbrev>Pty.</abbrev> and <abbrev>Inc.</abbrev> are abbreviations for "proprietary" and "incorporated," respectively. Read them as the word for which they are an abbreviation.
+				An abbreviation is a shortened form of a word or phrase. For example, <abbrev>Pty.</abbrev> and <abbrev>Inc.</abbrev> are abbreviations for "proprietary" and "incorporated", respectively. Read them as the word for which they are an abbreviation.
 			</para>
 
 		</formalpara>
@@ -745,7 +745,7 @@ $ vi myFile.txt
 		</formalpara>
 
 		 <para>
-			Consider pronunciation when using articles. For example, use "an <abbrev>RTS</abbrev> (real-time strategy)," because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade," because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
+			Consider pronunciation when using articles. For example, use "an <abbrev>RTS</abbrev> (real-time strategy)", because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade", because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
 		</para>
 
 		 <para>
@@ -828,7 +828,7 @@ $ vi myFile.txt
 				</para>
 				 <note>
 					<para>
-						In this case, "Platform" is part of the product name. In other cases, words like "platform," "manager," and so on might not be part of the product name, in which case an article is acceptable, if not necessary.
+						In this case, "Platform" is part of the product name. In other cases, words like "platform", "manager", and so on might not be part of the product name, in which case an article is acceptable, if not necessary.
 					</para>
 
 				</note>
@@ -1068,7 +1068,7 @@ Book Title by First name Surname; Publisher.
 		 <itemizedlist>
 			<listitem>
 				<para>
-					Do not link words within the body text. That is, do not use structures such as "Go <ulink url="somewhere.com">here</ulink> for more information," where "here" is a link.
+					Do not link words within the body text. That is, do not use structures such as "Go <ulink url="somewhere.com">here</ulink> for more information", where "here" is a link.
 				</para>
 
 			</listitem>

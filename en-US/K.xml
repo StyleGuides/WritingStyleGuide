@@ -33,7 +33,7 @@
 			<term>kerberize</term>
 			 <listitem>
 				<para>
-					Incorrect. Do not use "kerberize," "kerberized," or other variants to refer to applications or services that use Kerberos authentication. Refer to such applications as "Kerberos-aware" or "Kerberos-enabled," or rewrite the sentence.
+					Incorrect. Do not use "kerberize", "kerberized", or other variants to refer to applications or services that use Kerberos authentication. Refer to such applications as "Kerberos-aware" or "Kerberos-enabled", or rewrite the sentence.
 				</para>
 
 			</listitem>
@@ -105,7 +105,7 @@
 					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example, "copy the key-ring file to the server".
 				</para>
 				 <para>
-					Only use the one-word form, "keyring," if it is the actual name of a command, package, or other proper noun.
+					Only use the one-word form, "keyring", if it is the actual name of a command, package, or other proper noun.
 				</para>
 
 			</listitem>

@@ -136,7 +136,7 @@
 			<term>gigabyte</term>
 			 <listitem>
 				<para>
-					2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte," use "GB". Use a non-breaking space between the unit and any value to prevent widows and orphans.
+					2 to the 30th power (1,073,741,824) bytes. One gigabyte is equal to 1,024 megabytes. When abbreviating "gigabyte", use "GB". Use a non-breaking space between the unit and any value to prevent widows and orphans.
 				</para>
 
 			</listitem>
@@ -166,7 +166,7 @@
 			<term>GNOME</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "gnome," "Gnome," or other variants. See also <xref linkend="gnome-classic" />.
+					Correct. Do not use "gnome", "Gnome", or other variants. See also <xref linkend="gnome-classic" />.
 				</para>
 
 			</listitem>
@@ -246,7 +246,7 @@
 			<term>GTK+</term>
 			 <listitem>
 				<para>
-					Initialism for GIMP Tool Kit. Do not use "GTK," "Gtk," or "gtk".
+					Initialism for GIMP Tool Kit. Do not use "GTK", "Gtk", or "gtk".
 				</para>
 
 			</listitem>

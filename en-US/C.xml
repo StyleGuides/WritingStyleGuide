@@ -10,7 +10,7 @@
 			<term>can, may</term>
 			 <listitem>
 				<para>
-					Use "can" to describe actions or conditions that are possible. Use "may" only to describe situations where permission is being given. If any of "can," "could," or "may" apply, use "can"; it is less tentative.
+					Use "can" to describe actions or conditions that are possible. Use "may" only to describe situations where permission is being given. If any of "can", "could", or "may" apply, use "can"; it is less tentative.
 				</para>
 
 			</listitem>
@@ -105,7 +105,7 @@
 			<term>check</term>
 			 <listitem>
 				<para>
-					Avoid. Use "verify," "ensure," or "read," depending on the context.
+					Avoid. Use "verify", "ensure", or "read", depending on the context.
 				</para>
 
 			</listitem>
@@ -176,7 +176,7 @@
 			<term>clobber, clobbered</term>
 			 <listitem>
 				<para>
-					Avoid these and similar terms unless they are the actual name of something. Use "altered," "invalidated," or "overwritten," or whatever is appropriate in the context.
+					Avoid these and similar terms unless they are the actual name of something. Use "altered", "invalidated", or "overwritten", or whatever is appropriate in the context.
 				</para>
 
 			</listitem>
@@ -519,10 +519,10 @@
 			<term>Cygmon</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "CygMon," "cygmon," or "CYGMON". An exception is if a command is being typed (such as <command>cygmon</command>).
+					Correct. Do not use "CygMon", "cygmon", or "CYGMON". An exception is if a command is being typed (such as <command>cygmon</command>).
 				</para>
 				 <para>
-					Refer to it as "Cygmon: a ROM monitor," not "Cygmon: the Cygnus ROM monitor," or "Cygmon: the ROM monitor".
+					Refer to it as "Cygmon: a ROM monitor", not "Cygmon: the Cygnus ROM monitor", or "Cygmon: the ROM monitor".
 				</para>
 
 			</listitem>

@@ -73,7 +73,7 @@
 			<term>illegal</term>
 			 <listitem>
 				<para>
-					Illegal means "prohibited by law," not "incorrect" or "not permitted". Use "invalid" or a related word.
+					Illegal means "prohibited by law", not "incorrect" or "not permitted". Use "invalid" or a related word.
 				</para>
 
 			</listitem>
@@ -139,7 +139,7 @@
 			<term role="true">Intel 64</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Hammer," "x86_64," "x86-64," "x64," "64-bit x86," or other variations as the name of this architecture.
+					Correct. Do not use "Hammer", "x86_64", "x86-64", "x64", "64-bit x86", or other variations as the name of this architecture.
 				</para>
 				 <para>
 					The correct term for Intel's implementation of this architecture is "Intel&reg;&nbsp;64".
