@@ -41,7 +41,7 @@
 			<term>FAQ</term>
 			 <listitem>
 				<para>
-					When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an F") not "a FAQ." The plural form is "FAQs."
+					When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an F") not "a FAQ". The plural form is "FAQs".
 				</para>
 
 			</listitem>
@@ -107,7 +107,7 @@
           <emphasis>n.</emphasis> Write as shown, two words, unless used as a variable. See the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
         <para>
-          <emphasis>adj.</emphasis> Hyphenate when used as a compound adjective. For example, "file-system attributes."
+          <emphasis>adj.</emphasis> Hyphenate when used as a compound adjective. For example, "file-system attributes".
         </para>
 
 			</listitem>
@@ -117,7 +117,7 @@
 			<term>FireWire</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Firewire" or "firewire." Although FireWire is a trademark of Apple Computer, it is not needed to append a trademark symbol, except to refer to Apple's FireWire software license or specific logos. See <ulink url="https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html">https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html</ulink>.
+					Correct. Do not use "Firewire" or "firewire". Although FireWire is a trademark of Apple Computer, it is not needed to append a trademark symbol, except to refer to Apple's FireWire software license or specific logos. See <ulink url="https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html">https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html</ulink>.
 				</para>
 <!-- Updated Apple trademark guidelines URL. -->
 
@@ -128,7 +128,7 @@
 			<term>firmware</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Do not use "firm ware" or "firm-ware."
+					<emphasis>n.</emphasis> Do not use "firm ware" or "firm-ware".
 				</para>
 				 <para>
 					Software (programs or data) that is written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs, and EPROMs that have data or programs recorded on them are firmware.
@@ -152,7 +152,7 @@
 			<term>floppy disk</term>
 			 <listitem>
 				<para>
-					Do not use. Use "diskette," and also state the size of the diskette, such as "3.5&nbsp;in. diskette."
+					Do not use. Use "diskette", and also state the size of the diskette, such as "3.5&nbsp;in. diskette".
 				</para>
 
 			</listitem>
@@ -162,7 +162,7 @@
 			<term>floppy drive</term>
 			 <listitem>
 				<para>
-					Do not use. Use "diskette drive."
+					Do not use. Use "diskette drive".
 				</para>
 
 			</listitem>
@@ -223,7 +223,7 @@
 			<term>FORTRAN</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Fortran."
+					Correct. Do not use "Fortran".
 				</para>
 
 			</listitem>
@@ -233,7 +233,7 @@
 			<term>forward</term>
 			 <listitem>
 				<para>
-					Correct. Avoid using "forwards."
+					Correct. Avoid using "forwards".
 				</para>
 
 			</listitem>
@@ -243,7 +243,7 @@
 			<term>forwards compatible</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "compatible with later versions." See also <xref linkend="backwards-compatible" />.
+					Do not use. Instead, use "compatible with later versions". See also <xref linkend="backwards-compatible" />.
 				</para>
 			</listitem>
 
@@ -308,7 +308,7 @@
 			<term>futexes</term>
 			 <listitem>
 				<para>
-					Correct. "Futex" is an abbreviation of "fast user-space mutex." Consequently, "futexes" is the correct plural form.
+					Correct. "Futex" is an abbreviation of "fast user-space mutex". Consequently, "futexes" is the correct plural form.
 				</para>
 <!-- Removed term capitalization for "futexes". -->
 

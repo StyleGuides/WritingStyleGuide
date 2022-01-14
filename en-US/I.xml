@@ -20,7 +20,7 @@
 			<term>IaaS</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct abbreviation for "Infrastructure-as-a-Service." See also <xref linkend="paas" />.
+					Correct. This is the correct abbreviation for "Infrastructure-as-a-Service". See also <xref linkend="paas" />.
 				</para>
 
 			</listitem>
@@ -42,7 +42,7 @@
 			<term>IBM eServer System p</term>
 			 <listitem>
 				<para>
-					"IBM eServer System p" is correct for the first reference in a manual. Use "IBM System p" or "System p" for subsequent references. Do not use "pSeries."
+					"IBM eServer System p" is correct for the first reference in a manual. Use "IBM System p" or "System p" for subsequent references. Do not use "pSeries".
 				</para>
 
 			</listitem>
@@ -73,7 +73,7 @@
 			<term>illegal</term>
 			 <listitem>
 				<para>
-					Illegal means "prohibited by law," not "incorrect" or "not permitted." Use "invalid" or a related word.
+					Illegal means "prohibited by law", not "incorrect" or "not permitted". Use "invalid" or a related word.
 				</para>
 
 			</listitem>
@@ -85,7 +85,7 @@
 			<term>indexes</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct plural form for US English spelling. Do not use "indices."
+					Correct. This is the correct plural form for US English spelling. Do not use "indices".
 				</para>
 
 			</listitem>
@@ -119,7 +119,7 @@
 			<term>insecure</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Correct. Do not use "nonsecure" or "non-secure."
+					<emphasis>adj.</emphasis> Correct. Do not use "nonsecure" or "non-secure".
 				</para>
 
 			</listitem>
@@ -139,10 +139,10 @@
 			<term role="true">Intel 64</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Hammer," "x86_64," "x86-64," "x64," "64-bit x86," or other variations as the name of this architecture.
+					Correct. Do not use "Hammer", "x86_64", "x86-64", "x64", "64-bit x86", or other variations as the name of this architecture.
 				</para>
 				 <para>
-					The correct term for Intel's implementation of this architecture is "Intel&reg;&nbsp;64."
+					The correct term for Intel's implementation of this architecture is "Intel&reg;&nbsp;64".
           
           			When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
 				</para>
@@ -179,7 +179,7 @@
 			<term>Intel Tolapai / Intel® EP80579 Integrated Processor</term>
 			 <listitem>
 				<para>
-					Do not use the code-name, "Tolapai." Use the official brand name "Intel® EP80579 Integrated Processor."
+					Do not use the code-name, "Tolapai". Use the official brand name "Intel® EP80579 Integrated Processor".
 				</para>
 
 			</listitem>
@@ -189,10 +189,10 @@
 			<term>Intel Virtualization Technology (Intel VT)</term>
 			 <listitem>
 				<para>
-					Correct. The first and all prominent uses of the name should be fully spelled out, immediately followed by the initialism. For example, "Intel Virtualization Technology (Intel VT) for Intel 64 or Itanium architecture (Intel Vi). Subsequent uses can be abbreviated to "Intel Vi."
+					Correct. The first and all prominent uses of the name should be fully spelled out, immediately followed by the initialism. For example, "Intel Virtualization Technology (Intel VT) for Intel 64 or Itanium architecture (Intel Vi). Subsequent uses can be abbreviated to "Intel Vi".
 				</para>
 				 <para>
-					Always write the initialism in uppercase, accompanied by the "Intel" mark. Do not use "Vi" or "VT." Do not use the initialism in any prominent places, such as in titles or paragraph headings, and do not include any trademark symbols, such as ™ or "(TM)."
+					Always write the initialism in uppercase, accompanied by the "Intel" mark. Do not use "Vi" or "VT". Do not use the initialism in any prominent places, such as in titles or paragraph headings, and do not include any trademark symbols, such as ™ or "(TM)".
 				</para>
 
 			</listitem>
@@ -213,7 +213,7 @@
 			<term>interesting</term>
 			 <listitem>
 				<para>
-					Avoid this term, because it is a substitute for showing the reader why something is of interest. For example, instead of writing "It is interesting to note...", consider using a "Note" admonition.
+					Avoid this term, because it is a substitute for showing the reader why something is of interest. For example, instead of writing "It is interesting to note ...", consider using a "Note" admonition.
 				</para>
 
 			</listitem>
@@ -305,7 +305,7 @@
 			<term>IPsec</term>
 			 <listitem>
 				<para>
-					IPsec stands for Internet Protocol security. According to its RFC, IPsec should be used. Do not use "IPSec."
+					IPsec stands for Internet Protocol security. According to its RFC, IPsec should be used. Do not use "IPSec".
 				</para>
 
 			</listitem>
@@ -335,7 +335,7 @@
 			<term>IT/I.T.</term>
 			 <listitem>
 				<para>
-					Use "I.T." (with periods) only in headlines or subheadings where all caps are used, to clarify that the word is "IT" versus "it."
+					Use "I.T." (with periods) only in headlines or subheadings where all caps are used, to clarify that the word is "IT" versus "it".
 				</para>
 
 			</listitem>
@@ -364,7 +364,7 @@
 			<term>Itanium&nbsp;2</term>
 			 <listitem>
 				<para>
-					Itanium&nbsp;2 is correct. Do not use "Itanium2" and always use a non-breaking space between "Itanium" and "2."
+					Itanium&nbsp;2 is correct. Do not use "Itanium2" and always use a non-breaking space between "Itanium" and "2".
 				</para>
 
 			</listitem>
@@ -376,7 +376,7 @@
 			<term>ISeries</term>
 			 <listitem>
 				<para>
-					IBM eServer System i is correct for the first reference in a manual; use IBM System i or System i for subsequent references. Do not use "iSeries."
+					IBM eServer System i is correct for the first reference in a manual; use IBM System i or System i for subsequent references. Do not use "iSeries".
 				</para>
 
 			</listitem>

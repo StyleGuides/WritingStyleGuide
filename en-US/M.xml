@@ -22,7 +22,7 @@
 			<term>make sure</term>
 			 <listitem>
 				<para>
-					This means "be careful to remember, attend to, or find out something." For example, "make sure that the rhedk group is listed in the output."
+					This means "be careful to remember, attend to, or find out something". For example, "make sure that the rhedk group is listed in the output."
 				</para>
 				 <para>
 					You might be able to use "verify" or "ensure" instead.
@@ -35,7 +35,7 @@
 			<term>manual, man page</term>
 			 <listitem>
 				<para>
-					Correct. Two words. Do not use "manpage."
+					Correct. Two words. Do not use "manpage".
 				</para>
 
 			</listitem>
@@ -58,7 +58,7 @@
 			<term>matrixes</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct plural form for US English spelling. Do not use "matrices."
+					Correct. This is the correct plural form for US English spelling. Do not use "matrices".
 				</para>
 <!-- "US" without periods? -->
 
@@ -111,7 +111,7 @@
 			<term>MDOS</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "ms-dos," "MSDOS," or "msdos."
+					Correct. Do not use "ms-dos", "MSDOS", or "msdos".
 				</para>
 
 			</listitem>
@@ -150,7 +150,7 @@
 			<term>menu-driven</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Correct. Do not use "menu driven" or "menudriven."
+					<emphasis>adj.</emphasis> Correct. Do not use "menu driven" or "menudriven".
 				</para>
 				 <para>
 					Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program.
@@ -163,10 +163,10 @@
 			<term>message</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Write "the system displays a message" or "send an instant message."
+					<emphasis>n.</emphasis> Write "the system displays a message" or "send an instant message".
 				</para>
 				 <para>
-					<emphasis>adj.</emphasis> For example, "A messaging system."
+					<emphasis>adj.</emphasis> For example, "A messaging system".
 				</para>
 				 <para>
 					Do not use as a verb.
@@ -179,7 +179,7 @@
 			<term>metadata</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "meta data" or "meta-data."
+					Correct. Do not use "meta data" or "meta-data".
 				</para>
 
 			</listitem>
@@ -199,7 +199,7 @@
 			<term>Microsoft</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "MS," "MSFT," or "MicroSoft."
+					Correct. Do not use "MS", "MSFT", or "MicroSoft".
 				</para>
 
 			</listitem>
@@ -219,7 +219,7 @@
 			<term>Montecito</term>
 			 <listitem>
 				<para>
-					Do not use. It is a code name for the "Intel Itanium Processor 9000 Sequence." This latter phrase should be used instead.
+					Do not use. It is a code name for the "Intel Itanium Processor 9000 Sequence". This latter phrase should be used instead.
 				</para>
 
 			</listitem>
@@ -254,7 +254,7 @@
 			<term>mouse button</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Two words. Do not use "mouse-button" or "mousebutton." If you need to indicate which mouse button, use "right," "left," or "center," such as "right mouse button." Do not hyphenate.
+					<emphasis>n.</emphasis> Two words. Do not use "mouse-button" or "mousebutton". If you need to indicate which mouse button, use "right", "left", or "center", such as "right mouse button". Do not hyphenate.
 				</para>
 
 			</listitem>
@@ -264,7 +264,7 @@
 			<term>Mozilla Firefox</term>
 			 <listitem>
 				<para>
-					Correct. First reference must be "Mozilla Firefox." Subsequent references can be "Firefox."
+					Correct. First reference must be "Mozilla Firefox". Subsequent references can be "Firefox".
 				</para>
 
 			</listitem>
@@ -274,7 +274,7 @@
 			<term>Mozilla Thunderbird</term>
 			 <listitem>
 				<para>
-					Correct. First reference must be "Mozilla Thunderbird." Subsequent references can be "Thunderbird."
+					Correct. First reference must be "Mozilla Thunderbird". Subsequent references can be "Thunderbird".
 				</para>
 
 			</listitem>
@@ -284,7 +284,7 @@
 			<term>multiprocessing</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "multi-processing."
+					Correct. Do not use "multi-processing".
 				</para>
 
 			</listitem>
@@ -304,7 +304,7 @@
 			<term>mutexes</term>
 			 <listitem>
 				<para>
-					Correct. "Mutex" is an abbreviation of "mutual exclusion." Consequently, "mutexes" is the correct plural form.
+					Correct. "Mutex" is an abbreviation of "mutual exclusion". Consequently, "mutexes" is the correct plural form.
 				</para>
 <!-- Changed term entry to lowercase. -->
 
@@ -315,7 +315,7 @@
 			<term>MySQL</term>
 			 <listitem>
 				<para>
-					Common open source database server and client package. Do not use "MYSQL" or "mySQL." Mark the first mention of MySQL in body text with an 
+					Common open source database server and client package. Do not use "MYSQL" or "mySQL". Mark the first mention of MySQL in body text with an 
 					<!-- <firstterm>ball</firstterm> (®)  -->
 					® symbol to denote a registered trademark.
 				</para>

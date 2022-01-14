@@ -65,7 +65,7 @@
 	 <section id="abstracts">
 		<title>Abstracts</title>
 		 <para>
-			Abstracts for Red&nbsp;Hat technical documentation typically fall under the heading of a "descriptive abstract." From Wikipedia, "The descriptive abstract, also known as the limited abstract or the indicative abstract, provides a description of what the paper covers without delving into its substance. A descriptive abstract is akin to a table of contents in paragraph form."<footnote> <para>
+			Abstracts for Red&nbsp;Hat technical documentation typically fall under the heading of a "descriptive abstract". From Wikipedia, "The descriptive abstract, also known as the limited abstract or the indicative abstract, provides a description of what the paper covers without delving into its substance. A descriptive abstract is akin to a table of contents in paragraph form."<footnote> <para>
 				<ulink url="http://en.wikipedia.org/wiki/Abstract_%28summary%29#Descriptive" />
 			</para>
 			 </footnote>
@@ -135,7 +135,7 @@
 		 <formalpara id="about">
 			<title>About</title>
 			 <para>
-				Do not use "about" or "about $topic" as a title. The same reasoning applies here as to "overview."
+				Do not use "about" or "about $topic" as a title. The same reasoning applies here as to "overview".
 			</para>
 
 		</formalpara>

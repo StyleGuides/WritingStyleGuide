@@ -41,7 +41,7 @@
 			<term>Emacs</term>
 			 <listitem>
 				<para>
-					If referring to the program, use "Emacs." For example, "Source-Navigator supports Emacs or vi commands." If referring to the shell prompt command, use "emacs." For example, "At the prompt, type <command>emacs</command>." The complete and correct name is "GNU Emacs."
+					If referring to the program, use "Emacs". For example, "Source-Navigator supports Emacs or vi commands". If referring to the shell prompt command, use "emacs". For example, "At the prompt, type <command>emacs</command>." The complete and correct name is "GNU Emacs".
 				</para>
 
 			</listitem>
@@ -68,7 +68,7 @@
 					When referring to typing a command, use "type" instead, such as "To open Source-Navigator from the command line, type <command>snavigator</command>."
 				</para>
 				 <para>
-					When typing information into a single-field dialog box, "enter" means "type and press <keycap>Enter</keycap>." An example is "enter the license number." For multi-field dialog boxes, see "type."
+					When typing information into a single-field dialog box, "enter" means "type and press <keycap>Enter</keycap>". An example is "enter the license number". For multi-field dialog boxes, see "type".
 				</para>
 
 			</listitem>
@@ -162,7 +162,7 @@
 			<term>Exif</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "EXIF." Exif is an image file format specification that enables adding metadata tags to existing JPEG, TIFF, and RIFF files. Sometimes referred to as "Exif Print."
+					Correct. Do not use "EXIF". Exif is an image file format specification that enables adding metadata tags to existing JPEG, TIFF, and RIFF files. Sometimes referred to as "Exif Print".
 				</para>
 
 			</listitem>

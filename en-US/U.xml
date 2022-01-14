@@ -20,7 +20,7 @@
 			<term>UltraSPARC</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "ULTRASPARC," "UltraSparc," or other variations.
+					Correct. Do not use "ULTRASPARC", "UltraSparc", or other variations.
 				</para>
 				 <para>
 					UltraSPARC is a trademark of SPARC International, Inc., and is used under license by Sun Microsystems, Inc. Products that bear the SPARC trademarks are based on an architecture developed by Sun Microsystems, Inc.
@@ -43,7 +43,7 @@
 			<term>uninterruptible</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Despite not appearing in the <citetitle>American Heritage Dictionary</citetitle>, this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary</citetitle>, and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)."
+					<emphasis>adj.</emphasis> Despite not appearing in the <citetitle>American Heritage Dictionary</citetitle>, this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary</citetitle>, and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)".
 				</para>
 
 			</listitem>
@@ -53,13 +53,13 @@
 			<term>UNIX</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Unix" or "unix."
+					Correct. Do not use "Unix" or "unix".
 				</para>
 				 <para>
 					UNIX is a registered trademark of The Open Group.
 				</para>
 				 <para>
-					Do not use "UNIX-like." Use an expression such as "Linux, UNIX, and similar operating systems" instead.
+					Do not use "UNIX-like". Use an expression such as "Linux, UNIX, and similar operating systems" instead.
 				</para>
 
 			</listitem>
@@ -95,7 +95,7 @@
 			<term>upgrade</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Correct. Do not use "up-grade" or "up grade."
+					<emphasis>v.</emphasis> Correct. Do not use "up-grade" or "up grade".
 				</para>
 
 			</listitem>
@@ -135,7 +135,7 @@
 			<term>upstream</term>
 			 <listitem>
 				<para>
-					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="downstream" />. Do not use "up-stream" or "up stream."
+					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="downstream" />. Do not use "up-stream" or "up stream".
 				</para>
 
 			</listitem>
@@ -145,7 +145,7 @@
 			<term>uptime</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct. Do not use "up-time" or "up time."
+					<emphasis>n.</emphasis> Correct. Do not use "up-time" or "up time".
 				</para>
 
 			</listitem>
@@ -169,7 +169,7 @@
 			<term>user</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> When referring to the reader, use "you" instead of "the user." For example, "The user must..." is incorrect. Use "You must..." instead.
+					<emphasis>n.</emphasis> When referring to the reader, use "you" instead of "the user". For example, "The user must ..." is incorrect. Use "You must ..." instead.
 				</para>
 				 <para>
 					If referring to more than one user, calling the collection "users" is acceptable, such as "Other users might want to access your database."
@@ -182,7 +182,7 @@
 			<term>user interface</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct. Do not use "user-interface" or "userinterface."
+					<emphasis>n.</emphasis> Correct. Do not use "user-interface" or "userinterface".
 				</para>
 				 <para>
 					The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. In a command-driven interface, you enter commands. In a menu-driven interface, you select command choices from various menus that are displayed on the screen.
@@ -207,7 +207,7 @@
 			<term>user space</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space." Do not use "userspace."
+					<emphasis>n.</emphasis> Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space". Do not use "userspace".
 				</para>
 
 			</listitem>
