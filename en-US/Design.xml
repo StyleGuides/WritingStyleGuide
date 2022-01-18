@@ -15,15 +15,20 @@
 		 <formalpara id="capitalization">
 				<title>Capitalization</title>
 					<para>
-						The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
+					The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
             Table headings, procedure headings, and formal paragraph titles fall under this heading, and consequently, standard title case capitalization rules apply.
-            The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase.</ulink>
 					</para>
-		  </formalpara>
-					 <para>
-						Use sentence case for captions, legends, diagram labels, and table column headers.
+		</formalpara>
+			<para>
+			Use title case also when referring to the titles of other publications, even if the title on the publication itself uses different casing.
+			</para>					
+			<para>
+			The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase.</ulink>
+			</para>
+			<para>
+			Use sentence case for captions, legends, diagram labels, and table column headers.
             They are not classified as titles.
-					</para>
+			</para>
 					 <warning>
 						<title>Marketing and Brand Capitalization Guide</title>
 						 <para>
@@ -82,8 +87,13 @@
 			In all cases, see the <citetitle>IBM Style Guide</citetitle> for initial guidance.
       The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
+		 <para>
+			When writing about items in a user interface (UI), match the capitalization and spelling of those items from the interface. 
+			However, if the interface contains a spelling error, then correct the spelling in your writing, and get the interface corrected if possible. 
+			Depending on the context, an option might be to write around an incorrectly spelled interface item rather than naming it specifically.
+		</para>
 		 <section id="gui-elements-punctuation">
-			<title>User Interface (UI) Elements, Punctuation, and Symbols</title>
+			<title>User Interface Elements, Punctuation, and Symbols</title>
 			 <para>
 				When describing UI elements, do not include punctuation that appears on those elements, unless omission of that punctuation might lead to confusion.
 			</para>
