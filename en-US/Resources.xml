@@ -52,6 +52,44 @@
 				<para>
 					<citetitle>IBM Style Guide</citetitle>. IBM Corporation, latest version.
 				</para>
+				<para>
+					Red Hat employees can now access the latest version of IBM Style online, at the following site: 
+				</para>
+				<para>
+          			<ulink url="https://www.ibm.com/docs/en/ibm-style/">https://www.ibm.com/docs/en/ibm-style/</ulink>
+        		</para>
+				<para>
+          			Go to that web page, and click <guimenuitem>Log in to view content</guimenuitem>.
+        		</para>
+				<para>
+          			On the <guimenuitem>Log in to IBM</guimenuitem> page, in the <guimenuitem>IBMid</guimenuitem> field, enter your <guimenuitem>xxx@redhat.com</guimenuitem> email address and click <guimenuitem>Continue</guimenuitem>.
+        		</para>
+				<para>
+          			The <guimenuitem>IBM Style</guimenuitem> page shows the following categories:
+				</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								What's new
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Word usage
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Inclusive language
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Topics A to Z
+							</para>
+						</listitem>
+
+					</itemizedlist>
 
 			</listitem>
 			 <listitem>
@@ -60,7 +98,7 @@
 				</para>
 
 			</listitem>
-      <listitem>
+     		 <listitem>
 				<para>
 					<citetitle>Merriam-Webster Collegiate Dictionary</citetitle>
 				</para>
