@@ -53,19 +53,16 @@
 					<citetitle>IBM Style Guide</citetitle>. IBM Corporation, latest version.
 				</para>
 				<para>
-					Red Hat employees can now access the latest version of IBM Style online, at the following site: 
-				</para>
-				<para>
-          			<ulink url="https://www.ibm.com/docs/en/ibm-style/">https://www.ibm.com/docs/en/ibm-style/</ulink>
+					Red&nbsp;Hat employees can now access the latest version of the IBM Style Guide online, at <ulink url="https://www.ibm.com/docs/en/ibm-style/">https://www.ibm.com/docs/en/ibm-style/</ulink>.
         		</para>
 				<para>
-          			Go to that web page, and click <guimenuitem>Log in to view content</guimenuitem>.
+          			Go to that web page, and click <guibutton>Log in to view content</guibutton>.
         		</para>
 				<para>
-          			On the <guimenuitem>Log in to IBM</guimenuitem> page, in the <guimenuitem>IBMid</guimenuitem> field, enter your <guimenuitem>xxx@redhat.com</guimenuitem> email address and click <guimenuitem>Continue</guimenuitem>.
+          			On the <guilabel>Log in to IBM</guilabel> page, in the <guilabel>IBMid</guilabel> field, enter your <guilabel>xxx@redhat.com</guilabel> email address and click <guibutton>Continue</guibutton>.
         		</para>
 				<para>
-          			The <guimenuitem>IBM Style</guimenuitem> page shows the following categories:
+          			The <guilabel>IBM Style</guilabel> page shows the following categories:
 				</para>
 					<itemizedlist>
 						<listitem>
@@ -100,7 +97,7 @@
 			</listitem>
      		 <listitem>
 				<para>
-					<citetitle>Merriam-Webster Collegiate Dictionary</citetitle>
+					<citetitle>Merriam-Webster Unabridged Dictionary</citetitle>
 				</para>
         <para>
           Visit <ulink url="https://www.merriam-webster.com/">https://www.merriam-webster.com/</ulink> for subscription options.
