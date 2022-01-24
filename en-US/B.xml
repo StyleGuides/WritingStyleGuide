@@ -7,7 +7,7 @@
 	<title>B</title>
 	 <variablelist>
 		<varlistentry id="back-end">
-			<term>back end, back-end</term>
+			<term>back end, back-end, backend</term>
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Two words. Refers to software that performs the final stages of a process, or to tasks that are not visible to the user. For example, "each back end provides a set of calls".
@@ -16,7 +16,7 @@
 					<emphasis>adj.</emphasis> Hyphenate. For example, "when the back-end database processes a search operation …"
 				</para>
 				 <para>
-					Do not use "backend".
+					Use the one-word form only if it is part of the established product terminology, for example "Mobile Backend-as-a-Service", and when it is not being used to describe a generic process.
 				</para>
 				 <para>
 					See also <xref linkend="front-end" />
