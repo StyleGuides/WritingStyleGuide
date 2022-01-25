@@ -8,7 +8,36 @@
 	 <simpara>
 		<revhistory>
 			<revision>
-				<revnumber>3-0</revnumber>
+				<revnumber>5-1</revnumber>
+				 <date>January 2022</date>
+				 <author>
+					<firstname>Julian</firstname>
+					 <surname>Cable</surname>
+					 <email>jcable@redhat.com</email>
+				</author>
+				 <revdescription>
+					<simplelist>
+						<member>Minor update to address some reported issues:</member>
+						<member>Accessing IBM Style online.</member>
+						<member>Updated guidance for long commands.</member>
+						<member>Updated guidance for referring to object names.</member>
+						<member>Updated guidance for non-breaking spaces.</member>
+						<member>All punctuation, including periods and commas, is now placed outside quotation marks unless the punctuation is part of the quotation.</member>
+						<member>The gerund verb form is no longer required in section titles.</member>
+						<member>Pronouncing file or directory names that begin with special characters.</member>
+						<member>Avoid "the product allows the user to do xyz".</member>
+						<member>Avoid consecutive headings.</member>
+						<member>Guidance to refer to UI elements and to other publication titles.</member>
+						<member>Clarification that diagram labels use sentence case.</member>
+						<member>New or updated usage entries: backend, IaC, number sign, on premise, prebaked, unset.</member>
+
+					</simplelist>
+
+				</revdescription>
+
+			</revision>
+			<revision>
+				<revnumber>5-0</revnumber>
 				 <date>July 2021</date>
 				 <author>
 					<firstname>Julian</firstname>
@@ -17,9 +46,8 @@
 				</author>
 				 <revdescription>
 					<simplelist>
-						<member>Major update to align with some recent changes in IBM Style.</member>
+						<member>Major update to align with some recent changes in IBM Style:</member>
 						<member>Sentence case is required for captions, legends, and diagram labels.</member>
-						<!-- <member>All punctuation, including periods and commas, is now placed outside quotation marks unless the punctuation is part of the quotation.</member> -->
 						<member>Punctuation: Added sections on referring to punctuation marks and names of punctuation marks and special characters.</member>
 						<member>Rename Chapter 4 to "Choosing Appropriate Language": expand scope beyond slang and jargon, to cover inclusive language; avoiding ambiguities (moved from Chapter 2 and added more categories); dates and times (AM and PM are now written in uppercase without periods); and numbers.</member>
 						<member>Usage A-Z: Various additions and updates. Corrected alphabetical sorting sequence. Moved items that are not literal term entries to an earlier chapter.</member>
