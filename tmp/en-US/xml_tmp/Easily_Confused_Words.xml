@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<section id="easily-confused-words">
+	<title>Easily Confused Words</title>
+	 <para>
+		This section identifies some easily confused words and how to choose the correct term for your situation.
+	</para>
+	 <formalpara id="affect-effect">
+		<title>Affect and Effect</title>
+		 <para>
+			Each of these words can be used as a verb or a noun, but they are not always interchangeable.
+		</para>
+
+	</formalpara>
+	 <variablelist>
+		<varlistentry id="affect">
+			<term>affect</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Refers to the emotional impact of an action. Unless you are writing a psychology article, this is unlikely to be the choice for you.
+				</para>
+				 <para>
+					<emphasis>v.</emphasis> Means to have an influence on something, or to cause something to change.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="effect">
+			<term>effect</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Refers to the result of some action. For example, "the team members discussed the effect of the new policy on their working conditions."
+				</para>
+				 <para>
+					<emphasis>v.</emphasis> Means to produce a result, or to cause something to happen. For example, "the CEO claimed that the new policy would effect a positive economic outcome."
+				</para>
+				 <para>
+					The use of "effect" as a verb is less common than the use of "affect", and there are usually alternatives that are clearer. For example, "the CEO claimed that the new policy would produce a positive economic outcome."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+	 <formalpara id="assure-ensure-insure">
+		<title>Assure, Ensure, and Insure</title>
+		 <para>
+			These are relatively easy to get right, but here are some quick definitions.
+		</para>
+
+	</formalpara>
+	 <variablelist>
+		<varlistentry id="assure">
+			<term>assure</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Suggests mental comfort. For example, "I assured my future father-in-law that I would eventually find a job."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="ensure">
+			<term>ensure</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Means to make sure of something, to be certain that something exists or some condition has been met.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="insure">
+			<term>insure</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Relates to monetary insurance.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+
+</section>
+

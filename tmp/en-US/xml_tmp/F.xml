@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="f">
+	<title>F</title>
+	 <variablelist>
+		<varlistentry id="failback">
+			<term>fail back, failback</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Use the 2-word form.
+				</para>
+        <para>
+          <emphasis>n.</emphasis> Use the 1-word form.
+        </para>
+        <para>
+          No hyphenated form is currently recognized.
+        </para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="failover">
+			<term>fail over, failover</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Use the 2-word form.
+				</para>
+        <para>
+          <emphasis>n., adj.</emphasis> Use the 1-word form.
+        </para>
+        <para>
+          No hyphenated form is currently recognized.
+        </para>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="faq">
+			<term>FAQ</term>
+			 <listitem>
+				<para>
+					When referring to a Frequently Asked Questions (FAQ) section of content, refer to it as "an FAQ" (to be read as "an F") not "a FAQ". The plural form is "FAQs".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="fault-tolerance">
+			<term>fault tolerance (n.), fault-tolerant (adj.)</term>
+			 <listitem>
+				<para>
+					The ability of a system to respond gracefully to an unexpected hardware or software failure. Fault tolerance has many levels, the lowest being the ability to continue operation in the event of a power failure. Many fault-tolerant computer systems mirror all operations; that is, every operation is performed on two or more duplicate systems, so that if one fails, then the other can take over.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="fedora-project">
+			<term>Fedora&trade; Project</term>
+			 <listitem>
+				<para>
+					Correct.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="fiber">
+			<term>fiber</term>
+			 <listitem>
+				<para>
+					Correct. Despite the alternative spelling used in Fibre Channel, "fiber" is the correct form to use in all other cases.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="fibre-channel">
+			<term>Fibre Channel</term>
+			 <listitem>
+				<para>
+					A serial data transfer architecture developed by a consortium of computer and mass storage device manufacturers and now being standardized by ANSI. The most prominent Fibre Channel standard is Fibre Channel Arbitrated Loop (FAL).
+				</para>
+				 <para>
+					FAL was designed for new mass storage devices and other peripheral devices that require high bandwidth. Using optical fiber to connect devices, FAL supports full-duplex data transfer rates of 100&nbsp;MBps. FAL is compatible with, and is expected eventually to replace, SCSI for high-performance storage systems.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="file-extensions">
+			<term>file extensions (general usage)</term>
+			 <listitem>
+				<para>
+					See <citetitle>File names, file types, and directory names</citetitle> in the <citetitle>IBM Style Guide</citetitle>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="file-type">
+			<term>file mode, file name, file system, file type</term>
+			 <listitem>
+				<para>
+          <emphasis>n.</emphasis> Write as shown, two words, unless used as a variable. See the <citetitle>IBM Style Guide</citetitle> for more information.
+				</para>
+        <para>
+          <emphasis>adj.</emphasis> Hyphenate when used as a compound adjective. For example, "file-system attributes".
+        </para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="firewire">
+			<term>FireWire</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Firewire" or "firewire". Although FireWire is a trademark of Apple Computer, it is not needed to append a trademark symbol, except to refer to Apple's FireWire software license or specific logos. See <ulink url="https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html">https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html</ulink>.
+				</para>
+<!-- Updated Apple trademark guidelines URL. -->
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="firmware">
+			<term>firmware</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Do not use "firm ware" or "firm-ware".
+				</para>
+				 <para>
+					Software (programs or data) that is written onto read-only memory (ROM). Firmware is a combination of software and hardware. ROMs, PROMs, and EPROMs that have data or programs recorded on them are firmware.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="floating-point">
+			<term>floating point</term>
+			 <listitem>
+				<para>
+					Correct. Do not hyphenate.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+<!-- Deleted "Floppy disk" and "Floppy drive" entries. -->
+		 <!-- <varlistentry id="floppy-disk">
+			<term>floppy disk</term>
+			 <listitem>
+				<para>
+					Do not use. Use "diskette", and also state the size of the diskette, such as "3.5&nbsp;in. diskette".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="floppy-drive">
+			<term>floppy drive</term>
+			 <listitem>
+				<para>
+					Do not use. Use "diskette drive".
+				</para>
+
+			</listitem>
+
+		</varlistentry> -->
+		    <varlistentry>
+      <term>follow</term>
+      <listitem>
+        <para>
+          <emphasis>v.</emphasis> Refers to the use of the <option>-f</option> (<option>--follow</option>) option for various commands, such as <command>tail</command>, so that output is appended as the file grows.
+        </para>
+      </listitem>
+    </varlistentry>
+
+<!-- Added "following". -->
+    <varlistentry id="following">
+      <term>following</term>
+      <listitem>
+        <para>
+          When introducing a list or a procedure, use "following" with a noun. Instead of "Complete the following", use "Complete the following steps".
+        </para>
+      </listitem>
+    </varlistentry>
+
+		 <varlistentry id="foreground">
+			<term>foreground</term>
+			 <listitem>
+				<itemizedlist>
+					<listitem>
+						<para>
+							In multiprocessing systems, the process that is currently accepting input from the keyboard or other input device is sometimes called the <emphasis>foreground process</emphasis>.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							On display screens, the foreground consists of the characters and pictures that appear on the screen. The background is the uniform canvas behind the characters and pictures.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="fortnight">
+			<term>fortnight</term>
+			 <listitem>
+				<para>
+					A period of two weeks (14 nights). Avoid; this term is not common in American English and might also be unfamiliar to non-native speakers.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="fortran">
+			<term>FORTRAN</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Fortran".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="forward">
+			<term>forward</term>
+			 <listitem>
+				<para>
+					Correct. Avoid using "forwards".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="forwards-compatible">
+			<term>forwards compatible</term>
+			 <listitem>
+				<para>
+					Do not use. Instead, use "compatible with later versions". See also <xref linkend="backwards-compatible" />.
+				</para>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="fqdn">
+			<term>FQDN</term>
+			 <listitem>
+				<para>
+          A fully qualified domain name consists of a list of domain labels representing the hierarchy from the lowest relevant level in the DNS to the top-level domain (TLD). The domain labels are concatenated by using the dot or period character (.) as a separator between labels.<footnote><para>https://en.wikipedia.org/wiki/Fully_qualified_domain_name</para></footnote>
+        </para>
+        <para>
+          For example, <uri>www.redhat.com</uri> is a fully qualified domain name, where <quote>www</quote> is the host, <quote>redhat</quote> is the second-level domain, and <quote>com</quote> is the top-level domain.
+				</para>
+				 <para>
+					An FQDN always starts with a hostname and continues all the way up to the top-level domain name; consequently <quote>www.parc.xerox.com</quote> is also an FQDN.
+				</para>
+<!-- Changed to "an FQDN". -->
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="frictionless">
+			<term>frictionless</term>
+			 <listitem>
+				<para>
+					Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="bimodal-it" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="front-end">
+			<term>front end, front-end</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Two words. For example, "PRCS is a front end for a version control toolset."
+				</para>
+				 <para>
+					<emphasis>adj.</emphasis> Hyphenate. For example, "This chapter explains how to use the front-end API functions."
+				</para>
+				 <para>
+					Do not use "frontend" as a noun or adjective.
+				</para>
+				 <para>
+					See also <xref linkend="back-end" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="ftp">
+			<term>FTP</term>
+			 <listitem>
+				<para>
+					Use all caps when referring to the protocol. Use lowercase when referring to the command-line program.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="futexes">
+			<term>futexes</term>
+			 <listitem>
+				<para>
+					Correct. "Futex" is an abbreviation of "fast user-space mutex". Consequently, "futexes" is the correct plural form.
+				</para>
+<!-- Removed term capitalization for "futexes". -->
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="fuzzy">
+			<term>fuzzy</term>
+			 <listitem>
+				<para>
+					Correct only when referring to fuzzy searches. See <xref linkend="avoiding-slang" /> for details and examples.
+				</para>
+<!-- Removed term capitalization for "fuzzy". -->
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

@@ -1,0 +1,769 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="s">
+	<title>S</title>
+	 <variablelist>
+		<varlistentry id="S390">
+			<term>S/390</term>
+			 <listitem>
+				<para>
+					Use the full description "IBM S/390". Do not use "s390", "S390", or any other variations.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="saas">
+			<term>SaaS</term>
+			 <listitem>
+				<para>
+					The correct abbreviation for "Software-as-a-Service". 
+					See also <xref linkend="paas" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="samba">
+			<term>Samba</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "samba" or "SAMBA".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="s-record">
+			<term>S-record</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "s-record", "Record", "s-Record", or any other variations.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="screen-capture">
+			<term>screen capture</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Do not use "screen shot", "screenshot", or other terms or variations. See the relevant entry in the <citetitle>IBM Style Guide.</citetitle>
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="screen-saver">
+			<term>screen saver</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Do not use "screensaver".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="scrollbar">
+			<term>scrollbar</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Do not use "scroll bar" or "scroll-bar".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+    <varlistentry>
+      <term>secure</term>
+      <listitem>
+        <para>
+          <emphasis>n., vb.</emphasis> Due to potential legal ramifications, do not use without a qualifier.
+          See <xref linkend="qualify-sensitive-terms"/> for examples.
+        </para>
+        <table id="qualify-sensitive-terms"><title>Using Qualifiers with Sensitive Terms</title>
+          <tgroup cols="2" align="left" colsep="1" rowsep="1">
+            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+            <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+            <thead>
+              <row>
+                <entry>Original text</entry>
+                <entry>Improvement</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>With this new version, the application is running on a secure, gateway-protected endpoint.</entry>
+                <entry>With this new version, the application is running on a more secure, gateway-protected endpoint.</entry>
+              </row>
+              <row>
+                <entry>This function secures your connection.</entry>
+                <entry>This function improves the security of your connection.</entry>
+              </row>
+              <row>
+                <entry>Developers can easily change the code to implement secured access.</entry>
+                <entry>Developers can easily change the code to make access more secure.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </listitem>
+    </varlistentry>
+		 <varlistentry id="see">
+			<term>see</term>
+			 <listitem>
+				<para>
+					Use to refer readers to another resource. Avoid using "refer to" in this context.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="segmentation-fault">
+			<term>segmentation fault</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
+				</para>
+				 <para>
+					See also <ulink url="https://access.redhat.com/site/articles/372743 ">"What is a segfault?"</ulink> on the Red&nbsp;Hat Customer Portal for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="selinux">
+			<term>SELinux</term>
+			 <listitem>
+				<para>
+					Abbreviation of Security-Enhanced Linux.
+          SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies.
+          Do not use any other alternatives.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="send-out">
+			<term>send out</term>
+			 <listitem>
+				<para>
+					Do not use. Instead, use "emit" or "issue".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="server-farm">
+			<term>server farm</term>
+			 <listitem>
+				<para>
+					Also referred to as a server cluster, computer farm, or ranch. A server farm is a group of networked servers that are housed in one location. A server farm streamlines internal processes by distributing the workload between the individual components of the farm and expedites computing processes by harnessing the power of multiple servers. The farms rely on load-balancing software that accomplishes such tasks as tracking demand for processing power from different machines, prioritizing the tasks, and scheduling and rescheduling them depending on priority and demand that users put on the network. When one server in the farm fails, another can step in as a backup.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="server-side">
+			<term>server-side/server side</term>
+			 <listitem>
+				<para>
+					See <xref linkend="client-side" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+<!-- Changed from "set-up" > "setup" for adjective, to align with IBM Style. -->
+		 <varlistentry id="setup">
+			<term>setup</term>
+			 <listitem>
+				<para>
+					Use "setup" as a noun or an adjective, and "set up" as a verb. For example:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Each setup provides different features.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							You need to set up a user profile as part of the registration process.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Follow the setup instructions that are included with the hardware.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="sha">
+			<term>SHA-1, SHA-2</term>
+			 <listitem>
+				<para>
+					Pronounced "shä" and thus requires "an" as the indefinite article.
+        </para>
+        <para>
+          SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA2 variants are often specified by using their digest size, in bits, as the trailing number, in lieu of "2". Thus "SHA224", "SHA256", "SHA384", and "SHA512" are considered correct when referring to these specific hash functions.
+				</para>
+        <para>
+          See <ulink url="https://en.wikipedia.org/wiki/Secure_Hash_Algorithms"></ulink> for full details.
+        </para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="shadowman">
+			<term>Shadowman</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Shadow Man" or "ShadowMan". The Red&nbsp;Hat Shadowman logo is a trademark of Red&nbsp;Hat, Inc., registered in the United States and other countries.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="shadow-passwords">
+			<term>shadow passwords</term>
+			 <listitem>
+				<para>
+					Not a proper noun, so capitalize "Shadow" at the beginning of a sentence only.
+				</para>
+				 <para>
+					Shadow passwords are a method of improving system security by moving the encrypted passwords (normally found in <filename>/etc/passwd</filename>) to <filename>/etc/shadow</filename>, which is readable only by root. This option is available during installation and is part of the shadow utilities package.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="shadow-utilities">
+			<term>shadow utilities</term>
+			 <listitem>
+				<para>
+					Not a proper noun, so capitalize "Shadow" at the beginning of a sentence only.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="share-name">
+			<term>share name</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "sharename" or "Sharename" unless you are quoting the output of commands, such as <command>smbclient -L</command> or similar.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="shebang">
+			<term>shebang</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Refers to the character sequence consisting of the number sign and exclamation mark (#!) at the beginning of a script. Do not use hashbang or pound-bang or other variations.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="shell">
+			<term>shell</term>
+			 <listitem>
+				<para>
+					A "shell" is a software application, for example, /bin/bash or /bin/sh, which provides an interface to a computer. Do not use this term to describe where to type commands.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="shell-prompt">
+			<term>shell prompt</term>
+			 <listitem>
+				<para>
+					Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use "command prompt", "terminal", or "shell".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="should">
+			<term>should</term>
+			 <listitem>
+				<para>
+					Do not use if it is something the user must do. For example, "You should make a backup" is a suggestion, while "You must make a backup" is a requirement. See also <xref linkend="must" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="shut-down">
+			<term>shut down</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Correct. Do not use "shut-down". Only use "shutdown" when referring to the <command>/sbin/shutdown</command> system command.
+				</para>
+
+			</listitem>
+
+<!-- Added entries for "sign in" and "sign in to". -->
+		</varlistentry>
+		 <varlistentry id="sign-in">
+			<term>sign in</term>
+			 <listitem>
+				 <para>
+					<emphasis>v.</emphasis> Write as two words. For example, "two options are available to sign in".
+				</para>
+			</listitem>
+				 
+		</varlistentry>
+		 <varlistentry id="sign-in-to">
+			<term>sign in to</term>
+			 <listitem>
+				 <para>
+					<emphasis>v.</emphasis> Write as three words. For example, "to sign in to the system".
+				</para>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="simply">
+			<term>simply</term>
+			 <listitem>
+				<para>
+					Do not use. See also <xref linkend="basically" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="since-as-because">
+			<term>since, as, because</term>
+			 <listitem>
+				<para>
+					Do not use "since" or "as" to mean "because"; it is ambiguous. Use "because" to refer to a reason. Use "since" or "as" to refer to the passage of time.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="skillset">
+			<term>skill set, skills, knowledge</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective. Do not use "skill-set knowledge"; it is redundant. See the following examples:
+				</para>
+				 <example id="exam-skillset">
+					<title>Example Use of Term "Skillset" Versus "Skills"</title>
+					 <para>
+						Incorrect: Do you have the right skillset to be an RHCE?
+					</para>
+					 <para>
+						Correct: Do you have the right skills to be an RHCE?
+					</para>
+
+				</example>
+				 <example id="exam-knowledge">
+					<title>Example Use of Term "Knowledge"</title>
+					 <para>
+						Incorrect: This course gives you the skill-set knowledge to complete your RHCT exam successfully.
+					</para>
+					 <para>
+						Correct: This course gives you the knowledge to complete your RHCT exam successfully.
+					</para>
+
+				</example>
+
+			</listitem>
+
+		</varlistentry>
+    <varlistentry id="sla">
+      <term>SLA</term>
+      <listitem>
+        <para>
+          <emphasis>n.</emphasis> SLA stands for Service Level agreement.
+          The phrase itself is not normally capitalized but official SLA defect ratings, such as Low, Moderate, and Critical, carry initial caps.
+          This capitalization distinguishes the SLA-defined ratings from the severity of general issues and identifies them as requiring a predetermined response time and level of support according to agreements.
+        </para>
+      </listitem>
+    </varlistentry>
+
+<!-- Added for inclusive language -->
+		 <varlistentry id="slave">
+			<term>slave</term>
+			 <listitem>
+				<para>
+					Do not use. It diminishes the horror of the dehumanizing practice of slavery. Use another term such as "worker", "child", "helper", "replica", or "secondary (server, node, process, or other noun)".
+				</para>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="smart-card">
+			<term>smart card</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Do not use smartcard or smart-card.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+		 <varlistentry id="socks">
+			<term>SOCKS</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "socks". When specifying a SOCKS version, use "SOCKSv4" or "SOCKSv5".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="softcopy">
+			<term>softcopy</term>
+			 <listitem>
+				<para>
+					Do not use. Instead, use "online". For example, "To view the online documentation ...".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="sound-card">
+			<term>sound card</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Do not use "soundcard" or "sound-card".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="source-navigator">
+			<term>Source-Navigator™</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Source Navigator". Source-Navigator™ is a trademark of Red&nbsp;Hat.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+    <varlistentry>
+        <term>source</term>
+        <listitem>
+          <para>
+            <emphasis>v.</emphasis> In addition to the generic use of this term as a noun and verb, in
+a programming and technical sense, it also means "Run the <command>source</command> command against the named file."
+          </para>
+        </listitem>
+      </varlistentry>
+		 <varlistentry id="space">
+			<term>space</term>
+			 <listitem>
+				<para>
+					Use when referring to white space, such as "Ensure that a space occurs between each command." Use "Spacebar" when referring to the keyboard key.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="spacebar">
+			<term>Spacebar</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Use when referring to the keyboard key, such as "Press the <keycap>Spacebar</keycap> key to continue."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="spec-file">
+			<term>spec file</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Use to refer to an RPM spec file. Do not use "specfile".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="specific">
+			<term>specific</term>
+			 <listitem>
+				<para>
+					When used as a modifier, put a hyphen before "specific", such as "MIP-specific", "Linux-specific", and "chip-specific".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="spelled">
+			<term>spelled</term>
+			 <listitem>
+				<para>
+					Correct. It is the standard US English spelling. Do not use "spelt".
+				</para>
+				 <!-- <para>
+					"Spelt" is the standard spelling in Commonwealth English. US English prefers "spelled", although "spelt" is occasionally seen.
+				</para> -->
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="sql">
+			<term>SQL</term>
+			 <listitem>
+				<para>
+					When referring to the ISO standard (ISO 9075 and its descendants), it is pronounced as an initialism: ĕs kyü ĕl. Consequently, it takes "an" as an indefinite article.
+				</para>
+				 <para>
+					When referring to Microsoft's proprietary product, SQL Server, pronounce it as a word: "sequel". In this case, it takes "a" as an indefinite article.
+				</para>
+				 <para>
+					Note: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel".
+				</para>
+				 <para>
+					More generally, avoid use of "SQL" as a generic marker if possible. When discussing MySQL, write "MySQL". When discussing Microsoft SQL Server, write "Microsoft SQL Server". When discussing PostgreSQL (which is pronounced pŏstgrĕs kyü ĕl), write "PostgreSQL".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="sr-iov">
+			<term>SR-IOV</term>
+			 <listitem>
+				<para>
+					Correct. SR-IOV stands for Single Root I/O Virtualization. It is a virtualization specification for a PCIe device to appear to be multiple separate physical PCIe devices. Do not use SR/IOV.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="ssh">
+			<term>SSH</term>
+			 <listitem>
+				<para>
+					Initialism for Secure Shell, a network protocol for data exchange with a secure channel. When referring to the protocol, do not use "ssh", "Ssh", or other variants. When referring to the command, use <command>ssh</command>.
+				</para>
+				<para>
+				Do not use as a verb.
+			  </para>
+				<example>
+					<title>
+						Example Use of "SSH"
+				</title>
+				<para>
+				  Incorrect: To begin, "ssh to the remote server".
+				</para>
+				<para>
+					Correct: "Use SSH to connect to the remote server", "Open an SSH connection", or something similar.
+				</para>
+			</example>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="ssl">
+			<term>SSL</term>
+			 <listitem>
+				<para>
+					Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. Most web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with <emphasis>https:</emphasis> instead of <emphasis>http:</emphasis>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="stand-alone">
+			<term>stand-alone</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Write hyphenated. Do not use "standalone".
+				</para>
+				 <para>
+					Refers to something that is self-contained, or that does not require any other devices to function. 
+<!-- Updated dated example that referred to a fax machine. -->
+					For example, a smartphone is a stand-alone device because it does not require a computer, printer, modem, or other device. 
+					A printer, on the other hand, is not a stand-alone device because it requires a computer to feed it data.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="staroffice">
+			<term>StarOffice</term>
+			 <listitem>
+				<para>
+					A legacy Linux desktop suite. Do not use "Star", "Staroffice", or "Star Office".
+				</para>
+<!-- Is it acceptable to use "legacy"?				 -->
+				 <para>
+					The successors of StarOffice are <xref linkend="libreoffice" /> and <xref linkend="openoffice" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="start-up">
+			<term>start up</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Do not use. Instead, use "activate" or "invoke".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="startx">
+			<term>startx</term>
+			 <listitem>
+				<para>
+					Correct. Do not use StartX or other variants.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="straightforward">
+			<term>straightforward</term>
+			 <listitem>
+				<para>
+					<emphasis>adj., adv.</emphasis> Accepted references prescribe the use of the one-word form in all cases. Do not use "straight-forward".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="su">
+			<term>su</term>
+			 <listitem>
+				<para>
+					Correct. The Linux command to change to a named user. Do not use SU (all caps).
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="subcommand">
+			<term>subcommand</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "sub-command" or refer to a subcommand as a "verb".
+					 A subcommand refers to a secondary or even a tertiary command that is used with a primary command. Not to be confused with options or arguments, subcommands operate on ever more focused objects or entities. For example:
+				</para>
+
+<screen>hammer import organization --help</screen>
+				 <para>
+					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.
+				</para>
+				 <para>
+					See also <xref linkend="hyphenate-double-prefixes" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="subdirectory">
+			<term>subdirectory</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "sub-directory". See also <xref linkend="hyphenate-double-prefixes" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="submenu">
+			<term>submenu</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "sub-menu". See also <xref linkend="hyphenate-double-prefixes" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="subpackage">
+			<term>subpackage</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "sub-package".
+				</para>
+				 <para>
+					This word has a specific, specialized meaning in Red&nbsp;Hat products. An RPM spec file can define more than one package: these additional packages are called "subpackages".
+				</para>
+				 <para>
+					Any other use of this word is strongly discouraged.
+				</para>
+				 <para>
+					Note: Subpackages are <emphasis>not</emphasis> the same as dependencies and should not be treated as such.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="superuser">
+			<term>superuser</term>
+			 <listitem>
+				<para>
+					A synonym for the <systemitem>root</systemitem> user. More common in Solaris documentation than Linux. If and when used, this spelling is correct. Do not use "super user" or "super-user".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="swap-space">
+			<term>swap space</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "swapspace". Capitalize at the beginning of a sentence only.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>Sybase Adaptive Server Enterprise (ASE)</term>
+			 <listitem>
+				<para>
+					Use <productname>SAP Sybase Adaptive Server Enterprise (ASE)</productname> in the first instance. Subsequent entries can use the abbreviation "Sybase ASE". If discussing the high-availability version, use "Sybase ASE and High Availability".
+				</para>
+				 <para>
+					See <ulink url=" http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise"> http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise</ulink> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="sysv">
+			<term>SysV</term>
+			 <listitem>
+				<para>
+					Correct. Do not use Sys V or System V.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="symmetric-encryption">
+			<term>symmetric encryption</term>
+			 <listitem>
+				<para>
+					A type of encryption where the same key is used to encrypt and to decrypt the message. It differs from asymmetric (or public-key) encryption, which uses one key to encrypt a message and another to decrypt the message.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>

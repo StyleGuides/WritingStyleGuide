@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="resources" lang="en-US">
+	<title>Resources</title>
+	 <para>
+		This section lists some books and websites for you to consult on your quest to create a better document.
+	</para>
+	 <para>
+		The guides that you refer to first are generally dictated by the type of material that you are writing. It is important to establish this point first because the guidelines in the following references sometimes contradict each other. It does not mean that the guidelines are wrong; different audiences require different writing styles, and different references are sometimes required when you change styles. The following documentation types are recognized: 
+		<itemizedlist>
+			<listitem>
+				<para>
+					Technical content: software manuals and documentation, user guides, training courses
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Technical collateral: white papers and technology briefs
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Marketing content: advertising, promotions, articles
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Corporate collateral: related to company or products
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Press releases
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+
+	</para>
+	 <section id="tech-content-refs">
+		<title>References for Technical Content and Collateral</title>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					<citetitle>IBM Style Guide</citetitle>. IBM Corporation, latest version.
+				</para>
+				 <para>
+					Red&nbsp;Hat employees can now access the latest version of the IBM Style Guide online, at <ulink url="https://www.ibm.com/docs/en/ibm-style/">https://www.ibm.com/docs/en/ibm-style/</ulink>.
+				</para>
+				 <para>
+					Go to that web page, and click <guibutton>Log in to view content</guibutton>.
+				</para>
+				 <para>
+					On the <guilabel>Log in to IBM</guilabel> page, in the <guilabel>IBMid</guilabel> field, enter your <guilabel>xxx@redhat.com</guilabel> email address and click <guibutton>Continue</guibutton>.
+				</para>
+				 <para>
+					The <guilabel>IBM Style</guilabel> page shows the following categories:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							What's new
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Word usage
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Inclusive language
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Topics A to Z
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+			 <listitem>
+				<para>
+					<citetitle>The Chicago Manual of Style, 17th Edition</citetitle>. Chicago: The University of Chicago Press, 2017.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					<citetitle>Merriam-Webster Unabridged Dictionary</citetitle>
+				</para>
+				 <para>
+					Visit <ulink url="https://www.merriam-webster.com/">https://www.merriam-webster.com/</ulink> for subscription options.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					<citetitle>The American Heritage Dictionary of the English Language</citetitle>
+				</para>
+				 <para>
+					An online edition is accessible free of charge through <ulink url="http://www.ahdictionary.com/">http://www.ahdictionary.com/</ulink>
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+
+	</section>
+	 <section id="marketing-content-refs">
+		<title>References for Marketing and Corporate Collateral</title>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					<ulink url="http://www.apstylebook.com/online/"><citetitle>AP Stylebook Online</citetitle></ulink>
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					<citetitle>Merriam-Webster Online</citetitle> <ulink url="http://www.merriam-webster.com/">http://www.merriam-webster.com/</ulink>
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+
+	</section>
+	 <!--  Removed section because of outdated references.  --> <!--  <section id="secondary-refs">
+		<title>Secondary References</title>
+		 <para>
+			The following references might provide guidance when the primary references cannot provide a suitable solution.
+		</para>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					<citetitle>Microsoft Manual of Style for Technical Publications, Third Edition</citetitle>. Redmond, WA: Microsoft Press, 2004.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					<citetitle>Read Me First! A Style Guide for the Computer Industry</citetitle>. Mountain View, CA: Sun Microsystems, Inc, 1996.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					<citetitle>A Dictionary of Computing, Sixth Edition</citetitle> Market House Books, 2008
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					<citetitle>A Dictionary of the Internet</citetitle> Darrell Ince, 2009
+				</para>
+				 <para>
+					These two titles are available online as part of the <citetitle>Oxford Reference Online Premium Collection</citetitle>. <remark>Need to update this section.</remark>
+
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+
+	</section>  -->
+</chapter>
+

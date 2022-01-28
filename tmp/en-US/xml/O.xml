@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="o">
+<chapter id="o" lang="en-US">
 	<title>O</title>
 	 <variablelist>
 		<varlistentry id="objective-c">
@@ -22,8 +22,7 @@
 				<para>
 					Correct. Do not use "object oriented", "objectoriented", or "object-orientated". It is a modifier, such as "Java is an object-oriented language".
 				</para>
-<!-- Added to avoid "object-orientated". -->
-
+				<!--  Added to avoid "object-orientated".  -->
 			</listitem>
 
 		</varlistentry>
@@ -54,12 +53,10 @@
 					Correct. Use this term to refer to backing up a database while the database is not being accessed by applications. Do not use "cold backup" or any other variations.
 				</para>
 				 <para>
-					The counterpart to this term is "online backup", to refer to the process of backing up a database while it is being accessed by other applications. Do not use "hot backup" or any other variations.
-<!-- Deleted footnote: URL is no longer valid. -->
-					<!-- <footnote> <para>
+					The counterpart to this term is "online backup", to refer to the process of backing up a database while it is being accessed by other applications. Do not use "hot backup" or any other variations. <!--  Deleted footnote: URL is no longer valid.  --> <!--  <footnote> <para>
 						<ulink url="http://www-01.ibm.com/software/globalization/terminology/o.html" />
 					</para>
-					 </footnote> -->
+					 </footnote>  -->
 				</para>
 
 			</listitem>
@@ -71,11 +68,10 @@
 				<para>
 					When referring to the <guibutton>OK</guibutton> button, it is not necessary to use "button" in the sentence. For example, "Click <guibutton>OK</guibutton> to close the dialog box."
 				</para>
-				<para>
+				 <para>
 					Use "OK" only to refer to an interface element, not in general text. For example, instead of using "It is OK to run the command", use alternative wording, such as "You can run the command".
 				</para>
-<!-- Added paragraph to avoid "OK" when not referring to a button. -->
-
+				<!--  Added paragraph to avoid "OK" when not referring to a button.  -->
 			</listitem>
 
 		</varlistentry>
@@ -85,17 +81,18 @@
 				<para>
 					<emphasis>adj, tr.v.</emphasis> Use the one-word form in all cases.
 				</para>
+
 			</listitem>
 
 		</varlistentry>
-		<varlistentry id="once">
-		 <term>once</term>
-			<listitem>
-			 <para>
-				 Use only to mean "one time". Do not use as a conjunction to mean "after" or "when".
-			 </para>
+		 <varlistentry id="once">
+			<term>once</term>
+			 <listitem>
+				<para>
+					Use only to mean "one time". Do not use as a conjunction to mean "after" or "when".
+				</para>
 
-		 </listitem>
+			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="online">
@@ -108,41 +105,30 @@
 			</listitem>
 
 		</varlistentry>
-
-<!-- Advice differs from IBM Style, which says to use "on premises", "on-premises". -->
-		 <varlistentry id="onpremise">
+		 <!--  Advice differs from IBM Style, which says to use "on premises", "on-premises".  --> <varlistentry id="onpremise">
 			<term>on premise, on-premise</term>
 			 <listitem>
 				<para>
-					<emphasis>adverb</emphasis>
-          Two words.
-        </para>
-        <para>
-					<emphasis>adj.</emphasis>
-          Hyphenate if used as an adjective before a noun.
-          Otherwise, use the two-word form.
+					<emphasis>adverb</emphasis> Two words.
+				</para>
+				 <para>
+					<emphasis>adj.</emphasis> Hyphenate if used as an adjective before a noun. Otherwise, use the two-word form.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-
-
 		 <varlistentry id="onpremises">
 			<term>on premises, on-premises</term>
 			 <listitem>
 				<para>
-					Do not use.
-          See <xref linkend="onpremise"/>.
+					Do not use. See <xref linkend="onpremise" />.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-
-
-<!-- Advice differs from IBM Style, which says to use "onsite". -->
-		 <varlistentry id="on-site">
+		 <!--  Advice differs from IBM Style, which says to use "onsite".  --> <varlistentry id="on-site">
 			<term>on-site</term>
 			 <listitem>
 				<para>
@@ -202,13 +188,15 @@
 			</listitem>
 
 		</varlistentry>
-		<varlistentry>
-		<term>OpenJDK</term>
-		<listitem>
-			<para>
-			The OpenJDK trademark is owned by Oracle with a fair-use clause, so be careful about how you use this term.
-			</para>
-		</listitem>
+		 <varlistentry>
+			<term>OpenJDK</term>
+			 <listitem>
+				<para>
+					The OpenJDK trademark is owned by Oracle with a fair-use clause, so be careful about how you use this term.
+				</para>
+
+			</listitem>
+
 		</varlistentry>
 		 <varlistentry id="openoffice">
 			<term>OpenOffice</term>
@@ -227,8 +215,7 @@
 			<term>open source</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "OpenSource", "opensource", or "open-source".
-          Only capitalize the "o" in "open source" at the beginning of a sentence.
+					Correct. Do not use "OpenSource", "opensource", or "open-source". Only capitalize the "o" in "open source" at the beginning of a sentence.
 				</para>
 
 			</listitem>
@@ -300,3 +287,4 @@
 
 	</variablelist>
 </chapter>
+

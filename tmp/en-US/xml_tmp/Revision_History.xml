@@ -1,30 +1,25 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!-- <!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [ -->
-<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<section id="rev-history">
-<!-- <appendix id="rev-history"> -->
-	<!-- <title>Revision History</title> -->
-	<title>New in This Release</title> 
+<appendix id="rev-history">
+	<title>Revision History</title>
 	 <simpara>
 		<revhistory>
 			<revision>
 				<revnumber>5-1</revnumber>
 				 <date>January 2022</date>
-				<!-- <authorgroup> -->
 				 <author>
 					<firstname>Julian</firstname>
 					 <surname>Cable</surname>
 					 <email>jcable@redhat.com</email>
 				</author>
-				 <!-- <author>
+				 <author>
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>davido@redhat.com</email>
 				</author>
-				</authorgroup> -->
 				 <revdescription>
 					<simplelist>
 						<member>Minor update to address some reported issues:</member>
@@ -39,7 +34,7 @@
 						<member>Avoid consecutive headings.</member>
 						<member>Guidance to refer to UI elements and to other publication titles.</member>
 						<member>Clarification that diagram labels use sentence case.</member>
-						<member>New or updated usage entries: backend, IaC, number sign, on premise/on-premise, prebaked, unset.</member>
+						<member>New or updated usage entries: backend, IaC, number sign, on premise and on-premise, prebaked, unset.</member>
 
 					</simplelist>
 
@@ -49,18 +44,16 @@
 			<revision>
 				<revnumber>5-0</revnumber>
 				 <date>July 2021</date>
-				<!-- <authorgroup> -->
 				 <author>
 					<firstname>Julian</firstname>
 					 <surname>Cable</surname>
 					 <email>jcable@redhat.com</email>
 				</author>
-				 <!-- <author>
+				 <author>
 					<firstname>David</firstname>
 					 <surname>O'Brien</surname>
 					 <email>davido@redhat.com</email>
 				</author>
-				</authorgroup> -->
 				 <revdescription>
 					<simplelist>
 						<member>Major update to align with some recent changes in IBM Style:</member>
@@ -75,14 +68,7 @@
 				</revdescription>
 
 			</revision>
-
-		</revhistory>
-
-	</simpara>
-</section>
-<!-- </appendix> -->
-			
-			<!-- <revision>
+			<revision>
 				<revnumber>2.0-1</revnumber>
 				 <date>Wed Jun 3 2015</date>
 				 <author>
@@ -569,6 +555,10 @@
 
 				</revdescription>
 
-			</revision> -->
+			</revision>
 
+		</revhistory>
+
+	</simpara>
+</appendix>
 

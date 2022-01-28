@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE table PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "../Style_Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<table frame="all" lang="en-US">
+	<title>Deployment Model Comparison</title>
+	 <tgroup align="left" cols="3" colsep="1" rowsep="1">
+		<colspec colname="c1" colwidth="3*"></colspec>
+		 <colspec colname="c2"></colspec>
+		 <colspec colname="c3"></colspec>
+		 <thead>
+			<row>
+				<entry>Feature</entry>
+				 <entry>OpenShift Express</entry>
+				 <entry>OpenShift Flex</entry>
+
+			</row>
+
+		</thead>
+		 <tbody>
+			<row>
+				<entry>Command Line Interface</entry>
+				 <entry>Yes</entry>
+				 <entry>No</entry>
+
+			</row>
+			 <row>
+				<entry>GUI Interface</entry>
+				 <entry>Yes</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Create Cloud Objects</entry>
+				 <entry>No</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Manage Cloud Objects</entry>
+				 <entry>No</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Create Clusters</entry>
+				 <entry>No</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Manage Clusters</entry>
+				 <entry>No</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Create Servers</entry>
+				 <entry>No</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Manage Servers</entry>
+				 <entry>No</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Create Applications</entry>
+				 <entry>Yes</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Manage Applications</entry>
+				 <entry>Yes</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Import Applications</entry>
+				 <entry>No</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Customize Applications</entry>
+				 <entry>Yes</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>Deploy Applications</entry>
+				 <entry>Yes</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>View Cloud Performance Statistics</entry>
+				 <entry>No</entry>
+				 <entry>Yes</entry>
+
+			</row>
+			 <row>
+				<entry>View Historical Cloud Performance Statistics</entry>
+				 <entry>No</entry>
+				 <entry>Yes</entry>
+
+			</row>
+
+		</tbody>
+
+	</tgroup>
+</table>
+

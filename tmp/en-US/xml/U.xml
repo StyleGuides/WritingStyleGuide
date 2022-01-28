@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="u" lang="en-US">
+	<title>U</title>
+	 <variablelist>
+		<varlistentry id="uid">
+			<term>UID</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> UID and user ID are abbreviations of <emphasis>user identifier</emphasis>. Do not use "uid" or "User ID" or other variations unless specifically referring to a variable, argument, parameter, UI label, or similar.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="ultrasparc">
+			<term>UltraSPARC</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "ULTRASPARC", "UltraSparc", or other variations.
+				</para>
+				 <para>
+					UltraSPARC is a trademark of SPARC International, Inc., and is used under license by Sun Microsystems, Inc. Products that bear the SPARC trademarks are based on an architecture developed by Sun Microsystems, Inc.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="undercloud">
+			<term>undercloud</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Always lowercase. It is a concept, not a technology or product name. Being a common noun, it requires an article in most cases. See also <xref linkend="overcloud" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="uninterruptible">
+			<term>uninterruptible</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Despite not appearing in the <citetitle>American Heritage Dictionary</citetitle>, this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary</citetitle>, and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="unix">
+			<term>UNIX</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Unix" or "unix".
+				</para>
+				 <para>
+					UNIX is a registered trademark of The Open Group.
+				</para>
+				 <para>
+					Do not use "UNIX-like". Use an expression such as "Linux, UNIX, and similar operating systems" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="unset">
+			<term>unset</term>
+			 <listitem>
+				<para>
+					Use only to refer to deleting a variable. To refer instead to removing a selection from a checkbox, use "clear".
+				</para>
+				 <para>
+					To disable the <application>Wobbly Widget</application> application, clear the <guimenuitem>Enable Wobbly Widget</guimenuitem> checkbox.
+				</para>
+				 <para>
+					This rule matches only TCP packets where the <guilabel>SYN</guilabel> flag is set and the <guilabel>ACK</guilabel> flag is cleared.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="untrusted">
+			<term>untrusted</term>
+			 <listitem>
+				<para>
+					Use only in the context of security relationships. For example, web browsers often indicate that a site is "untrusted" if it cannot verify that site's security certificate.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="upgrade">
+			<term>upgrade</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Correct. Do not use "up-grade" or "up grade".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="ups">
+			<term>UPS</term>
+			 <listitem>
+				<para>
+					Abbreviation of uninterruptible power supply, a power supply that includes a battery to maintain power in the event of a power outage.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="upsell_v._upselling_n.">
+			<term>upsell (v.), upselling (n.)</term>
+			 <listitem>
+				<warning>
+					<title>Marketing Use Only</title>
+					 <para>
+						"The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.<footnote> <para>
+							http://www.ahdictionary.com/word/search.html?q=upsell
+						</para>
+						 </footnote>"
+					</para>
+					 <para>
+						Do not hyphenate or use as two words. No adjectival form is currently recognized.
+					</para>
+
+				</warning>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="upstream">
+			<term>upstream</term>
+			 <listitem>
+				<para>
+					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="downstream" />. Do not use "up-stream" or "up stream".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="uptime">
+			<term>uptime</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Correct. Do not use "up-time" or "up time".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="url">
+			<term>URL</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
+				</para>
+				 <para>
+					See <xref linkend="other-websites" /> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="user">
+			<term>user</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> When referring to the reader, use "you" instead of "the user". For example, "The user must ..." is incorrect. Use "You must ..." instead.
+				</para>
+				 <para>
+					If referring to more than one user, calling the collection "users" is acceptable, such as "Other users might want to access your database."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="user-interface">
+			<term>user interface</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Correct. Do not use "user-interface" or "userinterface".
+				</para>
+				 <para>
+					The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. In a command-driven interface, you enter commands. In a menu-driven interface, you select command choices from various menus that are displayed on the screen.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="user-name">
+			<term>username</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> One word in most cases. Capitalize the "U" at the beginning of a sentence. See the <citetitle>IBM Style Guide</citetitle> for more information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="user-space">
+			<term>user space</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space". Do not use "userspace".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="utilize">
+			<term>utilize</term>
+			 <listitem>
+				<para>
+					Avoid this term. Write "use" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="p" lang="en-US">
+	<title>P</title>
+	 <variablelist>
+		<varlistentry id="paas">
+			<term>PaaS</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> The correct abbreviation for "Platform-as-a-Service". In the spelled-out version of this term and its variants (for example, Infrastructure-as-a-Service and Software-as-a-Service), always use hyphens.
+				</para>
+				 <warning>
+					<title>Marketing, Brand, Customer Portal Usage</title>
+					 <para>
+						For all-caps text, such as banners, use "&lt;VARIANT&gt;-ASERVICE" for the spelled-out version. The same abbreviation is used across all groups.
+					</para>
+
+				</warning>
+				 <para>
+					See also <xref linkend="saas" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="pc">
+			<term>PC</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Use to refer to a personal computer.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>persist</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Do not use as a verb to mean "store" or "save", for example, when referring to persistent storage.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="php">
+			<term>PHP</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Use PHP when referring to the language in general. Use <command>php</command> when referring to the specific command or some other literal use.
+				</para>
+				 <para>
+					See <ulink url="http://www.php.net/" /> for specific PHP language information. See <ulink url="http://en.wikipedia.org/wiki/PHP" /> for more general information.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="pico">
+			<term>Pico, pico</term>
+			 <listitem>
+				<para>
+					<emphasis>n, adj.</emphasis> Capitalize when referring to the text editor or to the programming language. Do not capitalize when referring to the SI prefix.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="plain-text">
+			<term>plain text</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Two words. In most cases, do not use "plaintext", "cleartext", or other variants.
+				</para>
+				 <para>
+					Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm). Red&nbsp;Hat uses "plain text" as a plain English denotation of all unencrypted information, whether it is stored or being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="please">
+			<term>please</term>
+			 <listitem>
+				<para>
+					Do not use. Instead of saying "Please see the <citetitle>Getting Started Guide</citetitle>", use "See the <citetitle>Getting Started Guide."</citetitle>
+				</para>
+				<!--  Added justification  --> <para>
+					Technical information requires an authoritative tone; terms of politeness convey the wrong tone for technical information and are not regarded the same way in all cultures.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="pluggable">
+			<term>pluggable</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Something that is capable of being plugged in, especially in terms of (for example) software modules. "Hot-pluggable" is also widely used with respect to hardware to indicate that it can be connected and recognized without powering down the system.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="plug-in">
+			<term>plug-in</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Write hyphenated. Do not use "plugin".
+				</para>
+				 <para>
+					A hardware or software module that adds a specific feature or service to a larger system. <!--  Removed dated example.  --> <!--  For example, a number of plug-ins are available for the Netscape Navigator browser that enable it to display different types of audio or video messages. Navigator plug-ins are based on MIME file types.  -->
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="pm">
+			<term role="true">PM</term>
+			 <listitem>
+				<para>
+					For times of day, use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "2&nbsp;PM".
+				</para>
+				 <para>
+					See also <xref linkend="am" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="pop-up">
+			<term>pop-up</term>
+			 <listitem>
+				<para>
+					<emphasis>n, adj.</emphasis> Do not use "popup" or "pop up".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="posix">
+			<term>POSIX</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Do not use "Posix", "posix", or variations thereof.
+				</para>
+				 <para>
+					An acronym for "Portable Operating System Interface for UNIX".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="postscript">
+			<term>PostScript</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> It is a registered trademark of Adobe. Do not use "Postscript".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="powerpc">
+			<term>PowerPC</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> The name of the Power architecture is "Power", but the designation of individual chips tends to be either "PowerPC" or "POWER". Refer to IBM marketing or the <ulink url="http://openpowerfoundation.org">Open Power Foundation</ulink> if unsure.
+				</para>
+				 <para>
+					Do not use the "PPC64" or "ppc64le" shorthand. Depending on context, either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct. Additional application binary interface (ABI) features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
+				</para>
+				 <para>
+					Note: The PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM Power Series hardware in almost all cases.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="ppp">
+			<term>PPP</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Do not use "ppp" or "Ppp".
+				</para>
+				 <para>
+					An initialism for Point-to-Point Protocol.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="press">
+			<term>press</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> Use for keyboard instructions. For example: "Press the <keycap>Enter</keycap> key" or more succinctly "Press <keycap>Enter</keycap>."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="poc">
+			<term>proof of concept</term>
+			 <listitem>
+				<para>
+					Use the following rules to form the plural of this phrase: 
+					<itemizedlist>
+						<listitem>
+							<para>
+								Use "proofs of concept" for multiple proofs and only one concept.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Use "proofs of concepts" for multiple proofs and multiple concepts.
+							</para>
+
+						</listitem>
+						 <listitem>
+							<para>
+								Do not use "proof of concepts".
+							</para>
+
+						</listitem>
+
+					</itemizedlist>
+
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="pseudo-ops">
+			<term>pseudo-ops</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "pseudo ops" or "pseudoops".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		<!--  Outdated entry  --> <!--  <varlistentry id="pseries">
+			<term>pSeries</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> "IBM eServer System p" is correct for the first reference in a manual; use IBM System p or System p for subsequent references. Do not use "pSeries".
+				</para>
+
+			</listitem>
+
+    </varlistentry>  --> <varlistentry id="pull-down">
+			<term>pull-down</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Use only if you must specify the type of menu or list. Do not use "pulldown".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry>
+			<term>push-button automation, turn-key automation</term>
+			 <listitem>
+				<para>
+					Metaphorical language (literally, push a button or turn a key to begin automation), and difficult to translate. Often used to refer to easy or hands-off automation, but human intervention is required, so this use is not accurate. Instead, use accurate language for the situation, such as:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							User-triggered automation
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Ready-to-use, ready-to-deploy
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Self-service, self-provisioned.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Single-step automation
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							On-demand automation
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="pxe">
+			<term>PXE</term>
+			 <listitem>
+				<para>
+					Short for Pre-Boot Execution Environment. Pronounced "pixie", PXE is one of the components of Intel's Wired for Management (WfM) specification. With PXE, a workstation can boot from a server on a network in preference to booting the operating system on the local hard drive.
+				</para>
+				 <para>
+					PXE is a mandatory element of the WfM specification. To be considered compliant, PXE must be supported by the computer's BIOS and its NIC.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

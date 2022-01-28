@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "../Style_Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-OpenShift_Overview" lang="en-US">
+	<title>OpenShift Overview</title>
+	 <para>
+		The OpenShift deployment model currently offers two user levels:
+	</para>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				OpenShift Express
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				OpenShift Flex
+			</para>
+
+		</listitem>
+
+	</itemizedlist>
+	 <para>
+		Each OpenShift deployment level offers specific cloud and application management features. The following table compares the features of each OpenShift deployment level:
+	</para>
+	 <xi:include href="Ref_Cloud_Compare_Deployment.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <section id="sect-OpenShift_Overview-OpenShift_Express">
+		<title>OpenShift Express</title>
+		 <para>
+			OpenShift Express provides the tools to create, deploy and manage your applications in the cloud using a browser-based or a command line interface. With OpenShift Express you can:
+		</para>
+		 <xi:include href="Concepts_Cloud_ExpressFeatures.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+
+	</section>
+	 <section id="sect-OpenShift_Overview-OpenShift_Flex">
+		<title>OpenShift Flex</title>
+		 <para>
+			OpenShift Flex provides a graphical user interface (GUI) that you can use to create, deploy, configure, manage and monitor your cloud environment. With OpenShift Flex you can:
+		</para>
+		 <xi:include href="Concepts_Cloud_FlexFeatures.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+
+	</section>
+	 <!--  	<section>
+		<title>OpenShift Power</title>
+		<para>
+			TBA.
+		</para>
+	</section>    -->
+</chapter>
+

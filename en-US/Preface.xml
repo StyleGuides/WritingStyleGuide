@@ -5,8 +5,8 @@
 ]>
 <preface id="pref-preface">
 	<title>Preface</title>
-	  <xi:include href="Feedback.xml" xmlns:xi="http://www.w3.org/2001/XInclude"><xi:fallback xmlns:xi="http://www.w3.org/2001/XInclude"><xi:include href="Common_Content/Feedback.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-	 </xi:fallback>
-	 </xi:include>
+	  <xi:include href="Feedback.xml" xmlns:xi="http://www.w3.org/2001/XInclude"><xi:fallback xmlns:xi="http://www.w3.org/2001/XInclude">	 </xi:fallback><xi:include href="Common_Content/Feedback.xml" xmlns:xi="http://www.w3.org/2001/XInclude" /></xi:include>
+	  <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude"><xi:fallback xmlns:xi="http://www.w3.org/2001/XInclude">	 </xi:fallback><xi:include href="Common_Content/Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" /></xi:include>
+
 </preface>
 
