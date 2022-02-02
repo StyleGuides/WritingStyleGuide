@@ -59,15 +59,15 @@
 <!-- 		 <xi:include href="WUG_References.xml" xmlns:xi="http://www.w3.org/2001/XInclude" /> -->
 		 <!--  <xi:include href="WUG_Intro.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                           -->
 	</part>
-  <part id="part-Revision_History" label="III">
+	<!-- <part id="part-Revision_History" label="III">
 		<title>Revision History</title>
-		 <partintro>
+			<partintro>
 			<para>
-        Make the release notes for the style guide available on stylepedia.net:
+		Make the release notes for the style guide available on stylepedia.net:
 			</para>
 		</partintro>
-   <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
-  </part>
+	<xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	</part> -->
 
 	 <!--  <index />  -->
 </book>
