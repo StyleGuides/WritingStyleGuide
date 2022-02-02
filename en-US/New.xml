@@ -6,8 +6,8 @@
 <section id="new">
         <title>New in This Release</title>
 		<formalpara id="new_51">
-		<title>New in Release 5.1, January 2022</title>
-                        <para>Minor update to address some reported issues:</para>
+		<title>Release 5.1</title>
+                        <para>Minor update in January 2022 to address some reported issues:</para>
                 </formalpara>   
                         <itemizedlist>
 				<listitem>
@@ -49,8 +49,8 @@
 			</itemizedlist>        
 
 		<formalpara id="new_50">
-		<title>New in Release 5.0, July 2021</title>
-                        <para>Major update to align with some recent changes in IBM Style:</para>
+		<title>Release 5.0</title>
+                        <para>Major update in July 2021 to align with some recent changes in IBM Style:</para>
                 </formalpara>     
                         <itemizedlist>
 				<listitem>
