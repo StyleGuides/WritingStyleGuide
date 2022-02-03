@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="avoiding-slang">
+<chapter id="appropriate-language">
 <!-- Expand scope of this chapter to include other language topics. -->
 	<title>Choosing Appropriate Language</title>
 <!-- Original title: <title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title> -->
