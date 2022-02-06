@@ -15,16 +15,20 @@
 		 <formalpara id="capitalization">
 				<title>Capitalization</title>
 					<para>
-						The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
-            Diagram labels, table headings, procedure, and formal paragraph titles all fall under this heading, and consequently, standard title case capitalization rules apply.
-            The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase.</ulink>
+					The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
+            Table headings, procedure headings, and formal paragraph titles fall under this heading, and consequently, standard title case capitalization rules apply.
 					</para>
-        <!-- Added that sentence case is required for captions, legends, and diagram labels. -->
-		  </formalpara>
-					 <para>
-						Use sentence case for captions, legends, diagram labels, and table column headers.
+		</formalpara>
+			<para>
+			Use title case also when referring to the titles of other publications, even if the title on the publication itself uses different casing.
+			</para>					
+			<para>
+			The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase</ulink>.
+			</para>
+			<para>
+			Use sentence case for captions, legends, diagram labels, and table column headers.
             They are not classified as titles.
-					</para>
+			</para>
 					 <warning>
 						<title>Marketing and Brand Capitalization Guide</title>
 						 <para>
@@ -42,12 +46,13 @@
             Do not use terminating periods.
             </para>
           </formalpara>
+<!-- Commenting out this section following a change of advice. 
 			 <formalpara id="imperative-mood">
 				<title>Avoid Imperative Mood</title>
 					<para>
 						Use the gerund form (noun form of verb) for titles, not the imperative mood. For example, "Testing the Product", not "Test the Product".
 					</para>
-<!-- Added an example. -->
+
           </formalpara>
 					 <para>
 						See the <citetitle>IBM Style Guide</citetitle> for more information.
@@ -57,11 +62,11 @@
 							Gerunds should be avoided elsewhere.
               See <xref linkend="sentence-structure" />.
 						</para>
-					</important>
+					</important> -->
       <formalpara>
         <title>File Names, Commands, and Related Terms</title>
           <para>
-            When creating chapter and section titles, do not include file, command, or similar names, and do not include DocBook elements.
+            When creating chapter and section titles, do not include file, command, or similar names, and do not include markup elements.
             Instead, focus on the task at hand and introduce the required file and command names in the text.
             Including such objects in titles is generally considered poor technical writing practice.
             Depending on how your documentation is built and delivered, including these object types can result in unpredictable results and can even cause failed builds.
@@ -72,7 +77,7 @@
 	 <section id="documenting-fonts">
 		<title>Documenting Fonts</title>
 		 <para>
-			The preferred way to refer to each type of PostScript font is "PostScript Type x," substituting "x" with either 1, 2, or 3, if the problem is specific to a particular type.
+			The preferred way to refer to each type of PostScript font is "PostScript Type x", substituting "x" with either 1, 2, or 3, if the problem is specific to a particular type.
 		</para>
 
 	</section>
@@ -82,17 +87,22 @@
 			In all cases, see the <citetitle>IBM Style Guide</citetitle> for initial guidance.
       The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
+		 <para>
+			When writing about items in a user interface (UI), match the capitalization and spelling of those items from the interface. 
+			However, if the interface contains a spelling error, then correct the spelling in your writing, and get the interface corrected if possible. 
+			Depending on the context, an option might be to write around an incorrectly spelled interface item rather than naming it specifically.
+		</para>
 		 <section id="gui-elements-punctuation">
-			<title>GUI Elements, Punctuation, and Symbols</title>
+			<title>User Interface Elements, Punctuation, and Symbols</title>
 			 <para>
-				When describing GUI elements, do not include punctuation that appears on those elements, unless omission of that punctuation might lead to confusion.
+				When describing UI elements, do not include punctuation that appears on those elements, unless omission of that punctuation might lead to confusion.
 			</para>
 			 <para>
 				For example, for a button labeled <guibutton>Save As...</guibutton>, do not include the ellipsis in the documentation.
 			</para>
       <para>
-        In most cases, do not include the object type in instructions.
-        For example, rather than "Click the <guibutton>Save</guibutton> button," write "Click <guibutton>Save</guibutton>."
+        In most cases, do not include the element type in instructions.
+        For example, rather than "Click the <guibutton>Save</guibutton> button", write "Click <guibutton>Save</guibutton>".
       </para>
       <para>
         In some cases it is preferred practice to include the object type for the sake of clarity.
@@ -123,9 +133,9 @@
 				See the <citetitle>UI elements</citetitle> chapter in the <citetitle>IBM Style Guide</citetitle> for more information.
 			</para>
 			<section>
-			 <title>Navigating Through Multiple GUI Options</title>
+			 <title>Navigating Through Multiple UI Options</title>
 				 <para>
-					 Use "Navigate to" when moving through multiple GUI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to initiate an action.
+					 Use "Navigate to" when moving through multiple UI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to initiate an action.
 				 </para>
 				 <para>
 					 For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
@@ -169,7 +179,7 @@
       </para>
       <blockquote>
         <para>
-          "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter (‘-’). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, ‘-abc’ is equivalent to ‘-a -b -c’. [...] Certain options require an argument. For example, the ‘-o’ option of the ‘ld’ command requires an argument—an output file name." and so on.
+          "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter (‘-’). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, ‘-abc’ is equivalent to ‘-a -b -c’. [...] Certain options require an argument. For example, the ‘-o’ option of the ‘ld’ command requires an argument—an output file name". and so on.
         </para>
         <para>
           See <command>info libc argument syntax</command> for the full discussion.
@@ -311,7 +321,7 @@
 			 <section>
 				<title>Documenting Multiple or Long Commands</title>
 				 <para>
-					Sometimes you need to demonstrate how to use long commands that extend over two or more lines, or that include several commands in a single example. If the commands are relatively short and straightforward, include the commands on consecutive lines:
+					Sometimes you need to demonstrate how to use long commands that extend over two or more lines, or that include several commands in a single example. If the commands are relatively short and straightforward, then include the commands on consecutive lines:
 				</para>
 				 <example>
 					<title>Documenting Multiple Commands</title>
@@ -322,13 +332,13 @@ $ vi myFile.txt
 
 				</example>
 				 <para>
-					If the commands are long, complex, or wrap over multiple lines, two design options are available.
+					If the commands are long, complex, or wrap over multiple lines, then the following design options are available.
           </para>
           <itemizedlist>
             <listitem>
               <para>
                 Use line continuation characters and the associated PS2 prompts.
-                If you are documenting commands on a different operating system, update the prompts and line continuation characters to suit.
+                If you are documenting commands on a different operating system, then update the prompts and line continuation characters to suit.
               </para>
             </listitem>
             <listitem>
@@ -336,33 +346,37 @@ $ vi myFile.txt
                 Use neither line continuation characters nor the associated PS2 prompts.
               </para>
             </listitem>
+			<listitem>
+              <para>
+                Use line continuation characters without the associated PS2 prompts.
+              </para>
+            </listitem>
           </itemizedlist>
           <important>
             <para>
-              Do not mix these two styles.
-              Maintain the same style throughout your document or book.
+              Do not mix these styles.
+              Maintain the same style throughout your document, book, and product set.
             </para>
           </important>
           <para>
             You can also indent the second and subsequent lines of such commands to assist in clarity and readability if required.
-            You can use this option for either of these two designs.
+            You can use this option for any of these designs.
           </para>
 
-				 <example>
-					<title>Wrapping Long Commands with Continuation Characters</title>
-          <para>
-            This example uses both continuation characters and PS2 prompts.
-            These indicators are always used together.
-          </para>
+<example><title>Wrapping Long Commands with Continuation Characters and PS2 Prompts</title>
+  <para>
+    This example uses both continuation characters and PS2 prompts.
+    <!-- These indicators are always used together. -->
+  </para>
 
 <screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
 > /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 > /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
 > /etc/sysconfig/katello /etc/sysconfig/elasticsearch \
 > /root/ssl–build /var/www/html/pub/* /var/lib/katello</screen>
-          </example>
+</example>
 
-<example><title>Wrapping Long Commands Without Continuation Characters</title>
+<example><title>Wrapping Long Commands Without Continuation Characters or PS2 Prompts</title>
   <para>
     This example uses neither continuation characters nor PS2 prompts, but it does demonstrate how to use line indentation to help to clarify long commands.
   </para>
@@ -372,9 +386,20 @@ $ vi myFile.txt
   --config_file=/home/user/config.conf
   --output_file=/home/user/output.txt</screen>
 
-				</example>
+</example>
 
-			</section>
+<example><title>Wrapping Long Commands with Continuation Characters and Without PS2 Prompts</title>
+  <para>
+    This example uses continuation characters but not PS2 prompts.
+  </para>
+<screen>[root@node]# cephadm bootstrap --mon-ip=MON_IP --registry-url=registry.redhat.io \
+--registry-username=REGISTRY_USERNAME --registry-password=REGISTRY_PASSWORD \
+--initial-dashboard-password=DASHBOARD_PASSWORD --dashboard-password-noupdate \
+--allow-fqdn-hostname</screen>
+
+</example>
+
+	</section>
 
       <section id="replaceable-paths">
         <title>Referring to Replaceable Paths</title>
@@ -508,7 +533,7 @@ $ vi myFile.txt
 				To describe how to view and edit files, such as configuration files, scripts, and so on, do not include editor names as part of the guidance, unless the topic is about a specific editor, or is otherwise necessary to achieve a wanted result.
 			</para>
 			 <para>
-				For example, do not refer to <command>cat</command> or <command>vi</command> if you need to tell readers to "view the <filename>my-script</filename> file." If you need to tell readers to edit a file and add or remove content, write "Edit the <filename>my-script</filename> file and add the following content:" and then include the required content in a &lt;screen&gt; block. Use &lt;code&gt; tags to highlight the text to change. Include some surrounding text in the file for context. Do not use line numbers as a reference point because they can change.
+				For example, do not refer to <command>cat</command> or <command>vi</command> if you need to tell readers to "view the <filename>my-script</filename> file". If you need to tell readers to edit a file and add or remove content, write "Edit the <filename>my-script</filename> file and add the following content:" and then include the required content in a &lt;screen&gt; block. Use &lt;code&gt; tags to highlight the text to change. Include some surrounding text in the file for context. Do not use line numbers as a reference point because they can change.
 			</para>
 			 <para>
 				If the file to edit is empty or does not exist, do not use &lt;code&gt; tags to highlight any content to add.
@@ -674,7 +699,41 @@ $ vi myFile.txt
 
 		</section>
 
-	</section>
+	 	<section id="refer-object-names">
+			<title>Referring to Object Names</title>
+			 <para>
+				Do not use object names as part of normative grammar. A sentence should be complete without the object name.
+			</para>
+
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Find the current default <systemitem>StorageClass</systemitem>. </entry>
+						 <entry> Either: Find the current default storage class. Or: Find the current default <systemitem>StorageClass</systemitem> value. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+		</section>		
+
+	</section>	 	
 	 <section id="document-currencies">
 		<title>Documenting Currencies</title>
 		 <para>
@@ -689,14 +748,14 @@ $ vi myFile.txt
 
 	</section>
 	 <section id="using-abbreviations">
-		<title>Using Abbreviations, Acronyms, and Initialisms Correctly</title>
+		<title>Using Abbreviations, Acronyms, Initialisms, and Special Characters Correctly</title>
 		 <para>
 			This section describes how to use abbreviations, acronyms, and initialisms correctly in Red&nbsp;Hat documentation.
 		</para>
 		 <formalpara>
 			<title>Abbreviations</title>
 			 <para>
-				An abbreviation is a shortened form of a word or phrase. For example, <abbrev>Pty.</abbrev> and <abbrev>Inc.</abbrev> are abbreviations for "proprietary" and "incorporated," respectively. Read them as the word for which they are an abbreviation.
+				An abbreviation is a shortened form of a word or phrase. For example, <abbrev>Pty.</abbrev> and <abbrev>Inc.</abbrev> are abbreviations for "proprietary" and "incorporated", respectively. Read them as the word for which they are an abbreviation.
 			</para>
 
 		</formalpara>
@@ -711,12 +770,12 @@ $ vi myFile.txt
 		</formalpara>
 
 		 <para>
-			Consider pronunciation when using articles. For example, use "an <abbrev>RTS</abbrev> (real-time strategy)," because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade," because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
+			Consider pronunciation when using articles. For example, use "an <abbrev>RTS</abbrev> (real-time strategy)", because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade", because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
 		</para>
 
 		 <para>
-			Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK) ..."
-          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)."
+			Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK) ...".
+          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
           	Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
 		</para>
 
@@ -728,7 +787,7 @@ $ vi myFile.txt
 			Be sure to use correct capitalization for acronyms. Not all acronyms are capitalized (for example, "spool"); see the <citetitle>IBM Style Guide</citetitle> or another suitable reference if you are unsure.
 		</para>
 
-		 <formalpara>
+		 <formalpara id="initialisms">
 			<title>Initialisms</title>
 			 <para>
 				An initialism is an abbreviation that consists of the first letters of words in a phrase, syllables, or some combination thereof. Each character is pronounced separately. For example, <abbrev>FTP</abbrev> is an initialism for <systemitem class="protocol">File Transfer Protocol.</systemitem>
@@ -738,6 +797,24 @@ $ vi myFile.txt
 		 <para>
 			Consider pronunciation when using articles. See <xref linkend="acronyms" /> for more information.
 		</para>
+		 <formalpara id="special-characters">
+			<title>Special Characters</title>
+		 	 <para>
+				Consider pronunciation when referring to file or directory names that begin with special characters, and use the correct indefinite article. 
+			</para>		
+		
+		</formalpara>	
+		 <para>			
+			If a file or directory name begins with a special character, such as an underscore, then you need to pronounce that character.
+		</para>
+
+		 <para>	
+			For example, using "an <filename>_build/</filename> directory" is correct, because you pronounce "an underscore build directory".
+		</para> 			
+
+		 <para>	
+			Using "a <filename>-compile/</filename> directory" is correct, because you pronounce "a dash compile directory".
+		</para> 
 
 	</section>
 	 <section id="product-names">
@@ -747,7 +824,7 @@ $ vi myFile.txt
 		</para>
 		 <note>
 			<para>
-				In the following sections, "first use" refers to the first use of a name in body text. Titles, banners, and similar objects are not classified as "first use."
+				In the following sections, "first use" refers to the first use of a name in body text. Titles, banners, and similar objects are not classified as "first use".
 			</para>
 
 		</note>
@@ -772,62 +849,77 @@ $ vi myFile.txt
 			</listitem>
 			 <listitem>
 				<para>
-					Use non-breaking spaces to avoid breaking the company name, or product names and their versions, over multiple lines. For example, use a non-breaking space between "Red" and "Hat," and also between "Enterprise," "Linux," and the version number.
-				</para>
-				 <para>
-					If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
-				</para>
-
-			</listitem>
-			 <listitem>
-				<para>
-					Do not use non-breaking spaces between "Red&nbsp;Hat" and any product name. Consider the following DocBook XML examples:
-				</para>
-				 <itemizedlist>
-					<listitem>
-						<para>
-							Standardize on Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux.
-						</para>
-
-					</listitem>
-					 <listitem>
-						<para>
-							The latest version is Red&amp;nbsp;Hat Enterprise&amp;nbsp;Linux&amp;nbsp;8.0
-						</para>
-
-					</listitem>
-
-				</itemizedlist>
-				<para>
-					For other markup languages, use the equivalent non-breaking space character.
-				</para>
-			</listitem>
-			 <listitem>
-				<para>
-					Do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise&nbsp;Linux OpenStack Platform" does not require a non-breaking space between "Linux" and "OpenStack", nor between "OpenStack" and "Platform."
-				</para>
-
-			</listitem>
-			 <listitem>
-				<para>
-					Do not use non-breaking spaces with other companies' product names.
-				</para>
-
-			</listitem>
-			 <listitem>
-				<para>
-					Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was..."
+					Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was ...".
 				</para>
 				 <note>
 					<para>
-						In this case, "Platform" is part of the product name. In other cases, words like "platform," "manager," and so on might not be part of the product name, in which case an article is acceptable, if not necessary.
+						In this case, "Platform" is part of the product name. In other cases, words like "platform", "manager", and so on might not be part of the product name, in which case an article is acceptable, if not necessary.
 					</para>
 
 				</note>
 
 			</listitem>
-
+			 <listitem>
+				<para>
+					Do not hyphenate or break a product name across lines, as in the following incorrect example:
+				</para>
+					<programlisting>
+					Open
+					-Shift
+					</programlisting>
+			</listitem>
 		</itemizedlist>
+
+	</section>
+	 <section id="nonbreaking-spaces">
+		<title>Using Non-breaking Spaces</title>
+		 <para>
+			Use a non-breaking space in the following situations to avoid a break across lines:
+		</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							In the company name, between "Red" and "Hat".
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							In a product name, between the last word and a version number.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+		 <para>
+			Examples (for AsciiDoc):
+		</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Red&#123;nbsp&#125;Hat Enterprise Linux&#123;nbsp&#125;8
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Red&#123;nbsp&#125;Hat OpenShift Container Platform&#123;nbsp&#125;4.9
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+		 <para>
+			If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
+		</para>
+		 <para>    
+			Non-breaking spaces are not needed elsewhere in a product name and might cause undesirable line-breaking behavior.
+			In particular, do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise Linux OpenStack Platform" does not require a non-breaking space between any of the words after "Red&nbsp;Hat".
+		</para>
+		<para>
+			Do not use non-breaking spaces with other companies' product names.
+		</para>
 
 	</section>
 	 <section id="version-numbers">
@@ -935,7 +1027,7 @@ $ vi myFile.txt
 	<section id="making-recommendations">
 	 <title>Making Recommendations</title>
 		<para>
-		When making a recommendation, the preferred verbiage is "Red&nbsp;Hat recommends..." instead of the common but indirect "It is recommended...".
+		When making a recommendation, the preferred verbiage is "Red&nbsp;Hat recommends ..." instead of the common but indirect "It is recommended ...".
 		Recommendations can include best practices, recommended practices, and product-specific suggestions.
 		See <xref linkend="avoiding-confusing-language"/> for information on using the terms "best practices" and "recommended practices" in Red&nbsp;Hat documentation.
 	  </para>
@@ -1001,7 +1093,7 @@ Book Title by First name Surname; Publisher.
 		 <itemizedlist>
 			<listitem>
 				<para>
-					Do not link words within the body text. That is, do not use structures such as "Go <ulink url="somewhere.com">here</ulink> for more information," where "here" is a link.
+					Do not link words within the body text. That is, do not use structures such as "Go <ulink url="somewhere.com">here</ulink> for more information", where "here" is a link.
 				</para>
 
 			</listitem>

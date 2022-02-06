@@ -37,7 +37,7 @@
 			<term>hard disk</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct. Do not use "harddisk" or "hard-disk."
+					<emphasis>n.</emphasis> Correct. Do not use "harddisk" or "hard-disk".
 				</para>
 
 			</listitem>
@@ -47,7 +47,7 @@
 			<term>hard disk drive</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct. Do not use "harddrive" or "hard-drive."
+					<emphasis>n.</emphasis> Correct. Do not use "harddrive" or "hard-drive".
 				</para>
 
 			</listitem>
@@ -120,7 +120,7 @@
 			<term>hertz</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct. Capitalize the "H" only at the beginning of a sentence. The correct abbreviation is "Hz."
+					<emphasis>n.</emphasis> Correct. Capitalize the "H" only at the beginning of a sentence. The correct abbreviation is "Hz".
 				</para>
 
 			</listitem>
@@ -131,8 +131,8 @@
 			<term>high-availability, high availability</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Hyphenate, except as part of a product name. For example, "high-availability cluster."
-					<!-- Do not use "high availability." -->
+					<emphasis>adj.</emphasis> Hyphenate, except as part of a product name. For example, "high-availability cluster".
+					<!-- Do not use "high availability". -->
 				</para>
 
 				 <para>
@@ -188,7 +188,7 @@
 			<term>hot add</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Two words, lowercase. Capitalize only at the beginning of a sentence. Do not use "hotadd" or "hot-add."
+					<emphasis>v.</emphasis> Two words, lowercase. Capitalize only at the beginning of a sentence. Do not use "hotadd" or "hot-add".
 				</para>
 
 			</listitem>
@@ -209,7 +209,7 @@
 			<term>hot plug</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use "hotplug" or "hot-plug."
+					<emphasis>v.</emphasis> Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use "hotplug" or "hot-plug".
 				</para>
 
 			</listitem>
@@ -219,7 +219,7 @@
 			<term>hot swap</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use "hotswap" or "hot-swap."
+					<emphasis>v.</emphasis> Two words, lowercase. Capitalize when used at the beginning of a sentence only. Do not use "hotswap" or "hot-swap".
 				</para>
 
 			</listitem>
@@ -249,7 +249,7 @@
 			<term>HTML</term>
 			 <listitem>
 				<para>
-					When referring to the language, use "HTML," such as "To see the HTML version of this documentation ..." When referring to a web page extension, use "html," such as "The main page is <filename>index.html</filename>."
+					When referring to the language, use "HTML", such as "To see the HTML version of this documentation ...". When referring to a web page extension, use "html", such as "The main page is <filename>index.html</filename>."
 				</para>
 
 			</listitem>
@@ -292,7 +292,7 @@
 			<term>hypervisor</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Capitalize only at the beginning of a sentence or as part of Red&nbsp;Hat Virtualization&nbsp;Hypervisor. Do not use "HyperVisor" or "Hyperviser."
+					<emphasis>n.</emphasis> Capitalize only at the beginning of a sentence or as part of Red&nbsp;Hat Virtualization&nbsp;Hypervisor. Do not use "HyperVisor" or "Hyperviser".
 				</para>
 
 			</listitem>

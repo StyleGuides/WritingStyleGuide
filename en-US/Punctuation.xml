@@ -256,7 +256,7 @@
 
 		</itemizedlist>
 		 <para>
-			That sentence is acceptable, but adding a comma before "...but we still stayed up..." would provide a pause and avoid the chance of having it read like a run-on sentence.
+			That sentence is acceptable, but adding a comma before "... but we still stayed up ..." would provide a pause and avoid the chance of having it read like a run-on sentence.
 		</para>
 		 <para>
 			In a compound sentence that contains several short independent clauses, separate the clauses with commas and use a comma before the conjunction.
@@ -426,19 +426,44 @@
 	 <section id="quotation-marks">
 		<title>Quotation Marks</title>
 
+<!-- Previous guidance
 		 <para>
 			Commas and periods go inside quotation marks.
 		</para>
  		 <para>
-		Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside. 
-		</para>
-	</section>
+			Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside. 
+		</para> -->
 
-<!-- Not implementing this change for now.  		
 		 <para>
-			In technical documentation, punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside.
+			In technical documentation, place punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons inside the quotation marks if they are part of the quotation or part of a programming element that uses quotation marks; if not, place punctuation marks outside the quotation marks. 
+			If a sentence ends with a quotation, use only one punctuation mark to end the sentence, and place it inside the closing quotation mark if it is part of the quotation, or outside if it is not.
+
 		</para> 
-Add examples of when to use or not to use quotation marks. 
+		<example><title>Correct Examples of the Use of Punctuation with Quotation Marks</title>
+        <para>
+        For bind mounts, add "bind" and set <command>fstype</command> to "none".
+        </para>
+		<screen>
+		Login successful.
+		...output omitted...
+		Using project "default".
+        </screen>
+		<para>
+		As you can see in the previous image, the title of the web page is "OpenShift 3 Etherpad".
+		</para>
+		<para>
+		In the program segment, ensure that the value is X'FF'.
+    	</para>		
+		<!-- <para>
+		If you use the keyword operand PGMID="PAYCOM", you must ...
+    	</para> -->
+		<para>
+		Julius Caesar said, “I came. I saw. I conquered.”
+    	</para>
+    	</example> 
+
+	</section>
+<!-- Add examples of when to use or not to use quotation marks. 
 		<example><title>Correct Examples of the Use of Quotation Marks</title>
         <para>
         For example, the following message indicates multiple possible solutions: "This message could be resolved by changing the time."  
@@ -497,7 +522,7 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 			To refer to a punctuation mark or special character, use its name alone if it is one of the following standard characters:
 		</para>
 		<para>
-			. , : ; ' " ( ) [ ] ! ?
+			. , : ; ' " ( ) [ ] { } ! ?
 		</para>
 		<para>
 			For another character, use its name followed by the symbol in parentheses.  
@@ -511,7 +536,7 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
             Use a semicolon to separate two parts of a sentence that can each stand on their own.
           </para>
 		  <para>
-            The path contains the library qualifier in braces, { }.
+            The path contains the library qualifier in braces.
           </para>
           </example>
 		<para>

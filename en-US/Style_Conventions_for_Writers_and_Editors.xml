@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
 <book>
@@ -59,7 +59,16 @@
 <!-- 		 <xi:include href="WUG_References.xml" xmlns:xi="http://www.w3.org/2001/XInclude" /> -->
 		 <!--  <xi:include href="WUG_Intro.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                           -->
 	</part>
-<!-- 	 <xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" /> -->
+	<!-- <part id="part-Revision_History" label="III">
+		<title>Revision History</title>
+			<partintro>
+			<para>
+		Make the release notes for the style guide available on stylepedia.net:
+			</para>
+		</partintro>
+	<xi:include href="Revision_History.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	</part> -->
+
 	 <!--  <index />  -->
 </book>
 

@@ -10,7 +10,7 @@
 			<term>taskbar</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> One word. Do not use "task bar."
+					<emphasis>n.</emphasis> One word. Do not use "task bar".
 				</para>
 
 			</listitem>
@@ -30,7 +30,7 @@
 			<term>telco</term>
 			 <listitem>
 				<para>
-					Preferred abbreviation for "telecommunications company." Do not use "telecom." See also <xref linkend="csp" />.
+					Preferred abbreviation for "telecommunications company". Do not use "telecom". See also <xref linkend="csp" />.
 				</para>
 				<para>
 					Use "telecommunications service provider" on first use. Subsequent uses can be "telco" or "telco service provider"; only use "telco" when the context makes it clear that the industry is engaged in providing telecommunications services. Use in URLs.
@@ -54,7 +54,7 @@
 			<term>telecommunications</term>
 			 <listitem>
 				<para>
-					Vertical for communication service providers. Preferred abbreviation is "telco."
+					Vertical for communication service providers. Preferred abbreviation is "telco".
 				</para>
 
 			</listitem>
@@ -90,7 +90,7 @@
 			<term>text-based</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Correct. Do not use "text based."
+					<emphasis>adj.</emphasis> Correct. Do not use "text based".
 				</para>
 
 			</listitem>
@@ -100,7 +100,7 @@
 			<term>text mode</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "textmode" or "text-mode."
+					Correct. Do not use "textmode" or "text-mode".
 				</para>
 				 <para>
 					A video mode in which a display screen is divided into rows and columns of boxes. Each box can contain one character. Text mode is also called character mode.
@@ -154,7 +154,7 @@
 			<term>time frame (n.)</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "timeframe" or "time-frame."
+					Correct. Do not use "timeframe" or "time-frame".
 				</para>
 
 			</listitem>
@@ -164,7 +164,7 @@
 			<term>time zone (n.)</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "timezone" or "time-zone."
+					Correct. Do not use "timezone" or "time-zone".
 				</para>
 
 			</listitem>
@@ -185,7 +185,7 @@
 			<term>toolbar (n.)</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "tool bar" or "tool-bar."
+					Correct. Do not use "tool bar" or "tool-bar".
 				</para>
 
 			</listitem>
@@ -205,7 +205,7 @@
 			<term>totally</term>
 			 <listitem>
 				<para>
-					Do not use. See "basically."
+					Do not use. See "basically".
 				</para>
 
 			</listitem>
@@ -215,7 +215,7 @@
 			<term>troubleshoot (v.)</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "trouble shoot" or "trouble-shoot."
+					Correct. Do not use "trouble shoot" or "trouble-shoot".
 				</para>
 
 			</listitem>
@@ -228,7 +228,7 @@
 					Initialism for "time to live" (n.) and "time-to-live" (adj.)
 				</para>
 				 <para>
-					Neither the noun nor the adjective should be capitalized unless you are documenting a GUI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism is always uppercase.
+					Neither the noun nor the adjective should be capitalized unless you are documenting a UI field, label, or similar element, in which case you should use the same capitalization. Capitalization at the beginning of a sentence is acceptable. The initialism is always uppercase.
 				</para>
 
 			</listitem>

@@ -10,7 +10,7 @@
  			<term>navigate to</term>
  			 <listitem>
  				<para>
-					Use "Navigate to" when moving through multiple GUI options, because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action. For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
+					Use "Navigate to" when moving through multiple UI options, because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action. For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
  				</para>
 				<para>
 					Do not use "Go to", or "point to", or other variations.
@@ -22,7 +22,7 @@
 			<term>needs, needs to be, need to</term>
 			 <listitem>
 				<para>
-					Avoid when possible. Suggested alternatives include "must" or "required."
+					Avoid when possible. Suggested alternatives include "must" or "required".
 				</para>
 
 			</listitem>
@@ -101,7 +101,17 @@
 			<term>NULL or null</term>
 			 <listitem>
 				<para>
-					When a command or value is stated, use NULL. When stating that something is null, use "null," all lowercase.
+					When a command or value is stated, use NULL. When stating that something is null, use "null", all lowercase.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="number-sign">
+			<term>number sign</term>
+			 <listitem>
+				<para>
+					Generally, use "number sign" to refer to the # character. Alternatively, use "hash" to refer to a hashtag in social media, or to refer to Secure Hash Algorithm (see <xref linkend="sha" />), or when writing exclusively for a European audience. You can instead use "pound sign" when writing exclusively for a North American audience, if "number sign" is not appropriate for the context.  
 				</para>
 
 			</listitem>

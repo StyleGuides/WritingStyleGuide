@@ -3,7 +3,7 @@
 <!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="avoiding-slang">
+<chapter id="appropriate-language">
 <!-- Expand scope of this chapter to include other language topics. -->
 	<title>Choosing Appropriate Language</title>
 <!-- Original title: <title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title> -->
@@ -30,7 +30,7 @@
 				<term>best practices</term>
 				 <listitem>
 					<para>
-						This is a commonly understood phrase, and despite some concerns about using superlatives without statistics to back them up, Red&nbsp;Hat does not actively discourage its use. It is also a more common search term than most alternatives. If you are in any doubt, the preferred alternative is "recommended practices."
+						This is a commonly understood phrase, and despite some concerns about using superlatives without statistics to back them up, Red&nbsp;Hat does not actively discourage its use. It is also a more common search term than most alternatives. If you are in any doubt, the preferred alternative is "recommended practices".
 					</para>
 					<para>
 						See the section <xref linkend="making-recommendations" /> for additional information about recommendations in Red&nbsp;Hat documentation.
@@ -42,7 +42,7 @@
 				<term>first come, first served</term>
 				 <listitem>
 					<para>
-						Indicates that customers will be attended to in the order that they arrive. The phrase abbreviates the sentence "The first to come is the first to be served," so use "served" instead of "serve" to keep the verb function the same. This phrase is an idiom, so avoid using it when content will be translated. When you use this phrase as an adjective, it is hyphenated as follows: Admittance is on a first-come, first-served basis.
+						Indicates that customers will be attended to in the order that they arrive. The phrase abbreviates the sentence "The first to come is the first to be served", so use "served" instead of "serve" to keep the verb function the same. This phrase is an idiom, so avoid using it when content will be translated. When you use this phrase as an adjective, it is hyphenated as follows: Admittance is on a first-come, first-served basis.
 					</para>
 
 				</listitem>
@@ -107,7 +107,7 @@
 				<term>at this point in time</term>
 				 <listitem>
 					<para>
-						Do not use. In most cases, use "now." In some cases it is acceptable to use "at this point," for example, when you have reached a specific point in a procedure.
+						Do not use. In most cases, use "now". In some cases it is acceptable to use "at this point", for example, when you have reached a specific point in a procedure.
 					</para>
 
 				</listitem>
@@ -127,7 +127,7 @@
 				<term>best-of-breed</term>
 				 <listitem>
 					<para>
-						Jargon. Say exactly what you mean, for example, "the best product in its class" or "the best product of its type." Other alternatives include best, foremost, most advanced, optimum. The category is usually implied. Be wary of using superlatives without data to back up any claims.
+						Jargon. Say exactly what you mean, for example, "the best product in its class" or "the best product of its type". Other alternatives include best, foremost, most advanced, optimum. The category is usually implied. Be wary of using superlatives without data to back up any claims.
 					</para>
 
 				</listitem>
@@ -158,7 +158,7 @@
 				<term>bucketize</term>
 				 <listitem>
 					<para>
-						Not a word. Try "categorize" or "organize into logical groups."
+						Not a word. Try "categorize" or "organize into logical groups".
 					</para>
 
 				</listitem>
@@ -178,7 +178,7 @@
 				<term>check this site</term>
 				 <listitem>
 					<para>
-						Understood to mean "have a look at this website." The preferred phraseology is "See www.somewhere.com for more information." It is better to avoid "check" because it has so many meanings.
+						Understood to mean "have a look at this website". The preferred phraseology is "See www.somewhere.com for more information." It is better to avoid "check" because it has so many meanings.
 					</para>
 
 				</listitem>
@@ -189,7 +189,7 @@
 				<term>core competency</term>
 				 <listitem>
 					<para>
-						Jargon, cold and impersonal. Better choices include "specialization," "skill," "strength," "expertise," and so on. The De-Jargonator says: "'Competent' means 'adequate but not exceptional.' Why would you describe what you do best as 'competence'? Try instead: What your organization does best; competitive advantage; special or unique expertise or ability; specialty."
+						Jargon, cold and impersonal. Better choices include "specialization", "skill", "strength", "expertise", and so on. The De-Jargonator says: "'Competent' means 'adequate but not exceptional.' Why would you describe what you do best as 'competence'? Try instead: What your organization does best; competitive advantage; special or unique expertise or ability; specialty."
 					</para>
 
 				</listitem>
@@ -219,7 +219,7 @@
 				<term>dig deeper, delve deeper</term>
 				 <listitem>
 					<para>
-						"Visit the following web link to dig deeper into [subject]..." Using "dig deeper" may translate awkwardly. Consider rewording: "For detailed information regarding [subject], see [link]."
+						"Visit the following web link to dig deeper into [subject] ...". Using "dig deeper" may translate awkwardly. Consider rewording: "For detailed information regarding [subject], see [link]."
 					</para>
 
 				</listitem>
@@ -259,8 +259,8 @@
 				<term>fib</term>
 				 <listitem>
 					<para>
-						A fib is a "small lie," also known as a "white lie."
-            For example, "This command tells fibs" is better written as "The output of this command can be misleading."
+						A fib is a "small lie", also known as a "white lie".
+            For example, "This command tells fibs" is better written as "The output of this command can be misleading".
 					</para>
 
 				</listitem>
@@ -270,7 +270,7 @@
 				<term>flying by the seat of your pants</term>
 				 <listitem>
 					<para>
-						Generally understood to mean "reacting to events as they occur." Difficult to offer alternatives without context.
+						Generally understood to mean "reacting to events as they occur". Difficult to offer alternatives without context.
 					</para>
 
 				</listitem>
@@ -290,7 +290,7 @@
 				<term>frown upon</term>
 				 <listitem>
 					<para>
-						"To frown upon" means to hold in low regard, not to approve of, and so on. For example: "...we generally frown on the use of session context...". This translates to (and should have been written as) "...the use of session context is not recommended..." (or words to that effect).
+						"To frown upon" means to hold in low regard, not to approve of, and so on. For example: "... we generally frown on the use of session context ...". This translates to (and should have been written as) "... the use of session context is not recommended ..." (or words to that effect).
 					</para>
 
 				</listitem>
@@ -305,7 +305,7 @@
 					 <itemizedlist>
 						<listitem>
 							<para>
-								In Directory Server, if you do a fuzzy search for "Smith," you will probably also get "Smyth," because it sounds the same.
+								In Directory Server, if you do a fuzzy search for "Smith", you will probably also get "Smyth", because it sounds the same.
 							</para>
 
 						</listitem>
@@ -315,7 +315,7 @@
 						The use of "fuzzy" is valid in this context.
 					</para>
 					 <para>
-						Note the difference between this and "wildcard" searches: "Sm?th" could return "Smith," "Smyth," "Smeth," or even "Smrth."
+						Note the difference between this and "wildcard" searches: "Sm?th" could return "Smith", "Smyth", "Smeth", or even "Smrth".
 					</para>
 					 <para>
 						Do not use "fuzzy" to describe something that is not clear, such as an image, a concept, an idea, and so on. For example, "He was a bit fuzzy on the details" is not valid.
@@ -328,7 +328,7 @@
 				<term>going-forward basis</term>
 				 <listitem>
 					<para>
-						Jargon. Say "from now on," "in the future," or something similar.
+						Jargon. Say "from now on", "in the future", or something similar.
 					</para>
 
 				</listitem>
@@ -358,7 +358,7 @@
 				<term>have a crack at, jump right in</term>
 				 <listitem>
 					<para>
-						Have a crack at and jump right in are closely related in meaning as they imply to "get started or give it a try." Alternatives to these are "start," "try," and "begin," and will depend on the context of what is being discussed.
+						Have a crack at and jump right in are closely related in meaning as they imply to "get started or give it a try". Alternatives to these are "start", "try", and "begin", and will depend on the context of what is being discussed.
 					</para>
 
 				</listitem>
@@ -368,7 +368,7 @@
 				<term>if you want, if you wish</term>
 				 <listitem>
 					<para>
-						Do not use. For example, instead of saying "If you want to perform an action,..." say "To perform an action,..."
+						Do not use. For example, instead of saying "If you want to perform an action, ..." say "To perform an action, ...".
 					</para>
 
 				</listitem>
@@ -378,7 +378,7 @@
 				<term>in concert with</term>
 				 <listitem>
 					<para>
-						Do not use. Instead, say "with." For example, change "Use gcov in concert with GCC to analyze..." to "Use gcov with GNU CC to analyze..."
+						Do not use. Instead, say "with". For example, change "Use gcov in concert with GCC to analyze ..." to "Use gcov with GNU CC to analyze ..."
 					</para>
 
 				</listitem>
@@ -434,7 +434,7 @@
 				<term>kettle of fish</term>
 				 <listitem>
 					<para>
-						Commonly used in the expression "a different kettle of fish," meaning "that's a different matter (altogether)." Depending on the context, try to use "topic," "subject," "matter," or something similar.
+						Commonly used in the expression "a different kettle of fish", meaning "that's a different matter (altogether)". Depending on the context, try to use "topic", "subject", "matter", or something similar.
 					</para>
 
 				</listitem>
@@ -478,7 +478,7 @@
 				<term>meet your needs</term>
 				 <listitem>
 					<para>
-						Vague. Try to be more specific, for example, "lower your middleware costs."
+						Vague. Try to be more specific, for example, "lower your middleware costs".
 					</para>
 
 				</listitem>
@@ -498,7 +498,7 @@
 				<term>net-net</term>
 				 <listitem>
 					<para>
-						Jargon. Use "in summary," "the end result," or something similar.
+						Jargon. Use "in summary", "the end result", or something similar.
 					</para>
 
 				</listitem>
@@ -518,7 +518,7 @@
 				<term>over the wire</term>
 				 <listitem>
 					<para>
-						Commonly used in expressions such as "password information is sent in plain text over the wire," meaning "sent unencrypted through the transmission medium" (whether it is a wired or wireless network, the internet, or whatever). The phrase is probably not required at all. "Sent or transmitted in plain text" is fine.
+						Commonly used in expressions such as "password information is sent in plain text over the wire", meaning "sent unencrypted through the transmission medium" (whether it is a wired or wireless network, the internet, or whatever). The phrase is probably not required at all. "Sent or transmitted in plain text" is fine.
 					</para>
 
 				</listitem>
@@ -529,7 +529,7 @@
 				<term>paradigm</term>
 				 <listitem>
 					<para>
-						Avoid. Use "model," "standard," or something similar.
+						Avoid. Use "model", "standard", or something similar.
 					</para>
 
 				</listitem>
@@ -539,7 +539,7 @@
 				<term>performant</term>
 				 <listitem>
 					<para>
-						In the technical industry context, it means "performs as expected" or "well-performing." It is not necessarily a word everyone knows (and technically, it means "a performer," as in a play, according to most dictionaries), so use an alternative if possible.
+						In the technical industry context, it means "performs as expected" or "well-performing". It is not necessarily a word everyone knows (and technically, it means "a performer", as in a play, according to most dictionaries), so use an alternative if possible.
 					</para>
 
 				</listitem>
@@ -557,10 +557,10 @@
 
 			</varlistentry>
       <varlistentry>
-        <term>pre-baked</term>
+        <term>pre-baked, prebaked</term>
         <listitem>
           <para>
-            Means "prepared beforehand." Choose a suitable alternative, such as "preconfigured," depending on the context.
+            Means "prepared beforehand". Choose a suitable alternative, such as "preconfigured", depending on the context.
           </para>
         </listitem>
       </varlistentry>
@@ -568,7 +568,7 @@
 				<term>productize</term>
 				 <listitem>
 					<para>
-						Not a word. Find another way to say "modify something to become suitable as a commercial product." [wiktionary]
+						Not a word. Find another way to say "modify something to become suitable as a commercial product". [wiktionary]
 					</para>
 
 				</listitem>
@@ -578,7 +578,7 @@
 				<term>ready to rumble</term>
 				 <listitem>
 					<para>
-						"Let's get ready to rumble!" is a trademarked catchphrase used to introduce televised boxing or wrestling events. In US English slang, being "ready to rumble" means you are "ready to go ahead" or "ready to start."
+						"Let's get ready to rumble!" is a trademarked catchphrase used to introduce televised boxing or wrestling events. In US English slang, being "ready to rumble" means you are "ready to go ahead" or "ready to start".
 					</para>
 
 				</listitem>
@@ -598,7 +598,7 @@
 				<term>right before doing something</term>
 				 <listitem>
 					<para>
-						Preferred phrase would be "immediately before doing something." Otherwise, write around the phrase.
+						Preferred phrase would be "immediately before doing something". Otherwise, write around the phrase.
 					</para>
 
 				</listitem>
@@ -620,7 +620,7 @@
 				<term>shoot yourself in the foot</term>
 				 <listitem>
 					<para>
-						To "shoot yourself in the foot" indicates that you did something to harm your own cause, or acting against your own best interests. Remove the sentence; it should be self-evident from the surrounding information. (Found this statement alongside the "double-edged sword" comment with an added note about "preserving all your toes.")
+						To "shoot yourself in the foot" indicates that you did something to harm your own cause, or acting against your own best interests. Remove the sentence; it should be self-evident from the surrounding information. (Found this statement alongside the "double-edged sword" comment with an added note about "preserving all your toes".)
 					</para>
 
 				</listitem>
@@ -630,7 +630,7 @@
 				<term>shy of</term>
 				 <listitem>
 					<para>
-						Apart from the "normal" meaning of shy, it is also found in such phrases as "he was just shy of the mark," meaning that he didn't quite succeed. Also, to be "a few items shy of what's required" means to have fewer than the minimum required number. Avoid this terminology and use more easily understood terms; it will help translators and also those reading English documentation who are unfamiliar with such slang.
+						Apart from the "normal" meaning of shy, it is also found in such phrases as "he was just shy of the mark", meaning that he didn't quite succeed. Also, to be "a few items shy of what's required" means to have fewer than the minimum required number. Avoid this terminology and use more easily understood terms; it will help translators and also those reading English documentation who are unfamiliar with such slang.
 					</para>
 
 				</listitem>
@@ -640,7 +640,7 @@
 				<term>silo, siloed</term>
 				 <listitem>
 					<para>
-						Use "stand-alone," "confined," "separated," or something similar.
+						Use "stand-alone", "confined", "separated", or something similar.
 					</para>
 <!-- Not "segregated", which has negative cultural connotations. -->
 
@@ -673,7 +673,7 @@
 				<term>stovepipe</term>
 				 <listitem>
 					<para>
-						Jargon. In business, related to lack of cross-organizational communication, similar to "silo."
+						Jargon. In business, related to lack of cross-organizational communication, similar to "silo".
 					</para>
 
 				</listitem>
@@ -683,7 +683,7 @@
 				<term>synergistic, synergy</term>
 				 <listitem>
 					<para>
-						Jargon. Use "cooperative," "working together," "collaborative," "harmonious," or something similar.
+						Jargon. Use "cooperative", "working together", "collaborative", "harmonious", or something similar.
 					</para>
 
 				</listitem>
@@ -724,7 +724,7 @@
 				<term>value-added</term>
 				 <listitem>
 					<para>
-						Jargon. Say "added value" or "valuable." Or be more specific, for example, "adds value by improving productivity."
+						Jargon. Say "added value" or "valuable". Or be more specific, for example, "adds value by improving productivity".
 					</para>
 
 				</listitem>
@@ -734,7 +734,7 @@
 				<term>very</term>
 				 <listitem>
 					<para>
-						Use with caution. For example, there is little value in saying "very cost-effective" versus "cost-effective."
+						Use with caution. For example, there is little value in saying "very cost-effective" versus "cost-effective".
 					</para>
 
 				</listitem>
@@ -744,7 +744,7 @@
 				<term>virtual elephants</term>
 				 <listitem>
 					<para>
-						This refers to a group of blind-folded people all touching different parts of an elephant and trying to describe what it is. Nobody sees the "big picture." Curiously, it appeared in an STC article about working in global and virtual teams and using effective communication. It falls into the same category as "skeletons in the closet," "dark horse," "black sheep," and so on. Use descriptions and adjectives that are not specific to a particular culture or locale. See <ulink url="http://en.wikipedia.org/wiki/Blind_Men-anElephant">http://en.wikipedia.org/wiki/Blind_Men-anElephant</ulink> for more information.
+						This refers to a group of blind-folded people all touching different parts of an elephant and trying to describe what it is. Nobody sees the "big picture". Curiously, it appeared in an STC article about working in global and virtual teams and using effective communication. It falls into the same category as "skeletons in the closet", "dark horse", "black sheep", and so on. Use descriptions and adjectives that are not specific to a particular culture or locale. See <ulink url="http://en.wikipedia.org/wiki/Blind_Men-anElephant">http://en.wikipedia.org/wiki/Blind_Men-anElephant</ulink> for more information.
 					</para>
 
 				</listitem>
@@ -768,7 +768,7 @@
 				 <itemizedlist>
 					<listitem>
 						<para>
-							This sentence converted three verbs to nouns. A better structure might be, "This feature allows the synchronization of add, delete, and change operations..."
+							This sentence converted three verbs to nouns. A better structure might be, "This feature allows the synchronization of add, delete, and change operations ..."
 						</para>
 
 					</listitem>
@@ -857,7 +857,7 @@
 				 <itemizedlist>
 					<listitem>
 						<para>
-							It is quite common to say "talk to" in this context, but "communicate with," "connected to," "registered with," or something similar would be better.
+							It is quite common to say "talk to" in this context, but "communicate with", "connected to", "registered with", or something similar would be better.
 						</para>
 
 					</listitem>
@@ -867,6 +867,40 @@
 			</listitem>
 
 		</itemizedlist>
+
+		 <para>
+			Avoid stating that a product or feature allows the user to do something. Focus instead on what the user does.
+		</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Using the ausearch command allows administrators to focus on only the messages they are interested in. </entry>
+									 <entry> Administrators can use the ausearch command to focus on only messages of interest. </entry>
+
+								</row>
+								<row>
+									<entry> Collections allow updates to the core Ansible code to be separated from updates to modules and plug-ins. </entry>
+									 <entry> You can use collections to separate core Ansible code updates from updates to modules and plug-ins. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
 		 <para>
 			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>
 		</para>
@@ -1040,7 +1074,7 @@ Numbers (move from N entry) -->
 
 			</varlistentry>
 			 <varlistentry id="infinitive">
-				<term>Verb phrases</term>
+				<term>Infinitives</term>
 				 <listitem>
 					<para>
 						When you have more than one infinitive verb within a sentence, be clear what each verb refers to.
@@ -1113,7 +1147,7 @@ Numbers (move from N entry) -->
 			</varlistentry>
 
 			 <varlistentry id="pronoun">
-				<term>Verb phrases</term>
+				<term>Pronouns</term>
 				 <listitem>
 					<para>
 						Avoid ambiguous pronoun references, where a pronoun can refer to more than one antecedent.
@@ -1155,14 +1189,14 @@ Numbers (move from N entry) -->
 						Sometimes multiple terms have a single meaning. If terms are used inconsistently, users (and translators) will assume they refer to different things. It is best to use a single term for a single concept throughout.
 					</para>
 					 <para>
-						For example, "Administration GUI" and "Administration Console" could both be used to refer to a single application or to different applications. For this reason it is important that writers choose the most suitable term for each situation and use it consistently.
+						For example, "Administration UI" and "Administration Console" could both be used to refer to a single application or to different applications. For this reason it is important that writers choose the most suitable term for each situation and use it consistently.
 					</para>
 
 				</listitem>
 
 			</varlistentry>
 			 <varlistentry id="using">
-				<term>Use of "using"</term>
+				<term>Use of "Using"</term>
 				 <listitem>
 					<para>
 						Use of the word "using" can result in ambiguity, which can often be resolved by using "that uses" or "by using", according to the meaning.
@@ -1210,7 +1244,7 @@ Numbers (move from N entry) -->
 
 			</varlistentry>
 			 <varlistentry id="verb">
-				<term>Verb phrases</term>
+				<term>Verb Phrases</term>
 				 <listitem>
 					<para>
 						Ensure that a verb phrase at the start of a sentence modifies the correct word.

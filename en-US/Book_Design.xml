@@ -65,7 +65,7 @@
 	 <section id="abstracts">
 		<title>Abstracts</title>
 		 <para>
-			Abstracts for Red&nbsp;Hat technical documentation typically fall under the heading of a "descriptive abstract." From Wikipedia, "The descriptive abstract, also known as the limited abstract or the indicative abstract, provides a description of what the paper covers without delving into its substance. A descriptive abstract is akin to a table of contents in paragraph form."<footnote> <para>
+			Abstracts for Red&nbsp;Hat technical documentation typically fall under the heading of a "descriptive abstract". From Wikipedia, "The descriptive abstract, also known as the limited abstract or the indicative abstract, provides a description of what the paper covers without delving into its substance. A descriptive abstract is akin to a table of contents in paragraph form."<footnote> <para>
 				<ulink url="http://en.wikipedia.org/wiki/Abstract_%28summary%29#Descriptive" />
 			</para>
 			 </footnote>
@@ -113,10 +113,17 @@
 		</para>
 
 	</section>
+	 <section id="heading-placement">
+		<title>Placement of Headings</title>
+		 <para>
+			Do not include two consecutive headings without intervening text. Each heading must be followed by one or more paragraphs of text. If it is difficult to provide meaningful intervening text, then consider whether one of the headings is unnecessary.
+		</para>
+
+	</section>
 	 <section id="unused-heading-titles">
 		<title>Unused Heading Titles</title>
-		 <para>
-			This section lists various heading titles that might be  used in Red&nbsp;Hat technical documentation, but that should be avoided except in specific circumstances.
+		 <para>		
+			This section lists various heading titles that might be used in Red&nbsp;Hat technical documentation, but that should be avoided except in specific circumstances.
 		</para>
 		 <formalpara id="overview">
 			<title>Overview</title>
@@ -128,7 +135,7 @@
 		 <formalpara id="about">
 			<title>About</title>
 			 <para>
-				Do not use "about" or "about $topic" as a title. The same reasoning applies here as to "overview."
+				Do not use "about" or "about $topic" as a title. The same reasoning applies here as to "overview".
 			</para>
 
 		</formalpara>

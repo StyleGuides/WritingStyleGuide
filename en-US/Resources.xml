@@ -52,6 +52,41 @@
 				<para>
 					<citetitle>IBM Style Guide</citetitle>. IBM Corporation, latest version.
 				</para>
+				<para>
+					Red&nbsp;Hat employees can now access the latest version of the IBM Style Guide online, at <ulink url="https://www.ibm.com/docs/en/ibm-style/">https://www.ibm.com/docs/en/ibm-style/</ulink>.
+        		</para>
+				<para>
+          			Go to that web page, and click <guibutton>Log in to view content</guibutton>.
+        		</para>
+				<para>
+          			On the <guilabel>Log in to IBM</guilabel> page, in the <guilabel>IBMid</guilabel> field, enter your <guilabel>xxx@redhat.com</guilabel> email address and click <guibutton>Continue</guibutton>.
+        		</para>
+				<para>
+          			The <guilabel>IBM Style</guilabel> page shows the following categories:
+				</para>
+					<itemizedlist>
+						<listitem>
+							<para>
+								What's new
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Word usage
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Inclusive language
+							</para>
+						</listitem>
+						<listitem>
+							<para>
+								Topics A to Z
+							</para>
+						</listitem>
+
+					</itemizedlist>
 
 			</listitem>
 			 <listitem>
@@ -60,9 +95,9 @@
 				</para>
 
 			</listitem>
-      <listitem>
+     		 <listitem>
 				<para>
-					<citetitle>Merriam-Webster Collegiate Dictionary</citetitle>
+					<citetitle>Merriam-Webster Unabridged Dictionary</citetitle>
 				</para>
         <para>
           Visit <ulink url="https://www.merriam-webster.com/">https://www.merriam-webster.com/</ulink> for subscription options.
