@@ -11,7 +11,7 @@
 	 <section id="active-voice">
 		<title>Active Voice</title>
 		 <para>
-			Use the active voice ("Type ... to start Linuxconf".) rather than passive ("Linuxconf can be started by typing ...") whenever possible. Active voice makes for more lively, interesting reading. It is more compelling than passive voice and helps to reduce word count.
+			Use the active voice ("Type ... to start Linuxconf") rather than passive ("Linuxconf can be started by typing ...") whenever possible. Active voice makes for more lively, interesting reading. It is more compelling than passive voice and helps to reduce word count.
 		</para>
 		 <para>
 			This does not mean that the passive voice is forbidden. There are situations when using the passive voice is appropriate, such as release notes, technical notes, and similar material.
@@ -471,10 +471,15 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> The individual member of the social community often receives information via visual, symbolic channels. </entry>
-						 <entry> People read. (Translation by Richard Feynman.) </entry>
+						<entry> The <command>fsck</command> utility performs a file system verification on the XFS file system residing on the <filename>/dev/vdb1</filename> partition. </entry>
+						 <entry> The <command>fsck</command> utility verifies the XFS file system on the <filename>/dev/vdb1</filename> partition. </entry>
 
 					</row>
+					<row>
+						<entry> It is possible that the scheduled snapshot takes some time to be created. </entry>
+						 <entry> Creating the scheduled snapshot might take time. </entry>
+
+					</row>					
 					<row>
 						<entry> Perform the installation of the product. </entry>
 						 <entry> Install the product. </entry>

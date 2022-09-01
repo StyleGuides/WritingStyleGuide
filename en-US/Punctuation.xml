@@ -533,7 +533,7 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 		<example><title>Referring to Punctuation Marks</title>
 
           <para>
-            Use a semicolon to separate two parts of a sentence that can each stand on their own.
+            Use a semicolon to separate two parts of a sentence that can each stand on its own.
           </para>
 		  <para>
             The path contains the library qualifier in braces.

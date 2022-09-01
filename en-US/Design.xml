@@ -863,10 +863,12 @@ $ vi myFile.txt
 				<para>
 					Do not hyphenate or break a product name across lines, as in the following incorrect example:
 				</para>
-					<programlisting>
-					Open
-					-Shift
-					</programlisting>
+				<literallayout>
+					For advanced management capabilities with Red   
+					Hat Satellite and cloud management services, use the Red     
+					Hat Enterprise Linux Smart Management Add    
+					-On.
+				</literallayout>
 			</listitem>
 		</itemizedlist>
 

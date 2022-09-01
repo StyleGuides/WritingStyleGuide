@@ -90,7 +90,16 @@
 				</listitem>
 
 			</varlistentry>
+			 <varlistentry>
+				<term>apples to apples</term>
+				 <listitem>
+					<para>
+						Do not use. Explain instead what is meant, such as "a fair comparison". 
+					</para>
 
+				</listitem>
+
+			</varlistentry>
 			 <varlistentry>
 				<term>ask (as a noun), make the ask</term>
 				 <listitem>
@@ -98,6 +107,16 @@
 						"To ask" is a verb.
             As a noun, "ask" is chiefly British and also considered informal.
             Do not use it in technical documentation.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>at the end of the day</term>
+				 <listitem>
+					<para>
+						Do not use. Explain what you mean, such as "considering all factors", or omit.
 					</para>
 
 				</listitem>
@@ -138,6 +157,16 @@
 				 <listitem>
 					<para>
 						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>boil the ocean</term>
+				 <listitem>
+					<para>
+						Do not use. State exactly what you mean, such as "increase the scope hugely".
 					</para>
 
 				</listitem>
@@ -196,16 +225,6 @@
 
 			</varlistentry>
 			 <varlistentry>
-				<term>eat your own dogfood</term>
-				 <listitem>
-					<para>
-						Developer-speak. It means to use your own products. You can get a detailed description at <ulink url="http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food">http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food</ulink>.
-					</para>
-
-				</listitem>
-
-			</varlistentry>
-			 <varlistentry>
 				<term>data point</term>
 				 <listitem>
 					<para>
@@ -226,10 +245,30 @@
 
 			</varlistentry>
 			 <varlistentry>
+				<term>drop the ball</term>
+				 <listitem>
+					<para>
+						State instead exactly what you mean, such as "make a mistake".
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
 				<term>double-edged sword, double-bladed sword</term>
 				 <listitem>
 					<para>
 						If something is described as a double-edged sword, it indicates that it has two opposing behaviors or consequences. Instead, state that it can have unexpected consequences, or that the positive result might be offset by the negative result.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>eat your own dogfood</term>
+				 <listitem>
+					<para>
+						Developer-speak. It means to use your own products. You can get a detailed description at <ulink url="http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food">http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food</ulink>.
 					</para>
 
 				</listitem>
@@ -261,6 +300,16 @@
 					<para>
 						A fib is a "small lie", also known as a "white lie".
             For example, "This command tells fibs" is better written as "The output of this command can be misleading".
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>flog a dead horse</term>
+				 <listitem>
+					<para>
+						Do not use. Explain exactly what you mean, such as "a waste of effort".
 					</para>
 
 				</listitem>
@@ -509,6 +558,16 @@
 				 <listitem>
 					<para>
 						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>on the same page</term>
+				 <listitem>
+					<para>
+						Instead of "ensure that everyone is on the same page", use wording such as "ensure that everyone is aligned" or "ensure that everyone is in agreement".
 					</para>
 
 				</listitem>
