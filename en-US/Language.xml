@@ -946,6 +946,86 @@ Numbers (move from N entry) -->
 		</para>
 	</section>
 
+<!-- Added section for "easy, simple" -->
+	 <section id="easy">
+		<title>Avoiding "Easy"</title>
+		 <para>
+			Avoid stating that a task is easy to do or that a product is easy to use. Avoid "friendly" and "user-friendly" and similar terms. Focus instead on how to accomplish a task or on relevant features of a product.
+		</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Mounting a device is relatively simple. </entry>
+									 <entry> Identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point. </entry>
+
+								</row>
+								<row>
+									<entry> Kubernetes is an orchestration service that makes it easier to deploy, manage, and scale container-based applications across a cluster of container hosts. </entry>
+									 <entry> 
+									<para>
+									Option 1: Kubernetes is an orchestration service that deploys, manages, and scales container-based applications across a cluster of container hosts. 
+									</para>
+									<para>
+									Option 2: Kubernetes is an orchestration service that makes it easier than manual container management. Kubernetes deploys, manages, and scales container-based applications across a cluster of container hosts.
+									</para> 
+									 </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+	</section>
+
+<!-- Added section for redundant words -->
+	 <section id="redundant">
+		<title>Avoiding Redundant Words</title>
+		 <para>
+			Avoid the words "actually", "just", "really", "simply" and "very". They are filler words that add no value to a sentence.  
+		</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Remote users can connect to network resources simply by authenticating to their local machine. </entry>
+									 <entry> Remote users can connect to network resources by authenticating to their local machine. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+	</section>
+
 <!-- Moved Ambiguities section here from Chapter 2 and added several more categories of ambiguity to avoid. -->
 	 <section id="avoiding-ambiguities">
 		<title>Avoiding Ambiguities</title>
