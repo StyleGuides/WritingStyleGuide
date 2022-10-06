@@ -116,6 +116,9 @@
 		 <para>
 			The following discussion provides some initial insight into using lists correctly. See the <citetitle>IBM Style Guide</citetitle> for a full discussion.
 		</para>
+		 <para>
+			Do not insert a list midway through a sentence and then continue the sentence after the list.
+		</para>		
 		 <table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
@@ -180,6 +183,70 @@
 			</tgroup>
 
 		</table>
+		 <para>
+			For a lead-in sentence that introduces a list, use a complete sentence. A lead-in that is a sentence fragment is hard to translate into other languages.
+		</para>		
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> <para>
+							Non-privileged users can use the role to configure:
+						</para>
+						 <itemizedlist>
+							<listitem>
+								<para>
+									Interface 1
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									Interface 2
+								</para>
+
+							</listitem>
+
+						</itemizedlist>						
+						 </entry>
+						 <entry> <para>
+							Non-privileged users can use the role to configure the following interfaces:
+						</para>
+						 <itemizedlist>
+							<listitem>
+								<para>
+									Interface 1
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									Interface 2
+								</para>
+
+							</listitem>
+
+						</itemizedlist>
+						 </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>		
     </section>
     </section>
 
