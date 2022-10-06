@@ -433,7 +433,11 @@
  		 <para>
 			Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside. 
 		</para> -->
-
+ 		 <para>
+			When indicating the start or end of a direct quotation, use curly quotation marks. 
+			In all other contexts, such as when writing code samples, code syntax, hexadecimal numbers, or hypertext links, use straight quotation marks.
+			Refer to the "Typographical Considerations" section in the "Quotation Marks" topic in the <citetitle>IBM Style Guide</citetitle>. 
+		</para>
 		 <para>
 			In technical documentation, place punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons inside the quotation marks if they are part of the quotation or part of a programming element that uses quotation marks; if not, place punctuation marks outside the quotation marks. 
 			If a sentence ends with a quotation, use only one punctuation mark to end the sentence, and place it inside the closing quotation mark if it is part of the quotation, or outside if it is not.
