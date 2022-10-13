@@ -471,13 +471,13 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> The <command>fsck</command> utility performs a file system verification on the XFS file system residing on the <filename>/dev/vdb1</filename> partition. </entry>
-						 <entry> The <command>fsck</command> utility verifies the XFS file system on the <filename>/dev/vdb1</filename> partition. </entry>
+						<entry> The <command>fsck /dev/vdb1</command> command performs a file system verification on the XFS file system residing on the <filename>/dev/vdb1</filename> partition. </entry>
+						 <entry> The <command>fsck /dev/vdb1</command> command verifies the XFS file system on the <filename>/dev/vdb1</filename> partition. </entry>
 
 					</row>
 					<row>
-						<entry> It is possible that the scheduled snapshot takes some time to be created. </entry>
-						 <entry> Creating the scheduled snapshot might take time. </entry>
+						<entry> Red&nbsp;Hat Insights provides different services for the administration and monitoring of the registered systems that can be used for troubleshooting and even remediation of the issues identified. </entry>
+						 <entry> Red&nbsp;Hat Insights services administer and monitor registered systems to troubleshoot and remediate issues. </entry>
 
 					</row>					
 					<row>

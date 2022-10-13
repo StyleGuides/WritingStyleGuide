@@ -78,13 +78,13 @@
         It is important to provide sufficient spacing between elements in your documents to facilitate reading and comprehension.
         You can include a lot of information in a few short paragraphs but readers need to be able to process that information in chunks.
         The same consideration applies to lists.
-        If you use DocBook or AsciiDoc to build itemized or ordered lists, you can choose between normal spacing or the <option>compact</option> attribute to specify the spacing between list items.
+        <!-- If you use DocBook or AsciiDoc to build itemized or ordered lists, you can choose between normal spacing or the <option>compact</option> attribute to specify the spacing between list items.
 		In AsciiDoc, compact spacing is not supported for variable (definition) lists.
-        DocBook and AsciiDoc use the <option>normal</option> spacing attribute by default.
-		<!-- In AsciiDoc? -->
+        DocBook and AsciiDoc use the <option>normal</option> spacing attribute by default. -->
       </para>
       <para>
-        Use a list with normal spacing if any list item contains the following components:
+        In some authoring environments, you can choose between normal or compact spacing for lists.
+		Use a list with normal spacing if any list item contains the following components:
       </para>
       <itemizedlist>
         <listitem>
