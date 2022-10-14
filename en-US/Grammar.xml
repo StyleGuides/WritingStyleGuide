@@ -471,8 +471,8 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> The <command>fsck /dev/vdb1</command> command performs a file system verification on the XFS file system residing on the <filename>/dev/vdb1</filename> partition. </entry>
-						 <entry> The <command>fsck /dev/vdb1</command> command verifies the XFS file system on the <filename>/dev/vdb1</filename> partition. </entry>
+						<entry> The <command>fsck /dev/vdb1</command> command performs a file system check on the XFS file system residing on the <filename>/dev/vdb1</filename> partition. </entry>
+						 <entry> The <command>fsck /dev/vdb1</command> command checks the XFS file system on the <filename>/dev/vdb1</filename> partition. </entry>
 
 					</row>
 					<row>
