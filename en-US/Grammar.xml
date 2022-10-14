@@ -493,8 +493,7 @@
 
 		</table>
 
-<!-- Added section about condition and action -->
-		 <formalpara id="condition-action">
+<!-- 	 <formalpara id="condition-action">
 			<title>Condition and Action</title>
 			 <para>
 				A condition should precede an action. A clause that explains "why", or for what purpose, should come before a statement of what the action is or how it is done.  
@@ -525,11 +524,11 @@
 
 			</tgroup>
 
-		</table>
+		</table> -->
 
 <!-- Added section about "either, or" -->
 		 <formalpara id="either-or">
-			<title>Either, Or</title>
+			<title>The Either-Or Construction</title>
 			 <para>
 				Use the "either x ... or y" construction only to refer to a choice between two options, not for three or more options.
 			</para>
@@ -563,7 +562,7 @@
 
 <!-- Added section about "following" -->
 		 <formalpara id="following-noun">
-			<title>Following</title>
+			<title>Use of Following</title>
 			 <para>
 				Use "following" with a noun.
 				In a quiz question, "the following" is often superfluous.
@@ -603,9 +602,9 @@
 
 <!-- Added section about "if, then" -->
 		 <formalpara id="if-then">
-			<title>If, Then</title>
+			<title>The If-Then Construction</title>
 			 <para>
-				Follow an "if" statement with a "then" statement.
+				Generally, follow an "if" statement with a "then" statement.
 			</para>
 
 		</formalpara>
@@ -637,7 +636,7 @@
 
 <!-- Added section about use of relative pronoun "that" -->
 		 <formalpara id="that">
-			<title>"That" in Clauses</title>
+			<title>That in Clauses</title>
 			 <para>
 				Include the word "that" in clauses unless it results in writing that is too formal or stilted. The use of the conjunction "that" makes the sentence easier to translate and improves clarity for readers whose primary language is not English.  
 			</para>
@@ -831,7 +830,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 			Do not use gender-specific pronouns in documentation, except to refer to a specific named user, such as in a case study. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers". It is acceptable to use "they" to refer to one person, with a plural verb. 
 		</para>
 		 <para>			
-			In most cases, when giving instructions, use the imperative mood or use "you". In more general explanations, you can use "the user" or "new users". Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal. Do not use "it" to refer to a person.
+			In most cases, when giving instructions, use the imperative mood or use "you". In more general explanations, you can use "users" or "new users". Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal. Do not use "it" to refer to a person.
 		</para>
 		 <para>
 			Avoid first person "I, we, our". Use second person "you" whenever possible. 
