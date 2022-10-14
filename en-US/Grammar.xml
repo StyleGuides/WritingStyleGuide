@@ -549,8 +549,8 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> Scale up by adding more resources, with either more memory, CPU, disk space, or other resources. </entry>
-						 <entry> Scale up by adding more resources, with more memory, CPU, disk space, or other resources. </entry>
+						<entry> Scale up by adding more resources, with either more memory, CPUs, or disk space. </entry>
+						 <entry> Scale up by adding more resources, such as memory, CPUs, or disk space. </entry>
 
 					</row>
 
@@ -636,7 +636,7 @@
 
 <!-- Added section about use of relative pronoun "that" -->
 		 <formalpara id="that">
-			<title>That in Clauses</title>
+			<title>Including That in Clauses</title>
 			 <para>
 				Include the word "that" in clauses unless it results in writing that is too formal or stilted. The use of the conjunction "that" makes the sentence easier to translate and improves clarity for readers whose primary language is not English.  
 			</para>

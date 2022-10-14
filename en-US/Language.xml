@@ -950,7 +950,7 @@ Numbers (move from N entry) -->
 	 <section id="redundant">
 		<title>Avoiding Redundant Words</title>
 		 <para>
-			Avoid redundant words, such as "actually", "just", "really", "simply" and "very". They are filler words that add no value to a sentence.  
+			Avoid redundant words, such as "actually", "really", "simply" and "very". They are typically filler words that add no value to a sentence.  
 		</para>
 					 <table>
 						<title></title>
@@ -1032,7 +1032,7 @@ Numbers (move from N entry) -->
 			</varlistentry>
 <!-- Added entry for "easy, simple" -->
 			<varlistentry id="easy">
-				<term> Avoiding "Easy" </term>
+				<term> Avoid Stating that Something Is Easy </term>
 				 <listitem>
 					<para>
 						Avoid stating that a task is easy to do or that a product is easy to use. Avoid "friendly" and "user-friendly" and similar terms. Focus instead on how to accomplish a task or on relevant features of a product.
