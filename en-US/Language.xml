@@ -907,15 +907,10 @@
 
 	</section>
 
-<!-- Added sections:
-Inclusive Language (new)
-Avoiding Ambiguities (move from Chapter 2)
-Dates and Times (new)
-Numbers (move from N entry) -->
 	 <section id="inclusive-language">
 		<title>Inclusive Language</title>
 		 <para>
-			In a blog post, Red&nbsp;Hat senior vice president and chief technology officer, Chris Wright, affirms a commitment for Red&nbsp;Hat to identify and replace problematic language that is potentially divisive and does not foster inclusion:
+			Chris Wright, Red&nbsp;Hat Chief Technology Officer and Senior Vice President, Global Engineering, affirms in a blog post a commitment for Red&nbsp;Hat to identify and replace problematic language that is potentially divisive and does not foster inclusion:
 		</para>
 		 <para>
 			<ulink url="https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language" />
@@ -1300,7 +1295,7 @@ Numbers (move from N entry) -->
 		</para>
 		 <para>
 		For times of day, use uppercase without periods, such as "11&nbsp;AM". Use a nonbreaking space between the numeral and "AM" or "PM".
-		</para> 
+		</para>
 
 		 <para>
 		Use "noon" or "12 noon" instead of "12&nbsp;PM".
