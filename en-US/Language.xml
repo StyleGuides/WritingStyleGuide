@@ -1059,15 +1059,8 @@ Numbers (move from N entry) -->
 
 								</row>
 								<row>
-									<entry> Kubernetes is an orchestration service that makes it easier to deploy, manage, and scale container-based applications across a cluster of container hosts. </entry>
-									 <entry> 
-									<para>
-									Option 1: Kubernetes is an orchestration service that deploys, manages, and scales container-based applications across a cluster of container hosts. 
-									</para>
-									<para>
-									Option 2: Kubernetes is an orchestration service that makes it easier than manual container management to deploy, manage, and scale container-based applications across a cluster of container hosts.
-									</para> 
-									 </entry>
+									<entry> Kubernetes is an open source system that makes it easy to manage containerized applications across multiple hosts. </entry>
+									 <entry> Kubernetes is an open source system to manage containerized applications across multiple hosts. </entry>
 
 								</row>
 
