@@ -702,7 +702,7 @@ $ vi myFile.txt
 	 	<section id="refer-object-names">
 			<title>Referring to Object Names</title>
 			 <para>
-				Do not use object names as part of normative grammar. A sentence should be complete without the object name.
+				When using object names, write a sentence so that it would be complete without the object name.
 			</para>
 
 			 <table>
@@ -721,7 +721,77 @@ $ vi myFile.txt
 				 <tbody>
 					<row>
 						<entry> Find the current default <systemitem>StorageClass</systemitem>. </entry>
-						 <entry> Either: Find the current default storage class. Or: Find the current default <systemitem>StorageClass</systemitem> value. </entry>
+						 <entry> 
+						 <para>
+						 Either: Find the current default storage class. 
+						 </para>
+						 <para>						 
+						 Or: Find the current default <systemitem>StorageClass</systemitem> value. 
+						 </para>						 
+						</entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+			 <para>
+				Avoid starting or ending a sentence with an object name.
+			</para>
+
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> <systemitem>Umount /mnt/save</systemitem>. </entry>
+						 <entry> Unmount the <filename>/mnt/save</filename> directory. </entry>
+
+					</row>
+					<row>
+						<entry> Modify the <filename>/etc/resolv.conf</filename> file to use this <systemitem>nameserver</systemitem>. </entry>
+						 <entry> Modify the <filename>/etc/resolv.conf</filename> file to use this name server. </entry>
+
+					</row>					
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+			 <para>
+				Place an object name before the noun that it modifies rather than after the noun.
+			</para>
+
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Enable the default module stream for the module <systemitem>python36</systemitem> and install all packages from that stream. </entry>
+						 <entry> Enable the default module stream for the <systemitem>python36</systemitem> module and install all packages from that stream. </entry>
 
 					</row>
 

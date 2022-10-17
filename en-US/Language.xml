@@ -1009,12 +1009,26 @@ Numbers (move from N entry) -->
 							 <tbody>
 								<row>
 									<entry> The <methodname>next()</methodname> method should return <code>null</code> to indicate the end of results. </entry>
-									 <entry> The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. <emphasis>OR</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results. </entry>
+									 <entry> 
+									 <para>
+									 The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. 
+									 </para>
+									 <para>
+									 <emphasis>Or:</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results. 
+									 </para>
+									 </entry>
 
 								</row>
 								 <row>
 									<entry> It may be held in memory. </entry>
-									 <entry> It can be held in memory. <emphasis>OR</emphasis> It might be held in memory. </entry>
+									 <entry> 
+									 <para>
+									 It can be held in memory. 
+									 </para>
+									 <para>
+									 <emphasis>Or:</emphasis> It might be held in memory. 
+									 </para>
+									 </entry>
 
 								</row>
 
@@ -1054,7 +1068,14 @@ Numbers (move from N entry) -->
 								</row>
 								 <row>
 									<entry> To create another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
-									 <entry> To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. <emphasis>OR</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
+									 <entry> 
+									<para> 									 
+									 To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. 
+									</para>									 
+									<para> 
+									 <emphasis>Or:</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. 
+									</para>
+									</entry>
 
 								</row>
 
@@ -1097,7 +1118,14 @@ Numbers (move from N entry) -->
 								<row>
 									<entry> Use the utility to run activities and save your settings. </entry>
 								<!-- Split into 2 sentences	 -->
-									 <entry> Depending on the meaning: Use the utility to run activities and to save your settings (if the utility does both functions). Or:  Use the utility to run activities, and then when you are done, save your settings (if the process consists of two separate steps, of which the utility does only one). </entry>
+									 <entry> Depending on the meaning: 
+									 <para>
+									 Use the utility to run activities and to save your settings (if the utility does both functions). 
+									</para>
+									 <para>
+									 <emphasis>Or:</emphasis> Use the utility to run activities, and then when you are done, save your settings (if the process consists of two separate steps, of which the utility does only one). 
+									 </para>
+									 </entry>
 
 								</row>
 
@@ -1134,6 +1162,55 @@ Numbers (move from N entry) -->
 								<row>
 									<entry> Once the file retrieval has been completed, you are ready to restart your system. </entry>
 									 <entry> After the files have been retrieved, you can restart your system. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+			</varlistentry>
+
+			 <varlistentry id="misplaced-only">
+				<term> Misplaced Only </term>
+				 <listitem>
+					<para>
+						Ensure that "only" is placed directly before the word that it modifies, which often should not be a verb.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> 
+									<para>
+									Users can only delete files that they own. 
+									</para>
+									<para>
+									(Misleadingly suggests that users cannot take any actions other than deletion on those files)
+									</para>
+									</entry>
+									<entry> 
+									<para>
+									Users can delete only files that they own. 
+									</para>
+									<para>
+									(Clarifies the files that deletion applies to)
+									</para>
+									</entry>
 
 								</row>
 

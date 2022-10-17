@@ -112,7 +112,6 @@
         </para>
       </note>
 
-
 		 <para>
 			The following discussion provides some initial insight into using lists correctly. See the <citetitle>IBM Style Guide</citetitle> for a full discussion.
 		</para>
@@ -180,6 +179,101 @@
 			</tgroup>
 
 		</table>
+
+		 <para>
+			Make items in a list grammatically parallel.
+		</para>
+		 <para>
+			In the following example, the original three list items inconsistently use an infinitive verb form, and then a gerund, and then an imperative. In the improved example, all three list items consistently use an imperative statement. 
+		</para>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> 
+						 <itemizedlist>
+							<listitem>
+								<para>
+									To obtain the file name of the default kernel with the <command>grubby</command> command: 
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									Finding the index number of the default kernel:
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									Use the <command>grubby</command> command to persistently change the default kernel:
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>							
+
+						</itemizedlist>
+						 </entry>
+						<entry> 
+						 <itemizedlist>
+							<listitem>
+								<para>
+									Obtain the file name of the default kernel with the <command>grubby</command> command:
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									Find the index number of the default kernel:
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									Use the <command>grubby</command> command to persistently change the default kernel:
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>							
+
+						</itemizedlist>
+						 </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
     </section>
     </section>
 

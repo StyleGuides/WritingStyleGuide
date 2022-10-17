@@ -422,6 +422,37 @@
 			If the contents of the parentheses include at least one complete sentence, the period goes inside the parentheses. If not, the period goes outside.
 		</para>
 
+		 <para>
+			Do not use "(s)" in parentheses to denote a plural. If something can be singular or plural, make it plural.
+		</para>
+
+
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Choose the item(s). </entry>
+						 <entry> Choose the items. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
 	</section>
 	 <section id="quotation-marks">
 		<title>Quotation Marks</title>
