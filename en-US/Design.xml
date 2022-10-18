@@ -828,26 +828,26 @@ $ vi myFile.txt
 			</para>
 
 		</note>
-		 <itemizedlist>
-			<listitem>
+<!-- <itemizedlist> 
+		<listitem>		-->		 
 				<para>
 					Restrictions apply to abbreviating Red&nbsp;Hat product or solution names in public-facing documents. Always use the full name on first use. For some products, for example Red&nbsp;Hat OpenShift Container Platform, you can omit "Red&nbsp;Hat" after the first use.
 				</para>
 
-			</listitem>
-			 <listitem>
+<!-- 		<listitem> 
+			 </listitem>		-->	
 				<para>
 					Further restrictions apply to using acronyms and initialisms. In this same example, and only in technical documentation, "RHOCP" is acceptable after the first use of the full product name.
 				</para>
 
-			</listitem>
-			 <listitem>
+<!-- 		<listitem> 
+			 </listitem>		-->	
 				<para>
 					Do not include "Inc." when referring to Red&nbsp;Hat except in legal documents.
 				</para>
 
-			</listitem>
-			 <listitem>
+<!-- 		<listitem> 
+			 </listitem>		-->	
 				<para>
 					Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was ...".
 				</para>
@@ -858,17 +858,24 @@ $ vi myFile.txt
 
 				</note>
 
-			</listitem>
-			 <listitem>
+<!-- 		<listitem> 
+			 </listitem>		-->	
 				<para>
-					Do not hyphenate or break a product name across lines, as in the following incorrect example:
+					Do not hyphenate or break a product name across lines.
 				</para>
-					<programlisting>
-					Open
-					-Shift
-					</programlisting>
-			</listitem>
-		</itemizedlist>
+				<example>
+				<title>Incorrect Example of Line Breaking</title>
+				<para> 
+				<literallayout>
+					For advanced management capabilities with Red   
+					Hat Satellite and cloud management services, use the Red     
+					Hat Enterprise Linux Smart Management Add    
+					-On.
+				</literallayout>	
+				</para>	
+				</example>
+<!-- 		<listitem> 
+			 </itemizedlist>		-->	
 
 	</section>
 	 <section id="nonbreaking-spaces">
