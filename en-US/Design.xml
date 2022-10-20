@@ -896,6 +896,12 @@ $ vi myFile.txt
 						</para>
 
 					</listitem>
+					 <listitem>
+						<para>
+							Between a numeral and a unit of measurement.
+						</para>
+
+					</listitem>
 
 				</itemizedlist>
 		 <para>
@@ -911,6 +917,12 @@ $ vi myFile.txt
 					 <listitem>
 						<para>
 							Red&#123;nbsp&#125;Hat OpenShift Container Platform&#123;nbsp&#125;4.9
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							The <systemitem>crashkernel=auto</systemitem> setting requires at least 1&#123;nbsp&#125;GB of memory.
 						</para>
 
 					</listitem>
