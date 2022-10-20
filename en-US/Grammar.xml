@@ -667,6 +667,54 @@
 			</tgroup>
 
 		</table>
+
+<!-- Added section about use of "this, that, these, those" -->
+		 <formalpara id="this-that-these-those">
+			<title>Use of This That These Those</title>
+			 <para>
+				Use "this", "that", "these", or "those" followed by a noun. 
+				Doing so improves clarity for readers whose primary language is not English, and improves accuracy of translation into other languages where these words differ based on the gender of the noun that they refer to.  
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> This causes SSH to lose the recorded identities of the remote systems. </entry>
+						<entry> 
+						 <para>
+						 Option 1: This action causes SSH to lose the recorded identities of the remote systems. 
+						 </para>
+						 <para>
+						 Option 2: Consequently, SSH loses the recorded identities of the remote systems.
+						 </para>						 
+						 </entry>
+
+					</row>
+					<row>
+						<entry> A site can use these to self-allocate a private routable IP address space inside the organization. </entry>
+						 <entry> A site can use these unique local addresses to self-allocate a private routable IP address space inside the organization. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
 		 <formalpara id="verbosity">
 			<title> Verbosity </title>
 			 <para>
