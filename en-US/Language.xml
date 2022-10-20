@@ -1249,6 +1249,47 @@
 				</listitem>
 
 			</varlistentry>
+			 <varlistentry id="there-is">
+				<term>Use of "There Is" and "There Are"</term>
+				 <listitem>
+					<para>
+						Avoid "there is" and "there are", because the subject of the sentence is unclear.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> The initial error message suggests there is a failure when opening a file. </entry>
+									<entry> The initial error message suggests a failure when opening a file. </entry>
+
+								</row>
+								<row>
+									<entry> There are multiple static inventory formats supported by Ansible. </entry>
+									 <entry> Ansible supports multiple static inventory formats. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
 			 <varlistentry id="using">
 				<term>Use of "Using"</term>
 				 <listitem>

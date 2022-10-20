@@ -423,6 +423,19 @@
 		</para>
 
 	</section>
+	 <section id="slashes">
+		<title>Slashes</title>
+		 <para>
+			Avoid use of a slash character to mean either of two options. 
+		</para>
+		 <para>
+			For example, instead of "enable/disable", use "enable or disable". 
+		</para>	
+		 <para>
+			Instead of "A and/or B", use "A or B", or "A, or B, or both".
+		</para>				
+
+	</section>
 	 <section id="quotation-marks">
 		<title>Quotation Marks</title>
 
