@@ -1000,6 +1000,54 @@
 		</para>
 	</section>
 
+<!-- Added section for redundant words -->
+	 <section id="redundant">
+		<title>Avoiding Redundant Words</title>
+		 <para>
+			Avoid redundant words, such as "actually", "really", "simply" and "very". They are typically filler words that add no value to a sentence.  
+		</para>
+		 <para>
+			Redundant words might also occur where two words or phrases are used that mean approximately the same thing, such as "revert back" versus "revert", or that add nothing to the sentence, such as "located on" versus "on".
+		</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Remote users can connect to network resources simply by authenticating to their local machine. </entry>
+									 <entry> Remote users can connect to network resources by authenticating to their local machine. </entry>
+
+								</row>
+								<row>
+									<entry> Any settings that are changed with this command revert back to their original settings when the daemon restarts. </entry>
+									 <entry> Any settings that are changed with this command revert to their original settings when the daemon restarts. </entry>
+
+								</row>
+								<row>
+									<entry> Restore the LUKS2 header to the encrypted volume located on the `/dev/sda1` partition. </entry>
+									 <entry> Restore the LUKS2 header to the encrypted volume on the `/dev/sda1` partition. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+	</section>
+
 <!-- Moved Ambiguities section here from Chapter 2 and added several more categories of ambiguity to avoid. -->
 	 <section id="avoiding-ambiguities">
 		<title>Avoiding Ambiguities</title>
@@ -1028,6 +1076,49 @@
 								<row>
 									<entry> This property must be enabled when you are using CTDB in a Windows domain or in active directory security mode. </entry>
 									 <entry> This property must be enabled when you are using CTDB in a Windows domain or in Active Directory security mode. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+<!-- Added entry for "easy, simple" -->
+			<varlistentry id="easy">
+				<term> Avoid Stating that Something Is Easy </term>
+				 <listitem>
+					<para>
+						Avoid stating that a task is easy to do or that a product is easy to use. Avoid "friendly" and "user-friendly" and similar terms. Focus instead on how to accomplish a task or on relevant features of a product.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Mounting a device is relatively simple. 
+									Identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point.</entry>
+									 <entry> (Omit the first sentence.) 
+									 To mount a device, identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point. </entry>
+
+								</row>
+								<row>
+									<entry> Kubernetes is an open source system that makes it easy to manage containerized applications across multiple hosts. </entry>
+									 <entry> Kubernetes is an open source system to manage containerized applications across multiple hosts. </entry>
 
 								</row>
 
