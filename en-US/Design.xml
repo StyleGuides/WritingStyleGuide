@@ -702,7 +702,7 @@ $ vi myFile.txt
 	 	<section id="refer-object-names">
 			<title>Referring to Object Names</title>
 			 <para>
-				When using object names, write a sentence so that it would be complete without the object name.
+				When using object names, write a sentence so that it is complete without the object name.
 			</para>
 
 			 <table>
