@@ -590,7 +590,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 				Do not hyphenate "open source", even when used as a complex adjective.
 			</para>
 			 <para>
-				Do not hyphenate a compound that includes an adverb ending in -ly, whether it comes before or after the noun. This is described in Chicago Manual of Style 7.82.
+				Do not hyphenate a compound that includes an adverb that ends in <emphasis>-ly</emphasis>, whether it comes before or after the noun, because it is never ambiguous. This is described in Chicago Manual of Style 7.82. For example, "Red&nbsp;Hat Enterprise Linux is a production-ready, commercially supported Linux distribution."
 			</para>
 
 		</note>
