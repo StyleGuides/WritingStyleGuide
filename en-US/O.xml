@@ -94,6 +94,12 @@
 			 <para>
 				 Use only to mean "one time". Do not use as a conjunction to mean "after" or "when".
 			 </para>
+			 <para>
+				 Example 1: Instead of "Once the name is set for a network interface on the system, the name of the interface does not change", use "When the name is set for a network interface on the system, the name of the interface does not change".
+			 </para>
+			 <para>
+				 Example 2: Instead of "Once you generate the SSH keys, you can find them by default in the <filename>.ssh/</filename> directory", use "After you generate the SSH keys, you can find them by default in the <filename>.ssh/</filename> directory".
+			 </para>
 
 		 </listitem>
 
