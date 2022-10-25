@@ -109,7 +109,7 @@
 	 <section id="introductions">
 		<title>Introductions</title>
 		 <para>
-			The term "introduction" on its own is sufficiently vague, and raises enough questions in translation and with translation memory (TM) tools, that Red&nbsp;Hat technical documentation does not use this term on its own. Instead, use the phrase "Introduction to $productname" near the beginning of the book to introduce the reader to the product. Do not use "Introduction" to introduce the book; that is the task of the Abstract. A further benefit of this usage is that the same introduction can be used across various books to introduce the same product.
+			The term "introduction" on its own is sufficiently vague, and raises enough questions in translation and with translation memory (TM) tools, that Red&nbsp;Hat technical documentation does not use this term on its own. Instead, use the phrase "Introduction to &lt;product_name&gt;" near the beginning of the book to introduce the reader to the product. Do not use "Introduction" to introduce the book; that is the task of the Abstract. A further benefit of this usage is that the same introduction can be used across various books to introduce the same product.
 		</para>
 
 	</section>
@@ -135,7 +135,7 @@
 		 <formalpara id="about">
 			<title>About</title>
 			 <para>
-				Do not use "about" or "about $topic" as a title. The same reasoning applies here as to "overview".
+				Do not use "about" or "about &lt;topic&gt;" as a title. The same reasoning applies here as to "overview".
 			</para>
 
 		</formalpara>

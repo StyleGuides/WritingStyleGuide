@@ -11,7 +11,7 @@
 	 <section id="active-voice">
 		<title>Active Voice</title>
 		 <para>
-			Use the active voice ("Type ... to start Linuxconf".) rather than passive ("Linuxconf can be started by typing ...") whenever possible. Active voice makes for more lively, interesting reading. It is more compelling than passive voice and helps to reduce word count.
+			Use the active voice ("Type ... to start Linuxconf") rather than passive ("Linuxconf can be started by typing ...") whenever possible. Active voice makes for more lively, interesting reading. It is more compelling than passive voice and helps to reduce word count.
 		</para>
 		 <para>
 			This does not mean that the passive voice is forbidden. There are situations when using the passive voice is appropriate, such as release notes, technical notes, and similar material.
@@ -268,6 +268,18 @@
 		 <para>
 			The <guibutton>Start</guibutton> button, which you can find in the bottom left corner of your screen (also activated by the "Windows key" on your keyboard, the one between the <keycap>Ctrl</keycap> and <keycap>Alt</keycap> keys), provides a central starting point for applications and tasks, and can be customized according to your individual preferences so that it presents menu items relevant to you instead of presenting the standard items that come with the default installation of the operating system, items which, in my opinion, are irrelevant for most users these days who really only need access to an internet browser such as Google Chrome or Mozilla Firefox.
 		</para>
+
+		 <formalpara id="preposition">
+			<title>Preposition at the End of a Sentence</title>
+			 <para>
+				Allow a preposition at the end of a sentence to avoid otherwise awkward wording.
+			</para>
+
+		</formalpara>
+		 <para>
+			For example, instead of "Click the workspace to which you want to switch", which can sound stilted, it flows better to use "Click the workspace to switch to".
+		</para>
+
 		 <formalpara id="run-on">
 			<title>Run-on Sentences</title>
 			 <para>
@@ -471,10 +483,15 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> The individual member of the social community often receives information via visual, symbolic channels. </entry>
-						 <entry> People read. (Translation by Richard Feynman.) </entry>
+						<entry> The <command>fsck /dev/vdb1</command> command performs a file system check on the XFS file system residing on the <filename>/dev/vdb1</filename> partition. </entry>
+						 <entry> The <command>fsck /dev/vdb1</command> command checks the XFS file system on the <filename>/dev/vdb1</filename> partition. </entry>
 
 					</row>
+					<row>
+						<entry> Red&nbsp;Hat Insights provides different services for the administration and monitoring of the registered systems that can be used for troubleshooting and even remediation of the issues identified. </entry>
+						 <entry> Red&nbsp;Hat Insights services administer and monitor registered systems to troubleshoot and remediate issues. </entry>
+
+					</row>					
 					<row>
 						<entry> Perform the installation of the product. </entry>
 						 <entry> Install the product. </entry>

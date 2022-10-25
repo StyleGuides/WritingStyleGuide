@@ -92,6 +92,31 @@
 			</listitem>
 
 		</varlistentry>
+
+		 <varlistentry id="whether">
+			<term>whether</term>
+			 <listitem>
+				<para>
+		  Use “whether” instead of “if” to refer to a choice or to alternatives.
+          For example, instead of "Test if authenticated FTP access is restored", write "Test whether authenticated FTP access is restored".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+		 <varlistentry id="while">
+			<term>while</term>
+			 <listitem>
+				<para>
+		  In technical content, use “while” only to indicate that many tasks or processes occur at the same time.
+          For example, instead of "While most targets use one target portal group (TPG), advanced configurations might define multiple TPGs", write "Although most targets use one target portal group (TPG), advanced configurations might define multiple TPGs".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
 <!-- Added for inclusive language -->
 		 <varlistentry id="whitelist">
 			<term>whitelist</term>
