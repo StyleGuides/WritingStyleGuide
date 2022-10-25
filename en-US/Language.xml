@@ -1006,6 +1006,10 @@
 		 <para>
 			Avoid redundant words, such as "actually", "really", "simply" and "very". They are typically filler words that add no value to a sentence.  
 		</para>
+		 <para>
+			Redundant words might also occur where two words or phrases are used that mean approximately the same thing, such as "revert back" versus "revert", or that add nothing to the sentence, such as "located on" versus "on".
+		</para>
+
 					 <table>
 						<title></title>
 						 <tgroup cols="2" colsep="1" rowsep="1">
