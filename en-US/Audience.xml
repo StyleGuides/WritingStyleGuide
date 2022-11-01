@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<section id="audience">
+	<title>Audience</title>
+	 <para>
+		This guide is the official style guide for technical documentation for Red&nbsp;Hat training and certification content, including how to write for global audiences and translation, common mistakes to avoid, rules for everyday punctuation, and grammar.
+	</para>
+	 <para>
+        Other Red&nbsp;Hat technical documentation, including product documentation by Customer Content Services (CCS), follows the Red&nbsp;Hat supplementary style guide for product documentation at <ulink url="https://redhat-documentation.github.io/supplementary-style-guide/" /> instead of this Red&nbsp;Hat Technical Writing Style Guide.
+	</para>
+
+</section>
+
