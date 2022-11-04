@@ -21,7 +21,7 @@
 		</formalpara>
 			<para>
 			Use title case also when referring to the titles of other publications, even if the title on the publication itself uses different casing.
-			</para>					
+			</para>
 			<para>
 			The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase</ulink>.
 			</para>
@@ -46,7 +46,7 @@
             Do not use terminating periods.
             </para>
           </formalpara>
-<!-- Commenting out this section following a change of advice. 
+<!-- Commenting out this section following a change of advice.
 			 <formalpara id="imperative-mood">
 				<title>Avoid Imperative Mood</title>
 					<para>
@@ -88,8 +88,8 @@
       The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
 		 <para>
-			When writing about items in a user interface (UI), match the capitalization and spelling of those items from the interface. 
-			However, if the interface contains a spelling error, then correct the spelling in your writing, and get the interface corrected if possible. 
+			When writing about items in a user interface (UI), match the capitalization and spelling of those items from the interface.
+			However, if the interface contains a spelling error, then correct the spelling in your writing, and get the interface corrected if possible.
 			Depending on the context, an option might be to write around an incorrectly spelled interface item rather than naming it specifically.
 		</para>
 		 <section id="gui-elements-punctuation">
@@ -143,6 +143,37 @@
 
 		 </section>
 		</section>
+		<section id="figures-illustrations">
+			<title>Figures, Illustrations, and Screen Captures</title>
+			<para>
+				Refer to the <citetitle>Figures</citetitle> section in the <citetitle>IBM Style Guide</citetitle> for general advice about using figures, illustrations, and screen captures.
+			</para>
+			<para>
+				The following specific conventions apply to using captions and callouts with figures in Red&nbsp;Hat technical documentation, and is generally recommended.
+			</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						If the image is well documented and described in the surrounding text, no caption or callouts are required.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						If the image is not fully described in the surrounding text, use a caption or legend to complete the information for the reader.
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						If the image is complex and requires detailed explanation, consider using callouts to describe each of the relevant parts.
+					</para>
+				</listitem>
+			</itemizedlist>
+			<note>
+				<para>
+					Do not use callouts and captions on the same figure.
+				</para>
+			</note>
+			</section>
 		 <section id="starting-apps">
 			<title>Starting Applications from the Desktop</title>
 			 <para>
@@ -721,13 +752,13 @@ $ vi myFile.txt
 				 <tbody>
 					<row>
 						<entry> Find the current default <systemitem>StorageClass</systemitem>. </entry>
-						 <entry> 
+						 <entry>
 						 <para>
-						 Either: Find the current default storage class. 
+						 Either: Find the current default storage class.
 						 </para>
-						 <para>						 
-						 Or: Find the current default <systemitem>StorageClass</systemitem> value. 
-						 </para>						 
+						 <para>
+						 Or: Find the current default <systemitem>StorageClass</systemitem> value.
+						 </para>
 						</entry>
 
 					</row>
@@ -764,7 +795,7 @@ $ vi myFile.txt
 						<entry> Modify the <filename>/etc/resolv.conf</filename> file to use this <systemitem>nameserver</systemitem>. </entry>
 						 <entry> Modify the <filename>/etc/resolv.conf</filename> file to use this name server. </entry>
 
-					</row>					
+					</row>
 
 				</tbody>
 
@@ -801,9 +832,9 @@ $ vi myFile.txt
 
 		</table>
 
-		</section>		
+		</section>
 
-	</section>	 	
+	</section>
 	 <section id="document-currencies">
 		<title>Documenting Currencies</title>
 		 <para>
@@ -870,21 +901,21 @@ $ vi myFile.txt
 		 <formalpara id="special-characters">
 			<title>Special Characters</title>
 		 	 <para>
-				Consider pronunciation when referring to file or directory names that begin with special characters, and use the correct indefinite article. 
-			</para>		
-		
-		</formalpara>	
-		 <para>			
+				Consider pronunciation when referring to file or directory names that begin with special characters, and use the correct indefinite article.
+			</para>
+
+		</formalpara>
+		 <para>
 			If a file or directory name begins with a special character, such as an underscore, then you need to pronounce that character.
 		</para>
 
-		 <para>	
+		 <para>
 			For example, using "an <filename>_build/</filename> directory" is correct, because you pronounce "an underscore build directory".
-		</para> 			
+		</para>
 
-		 <para>	
+		 <para>
 			Using "a <filename>-compile/</filename> directory" is correct, because you pronounce "a dash compile directory".
-		</para> 
+		</para>
 
 	</section>
 	 <section id="product-names">
@@ -898,26 +929,26 @@ $ vi myFile.txt
 			</para>
 
 		</note>
-<!-- <itemizedlist> 
-		<listitem>		-->		 
+<!-- <itemizedlist>
+		<listitem>		-->
 				<para>
 					Restrictions apply to abbreviating Red&nbsp;Hat product or solution names in public-facing documents. Always use the full name on first use. For some products, for example Red&nbsp;Hat OpenShift Container Platform, you can omit "Red&nbsp;Hat" after the first use.
 				</para>
 
-<!-- 		<listitem> 
-			 </listitem>		-->	
+<!-- 		<listitem>
+			 </listitem>		-->
 				<para>
 					Further restrictions apply to using acronyms and initialisms. In this same example, and only in technical documentation, "RHOCP" is acceptable after the first use of the full product name.
 				</para>
 
-<!-- 		<listitem> 
-			 </listitem>		-->	
+<!-- 		<listitem>
+			 </listitem>		-->
 				<para>
 					Do not include "Inc." when referring to Red&nbsp;Hat except in legal documents.
 				</para>
 
-<!-- 		<listitem> 
-			 </listitem>		-->	
+<!-- 		<listitem>
+			 </listitem>		-->
 				<para>
 					Do not use articles in front of product names. For example, do not write "the JBoss Enterprise&nbsp;Application&nbsp;Platform was ...".
 				</para>
@@ -928,24 +959,24 @@ $ vi myFile.txt
 
 				</note>
 
-<!-- 		<listitem> 
-			 </listitem>		-->	
+<!-- 		<listitem>
+			 </listitem>		-->
 				<para>
 					Do not hyphenate or break a product name across lines.
 				</para>
 				<example>
 				<title>Incorrect Example of Line Breaking</title>
-				<para> 
+				<para>
 				<literallayout>
-					For advanced management capabilities with Red   
-					Hat Satellite and cloud management services, use the Red     
-					Hat Enterprise Linux Smart Management Add    
+					For advanced management capabilities with Red
+					Hat Satellite and cloud management services, use the Red
+					Hat Enterprise Linux Smart Management Add
 					-On.
-				</literallayout>	
-				</para>	
+				</literallayout>
+				</para>
 				</example>
-<!-- 		<listitem> 
-			 </itemizedlist>		-->	
+<!-- 		<listitem>
+			 </itemizedlist>		-->
 
 	</section>
 	 <section id="nonbreaking-spaces">
@@ -1002,7 +1033,7 @@ $ vi myFile.txt
 		 <para>
 			If you are working with images or other objects where space is especially tight, this rule is more flexible, but "Red&nbsp;Hat" should never be broken over two lines.
 		</para>
-		 <para>    
+		 <para>
 			Non-breaking spaces are not needed elsewhere in a product name and might cause undesirable line-breaking behavior.
 			In particular, do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise Linux OpenStack Platform" does not require a non-breaking space between any of the words after "Red&nbsp;Hat".
 		</para>
