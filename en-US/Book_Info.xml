@@ -17,12 +17,6 @@
 
 	</abstract>
 	 <corpauthor>
-		<inlinemediaobject>
-			<imageobject>
-				<imagedata fileref="Common_Content/images/title_logo.svg" format="SVG" />
-			</imageobject>
-
-		</inlinemediaobject>
 
 	</corpauthor>
 	 <xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
