@@ -534,7 +534,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 					Note: Oracle also pronounces its SQL-based products (such as PL/SQL) as "sequel".
 				</para>
 				 <para>
-					More generally, avoid use of "SQL" as a generic marker if possible. When discussing MySQL, write "MySQL". When discussing Microsoft SQL Server, write "Microsoft SQL Server". When discussing PostgreSQL (which is pronounced pŏstgrĕs kyü ĕl), write "PostgreSQL".
+					More generally, avoid the use of "SQL" as a generic marker if possible. When discussing MySQL, write "MySQL". When discussing Microsoft SQL Server, write "Microsoft SQL Server". When discussing PostgreSQL (which is pronounced pŏstgrĕs kyü ĕl), write "PostgreSQL".
 				</para>
 
 			</listitem>
