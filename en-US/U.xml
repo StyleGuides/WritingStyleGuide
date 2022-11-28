@@ -77,6 +77,9 @@
 				 <para>
 					This rule matches only TCP packets where the <guilabel>SYN</guilabel> flag is set and the <guilabel>ACK</guilabel> flag is cleared.
 				</para>
+				 <para>
+					Unset the <systemitem>ANSIBLE_NAVIGATOR_CONFIG</systemitem> environment variable so that the project's <filename>./ansible-navigator.yml</filename> settings file is used for the remaining exercises.
+				</para>
 
 			</listitem>
 
