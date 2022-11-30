@@ -46,14 +46,15 @@
             Do not use terminating periods.
             </para>
           </formalpara>
-<!-- Commenting out this section following a change of advice.
-			 <formalpara id="imperative-mood">
-				<title>Avoid Imperative Mood</title>
+			<formalpara id="verbs-titles">
+				<title>Verbs in Titles</title>
 					<para>
-						Use the gerund form (noun form of verb) for titles, not the imperative mood. For example, "Testing the Product", not "Test the Product".
+					Usually, you start a title with the gerund form of a verb, which ends with "-ing", for example "Creating Branches". Choose a verb that refers to specific actions that users take, such as "Configuring", "Creating", "Installing", and "Merging".
 					</para>
-
           </formalpara>
+					<para>
+					The gerund verb form is not always required. For example, avoid verbs such as "Describing", "Introducing", and "Understanding", because they add little value. Instead, use a more specific verb or omit the verb. For example, instead of "Describing Initial Git Configuration", you can use "Initial Git Configuration".
+					</para>
 					 <para>
 						See the <citetitle>IBM Style Guide</citetitle> for more information.
 					</para>
@@ -62,7 +63,7 @@
 							Gerunds should be avoided elsewhere.
               See <xref linkend="sentence-structure" />.
 						</para>
-					</important> -->
+					</important> 
       <formalpara>
         <title>File Names, Commands, and Related Terms</title>
           <para>
