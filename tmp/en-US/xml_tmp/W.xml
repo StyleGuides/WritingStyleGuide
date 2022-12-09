@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="w">
+	<title>W</title>
+	 <variablelist>
+		<varlistentry id="wan">
+			<term>WAN</term>
+			 <listitem>
+				<para>
+					A computer network that spans a relatively large geographical area.
+          Typically, a WAN consists of two or more local-area networks (LANs).
+				</para>
+				 <para>
+					Computers connected to a wide-area network are often connected through public networks, such as the telephone system.
+          They can also be connected through leased lines or satellites.
+          The largest WAN in existence is the internet.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="want">
+			<term>want</term>
+			 <listitem>
+				<para>
+					Use instead of "wish" or "would like".
+          Rephrase to avoid whenever possible.
+          For example, "If you want to use the debugger, ..." can be rewritten as "To use the debugger, ...".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="wca">
+			<term>WCA</term>
+			 <listitem>
+				<para>
+					An abbreviation of "web clipping application", to extract static information from a web server and load that data onto a web-enabled personal digital assistant (PDA).
+				</para>
+				 <para>
+					WCAs are also called "query applications".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="webhook_n.">
+			<term>webhook</term>
+			 <listitem>
+				<para>
+          <emphasis>n.</emphasis> One word. Common noun.
+          Capitalize only at the beginning of a sentence.
+          Use alternative capitalization only if it appears as a proper noun.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="web-page">
+			<term>web page</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Two words. Capitalize the "W" at the beginning of a sentence. If part of a proper noun, capitalize accordingly.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="web-ui">
+			<term>web UI</term>
+			 <listitem>
+				<para>
+					Correct. Use this term to refer to a browser-based interface to a software application, even if that application has no connection to the web.
+          Do not hyphenate the abbreviation or use the one-word form.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="we-suggest">
+			<term>we suggest</term>
+			 <listitem>
+				<para>
+					Do not use.
+          Use a more direct construction, or use "recommend".
+          For example, instead of "We suggest that you make a backup of your data disk", write "Back up your data disk".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+		 <varlistentry id="whether">
+			<term>whether</term>
+			 <listitem>
+				<para>
+		  Use “whether” instead of “if” to refer to a choice or to alternatives.
+          For example, instead of "Test if authenticated FTP access is restored", write "Test whether authenticated FTP access is restored".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+		 <varlistentry id="while">
+			<term>while</term>
+			 <listitem>
+				<para>
+		  In technical content, use “while” only to indicate that many tasks or processes occur at the same time.
+          For example, instead of "While most targets use one target portal group (TPG), advanced configurations might define multiple TPGs", write "Although most targets use one target portal group (TPG), advanced configurations might define multiple TPGs".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+<!-- Added for inclusive language -->
+		 <varlistentry id="whitelist">
+			<term>whitelist</term>
+			 <listitem>
+				<para>
+					Do not use. Use "allowlist".
+				</para>
+				<para>
+					Do not use the terms "white" or "black" in a context where white is represented as good or black is represented as bad. Such usage reinforces a model that promotes racial bias.
+				</para>
+			</listitem>
+
+		</varlistentry>		
+		 <varlistentry id="whowhom">
+			<term>who, whom</term>
+			 <listitem>
+				<para>
+					Use the pronoun "who" as a subject.
+          Use the pronoun "whom" as a direct object, an indirect object, or the object of a preposition.
+				</para>
+				 <para>
+					For example: Who owns this phone? To whom does this phone belong?
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="will">
+			<term>will</term>
+			 <listitem>
+<!-- Should review course template text for chapter and exercise titles and objectives to enforce this use.	-->
+				<para>
+					Do not use future tense unless it is absolutely necessary.
+          For example, do not write "The next section will describe the process in detail."
+          Instead, write "The next section describes the process in detail."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="window-maker">
+			<term>Window Maker</term>
+			 <listitem>
+				<para>
+					Correct. Do not combine into one word or hyphenate.
+          This is a window manager for the X Window System.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+<!-- Added "wish". -->
+		<varlistentry id="wish">
+			<term>wish</term>
+			 <listitem>
+				<para>
+					Use "want" instead of "wish" when the reader's actions are optional (that is, they might not "need" something but might still "want" something).
+				</para>
+
+			</listitem>
+
+		</varlistentry>			
+
+	</variablelist>
+</chapter>
+

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE bookinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<bookinfo id="conventions">
+	<title>Style Conventions for Writers and Editors</title>
+	<!-- Change title to "The Red Hat Style Guide" -->
+	 <productname>Red&nbsp;Hat Technical Writing Style&nbsp;Guide</productname>
+	 <productnumber></productnumber>
+	 <edition>6.0</edition>
+	 <pubsnumber>1</pubsnumber>
+	 <abstract>
+		<para>
+			The Red&nbsp;Hat Style Guide and Word Usage Dictionary is a joint effort by various groups within Red&nbsp;Hat. It is intended as a supplement to the titles listed in <xref linkend="resources" />
+		</para>
+
+	</abstract>
+	 <corpauthor>
+
+	</corpauthor>
+	 <xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <!--      <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />                                        -->
+</bookinfo>
+

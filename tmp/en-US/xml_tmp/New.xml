@@ -7,17 +7,14 @@
         <title>New in This Release</title>
 		<formalpara id="new_60">
 		<title>Release 6.0</title>
-                        <para>Major update in December 2022 to add further style and grammar guidance:</para>
+                        <para>Major update in October 2022 to add further style and grammar guidance:</para>
                 </formalpara>   
                         <itemizedlist>
 				<listitem>
 										<para>Added audience information for this guide.</para>
 				</listitem>
 				<listitem>
-										<para>Updated guidance about the use of verbs in titles.</para>
-				</listitem>
-				<listitem>
-										<para>Updated guidance about the use of captions or callouts in figures.</para>
+										<para>Updated guidance about use of captions or callouts in figures.</para>
 				</listitem>
 				<listitem>
                                         <para>Avoid redundant words.</para>
@@ -101,7 +98,7 @@
                                         <para>Use of "whether" versus "if".</para>
 				</listitem>
 				<listitem>
-                                        <para>New or updated usage entries: like, once, unset, while.</para>			
+                                        <para>New or updated usage entries: like, once, while.</para>			
 				</listitem>
 				<listitem>
                                         <para>Various other fixes.</para>				

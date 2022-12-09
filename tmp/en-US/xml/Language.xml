@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
 %BOOK_ENTITIES;
 ]>
-<chapter id="appropriate-language">
-<!-- Expand scope of this chapter to include other language topics. -->
-	<title>Choosing Appropriate Language</title>
-<!-- Original title: <title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title> -->
-	 <para>
+<chapter id="appropriate-language" lang="en-US">
+	<!--  Expand scope of this chapter to include other language topics.  --> <title>Choosing Appropriate Language</title>
+	<!--  Original title: <title>Avoiding Jargon, Slang, Metaphors, and Misleading Language</title>  --> <para>
 		Red&nbsp;Hat produces documentation for a global audience, and in many cases this documentation is translated into many languages. To reach the widest possible audience, and to make the task of translation as straightforward as possible, avoid slang and other culture-specific terminology. This chapter attempts to identify commonly used slang terms and phraseology, and to provide alternatives.
-  </para>
+	</para>
 	 <para>
 		If you find slang terms or other difficult-to-understand passages in our documentation, use this section to search for alternatives.
 	</para>
@@ -17,9 +15,8 @@
 		Red&nbsp;Hat is committed to eliminating use of language that might exclude or offend certain groups of people. This chapter describes some considerations for use of inclusive language.
 	</para>
 	 <para>
-	 	Also in this chapter is guidance on some common categories of ambiguity in writing and how to avoid it.
+		Also in this chapter is guidance on some common categories of ambiguity in writing and how to avoid it.
 	</para>
-
 	 <section id="avoiding-confusing-language">
 		<title>Avoiding Misleading or Confusing Language</title>
 		 <para>
@@ -32,10 +29,11 @@
 					<para>
 						This is a commonly understood phrase, and despite some concerns about using superlatives without statistics to back them up, Red&nbsp;Hat does not actively discourage its use. It is also a more common search term than most alternatives. If you are in any doubt, the preferred alternative is "recommended practices".
 					</para>
-					<para>
+					 <para>
 						See the section <xref linkend="making-recommendations" /> for additional information about recommendations in Red&nbsp;Hat documentation.
 					</para>
-		 		 </listitem>
+
+				</listitem>
 
 			</varlistentry>
 			 <varlistentry id="first-come-first-served">
@@ -94,7 +92,7 @@
 				<term>apples to apples</term>
 				 <listitem>
 					<para>
-						Do not use. Explain instead what is meant, such as "a fair comparison". 
+						Do not use. Explain instead what is meant, such as "a fair comparison".
 					</para>
 
 				</listitem>
@@ -104,9 +102,7 @@
 				<term>ask (as a noun), make the ask</term>
 				 <listitem>
 					<para>
-						"To ask" is a verb.
-            As a noun, "ask" is chiefly British and also considered informal.
-            Do not use it in technical documentation.
+						"To ask" is a verb. As a noun, "ask" is chiefly British and also considered informal. Do not use it in technical documentation.
 					</para>
 
 				</listitem>
@@ -162,7 +158,7 @@
 				</listitem>
 
 			</varlistentry>
-<!-- 		 <varlistentry>
+			<!--  		 <varlistentry>
 				<term>boil the ocean</term>
 				 <listitem>
 					<para>
@@ -171,8 +167,7 @@
 
 				</listitem>
 
-			</varlistentry>  -->
-			 <varlistentry>
+			</varlistentry>   --> <varlistentry>
 				<term>bottom line</term>
 				 <listitem>
 					<para>
@@ -182,7 +177,6 @@
 				</listitem>
 
 			</varlistentry>
-
 			 <varlistentry>
 				<term>bucketize</term>
 				 <listitem>
@@ -213,7 +207,6 @@
 				</listitem>
 
 			</varlistentry>
-
 			 <varlistentry>
 				<term>core competency</term>
 				 <listitem>
@@ -298,8 +291,7 @@
 				<term>fib</term>
 				 <listitem>
 					<para>
-						A fib is a "small lie", also known as a "white lie".
-            For example, "This command tells fibs" is better written as "The output of this command can be misleading".
+						A fib is a "small lie", also known as a "white lie". For example, "This command tells fibs" is better written as "The output of this command can be misleading".
 					</para>
 
 				</listitem>
@@ -453,7 +445,6 @@
 				</listitem>
 
 			</varlistentry>
-
 			 <varlistentry>
 				<term>is designed to</term>
 				 <listitem>
@@ -522,7 +513,6 @@
 				</listitem>
 
 			</varlistentry>
-
 			 <varlistentry>
 				<term>meet your needs</term>
 				 <listitem>
@@ -583,7 +573,6 @@
 				</listitem>
 
 			</varlistentry>
-
 			 <varlistentry>
 				<term>paradigm</term>
 				 <listitem>
@@ -604,7 +593,6 @@
 				</listitem>
 
 			</varlistentry>
-
 			 <varlistentry>
 				<term>piggyback</term>
 				 <listitem>
@@ -615,14 +603,16 @@
 				</listitem>
 
 			</varlistentry>
-      <varlistentry>
-        <term>pre-baked, prebaked</term>
-        <listitem>
-          <para>
-            Means "prepared beforehand". Choose a suitable alternative, such as "preconfigured", depending on the context.
-          </para>
-        </listitem>
-      </varlistentry>
+			 <varlistentry>
+				<term>pre-baked, prebaked</term>
+				 <listitem>
+					<para>
+						Means "prepared beforehand". Choose a suitable alternative, such as "preconfigured", depending on the context.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
 			 <varlistentry>
 				<term>productize</term>
 				 <listitem>
@@ -667,9 +657,7 @@
 				<term>root your server in the <filename>/serverRoot</filename> directory</term>
 				 <listitem>
 					<para>
-						This expression is inelegant.
-            Be aware of the multiple meanings of words.
-            Try something like "Use the <filename>/serverRoot</filename> directory as the root directory for your server."
+						This expression is inelegant. Be aware of the multiple meanings of words. Try something like "Use the <filename>/serverRoot</filename> directory as the root directory for your server."
 					</para>
 
 				</listitem>
@@ -701,12 +689,10 @@
 					<para>
 						Use "stand-alone", "confined", "separated", or something similar.
 					</para>
-<!-- Not "segregated", which has negative cultural connotations. -->
-
+					<!--  Not "segregated", which has negative cultural connotations.  -->
 				</listitem>
 
 			</varlistentry>
-
 			 <varlistentry>
 				<term>solutions-based</term>
 				 <listitem>
@@ -727,7 +713,6 @@
 				</listitem>
 
 			</varlistentry>
-
 			 <varlistentry>
 				<term>stovepipe</term>
 				 <listitem>
@@ -748,7 +733,6 @@
 				</listitem>
 
 			</varlistentry>
-
 			 <varlistentry>
 				<term>to think outside the box</term>
 				 <listitem>
@@ -839,13 +823,12 @@
 		</itemizedlist>
 
 	</section>
-<!-- Added phrasal verbs section. -->
-	 <section id="phrasal-verbs">
+	<!--  Added phrasal verbs section.  --> <section id="phrasal-verbs">
 		<title>Phrasal Verbs</title>
 		 <para>
 			Avoid using a two-word verb form (a <emphasis>phrasal verb</emphasis>) if a one-word equivalent exists.
 		</para>
-	<table>
+		 <table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
 				<colspec colname="c1"></colspec>
@@ -864,17 +847,17 @@
 						 <entry> click </entry>
 
 					</row>
-					<row>
+					 <row>
 						<entry> fill in, fill out (a form) </entry>
 						 <entry> complete (a form) </entry>
 
 					</row>
-					<row>
+					 <row>
 						<entry> leave out </entry>
 						 <entry> omit </entry>
 
 					</row>
-					<row>
+					 <row>
 						<entry> print out </entry>
 						 <entry> print </entry>
 
@@ -926,46 +909,44 @@
 			</listitem>
 
 		</itemizedlist>
-
 		 <para>
 			Avoid stating that a product or feature allows the user to do something. Focus instead on what the user does.
 		</para>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
 
-								</row>
+					</row>
 
-							</thead>
-							 <tbody>
-								<row>
-									<entry> Using the ausearch command allows administrators to focus on only the messages they are interested in. </entry>
-									 <entry> Administrators can use the ausearch command to focus on only messages of interest. </entry>
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Using the ausearch command allows administrators to focus on only the messages they are interested in. </entry>
+						 <entry> Administrators can use the ausearch command to focus on only messages of interest. </entry>
 
-								</row>
-								<row>
-									<entry> Collections allow updates to the core Ansible code to be separated from updates to modules and plug-ins. </entry>
-									 <entry> You can use collections to separate core Ansible code updates from updates to modules and plug-ins. </entry>
+					</row>
+					 <row>
+						<entry> Collections allow updates to the core Ansible code to be separated from updates to modules and plug-ins. </entry>
+						 <entry> You can use collections to separate core Ansible code updates from updates to modules and plug-ins. </entry>
 
-								</row>
+					</row>
 
-							</tbody>
+				</tbody>
 
-						</tgroup>
+			</tgroup>
 
-					</table>
+		</table>
 		 <para>
 			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>
 		</para>
 
 	</section>
-
 	 <section id="inclusive-language">
 		<title>Inclusive Language</title>
 		 <para>
@@ -998,61 +979,56 @@
 		 <para>
 			Such guidance, including judgement of what constitutes acceptable versus unacceptable use, will evolve over time.
 		</para>
-	</section>
 
-<!-- Added section for redundant words -->
-	 <section id="redundant">
+	</section>
+	 <!--  Added section for redundant words  --> <section id="redundant">
 		<title>Avoiding Redundant Words</title>
 		 <para>
-			Avoid redundant words, such as "actually", "really", "simply" and "very". They are typically filler words that add no value to a sentence.  
+			Avoid redundant words, such as "actually", "really", "simply" and "very". They are typically filler words that add no value to a sentence.
 		</para>
 		 <para>
 			Redundant words might also occur where two words or phrases are used that mean approximately the same thing, such as "revert back" versus "revert", or that add nothing to the sentence, such as "located on" versus "on".
 		</para>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
 
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
+					</row>
 
-								</row>
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Remote users can connect to network resources simply by authenticating to their local machine. </entry>
+						 <entry> Remote users can connect to network resources by authenticating to their local machine. </entry>
 
-							</thead>
-							 <tbody>
-								<row>
-									<entry> Remote users can connect to network resources simply by authenticating to their local machine. </entry>
-									 <entry> Remote users can connect to network resources by authenticating to their local machine. </entry>
+					</row>
+					 <row>
+						<entry> Any settings that are changed with this command revert back to their original settings when the daemon restarts. </entry>
+						 <entry> Any settings that are changed with this command revert to their original settings when the daemon restarts. </entry>
 
-								</row>
-								<row>
-									<entry> Any settings that are changed with this command revert back to their original settings when the daemon restarts. </entry>
-									 <entry> Any settings that are changed with this command revert to their original settings when the daemon restarts. </entry>
+					</row>
+					 <row>
+						<entry> Restore the LUKS2 header to the encrypted volume located on the `/dev/sda1` partition. </entry>
+						 <entry> Restore the LUKS2 header to the encrypted volume on the `/dev/sda1` partition. </entry>
 
-								</row>
-								<row>
-									<entry> Restore the LUKS2 header to the encrypted volume located on the `/dev/sda1` partition. </entry>
-									 <entry> Restore the LUKS2 header to the encrypted volume on the `/dev/sda1` partition. </entry>
+					</row>
 
-								</row>
+				</tbody>
 
-							</tbody>
+			</tgroup>
 
-						</tgroup>
-
-					</table>
+		</table>
 
 	</section>
-
-<!-- Moved Ambiguities section here from Chapter 2 and added several more categories of ambiguity to avoid. -->
-	 <section id="avoiding-ambiguities">
+	 <!--  Moved Ambiguities section here from Chapter 2 and added several more categories of ambiguity to avoid.  --> <section id="avoiding-ambiguities">
 		<title>Avoiding Ambiguities</title>
 		 <variablelist>
-
 			<varlistentry id="proper-nouns">
 				<term> Capitalizing Proper Nouns </term>
 				 <listitem>
@@ -1088,8 +1064,7 @@
 				</listitem>
 
 			</varlistentry>
-<!-- Added entry for "easy, simple" -->
-			<varlistentry id="easy">
+			<!--  Added entry for "easy, simple"  --> <varlistentry id="easy">
 				<term> Avoid Stating that Something Is Easy </term>
 				 <listitem>
 					<para>
@@ -1110,13 +1085,11 @@
 							</thead>
 							 <tbody>
 								<row>
-									<entry> Mounting a device is relatively simple. 
-									Identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point.</entry>
-									 <entry> (Omit the first sentence.) 
-									 To mount a device, identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point. </entry>
+									<entry> Mounting a device is relatively simple. Identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point.</entry>
+									 <entry> (Omit the first sentence.) To mount a device, identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point. </entry>
 
 								</row>
-								<row>
+								 <row>
 									<entry> Kubernetes is an open source system that makes it easy to manage containerized applications across multiple hosts. </entry>
 									 <entry> Kubernetes is an open source system to manage containerized applications across multiple hosts. </entry>
 
@@ -1137,7 +1110,6 @@
 					<para>
 						The verb "may" might indicate possibility or grant permission. Similarly, "should" might imply a recommendation or express obligation or expectation. A sentence containing one of these verbs often has a double meaning. Avoid these types of words.
 					</para>
-
 					 <table>
 						<title></title>
 						 <tgroup cols="2" colsep="1" rowsep="1">
@@ -1154,25 +1126,23 @@
 							 <tbody>
 								<row>
 									<entry> The <methodname>next()</methodname> method should return <code>null</code> to indicate the end of results. </entry>
-									 <entry> 
+									 <entry> <para>
+										The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results.
+									</para>
 									 <para>
-									 The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. 
-									 </para>
-									 <para>
-									 <emphasis>Or:</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results. 
-									 </para>
+										<emphasis>Or:</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results.
+									</para>
 									 </entry>
 
 								</row>
 								 <row>
 									<entry> It may be held in memory. </entry>
-									 <entry> 
+									 <entry> <para>
+										It can be held in memory.
+									</para>
 									 <para>
-									 It can be held in memory. 
-									 </para>
-									 <para>
-									 <emphasis>Or:</emphasis> It might be held in memory. 
-									 </para>
+										<emphasis>Or:</emphasis> It might be held in memory.
+									</para>
 									 </entry>
 
 								</row>
@@ -1212,15 +1182,14 @@
 
 								</row>
 								 <row>
-									<entry> To create another administrator, click <guimenuitem>File > New</guimenuitem>. </entry>
-									 <entry> 
-									<para> 									 
-									 To create another administrator account, click <guimenuitem>File > New</guimenuitem>. 
-									</para>									 
-									<para> 
-									 <emphasis>Or:</emphasis> To set privileges for another administrator, click <guimenuitem>File > New</guimenuitem>. 
+									<entry> To create another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
+									 <entry> <para>
+										To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu.
 									</para>
-									</entry>
+									 <para>
+										<emphasis>Or:</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu.
+									</para>
+									 </entry>
 
 								</row>
 
@@ -1245,7 +1214,6 @@
 					<para>
 						When you have more than one infinitive verb within a sentence, be clear what each verb refers to.
 					</para>
-
 					 <table>
 						<title></title>
 						 <tgroup cols="2" colsep="1" rowsep="1">
@@ -1262,14 +1230,13 @@
 							 <tbody>
 								<row>
 									<entry> Use the utility to run activities and save your settings. </entry>
-								<!-- Split into 2 sentences	 -->
-									 <entry> Depending on the meaning: 
-									 <para>
-									 Use the utility to run activities and to save your settings (if the utility does both functions). 
+									 <!--  Split into 2 sentences	  --> <entry> Depending on the meaning: 
+									<para>
+										Use the utility to run activities and to save your settings (if the utility does both functions).
 									</para>
 									 <para>
-									 <emphasis>Or:</emphasis> Use the utility to run activities, and then save your settings (if the process consists of two separate steps, of which the utility does only one). 
-									 </para>
+										<emphasis>Or:</emphasis> Use the utility to run activities, and then when you are done, save your settings (if the process consists of two separate steps, of which the utility does only one).
+									</para>
 									 </entry>
 
 								</row>
@@ -1283,7 +1250,6 @@
 				</listitem>
 
 			</varlistentry>
-
 			 <varlistentry id="invisible-plurals">
 				<term> Invisible Plurals </term>
 				 <listitem>
@@ -1317,8 +1283,8 @@
 					</table>
 
 				</listitem>
-			</varlistentry>
 
+			</varlistentry>
 			 <varlistentry id="misplaced-only">
 				<term> Misplaced Only </term>
 				 <listitem>
@@ -1340,22 +1306,20 @@
 							</thead>
 							 <tbody>
 								<row>
-									<entry> 
-									<para>
-									Users can only delete files that they own. 
+									<entry> <para>
+										Users can only delete files that they own.
 									</para>
-									<para>
-									(Misleadingly suggests that users cannot take any actions other than deletion on those files)
+									 <para>
+										(Misleadingly suggests that users cannot take any actions other than deletion on those files)
 									</para>
-									</entry>
-									<entry> 
-									<para>
-									Users can delete only files that they own. 
+									 </entry>
+									 <entry> <para>
+										Users can delete only files that they own.
 									</para>
-									<para>
-									(Clarifies the files that deletion applies to)
+									 <para>
+										(Clarifies the files that deletion applies to)
 									</para>
-									</entry>
+									 </entry>
 
 								</row>
 
@@ -1366,15 +1330,14 @@
 					</table>
 
 				</listitem>
-			</varlistentry>
 
+			</varlistentry>
 			 <varlistentry id="pronoun">
 				<term>Pronouns</term>
 				 <listitem>
 					<para>
 						Avoid ambiguous pronoun references, where a pronoun can refer to more than one antecedent.
 					</para>
-
 					 <table>
 						<title></title>
 						 <tgroup cols="2" colsep="1" rowsep="1">
@@ -1402,8 +1365,8 @@
 					</table>
 
 				</listitem>
-			</varlistentry>
 
+			</varlistentry>
 			 <varlistentry id="synonymity">
 				<term>Synonymity</term>
 				 <listitem>
@@ -1423,7 +1386,6 @@
 					<para>
 						Avoid "there is", "there are", and "there might be", because the subject of the sentence is unclear.
 					</para>
-
 					 <table>
 						<title></title>
 						 <tgroup cols="2" colsep="1" rowsep="1">
@@ -1440,10 +1402,10 @@
 							 <tbody>
 								<row>
 									<entry> The initial error message suggests there is a failure when opening a file. </entry>
-									<entry> The initial error message suggests a failure when opening a file. </entry>
+									 <entry> The initial error message suggests a failure when opening a file. </entry>
 
 								</row>
-								<row>
+								 <row>
 									<entry> There are multiple static inventory formats supported by Ansible. </entry>
 									 <entry> Ansible supports multiple static inventory formats. </entry>
 
@@ -1464,7 +1426,6 @@
 					<para>
 						Use of the word "using" can result in ambiguity, which can often be resolved by using "that uses" or "by using", according to the meaning.
 					</para>
-
 					 <table>
 						<title></title>
 						 <tgroup cols="2" colsep="1" rowsep="1">
@@ -1479,19 +1440,18 @@
 
 							</thead>
 							 <tbody>
-<!-- Added better examples.		  -->
-								<row>
+								<!--  Added better examples.		   --> <row>
 									<entry> Open the firewall ports using the existing service configuration. </entry>
-									<entry>
-									<para>
-									Option 1: Open the firewall ports by using the existing service configuration.
+									 <entry> <para>
+										Option 1: Open the firewall ports by using the existing service configuration.
 									</para>
-									<para>Option 2: Use the existing service configuration to open the firewall ports.
+									 <para>
+										Option 2: Use the existing service configuration to open the firewall ports.
 									</para>
 									 </entry>
 
 								</row>
-								<row>
+								 <row>
 									<entry> The resource agents using mail alerts require a mail transport agent. </entry>
 									 <entry> The resource agents that use mail alerts require a mail transport agent. </entry>
 
@@ -1512,7 +1472,6 @@
 					<para>
 						Ensure that a verb phrase at the start of a sentence modifies the correct word.
 					</para>
-
 					 <table>
 						<title></title>
 						 <tgroup cols="2" colsep="1" rowsep="1">
@@ -1546,72 +1505,63 @@
 		</variablelist>
 
 	</section>
-
-<section id="date-time">
+	 <section id="date-time">
 		<title>Dates and Times</title>
-
 		 <para>
-		Do not use an all-numeric representation for dates. For example, 9/12/2020 means September 12, 2020 in the US but 9 December 2020 in most other countries. Instead, write the month as a word.
-		</para>
-
-		 <para>
-		Instead of writing "The product was manufactured on 4/1/21", which is ambiguous, use a format in running text where the month is represented as a word rather than as a numeral, such as "The product was manufactured on 1 April 2021".
-		</para>
-
-		 <para>
-		Exception: Use of an all-numeric representation is allowed when space is limited, as in a user interface, or to enhance readability. In such cases, use the ISO date format with a 4-digit year (YYYY-MM-DD) and define the format in a header or legend.
+			Do not use an all-numeric representation for dates. For example, 9/12/2020 means September 12, 2020 in the US but 9 December 2020 in most other countries. Instead, write the month as a word.
 		</para>
 		 <para>
-		For times of day, use uppercase without periods, such as "11&nbsp;AM". Use a nonbreaking space between the numeral and "AM" or "PM".
+			Instead of writing "The product was manufactured on 4/1/21", which is ambiguous, use a format in running text where the month is represented as a word rather than as a numeral, such as "The product was manufactured on 1 April 2021".
 		</para>
-
 		 <para>
-		Use "noon" or "12 noon" instead of "12&nbsp;PM".
-		Use "midnight" or "12 midnight" instead of "12&nbsp;AM".
+			Exception: Use of an all-numeric representation is allowed when space is limited, as in a user interface, or to enhance readability. In such cases, use the ISO date format with a 4-digit year (YYYY-MM-DD) and define the format in a header or legend.
 		</para>
-<itemizedlist>
+		 <para>
+			For times of day, use uppercase without periods, such as "11&nbsp;AM". Use a nonbreaking space between the numeral and "AM" or "PM".
+		</para>
+		 <para>
+			Use "noon" or "12 noon" instead of "12&nbsp;PM". Use "midnight" or "12 midnight" instead of "12&nbsp;AM".
+		</para>
+		<itemizedlist>
 			<title>Examples</title>
 			 <listitem>
 				<para>
-				The training class begins at 10&nbsp;AM on 1 April 2021.
+					The training class begins at 10&nbsp;AM on 1 April 2021.
 				</para>
+
 			</listitem>
-			<listitem>
+			 <listitem>
 				<para>
-				The coffee break is from 2:00 PM to 2:30 PM.
+					The coffee break is from 2:00 PM to 2:30 PM.
 				</para>
+
 			</listitem>
-      </itemizedlist>
 
-<!-- Added examples to combine date and time. -->
-
+		</itemizedlist>
+		 <!--  Added examples to combine date and time.  -->
 	</section>
-
-<!-- Moved Numbers entry here from N section, subdivided further into paragraphs, and updated example RHEL version. -->
-
-  <section id="numbers">
+	 <!--  Moved Numbers entry here from N section, subdivided further into paragraphs, and updated example RHEL version.  --> <section id="numbers">
 		<title>Numbers</title>
 		 <para>
-		Spell out the following number types: numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of ...), and very large values.
+			Spell out the following number types: numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of ...), and very large values.
 		</para>
 		 <para>
-		Use numerals for numbers 10 and greater, and for numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (for example, "You answered 8 out of 14 questions correctly"). Use numerals for negative numbers, fractions, percentages, decimals, measurements, and references to book sections (for example, Chapter 3, Table 5, Page 11). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (such as Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8, Linux kernel&nbsp;4.18).
+			Use numerals for numbers 10 and greater, and for numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (for example, "You answered 8 out of 14 questions correctly"). Use numerals for negative numbers, fractions, percentages, decimals, measurements, and references to book sections (for example, Chapter 3, Table 5, Page 11). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (such as Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8, Linux kernel&nbsp;4.18).
 		</para>
 		 <para>
-		Do not use commas in numbers with four digits (use 1000 rather than 1,000). Use commas, to separate goups of three digits, in numbers with five or more digits (such as 10,000; 123,456,789; 1,000,000,000).
+			Do not use commas in numbers with four digits (use 1000 rather than 1,000). Use commas, to separate goups of three digits, in numbers with five or more digits (such as 10,000; 123,456,789; 1,000,000,000).
 		</para>
-    	 <para>
-		See <citetitle>The Chicago Manual of Style, 17th Edition</citetitle> for detailed information on numbering formats.
-		</para>
-
-<!-- Moved Telephone numbers entry here from T section, and renamed to Phone numbers. -->
-  		<section id="phone-numbers">
-		<title>Phone numbers</title>
 		 <para>
-		Use spaces, not dashes or dots, to punctuate phone numbers. When indicating a number for international use, include the country code (+1 555 555 5555 for a US number, for example). US 800 numbers are not accessible from outside the country, so do not precede them with a country code (800 555 5555). Phone numbers beginning with 0 are not for international use. Make these numbers ready for international use by dropping the zero and adding the appropriate country code. For example, (055) 12345 would be for use in Italy only; change it to +39 (55) 12345 for international use.
+			See <citetitle>The Chicago Manual of Style, 17th Edition</citetitle> for detailed information on numbering formats.
 		</para>
+		 <!--  Moved Telephone numbers entry here from T section, and renamed to Phone numbers.  --> <section id="phone-numbers">
+			<title>Phone numbers</title>
+			 <para>
+				Use spaces, not dashes or dots, to punctuate phone numbers. When indicating a number for international use, include the country code (+1 555 555 5555 for a US number, for example). US 800 numbers are not accessible from outside the country, so do not precede them with a country code (800 555 5555). Phone numbers beginning with 0 are not for international use. Make these numbers ready for international use by dropping the zero and adding the appropriate country code. For example, (055) 12345 would be for use in Italy only; change it to +39 (55) 12345 for international use.
+			</para>
 
 		</section>
 
-</section>
+	</section>
 </chapter>
+

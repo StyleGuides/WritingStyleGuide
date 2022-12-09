@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<!-- Suggest not to use numbered chapters for these group separator headings. -->
+<chapter id="a0-9">
+	<title>0-9</title>
+	 <variablelist>
+		<varlistentry id="a24x7">
+			<term>24x7, 24x7x365</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Use "24x7" in most instances. Use "24x7x365" only to differentiate from others or highlight specifically that a service is offered every day of the year, for example, providing 24x7x365 phone support.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="a2-track-it">
+			<term>2-track (IT)</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> A less common way to refer to bimodal or hybrid IT. See <xref linkend="bimodal-it" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="a3d">
+			<term>3-D</term>
+			 <listitem>
+				<para>
+					<emphasis>adj., n.</emphasis> Correct. Do not use 3D, 3-d, or other variations.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+

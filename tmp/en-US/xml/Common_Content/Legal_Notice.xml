@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE legalnotice PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "../Style_Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<legalnotice lang="en-US">
+	<para>
+		Copyright <trademark class="copyright"></trademark> &YEAR; &HOLDER;.
+	</para>
+	 <para>
+		This document is licensed by Red&nbsp;Hat under the <ulink url="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</ulink>. If you distribute this document, or a modified version of it, you must provide attribution to Red&nbsp;Hat, Inc. and provide a link to the original. If the document is modified, all Red&nbsp;Hat trademarks must be removed.
+	</para>
+	 <para>
+		Red&nbsp;Hat, as the licensor of this document, waives the right to enforce, and agrees not to assert, Section 4d of CC-BY-SA to the fullest extent permitted by applicable law.
+	</para>
+	 <para>
+		Red&nbsp;Hat, Red&nbsp;Hat Enterprise Linux, the Red&nbsp;Hat logo, the Infinity logo, JBoss, OpenShift, Fedora, Hibernate, Ansible, CloudForms, RHCA, RHCE, RHCSA, Ceph, and Gluster are trademarks or registered trademarks of Red&nbsp;Hat, Inc. or its subsidiaries in the United States and other countries.
+	</para>
+	 <para>
+		<trademark class="registered">Linux</trademark> is the registered trademark of Linus Torvalds in the United States and other countries.
+	</para>
+	 <para>
+		<trademark class="registered">Java</trademark> is a registered trademark of Oracle and/or its affiliates.
+	</para>
+	 <para>
+		<trademark class="registered">XFS</trademark> is a trademark of Silicon Graphics International Corp. or its subsidiaries in the United States and/or other countries.
+	</para>
+	 <para>
+		<trademark class="registered">MySQL</trademark> is a registered trademark of MySQL AB in the United States, the European Union and other countries.
+	</para>
+	 <para>
+		<trademark class="registered">Node.js</trademark> is an official trademark of Joyent. Red&nbsp;Hat is not formally related to or endorsed by the official Joyent Node.js open source or commercial project.
+	</para>
+	 <para>
+		The <trademark class="registered">OpenStack</trademark> Word Mark and OpenStack logo are either registered trademarks/service marks or trademarks/service marks of the OpenStack Foundation, in the United States and other countries and are used with the OpenStack Foundation's permission. We are not affiliated with, endorsed or sponsored by the OpenStack Foundation, or the OpenStack community.
+	</para>
+	 <para>
+		All other trademarks are the property of their respective owners.
+	</para>
+
+</legalnotice>
+

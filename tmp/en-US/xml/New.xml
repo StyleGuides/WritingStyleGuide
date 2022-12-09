@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<section id="new" lang="en-US">
+	<title>New in This Release</title>
+	 <formalpara id="new_60">
+		<title>Release 6.0</title>
+		 <para>
+			Major update in October 2022 to add further style and grammar guidance:
+		</para>
+
+	</formalpara>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				Added audience information for this guide.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Updated guidance about use of captions or callouts in figures.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid redundant words.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid a causative verb.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Words to use with countable nouns.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Use of "either-or" construction.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid stating that something is easy to do or to use.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid first person.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Use "following" with a noun.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid hyphenating with an "-ly" prefix: added an example.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				If-Then statements.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Make a full lead-in sentence to introduce a list.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Making list items parallel.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Updated guidance about use of compact lists.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Using noun strings.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid a noun followed by an "-ing" word.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Using object names.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Placement of "only".
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Preposition at the end of a sentence.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Use straight rather than curly quotation marks.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid "(s)" for plural.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Added further examples of slang, idioms, and metaphors to avoid.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid a slash.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Spacing with a unit of measurement.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Improved succinctness examples.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid "there is", "there are".
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Use "this", "that", "these", "those" with a noun.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Replaced use of "$" as a variable marker in this guide to use angle brackets instead.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Use of "whether" versus "if".
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				New or updated usage entries: like, once, while.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Various other fixes.
+			</para>
+
+		</listitem>
+
+	</itemizedlist>
+	 <formalpara id="new_51">
+		<title>Release 5.1</title>
+		 <para>
+			Minor update in January 2022 to address some reported issues:
+		</para>
+
+	</formalpara>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				Accessing IBM Style online.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Updated guidance for long commands.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Updated guidance for referring to object names.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Updated guidance for non-breaking spaces.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Updated guidance for punctuation with quotation marks.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				The gerund verb form is no longer required in section titles.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Pronouncing file or directory names that begin with special characters.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid "the product allows the user to do xyz".
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Avoid consecutive headings.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Guidance to refer to UI elements and to other publication titles.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Clarification that diagram labels use sentence case.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				New or updated usage entries: backend, IaC, number sign, on premise/on-premise, prebaked, unset.
+			</para>
+
+		</listitem>
+
+	</itemizedlist>
+	 <formalpara id="new_50">
+		<title>Release 5.0</title>
+		 <para>
+			Major update in July 2021 to align with some recent changes in IBM Style:
+		</para>
+
+	</formalpara>
+	 <itemizedlist>
+		<listitem>
+			<para>
+				Sentence case is required for captions, legends, and diagram labels.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Punctuation: Added sections on referring to punctuation marks and names of punctuation marks and special characters.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Rename Chapter 4 to "Choosing Appropriate Language": expand scope beyond slang and jargon, to cover inclusive language; avoiding ambiguities (moved from Chapter 2 and added more categories); dates and times (AM and PM are now written in uppercase without periods); and numbers.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Usage A-Z: Various additions and updates. Corrected alphabetical sorting sequence. Moved items that are not literal term entries to an earlier chapter.
+			</para>
+
+		</listitem>
+		 <listitem>
+			<para>
+				Minor edits so the guide itself conforms with its own advice.
+			</para>
+
+		</listitem>
+
+	</itemizedlist>
+</section>
+

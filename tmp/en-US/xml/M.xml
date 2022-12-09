@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Style_Conventions_for_Writers_and_Editors.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="m" lang="en-US">
+	<title>M</title>
+	 <variablelist>
+		<varlistentry id="macOS">
+			<term>macOS</term>
+			 <listitem>
+				<para>
+					In 2016, Apple rebranded OS X to macOS, adopting the nomenclature that it uses for their other operating systems: iOS, watchOS, and tvOS. <!--  The latest version of macOS is macOS 10.12 Sierra, which was publicly released in September 2016.	   -->
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="make-sure">
+			<term>make sure</term>
+			 <listitem>
+				<para>
+					This means "be careful to remember, attend to, or find out something". For example, "make sure that the rhedk group is listed in the output."
+				</para>
+				 <para>
+					You might be able to use "verify" or "ensure" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="manualman-page">
+			<term>manual, man page</term>
+			 <listitem>
+				<para>
+					Correct. Two words. Do not use "manpage".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		<!--  Added for inclusive language  --> <varlistentry id="master">
+			<term>master</term>
+			 <listitem>
+				<para>
+					Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use another term such as "main", "primary", "controller", or "leader".
+				</para>
+				 <para>
+					Use of "master" is acceptable in other contexts, such as to refer to mastery of a skill.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="matrixes">
+			<term>matrixes</term>
+			 <listitem>
+				<para>
+					Correct. This is the correct plural form for US English spelling. Do not use "matrices".
+				</para>
+				<!--  "US" without periods?  -->
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="mb">
+			<term>MB</term>
+			 <listitem>
+				<itemizedlist>
+					<listitem>
+						<para>
+							When written as MB, stands for megabyte (1,000,000 or 1,048,576 bytes, depending on the context).
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							When written as Mb, stands for megabit.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="mbps">
+			<term>MBps</term>
+			 <listitem>
+				<para>
+					Initialism for megabytes per second, a measure of data transfer speed. Mass storage devices are generally measured in MBps.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="mbr">
+			<term>MBR</term>
+			 <listitem>
+				<para>
+					Initialism for Master Boot Record, a small program that is executed when a computer boots up. Typically, the MBR resides on the first sector of the hard disk. The program begins the boot process by looking up the partition table to determine which partition to use for booting. It then transfers program control to the boot sector of that partition, which continues the boot process. In DOS and Windows systems, you can create the MBR with the FDISK /MBR command.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="ms-dos">
+			<term>MDOS</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "ms-dos", "MSDOS", or "msdos".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="media">
+			<term>media</term>
+			 <listitem>
+				<itemizedlist>
+					<listitem>
+						<para>
+							Objects on which data can be stored. These include hard disks, CDs, and tapes.
+						</para>
+						<!--  Deleted "diskettes".  -->
+					</listitem>
+					 <listitem>
+						<para>
+							In computer networks, "media" refers to the cables that link workstations together. Out of many types of transmission media, the most popular are twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fiber optic cable (cables made out of glass).
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							The form and technology to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media.
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="menu-driven">
+			<term>menu-driven</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Correct. Do not use "menu driven" or "menudriven".
+				</para>
+				 <para>
+					Refers to programs whose user interface employs menus. The antithesis of a menu-driven program is a command-driven program.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="message">
+			<term>message</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Write "the system displays a message" or "send an instant message".
+				</para>
+				 <para>
+					<emphasis>adj.</emphasis> For example, "A messaging system".
+				</para>
+				 <para>
+					Do not use as a verb.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="metadata">
+			<term>metadata</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "meta data" or "meta-data".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="microservice-">
+			<term>microservice </term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Correct. One word, common noun. Do not use "micro-service" or "micro service". Only capitalize at the beginning of a sentence or in a title. See <ulink url="https://en.wikipedia.org/wiki/Microservices">https://en.wikipedia.org/wiki/Microservices</ulink> for a definition.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="microsoft">
+			<term>Microsoft</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "MS", "MSFT", or "MicroSoft".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="misconfigure">
+			<term>misconfigure</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis> This term is in common use and does appear in some dictionaries, but try to avoid it if possible. Do not hyphenate.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="montecito">
+			<term>Montecito</term>
+			 <listitem>
+				<para>
+					Do not use. It is a code name for the "Intel Itanium Processor 9000 Sequence". This latter phrase should be used instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="mount">
+			<term>mount</term>
+			 <listitem>
+				<para>
+					<emphasis>v.</emphasis>
+				</para>
+				 <orderedlist>
+					<listitem>
+						<para>
+							To make a mass storage device available. For example, inserting a USB flash drive is called mounting the drive.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							To install a device, such as a disk drive or expansion board.
+						</para>
+
+					</listitem>
+
+				</orderedlist>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="mouse-button">
+			<term>mouse button</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Two words. Do not use "mouse-button" or "mousebutton". If you need to indicate which mouse button, use "right", "left", or "center", such as "right mouse button". Do not hyphenate.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="mozilla-firefox">
+			<term>Mozilla Firefox</term>
+			 <listitem>
+				<para>
+					Correct. First reference must be "Mozilla Firefox". Subsequent references can be "Firefox".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="mozilla-thunderbird">
+			<term>Mozilla Thunderbird</term>
+			 <listitem>
+				<para>
+					Correct. First reference must be "Mozilla Thunderbird". Subsequent references can be "Thunderbird".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="multiprocessing">
+			<term>multiprocessing</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "multi-processing".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="must">
+			<term>must</term>
+			 <listitem>
+				<para>
+					Use when referring to a task that a user is required to do. For example, "You must make a backup" is a requirement, but "You should make a backup" is a suggestion.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="mutexes">
+			<term>mutexes</term>
+			 <listitem>
+				<para>
+					Correct. "Mutex" is an abbreviation of "mutual exclusion". Consequently, "mutexes" is the correct plural form.
+				</para>
+				<!--  Changed term entry to lowercase.  -->
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="mysql">
+			<term>MySQL</term>
+			 <listitem>
+				<para>
+					Common open source database server and client package. Do not use "MYSQL" or "mySQL". Mark the first mention of MySQL in body text with an <!--  <firstterm>ball</firstterm> (®)   --> ® symbol to denote a registered trademark.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
+	</variablelist>
+</chapter>
+
