@@ -1212,13 +1212,13 @@
 
 								</row>
 								 <row>
-									<entry> To create another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
+									<entry> To create another administrator, click <guimenuitem>File > New</guimenuitem>. </entry>
 									 <entry> 
 									<para> 									 
-									 To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. 
+									 To create another administrator account, click <guimenuitem>File > New</guimenuitem>. 
 									</para>									 
 									<para> 
-									 <emphasis>Or:</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. 
+									 <emphasis>Or:</emphasis> To set privileges for another administrator, click <guimenuitem>File > New</guimenuitem>. 
 									</para>
 									</entry>
 
@@ -1268,7 +1268,7 @@
 									 Use the utility to run activities and to save your settings (if the utility does both functions). 
 									</para>
 									 <para>
-									 <emphasis>Or:</emphasis> Use the utility to run activities, and then when you are done, save your settings (if the process consists of two separate steps, of which the utility does only one). 
+									 <emphasis>Or:</emphasis> Use the utility to run activities, and then save your settings (if the process consists of two separate steps, of which the utility does only one). 
 									 </para>
 									 </entry>
 
