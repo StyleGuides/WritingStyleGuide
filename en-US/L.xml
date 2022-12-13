@@ -104,6 +104,17 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="like">
+			<term>like</term>
+			 <listitem>
+				<para>
+					Avoid "like" to mean "such as". 
+					For example, instead of "Namespaces can include resources like network interfaces", use "Namespaces can include resources such as network interfaces".
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
 		 <varlistentry id="linux">
 			<term>Linux</term>
 			 <listitem>

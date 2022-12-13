@@ -71,19 +71,16 @@
     <para>
         You can nest lists, but try to keep the number of levels to two or fewer.
         To nest procedures in DocBook, use &lt;substep&gt; elements.
-<!-- In AsciiDoc? -->
     </para>
     <section><title>Formatting Lists for Readability</title>
       <para>
         It is important to provide sufficient spacing between elements in your documents to facilitate reading and comprehension.
         You can include a lot of information in a few short paragraphs but readers need to be able to process that information in chunks.
         The same consideration applies to lists.
-        If you use DocBook to build itemized, ordered, or variable (definition) lists, you can use the <option>compact</option> or <option>normal</option> attributes to specify the spacing between list items.
-        DocBook uses the <option>normal</option> spacing attribute by default.
-		<!-- In AsciiDoc? -->
       </para>
       <para>
-        Use a list with normal spacing if any list item contains the following components:
+        In some authoring environments, you can choose between normal or compact spacing for lists.
+		Use a list with normal spacing if any list item contains the following components:
       </para>
       <itemizedlist>
         <listitem>
@@ -112,10 +109,12 @@
         </para>
       </note>
 
-
 		 <para>
 			The following discussion provides some initial insight into using lists correctly. See the <citetitle>IBM Style Guide</citetitle> for a full discussion.
 		</para>
+		 <para>
+			Do not insert a list midway through a sentence and then continue the sentence after the list.
+		</para>		
 		 <table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
@@ -180,13 +179,172 @@
 			</tgroup>
 
 		</table>
+		 <para>
+			For a lead-in sentence that introduces a list, use a complete sentence. A lead-in that is a sentence fragment can be difficult to translate into other languages.
+		</para>	
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> <para>
+							Non-privileged users can use the role to configure:
+						</para>
+						 <itemizedlist>
+							<listitem>
+								<para>
+									Interface 1		
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>	
+									Interface 2
+								</para>
+
+							</listitem>
+
+						</itemizedlist>						
+						 </entry>
+						 <entry> <para>
+							Non-privileged users can use the role to configure the following interfaces:
+						</para>
+						 <itemizedlist>
+							<listitem>
+								<para>
+									Interface 1		
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>	
+									Interface 2
+								</para>
+
+							</listitem>	
+
+						</itemizedlist>
+						 </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>	
+
+		 <para>
+			Make items in a list grammatically parallel.
+		</para>
+		 <para>
+			In the following example, the original three list items inconsistently use an infinitive verb form, and then a gerund, and then an imperative. In the improved example, all three list items consistently use an imperative statement. 
+		</para>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> 
+						 <itemizedlist>
+							<listitem>
+								<para>
+									To obtain the file name of the default kernel with the <command>grubby</command> command: 
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									Finding the index number of the default kernel:
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									Use the <command>grubby</command> command to persistently change the default kernel:
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>							
+
+						</itemizedlist>
+						 </entry>
+						<entry> 
+						 <itemizedlist>
+							<listitem>
+								<para>
+									Obtain the file name of the default kernel with the <command>grubby</command> command:
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									Find the index number of the default kernel:
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>
+							 <listitem>
+								<para>
+									Use the <command>grubby</command> command to persistently change the default kernel:
+								</para>
+								<para>
+									...  
+								</para>
+
+							</listitem>							
+
+						</itemizedlist>
+						 </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
     </section>
     </section>
 
 		 <section id="Sentence_Structure-Noun_Stacking">
 			<title>Noun Stacking</title>
 			 <para>
-				Modifier strings (modifier + noun + noun sentence format) and over-modified nouns (or <firstterm>noun stacks</firstterm>) are especially difficult to translate, particularly when several different combinations might make sense.
+				Modifier strings (modifier + noun + noun sentence format) and over-modified nouns (or <firstterm>noun stacks</firstterm>) are especially difficult to translate, particularly when several different combinations might make sense. Avoid a stack of more than three consecutive nouns.
 			</para>
 
 		 <table>
@@ -213,6 +371,41 @@
 						 <entry> For new users, set the parameters to the default printer configuration. Enter the maximum length of time, in number of days, that you want to keep the address lists updated by automatic synchronization. Then, press Enter. </entry>
 
 					</row>
+					 <row>
+						<entry> Standard system log management configuration rotates log files every week. </entry>
+						 <entry> Standard configuration of system log management rotates log files every week. </entry>
+
+					</row>					
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+			 <para>
+				Avoid a noun followed by a word that ends in <emphasis>-ing</emphasis>. Such a construction is difficult to translate.
+			</para>
+
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> The <command>nmap</command> utility scans privileged TCP ports looking for services. </entry>
+						 <entry> The <command>nmap</command> utility scans privileged TCP ports to look for services. </entry>
+
+					</row>
+		
 
 				</tbody>
 

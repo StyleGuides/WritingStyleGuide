@@ -90,7 +90,16 @@
 				</listitem>
 
 			</varlistentry>
+			 <varlistentry>
+				<term>apples to apples</term>
+				 <listitem>
+					<para>
+						Do not use. Explain instead what is meant, such as "a fair comparison". 
+					</para>
 
+				</listitem>
+
+			</varlistentry>
 			 <varlistentry>
 				<term>ask (as a noun), make the ask</term>
 				 <listitem>
@@ -98,6 +107,16 @@
 						"To ask" is a verb.
             As a noun, "ask" is chiefly British and also considered informal.
             Do not use it in technical documentation.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>at the end of the day</term>
+				 <listitem>
+					<para>
+						Do not use. Explain what you mean, such as "considering all factors", or omit.
 					</para>
 
 				</listitem>
@@ -143,6 +162,16 @@
 				</listitem>
 
 			</varlistentry>
+<!-- 		 <varlistentry>
+				<term>boil the ocean</term>
+				 <listitem>
+					<para>
+						Do not use. State exactly what you mean, such as "increase the scope hugely".
+					</para>
+
+				</listitem>
+
+			</varlistentry>  -->
 			 <varlistentry>
 				<term>bottom line</term>
 				 <listitem>
@@ -196,16 +225,6 @@
 
 			</varlistentry>
 			 <varlistentry>
-				<term>eat your own dogfood</term>
-				 <listitem>
-					<para>
-						Developer-speak. It means to use your own products. You can get a detailed description at <ulink url="http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food">http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food</ulink>.
-					</para>
-
-				</listitem>
-
-			</varlistentry>
-			 <varlistentry>
 				<term>data point</term>
 				 <listitem>
 					<para>
@@ -226,10 +245,30 @@
 
 			</varlistentry>
 			 <varlistentry>
+				<term>drop the ball</term>
+				 <listitem>
+					<para>
+						State instead exactly what you mean, such as "make a mistake".
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
 				<term>double-edged sword, double-bladed sword</term>
 				 <listitem>
 					<para>
 						If something is described as a double-edged sword, it indicates that it has two opposing behaviors or consequences. Instead, state that it can have unexpected consequences, or that the positive result might be offset by the negative result.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>eat your own dogfood</term>
+				 <listitem>
+					<para>
+						Developer-speak. It means to use your own products. You can get a detailed description at <ulink url="http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food">http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food</ulink>.
 					</para>
 
 				</listitem>
@@ -267,7 +306,17 @@
 
 			</varlistentry>
 			 <varlistentry>
-				<term>flying by the seat of your pants</term>
+				<term>flog a dead horse</term>
+				 <listitem>
+					<para>
+						Do not use. Explain exactly what you mean, such as "a waste of effort".
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>fly by the seat of your pants</term>
 				 <listitem>
 					<para>
 						Generally understood to mean "reacting to events as they occur". Difficult to offer alternatives without context.
@@ -509,6 +558,16 @@
 				 <listitem>
 					<para>
 						Do not use.
+					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry>
+				<term>on the same page</term>
+				 <listitem>
+					<para>
+						Instead of "ensure that everyone is on the same page", use wording such as "ensure that everyone is aligned" or "ensure that everyone is in agreement".
 					</para>
 
 				</listitem>
@@ -907,15 +966,10 @@
 
 	</section>
 
-<!-- Added sections:
-Inclusive Language (new)
-Avoiding Ambiguities (move from Chapter 2)
-Dates and Times (new)
-Numbers (move from N entry) -->
 	 <section id="inclusive-language">
 		<title>Inclusive Language</title>
 		 <para>
-			In a blog post, Red&nbsp;Hat senior vice president and chief technology officer, Chris Wright, affirms a commitment for Red&nbsp;Hat to identify and replace problematic language that is potentially divisive and does not foster inclusion:
+			Chris Wright, Red&nbsp;Hat Chief Technology Officer and Senior Vice President, Global Engineering, affirms in a blog post a commitment for Red&nbsp;Hat to identify and replace problematic language that is potentially divisive and does not foster inclusion:
 		</para>
 		 <para>
 			<ulink url="https://www.redhat.com/en/blog/making-open-source-more-inclusive-eradicating-problematic-language" />
@@ -944,6 +998,54 @@ Numbers (move from N entry) -->
 		 <para>
 			Such guidance, including judgement of what constitutes acceptable versus unacceptable use, will evolve over time.
 		</para>
+	</section>
+
+<!-- Added section for redundant words -->
+	 <section id="redundant">
+		<title>Avoiding Redundant Words</title>
+		 <para>
+			Avoid redundant words, such as "actually", "really", "simply" and "very". They are typically filler words that add no value to a sentence.  
+		</para>
+		 <para>
+			Redundant words might also occur where two words or phrases are used that mean approximately the same thing, such as "revert back" versus "revert", or that add nothing to the sentence, such as "located on" versus "on".
+		</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Remote users can connect to network resources simply by authenticating to their local machine. </entry>
+									 <entry> Remote users can connect to network resources by authenticating to their local machine. </entry>
+
+								</row>
+								<row>
+									<entry> Any settings that are changed with this command revert back to their original settings when the daemon restarts. </entry>
+									 <entry> Any settings that are changed with this command revert to their original settings when the daemon restarts. </entry>
+
+								</row>
+								<row>
+									<entry> Restore the LUKS2 header to the encrypted volume located on the `/dev/sda1` partition. </entry>
+									 <entry> Restore the LUKS2 header to the encrypted volume on the `/dev/sda1` partition. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
 	</section>
 
 <!-- Moved Ambiguities section here from Chapter 2 and added several more categories of ambiguity to avoid. -->
@@ -986,6 +1088,49 @@ Numbers (move from N entry) -->
 				</listitem>
 
 			</varlistentry>
+<!-- Added entry for "easy, simple" -->
+			<varlistentry id="easy">
+				<term> Avoid Stating that Something Is Easy </term>
+				 <listitem>
+					<para>
+						Avoid stating that a task is easy to do or that a product is easy to use. Avoid "friendly" and "user-friendly" and similar terms. Focus instead on how to accomplish a task or on relevant features of a product.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Mounting a device is relatively simple. 
+									Identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point.</entry>
+									 <entry> (Omit the first sentence.) 
+									 To mount a device, identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point. </entry>
+
+								</row>
+								<row>
+									<entry> Kubernetes is an open source system that makes it easy to manage containerized applications across multiple hosts. </entry>
+									 <entry> Kubernetes is an open source system to manage containerized applications across multiple hosts. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
 			 <varlistentry id="homographs">
 				<term> Homographic Verbs </term>
 				 <listitem>
@@ -1009,12 +1154,26 @@ Numbers (move from N entry) -->
 							 <tbody>
 								<row>
 									<entry> The <methodname>next()</methodname> method should return <code>null</code> to indicate the end of results. </entry>
-									 <entry> The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. <emphasis>OR</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results. </entry>
+									 <entry> 
+									 <para>
+									 The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. 
+									 </para>
+									 <para>
+									 <emphasis>Or:</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results. 
+									 </para>
+									 </entry>
 
 								</row>
 								 <row>
 									<entry> It may be held in memory. </entry>
-									 <entry> It can be held in memory. <emphasis>OR</emphasis> It might be held in memory. </entry>
+									 <entry> 
+									 <para>
+									 It can be held in memory. 
+									 </para>
+									 <para>
+									 <emphasis>Or:</emphasis> It might be held in memory. 
+									 </para>
+									 </entry>
 
 								</row>
 
@@ -1053,8 +1212,15 @@ Numbers (move from N entry) -->
 
 								</row>
 								 <row>
-									<entry> To create another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
-									 <entry> To create another administrator account, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. <emphasis>OR</emphasis> To set privileges for another administrator, click <guimenuitem>New</guimenuitem> on the <guimenuitem>File</guimenuitem> menu. </entry>
+									<entry> To create another administrator, click <guimenuitem>File > New</guimenuitem>. </entry>
+									 <entry> 
+									<para> 									 
+									 To create another administrator account, click <guimenuitem>File > New</guimenuitem>. 
+									</para>									 
+									<para> 
+									 <emphasis>Or:</emphasis> To set privileges for another administrator, click <guimenuitem>File > New</guimenuitem>. 
+									</para>
+									</entry>
 
 								</row>
 
@@ -1097,7 +1263,14 @@ Numbers (move from N entry) -->
 								<row>
 									<entry> Use the utility to run activities and save your settings. </entry>
 								<!-- Split into 2 sentences	 -->
-									 <entry> Depending on the meaning: Use the utility to run activities and to save your settings (if the utility does both functions). Or:  Use the utility to run activities, and then when you are done, save your settings (if the process consists of two separate steps, of which the utility does only one). </entry>
+									 <entry> Depending on the meaning: 
+									 <para>
+									 Use the utility to run activities and to save your settings (if the utility does both functions). 
+									</para>
+									 <para>
+									 <emphasis>Or:</emphasis> Use the utility to run activities, and then save your settings (if the process consists of two separate steps, of which the utility does only one). 
+									 </para>
+									 </entry>
 
 								</row>
 
@@ -1134,6 +1307,55 @@ Numbers (move from N entry) -->
 								<row>
 									<entry> Once the file retrieval has been completed, you are ready to restart your system. </entry>
 									 <entry> After the files have been retrieved, you can restart your system. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+			</varlistentry>
+
+			 <varlistentry id="misplaced-only">
+				<term> Misplaced Only </term>
+				 <listitem>
+					<para>
+						Ensure that "only" is placed directly before the word that it modifies, which often should not be a verb.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> 
+									<para>
+									Users can only delete files that they own. 
+									</para>
+									<para>
+									(Misleadingly suggests that users cannot take any actions other than deletion on those files)
+									</para>
+									</entry>
+									<entry> 
+									<para>
+									Users can delete only files that they own. 
+									</para>
+									<para>
+									(Clarifies the files that deletion applies to)
+									</para>
+									</entry>
 
 								</row>
 
@@ -1191,6 +1413,47 @@ Numbers (move from N entry) -->
 					 <para>
 						For example, "Administration UI" and "Administration Console" could both be used to refer to a single application or to different applications. For this reason it is important that writers choose the most suitable term for each situation and use it consistently.
 					</para>
+
+				</listitem>
+
+			</varlistentry>
+			 <varlistentry id="there-is">
+				<term>Use of "There Is" and "There Are"</term>
+				 <listitem>
+					<para>
+						Avoid "there is", "there are", and "there might be", because the subject of the sentence is unclear.
+					</para>
+
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> The initial error message suggests there is a failure when opening a file. </entry>
+									<entry> The initial error message suggests a failure when opening a file. </entry>
+
+								</row>
+								<row>
+									<entry> There are multiple static inventory formats supported by Ansible. </entry>
+									 <entry> Ansible supports multiple static inventory formats. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
 
 				</listitem>
 
@@ -1300,7 +1563,7 @@ Numbers (move from N entry) -->
 		</para>
 		 <para>
 		For times of day, use uppercase without periods, such as "11&nbsp;AM". Use a nonbreaking space between the numeral and "AM" or "PM".
-		</para> 
+		</para>
 
 		 <para>
 		Use "noon" or "12 noon" instead of "12&nbsp;PM".

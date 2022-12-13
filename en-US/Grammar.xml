@@ -11,7 +11,7 @@
 	 <section id="active-voice">
 		<title>Active Voice</title>
 		 <para>
-			Use the active voice ("Type ... to start Linuxconf".) rather than passive ("Linuxconf can be started by typing ...") whenever possible. Active voice makes for more lively, interesting reading. It is more compelling than passive voice and helps to reduce word count.
+			Use the active voice ("Type ... to start Linuxconf") rather than passive ("Linuxconf can be started by typing ...") whenever possible. Active voice makes for more lively, interesting reading. It is more compelling than passive voice and helps to reduce word count.
 		</para>
 		 <para>
 			This does not mean that the passive voice is forbidden. There are situations when using the passive voice is appropriate, such as release notes, technical notes, and similar material.
@@ -106,6 +106,44 @@
 			</itemizedlist>
 
 		</section>
+
+	</section>
+	 <section id="countable-nouns">
+		<title>Countable Nouns</title>
+		 <para>
+			For nouns that are not countable, it is correct to use "less" and "amount", for example "less memory" or "the required amount of memory".
+			For nouns that are countable, use "fewer" instead of "less", and use "number" instead of "amount".
+		</para>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> This passphrase configuration can improve security by providing less opportunities for someone else to see you type the passphrase. </entry>
+						 <entry> This passphrase configuration can improve security by providing fewer opportunities for someone else to see you type the passphrase. </entry>
+
+					</row>
+					<row>
+						<entry> Vim has fast, efficient keystrokes to delete an exact amount of words, lines, sentences, or paragraphs. </entry>
+						 <entry> Vim has fast, efficient keystrokes to delete an exact number of words, lines, sentences, or paragraphs. </entry>
+
+					</row>					
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
 
 	</section>
 	 <section id="using-who-whom">
@@ -252,7 +290,7 @@
 	 <section id="sentence-structure">
 		<title>Sentence Structure</title>
 		 <para>
-			A <emphasis>sentence</emphasis> is one, complete thought. A sentence expresses something about a subject (a person, place, or thing) and a verb (what the subject is or does).
+			A <emphasis>sentence</emphasis> is one complete thought. A sentence expresses something about a subject (a person, place, or thing) and a verb (what the subject is or does).
 		</para>
 		 <para>
 			Consider the following points when constructing sentences:
@@ -268,6 +306,18 @@
 		 <para>
 			The <guibutton>Start</guibutton> button, which you can find in the bottom left corner of your screen (also activated by the "Windows key" on your keyboard, the one between the <keycap>Ctrl</keycap> and <keycap>Alt</keycap> keys), provides a central starting point for applications and tasks, and can be customized according to your individual preferences so that it presents menu items relevant to you instead of presenting the standard items that come with the default installation of the operating system, items which, in my opinion, are irrelevant for most users these days who really only need access to an internet browser such as Google Chrome or Mozilla Firefox.
 		</para>
+
+		 <formalpara id="preposition">
+			<title>Preposition at the End of a Sentence</title>
+			 <para>
+				Allow a preposition at the end of a sentence to avoid otherwise awkward wording.
+			</para>
+
+		</formalpara>
+		 <para>
+			For example, instead of "Click the workspace to which you want to switch", which can sound stilted, it flows better to use "Click the workspace to switch to".
+		</para>
+
 		 <formalpara id="run-on">
 			<title>Run-on Sentences</title>
 			 <para>
@@ -416,11 +466,192 @@
 
 		</table>
 
+<!-- Added section about avoiding causative verbs -->
+		 <formalpara id="causative">
+			<title>Causative Verbs</title>
+			 <para>
+				Avoid the construction "have something happen". Rewrite to replace "have" with a verb that describes the actual action.  
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> The latter connection has no devices assigned. </entry>
+						 <entry> No devices are assigned to the latter connection. </entry>
+
+					</row>
+					<row>
+						<entry> To have the changes take effect … </entry>
+						 <entry> To apply the changes … </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+<!-- 	 <formalpara id="condition-action">
+			<title>Condition and Action</title>
+			 <para>
+				A condition should precede an action. A clause that explains "why", or for what purpose, should come before a statement of what the action is or how it is done.  
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Divide the storage devices into smaller chunks to create a partition. </entry>
+						 <entry> To create a partition, divide the storage devices into smaller chunks. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table> -->
+
+<!-- Added section about "either, or" -->
+		 <formalpara id="either-or">
+			<title>The Either-Or Construction</title>
+			 <para>
+				Use the "either x ... or y" construction only to refer to a choice between two options, not for three or more options.
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Scale up by adding more resources, with either more memory, CPUs, or disk space. </entry>
+						 <entry> Scale up by adding more resources, such as memory, CPUs, or disk space. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+<!-- Added section about "following" -->
+		 <formalpara id="following-noun">
+			<title>Use of Following</title>
+			 <para>
+				Use "following" with a noun.
+				In a quiz question, "the following" is often superfluous.
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Non-privileged users can use the role to configure the following: </entry>
+						 <entry> Non-privileged users can use the role to configure the following interfaces: </entry>
+
+					</row>
+					<row>
+						<entry> Which two of the following statements describe the benefits of Linux? </entry>
+						 <entry> Which two statements describe the benefits of Linux? </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+<!-- Added section about "if, then" -->
+		 <formalpara id="if-then">
+			<title>The If-Then Construction</title>
+			 <para>
+				Generally, follow an "if" statement with a "then" statement.
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> If one service is started, the other is also started. </entry>
+						 <entry> If one service is started, then the other is also started. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
 <!-- Added section about use of relative pronoun "that" -->
 		 <formalpara id="that">
-			<title>"That" in Clauses</title>
+			<title>Including That in Clauses</title>
 			 <para>
-				Include the word "that" in clauses unless it results in writing that is too formal or stilted. The use of the conjunction "that" makes the sentence easier to translate and improves clarity for readers whose primary language is not English.  
+				Include the word "that" in clauses unless it results in writing that is too formal or stilted. 
+				Including the conjunction "that" makes the sentence easier to translate and improves clarity for readers whose primary language is not English.  
 			</para>
 
 		</formalpara>
@@ -449,6 +680,54 @@
 			</tgroup>
 
 		</table>
+
+<!-- Added section about use of "this, that, these, those" -->
+		 <formalpara id="this-that-these-those">
+			<title>Use of This That These Those</title>
+			 <para>
+				Use "this", "that", "these", or "those" followed by a noun. 
+				Doing so improves clarity for readers whose primary language is not English, and improves accuracy of translation into other languages where these words differ based on the gender of the noun that they refer to.  
+			</para>
+
+		</formalpara>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> This causes SSH to lose the recorded identities of the remote systems. </entry>
+						<entry> 
+						 <para>
+						 Option 1: This action causes SSH to lose the recorded identities of the remote systems. 
+						 </para>
+						 <para>
+						 Option 2: Consequently, SSH loses the recorded identities of the remote systems.
+						 </para>						 
+						 </entry>
+
+					</row>
+					<row>
+						<entry> A site can use these to self-allocate a private routable IP address space inside the organization. </entry>
+						 <entry> A site can use these unique local addresses to self-allocate a private routable IP address space inside the organization. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
 		 <formalpara id="verbosity">
 			<title> Verbosity </title>
 			 <para>
@@ -471,10 +750,15 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> The individual member of the social community often receives information via visual, symbolic channels. </entry>
-						 <entry> People read. (Translation by Richard Feynman.) </entry>
+						<entry> The <command>fsck /dev/vdb1</command> command performs a file system check on the XFS file system residing on the <filename>/dev/vdb1</filename> partition. </entry>
+						 <entry> The <command>fsck /dev/vdb1</command> command checks the XFS file system on the <filename>/dev/vdb1</filename> partition. </entry>
 
 					</row>
+					<row>
+						<entry> Red&nbsp;Hat Insights provides different services for the administration and monitoring of the registered systems that can be used for troubleshooting and even remediation of the issues identified. </entry>
+						 <entry> Red&nbsp;Hat Insights services administer and monitor registered systems to troubleshoot and remediate issues. </entry>
+
+					</row>					
 					<row>
 						<entry> Perform the installation of the product. </entry>
 						 <entry> Install the product. </entry>
@@ -573,7 +857,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 				Do not hyphenate "open source", even when used as a complex adjective.
 			</para>
 			 <para>
-				Do not hyphenate a compound that includes an adverb ending in -ly, whether it comes before or after the noun. This is described in Chicago Manual of Style 7.82.
+				Do not hyphenate a compound that includes an adverb that ends in <emphasis>-ly</emphasis>, whether it comes before or after the noun, because it is never ambiguous. This is described in Chicago Manual of Style 7.82. For example, "Red&nbsp;Hat Enterprise Linux is a production-ready, commercially supported Linux distribution."
 			</para>
 
 		</note>
@@ -606,11 +890,56 @@ Split contractions and abbreviations into separate paragraphs. -->
 		</formalpara>
 
 	</section> 
-	 <section id="gender-references">
-		<title>Gender References</title>
+	 <section id="pronouns-gender-references">
+		<title>Pronouns and Gender References</title>
 		 <para>
-			Do not use gender-specific pronouns in documentation, except to refer to a specific named user, such as in a case study. It is far less awkward to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers". It is acceptable to use "they" to refer to one person, with a plural verb. In most cases, when giving instructions, use the imperative mood or use "you". In more general explanations, you can use "the user" or "new users". Do not use "one" in place of "you" when writing technical documentation. Using "one" is far too formal. Do not use "it" to refer to a person.
+			Do not use gender-specific pronouns in documentation, except to refer to a specific named user, such as in a case study. It is easier to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers". It is acceptable to use "they" to refer to one person, with a plural verb. 
 		</para>
+		 <para>			
+			In most cases, when giving instructions, use the imperative mood or use "you". In more general explanations, you can use "users" or "new users". Do not use "one" in place of "you" when writing technical documentation, because it is too formal. Do not use "it" to refer to a person.
+		</para>
+		 <para>
+			Avoid first person "I, we, our". Use second person "you" whenever possible. 
+		</para>
+		 <para>
+			If referring to what Red&nbsp;Hat does, use "Red&nbsp;Hat" followed by a singular verb. 
+		</para>	
+
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					 <row>
+						<entry> An engineer must be trained on the equipment that he services. </entry>
+						 <entry> Engineers must be trained on the equipment that they service. </entry>
+
+					</row>			
+					<row>
+						<entry> In the web console, we can restart or shut down the system. </entry>
+						 <entry> In the web console, you can restart or shut down the system. </entry>
+
+					</row>
+					 <row>
+						<entry> We recommend that you generate a service account for each microservice in your project. </entry>
+						 <entry> Red&nbsp;Hat recommends that you generate a service account for each microservice in your project. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>			
 	
 	</section>
 	 <section id="tense">

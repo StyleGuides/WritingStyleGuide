@@ -8,7 +8,7 @@
 	<!-- Change title to "The Red Hat Style Guide" -->
 	 <productname>Red&nbsp;Hat Technical Writing Style&nbsp;Guide</productname>
 	 <productnumber></productnumber>
-	 <edition>5.1</edition>
+	 <edition>6.0</edition>
 	 <pubsnumber>1</pubsnumber>
 	 <abstract>
 		<para>
@@ -17,12 +17,6 @@
 
 	</abstract>
 	 <corpauthor>
-		<inlinemediaobject>
-			<imageobject>
-				<imagedata fileref="Common_Content/images/title_logo.svg" format="SVG" />
-			</imageobject>
-
-		</inlinemediaobject>
 
 	</corpauthor>
 	 <xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
