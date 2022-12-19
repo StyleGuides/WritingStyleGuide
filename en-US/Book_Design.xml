@@ -99,7 +99,9 @@
 			Drawing these basics together might produce the following example abstract:
 		</para>
 		 <para>
-			"The Red&nbsp;Hat Satellite&nbsp;5.6 API Guide is a full reference for Satellite's XMRPC API. The guide explains each API method and demonstrates examples of data models for input and output. This book provides a basis for administrators and developers to write custom scripts and to integrate Red Hat Satellite with third-party applications."
+			"The Red&nbsp;Hat Satellite&nbsp;5.6 API Guide is a full reference for Satellite's XMRPC API.
+			The guide explains each API method and demonstrates examples of data models for input and output.
+			This book provides a basis for administrators and developers to write custom scripts and to integrate Red&nbsp;Hat Satellite with third-party applications."
 		</para>
 		 <para>
 			Update or modify each component according to the type of book that you are writing.
@@ -122,7 +124,7 @@
 	</section>
 	 <section id="unused-heading-titles">
 		<title>Unused Heading Titles</title>
-		 <para>		
+		 <para>
 			This section lists various heading titles that might be used in Red&nbsp;Hat technical documentation, but that should be avoided except in specific circumstances.
 		</para>
 		 <formalpara id="overview">
