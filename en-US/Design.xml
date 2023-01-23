@@ -16,7 +16,7 @@
 				<title>Capitalization</title>
 					<para>
 					The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
-            Table headings, procedure headings, and formal paragraph titles fall under this heading, and consequently, standard title case capitalization rules apply.
+            Table headings, procedure headings, and formal paragraph titles fall under this heading; standard title case capitalization rules apply.
 					</para>
 		</formalpara>
 			<para>
@@ -42,7 +42,7 @@
 
           <para>
             Be frugal with punctuation.
-            In most cases, avoid semicolons, colons, dashes, and similar punctuation unless part of the actual subject, or a proper name.
+            Avoid semicolons, colons, dashes, and similar punctuation unless part of the actual subject, or a proper name.
             Do not use terminating periods.
             </para>
           </formalpara>
@@ -102,7 +102,7 @@
 				For example, for a button labeled <guibutton>Save As...</guibutton>, do not include the ellipsis in the documentation.
 			</para>
       <para>
-        In most cases, do not include the element type in instructions.
+        Avoid including the element type in instructions.
         For example, rather than "Click the <guibutton>Save</guibutton> button", write "Click <guibutton>Save</guibutton>".
       </para>
       <para>
@@ -136,7 +136,7 @@
 			<section>
 			 <title>Navigating Through Multiple UI Options</title>
 				 <para>
-					 Use "Navigate to" when moving through multiple UI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to initiate an action.
+					 Use "Navigate to" when moving through multiple UI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to start an action.
 				 </para>
 				 <para>
 					 For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
@@ -182,7 +182,7 @@
 			</para>
 			 <para>
 				RHEL&nbsp;8 uses the following approach to starting applications from the desktop.
-				In an effort to maintain consistency and to make translation easier, Red&nbsp;Hat documentation assumes use of GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to start applications.
+				To maintain consistency and to make translation easier, Red&nbsp;Hat documentation assumes the use of GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to start applications.
 			</para>
 			 <para>
 				The preferred approach is to use the <keycap>Super</keycap> key to enter the Activities Overview, to enter the name of the required application, and to press <keycap>Enter</keycap>.
@@ -272,7 +272,7 @@
 					<term>Target options <replaceable>[directory]</replaceable></term>
 					 <listitem>
 						<para>
-							The optional directory into which the repository will be cloned.
+							The optional directory into which the repository is cloned.
               It must be replaced with a valid value, or be omitted.
 						</para>
 
@@ -326,7 +326,8 @@
 					<term>Target options (<replaceable>[username@]hostname:/directory</replaceable>)</term>
 					 <listitem>
 						<para>
-							The optional username, indicated by brackets ([]), followed by the hostname and path to the target directory. All aspects of this component must be replaced with valid values.
+							The optional username, indicated by brackets, [], followed by the hostname and path to the target directory.
+              All aspects of this component must be replaced with valid values.
 						</para>
 
 					</listitem>
@@ -336,7 +337,7 @@
 			</variablelist>
 			 <warning>
 				<para>
-					In most cases, avoid using the <option>--force (-f)</option> and <option>--assumeyes (-y)</option> options on most commands, especially when logged in as the <systemitem>root</systemitem> user. This can lead to unintended consequences, such as removing files or directories by mistake or installing packages or other software that might not suit your system. Refer to the following examples:
+					Avoid using the <option>--force (-f)</option> and <option>--assumeyes (-y)</option> options on most commands, especially when logged in as the <systemitem>root</systemitem> user. This can lead to unintended consequences, such as removing files or directories by mistake or installing packages or other software that might not suit your system. Refer to the following examples:
 				</para>
 
 <screen>[root@serverc pam.d]# rm -f system-auth password-auth
@@ -353,7 +354,8 @@
 			 <section>
 				<title>Documenting Multiple or Long Commands</title>
 				 <para>
-					Sometimes you need to demonstrate how to use long commands that extend over two or more lines, or that include several commands in a single example. If the commands are relatively short and straightforward, then include the commands on consecutive lines:
+					Sometimes you need to show how to use long commands that extend over two or more lines, or that include several commands in a single example.
+          If the commands are relatively short and straightforward, then include the commands on consecutive lines.
 				</para>
 				 <example>
 					<title>Documenting Multiple Commands</title>
@@ -387,7 +389,7 @@ $ vi myFile.txt
           <important>
             <para>
               Do not mix these styles.
-              Maintain the same style throughout your document, book, and product set.
+              Use the same style throughout your document, book, and product set.
             </para>
           </important>
           <para>
@@ -410,7 +412,7 @@ $ vi myFile.txt
 
 <example><title>Wrapping Long Commands Without Continuation Characters or PS2 Prompts</title>
   <para>
-    This example uses neither continuation characters nor PS2 prompts, but it does demonstrate how to use line indentation to help to clarify long commands.
+    This example uses neither continuation characters nor PS2 prompts, but it does show how to use line indentation to help to clarify long commands.
   </para>
 <screen># cd /var/lib/katello
 
@@ -470,7 +472,7 @@ $ vi myFile.txt
 
       <para>
         The term <firstterm>escalated privileges</firstterm> refers to changing to a user whose privileges allow operations that a normal user cannot access.
-        It also refers to temporarily changing the privileges of the current user to perfom those operations without actually changing user accounts.
+        It also refers to temporarily changing the privileges of the current user to perfom those operations without changing user accounts.
       </para>
       <note>
         <para>
@@ -587,7 +589,8 @@ $ vi myFile.txt
 		 <section id="use-hostnames-correctly">
 			<title>Using Host and Usernames Correctly</title>
 			 <para>
-				Many examples in Red&nbsp;Hat documentation require the use of usernames, hostnames, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following approach.
+				Many examples in Red&nbsp;Hat documentation require the use of usernames, hostnames, IP addresses, and similar information.
+        To reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following approach:
 			</para>
 			 <note>
 				<para>
@@ -598,7 +601,8 @@ $ vi myFile.txt
 			 <itemizedlist>
 				<listitem>
 					<para>
-						Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, it is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
+						Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to find suitable domain names.
+            For documentation and example purposes, it is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
 					</para>
 					 <important>
 						<para>
@@ -618,7 +622,7 @@ $ vi myFile.txt
 
 <screen><prompt>[root@fedora ~]# </prompt><userinput>setfacl -m u:user1:rw /project/file1</userinput></screen>
 					 <para>
-						The following list provides further alternatives:
+						The following list provides further options:
 					</para>
 					 <itemizedlist>
 						<listitem>
@@ -685,7 +689,8 @@ $ vi myFile.txt
 					</listitem>
 					 <listitem>
 						<para>
-							Include a diverse set of names in your examples to reflect the diversity of the real world. For example, use male, female, and culturally diverse names that suggest a variety of backgrounds in examples to avoid implying that only certain groups have specific skills.
+							Include a diverse set of names in your examples to reflect the diversity of the real world.
+              For example, use male, female, and culturally diverse names that suggest various backgrounds in examples to avoid implying that only certain groups have specific skills.
 						</para>
 
 					</listitem>
@@ -1087,14 +1092,18 @@ $ vi myFile.txt
 
 		</para>
 		 <para>
-			In most cases, major changes take place in major version releases, and are carried through any minor updates to that release. If you are referring to a major change, or to the first appearance of a new technology, it is therefore most accurate to refer to the major release.
+			Major changes usually take place in major version releases, and are carried through any minor updates to that release.
+      If you are referring to a major change, or to the first appearance of a new technology, it is therefore most accurate to refer to the major release.
 		</para>
 		 <para>
-			Avoid using the "dot-oh" release number. For example, do not use Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.0. Use instead Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.
+			Avoid using the "dot-oh" release number.
+      For example, do not use Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.0.
+      Use instead Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.
 		</para>
 		 <important>
 			<para>
-				This rule applies only to Red&nbsp;Hat products. Refer to other companies' products and use their version numbers as they use them.
+				This rule applies only to Red&nbsp;Hat products.
+        Refer to other companies' products and use their version numbers as they use them.
 			</para>
 
 		</important>
@@ -1103,14 +1112,17 @@ $ vi myFile.txt
 	 <section id="admonitions">
 		<title>Using Admonitions</title>
 		 <para>
-			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
+			To call attention to a statement, use an admonition.
+      Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep in mind these considerations if using admonitions:
+			Admonitions automatically include a suitable title according to the type of admonition.
+      Do not use a phrase or anything else for the title.
+      Keep the following considerations in mind if using admonitions:
 			<itemizedlist>
 				<listitem>
 					<para>
-						Keep the statements as brief and to the point as possible.
+						Keep statements brief and to the point.
 					</para>
 
 				</listitem>
@@ -1122,19 +1134,20 @@ $ vi myFile.txt
 				</listitem>
 				 <listitem>
 					<para>
-						Use a <command>Note</command> admonition to bring additional information to the user's attention.
+						Use a <command>Note</command> admonition to bring extra information to the user's attention.
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						Use an <command>Important</command> admonition to show the user a piece of information that should not be overlooked. While this information might not change anything that the user is doing, it should show the user that this piece of information could be vital.
+						Use an <command>Important</command> admonition to show the user a piece of information that should not be overlooked.
+            This information might not change anything that the user is doing, but it should show the user that this piece of information could be vital.
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						Use a <command>Warning</command> admonition to alert the reader that the current setup will change or be altered, such as files being removed, and not to perform the operation unless fully aware of the consequences.
+						Use a <command>Warning</command> admonition to alert the reader to potential changes, such as files being removed, and not to perform the operation unless fully aware of the consequences.
 					</para>
 
 				</listitem>
