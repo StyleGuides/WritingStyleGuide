@@ -5,9 +5,7 @@
 ]>
 <chapter id="a">
 	<title>A</title>
-<!-- Some of the entries were not listed in alphabetical order.	 -->
 	 <variablelist>
-<!-- Entries previously used a mixture of "v." and "vb." to denote a verb. Changed all occurrences to "v." -->
 		<varlistentry id="amp-and-">
 			<term>"&amp;" and "+"</term>
 			 <listitem>
@@ -55,10 +53,10 @@
 		</varlistentry>
 		 <varlistentry id="all-in-one">
 			<term role="true">all-in-one</term>
-      <term role="false">allinone</term>
 			 <listitem>
 				<para>
-					<emphasis>n., adj.</emphasis> Hyphenate in both places. Do not use "allinone" or other variations.
+					<emphasis>n., adj.</emphasis> Write as shown as both a noun and an adjective.
+					Do not use other variations.
 				</para>
 
 			</listitem>
@@ -78,7 +76,7 @@
 			</listitem>
 
 		</varlistentry>
-		 
+
 		 <varlistentry id="alternative">
 			<term role="true">alternative</term>
 			 <listitem>
@@ -98,7 +96,7 @@
 			 <listitem>
 				<para>
 					For times of day, use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "11&nbsp;AM".
-				</para> 
+				</para>
         <para>
           See also <xref linkend="pm"/>.
         </para>
@@ -123,7 +121,7 @@
 					<para>
 						The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
 					</para>
-		<!-- Updated URL for AMD trademarks. -->			
+		<!-- Updated URL for AMD trademarks. -->
 					 <para>
 						For more information about Intel&reg; trademarks, see <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
 					</para>
@@ -157,9 +155,9 @@
 
 			</listitem>
 
-		</varlistentry>		
+		</varlistentry>
 
-<!-- Commenting out this entry as it is not a literal term entry. Consider moving elsewhere, such as to Section 3.7 and expand scope of that section? 		
+<!-- Commenting out this entry as it is not a literal term entry. Consider moving elsewhere, such as to Section 3.7 and expand scope of that section?
 		 <varlistentry id="application">
 			<term>application</term>
 			 <listitem>
@@ -295,7 +293,7 @@
 						<para>
 							When in all capitals, such as a title or headline, the "aa" in the acronym remains lowercase (such as INTRODUCTION TO PaaS SOLUTIONS).
 						</para>
-<!-- When would all capitals be used? -->						
+<!-- When would all capitals be used? -->
 
 					</listitem>
 					 <listitem>

@@ -75,7 +75,6 @@
 				<para>
 					Do not use. Instead, use "compatible with earlier versions" to refer to something that is compatible with older equipment or previous versions of software. See also <xref linkend="forwards-compatible" />.
 				</para>
-<!-- Replaced with "compatible with earlier versions", to align with advice for "forwards-compatible". -->				
 
 			</listitem>
 
@@ -362,8 +361,8 @@
 			<term>broadcast</term>
 			 <listitem>
 				<para>
-					To send the same message simultaneously to multiple recipients. Broadcasting is a useful feature in email systems. 
-<!-- Deleted reference to fax. 					
+					To send the same message simultaneously to multiple recipients. Broadcasting is a useful feature in email systems.
+<!-- Deleted reference to fax.
 					It is also supported by some fax systems. -->
 				</para>
 				 <para>
