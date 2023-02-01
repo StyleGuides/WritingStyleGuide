@@ -12,8 +12,6 @@
 				<para>
 					Refer to the primary reference for the type of copy you are creating, either AP or IBM.
 				</para>
-<!-- Deleted the dated term "e-business". -->
-
 			</listitem>
 
 		</varlistentry>
@@ -31,7 +29,8 @@
 			<term>earlier</term>
 			 <listitem>
 				<para>
-					Use to refer to earlier releases of products. Do not use "older" or related terms. See also <xref linkend="later" />.
+					Use to refer to earlier releases of products. Do not use "older" or related terms.
+          See also <xref linkend="later" />.
 				</para>
 
 			</listitem>
@@ -120,7 +119,7 @@
 			<term>Ethernet</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Uppercase "E" at all times.
+					<emphasis>n.</emphasis> Always capitalize as shown.
 				</para>
 
 			</listitem>

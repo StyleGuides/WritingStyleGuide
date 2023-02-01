@@ -252,15 +252,20 @@
 			<term>FQDN</term>
 			 <listitem>
 				<para>
-          A fully qualified domain name consists of a list of domain labels representing the hierarchy from the lowest relevant level in the DNS to the top-level domain (TLD). The domain labels are concatenated by using the dot or period character (.) as a separator between labels.<footnote><para>https://en.wikipedia.org/wiki/Fully_qualified_domain_name</para></footnote>
+          A fully qualified domain name consists of a list of domain labels representing the hierarchy from the lowest relevant level in the DNS to the top-level domain (TLD).
+          The domain labels are concatenated by using the dot or period character (.) as a separator between labels.
+          <footnote>
+            <para>
+              https://en.wikipedia.org/wiki/Fully_qualified_domain_name
+            </para>
+           </footnote>
         </para>
         <para>
-          For example, <uri>www.redhat.com</uri> is a fully qualified domain name, where <quote>www</quote> is the host, <quote>redhat</quote> is the second-level domain, and <quote>com</quote> is the top-level domain.
+          For example, <uri>www.redhat.com</uri> is a fully qualified domain name, where "www" is the host, "redhat" is the second-level domain, and "com" is the top-level domain.
 				</para>
 				 <para>
-					An FQDN always starts with a hostname and continues all the way up to the top-level domain name; consequently <quote>www.parc.xerox.com</quote> is also an FQDN.
+					An FQDN always starts with a hostname and continues all the way up to the top-level domain name; consequently "www.parc.xerox.com" is also an FQDN.
 				</para>
-<!-- Changed to "an FQDN". -->
 
 			</listitem>
 
@@ -269,7 +274,11 @@
 			<term>frictionless</term>
 			 <listitem>
 				<para>
-					Avoid. This term is (a) jargon and (b) inaccurate. Nothing is ever really frictionless. Instead, talk about actual improvement in speed or time. See also <xref linkend="bimodal-it" />.
+					Avoid.
+          This term is both jargon and inaccurate.
+          Nothing is ever really frictionless.
+          Instead, talk about actual improvement in speed or time.
+          See also <xref linkend="bimodal-it" />.
 				</para>
 
 			</listitem>

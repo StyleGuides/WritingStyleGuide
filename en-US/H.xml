@@ -57,41 +57,26 @@
 			<term>he/she</term>
 			 <listitem>
 				<para>
-					Do not use. Reword to avoid. In most cases, "they" is acceptable as a singular pronoun.
+					Do not use.
+         Usually, "they" is acceptable as a singular pronoun.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <!-- <varlistentry id="healthcare">
-			<term>healthcare</term>
-			 <listitem>
-				<para>
-					<remark>Under review. Need context and example.</remark>
-
-				</para>
-
-			</listitem>
-
-		</varlistentry> -->
 		 <varlistentry id="health-check">
 			<term>health check</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Two words. This is a change from the previous style standard (one word) to take advantage of the better search ranking of the two-word variation, and is used in product names that are similar to competitive offerings in the same space.
+					<emphasis>n.</emphasis> Two words.
+          This is a change from the previous style standard (one word) to take advantage of the better search ranking of the two-word variation, and is used in product names that are similar to competitive offerings in the same space.
 				</para>
 				 <para>
 					This term is only capitalized when part of a product name, for example:
 					<itemizedlist>
 						<listitem>
 							<para>
-								<productname>Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;Server Health&nbsp;Check</productname>
-							</para>
-
-						</listitem>
-						 <listitem>
-							<para>
-								<productname>JBoss Middleware&nbsp;Health&nbsp;Check</productname>
+								<productname>Red&nbsp;Hat Enterprise Linux Server Health Check</productname>
 							</para>
 
 						</listitem>
@@ -100,7 +85,8 @@
 
 				</para>
 				 <para>
-					Do not capitalize when referring to those services in a general way. For example: "A health check ensures that your systems perform at their best."
+					Do not capitalize when referring to those services in a general way.
+          For example: "A health check ensures that your systems perform at their best."
 				</para>
 
 			</listitem>
@@ -131,12 +117,13 @@
 			<term>high-availability, high availability</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Hyphenate, except as part of a product name. For example, "high-availability cluster".
-					<!-- Do not use "high availability". -->
+					<emphasis>adj.</emphasis> Hyphenate, except as part of a product name.
+          For example, "high-availability cluster".
 				</para>
 
 				 <para>
-					<emphasis>n.</emphasis> Two words. For example, "Support is available 24x7 to help maintain high availability."
+					<emphasis>n.</emphasis> Two words.
+          For example, "Support is available 24x7 to help maintain high availability."
 				</para>
 
 			</listitem>
@@ -156,7 +143,8 @@
 			<term>home page</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Two words. Capitalize the "H" at the beginning of a sentence. If part of a proper noun, capitalize accordingly.
+					<emphasis>n.</emphasis> Two words.
+          Capitalize the "H" at the beginning of a sentence or if part of a proper noun.
 				</para>
 
 			</listitem>
@@ -176,7 +164,7 @@
 			<term>hostname</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> One word in most cases.
+					<emphasis>n.</emphasis> Usually one word.
           Capitalize the "H" at the beginning of a sentence.
           See the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
