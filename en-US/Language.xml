@@ -126,7 +126,9 @@
 				<term>at this point in time</term>
 				 <listitem>
 					<para>
-						Do not use. In most cases, use "now". In some cases it is acceptable to use "at this point", for example, when you have reached a specific point in a procedure.
+						Do not use.
+            In most cases, use "now".
+            In some cases it is acceptable to use "at this point", for example, when you have reached a specific point in a procedure.
 					</para>
 
 				</listitem>
@@ -136,7 +138,9 @@
 				<term>automagic</term>
 				 <listitem>
 					<para>
-						Also, automagical. Both terms are slang. Do not use.
+						Also, automagical.
+            Both terms are slang.
+            Do not use.
 					</para>
 
 				</listitem>
@@ -146,7 +150,11 @@
 				<term>best-of-breed</term>
 				 <listitem>
 					<para>
-						Jargon. Say exactly what you mean, for example, "the best product in its class" or "the best product of its type". Other alternatives include best, foremost, most advanced, optimum. The category is usually implied. Be wary of using superlatives without data to back up any claims.
+						Jargon.
+            Say exactly what you mean, for example, "the best product in its class" or "the best product of its type".
+            Other alternatives include best, foremost, most advanced, and optimum.
+            The category is usually implied.
+            Be wary of using superlatives without data to back up any claims.
 					</para>
 
 				</listitem>
@@ -162,16 +170,17 @@
 				</listitem>
 
 			</varlistentry>
-<!-- 		 <varlistentry>
+ 		 <varlistentry>
 				<term>boil the ocean</term>
 				 <listitem>
 					<para>
-						Do not use. State exactly what you mean, such as "increase the scope hugely".
+						Do not use.
+            State exactly what you mean, such as "increase the scope hugely".
 					</para>
 
 				</listitem>
 
-			</varlistentry>  -->
+			</varlistentry>  
 			 <varlistentry>
 				<term>bottom line</term>
 				 <listitem>
@@ -187,7 +196,8 @@
 				<term>bucketize</term>
 				 <listitem>
 					<para>
-						Not a word. Try "categorize" or "organize into logical groups".
+						Not a word.
+            Try "categorize" or "organize into logical groups".
 					</para>
 
 				</listitem>
@@ -207,7 +217,9 @@
 				<term>check this site</term>
 				 <listitem>
 					<para>
-						Understood to mean "have a look at this website". The preferred phraseology is "See www.somewhere.com for more information." It is better to avoid "check" because it has so many meanings.
+						Understood to mean "have a look at this website".
+            The preferred phraseology is "See www.somewhere.com for more information."
+            It is better to avoid "check" because it has so many meanings.
 					</para>
 
 				</listitem>
@@ -218,7 +230,8 @@
 				<term>core competency</term>
 				 <listitem>
 					<para>
-						Jargon, cold and impersonal. Better choices include "specialization", "skill", "strength", "expertise", and so on. The De-Jargonator says: "'Competent' means 'adequate but not exceptional.' Why would you describe what you do best as 'competence'? Try instead: What your organization does best; competitive advantage; special or unique expertise or ability; specialty."
+						Jargon, cold and impersonal.
+            Better choices include "specialization", "skill", "strength", "expertise", and so on.
 					</para>
 
 				</listitem>
@@ -238,7 +251,9 @@
 				<term>dig deeper, delve deeper</term>
 				 <listitem>
 					<para>
-						"Visit the following web link to dig deeper into [subject] ...". Using "dig deeper" may translate awkwardly. Consider rewording: "For detailed information regarding [subject], see [link]."
+						"Visit the following web link to dig deeper into [subject] ...".
+            Using "dig deeper" may translate awkwardly.
+            Consider rewording: "For detailed information regarding [subject], see [link]."
 					</para>
 
 				</listitem>
@@ -258,7 +273,8 @@
 				<term>double-edged sword, double-bladed sword</term>
 				 <listitem>
 					<para>
-						If something is described as a double-edged sword, it indicates that it has two opposing behaviors or consequences. Instead, state that it can have unexpected consequences, or that the positive result might be offset by the negative result.
+						If something is described as a double-edged sword, it indicates that it has two opposing behaviors or consequences.
+            Instead, state that it can have unexpected consequences, or that the positive result might be offset by the negative result.
 					</para>
 
 				</listitem>
@@ -268,7 +284,9 @@
 				<term>eat your own dogfood</term>
 				 <listitem>
 					<para>
-						Developer-speak. It means to use your own products. You can get a detailed description at <ulink url="http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food">http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food</ulink>.
+						Jargon.
+            It means to use your own products.
+            You can get a detailed description at <ulink url="http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food">http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food</ulink>.
 					</para>
 
 				</listitem>
@@ -278,7 +296,7 @@
 				<term>enterprise-ready</term>
 				 <listitem>
 					<para>
-						Although Red&nbsp;Hat used to use this term to emphasize its products' enterprise readiness, it is not as necessary now, especially when talking about a product with "Enterprise" in its name, unless you're calling this out as a key selling point.
+						Although Red&nbsp;Hat used to use this term to emphasize its products' enterprise readiness, it is not as necessary now, especially when talking about a product with "Enterprise" in its name, unless you are calling this out as a key selling point.
 					</para>
 
 				</listitem>
@@ -288,7 +306,8 @@
 				<term>exceed your expectations</term>
 				 <listitem>
 					<para>
-						Vague. Clarify with specifics, for example, "The movie made more money on the opening weekend than anyone expected." instead of "The movie exceeded our expectations."
+						Vague.
+            Clarify with specifics, for example, "The movie made more money on the opening weekend than anyone expected." instead of "The movie exceeded our expectations."
 					</para>
 
 				</listitem>
@@ -309,7 +328,8 @@
 				<term>flog a dead horse</term>
 				 <listitem>
 					<para>
-						Do not use. Explain exactly what you mean, such as "a waste of effort".
+						Do not use.
+            Explain exactly what you mean, such as "a waste of effort".
 					</para>
 
 				</listitem>
@@ -319,7 +339,9 @@
 				<term>fly by the seat of your pants</term>
 				 <listitem>
 					<para>
-						Generally understood to mean "reacting to events as they occur". Difficult to offer alternatives without context.
+						Slang.
+            Generally understood to mean "reacting to events as they occur".
+            Difficult to offer alternatives without context.
 					</para>
 
 				</listitem>
@@ -483,7 +505,8 @@
 				<term>kettle of fish</term>
 				 <listitem>
 					<para>
-						Commonly used in the expression "a different kettle of fish", meaning "that's a different matter (altogether)". Depending on the context, try to use "topic", "subject", "matter", or something similar.
+						Commonly used in the expression "a different kettle of fish", meaning "that is a different matter (altogether)".
+            Depending on the context, use "topic", "subject", "matter", or something similar.
 					</para>
 
 				</listitem>
@@ -493,7 +516,8 @@
 				<term>leverage</term>
 				 <listitem>
 					<para>
-						Avoid. Alternatives include "use" and "take advantage of".
+						Avoid.
+            Alternatives include "use" and "take advantage of".
 					</para>
 
 				</listitem>
@@ -637,7 +661,8 @@
 				<term>ready to rumble</term>
 				 <listitem>
 					<para>
-						"Let's get ready to rumble!" is a trademarked catchphrase used to introduce televised boxing or wrestling events. In US English slang, being "ready to rumble" means you are "ready to go ahead" or "ready to start".
+						"Let's get ready to rumble!" is a trademarked catchphrase used to introduce televised boxing or wrestling events.
+            In US English slang, being "ready to rumble" means you are "ready to go ahead" or "ready to start".
 					</para>
 
 				</listitem>
@@ -689,7 +714,9 @@
 				<term>shy of</term>
 				 <listitem>
 					<para>
-						Apart from the "normal" meaning of shy, it is also found in such phrases as "he was just shy of the mark", meaning that he didn't quite succeed. Also, to be "a few items shy of what's required" means to have fewer than the minimum required number. Avoid this terminology and use more easily understood terms; it will help translators and also those reading English documentation who are unfamiliar with such slang.
+						Apart from the "normal" meaning of shy, it is also found in such phrases as "he was just shy of the mark", meaning that he did not quite succeed.
+            Also, to be "a few items shy of what is required" means to have fewer than the minimum required number.
+            Avoid this terminology and use more easily understood terms; it helps translators and also those reading English documentation who are unfamiliar with such slang.
 					</para>
 
 				</listitem>
@@ -773,7 +800,8 @@
 				<term>under the covers</term>
 				 <listitem>
 					<para>
-						This refers to something being out of plain sight or not immediately obvious. For example, you might only see the results of some action or command, but what happens "under the covers" is what is going on in the background, that you can't see or are not aware of, to make that action of command possible.
+						This refers to something being out of plain sight or not immediately obvious.
+            For example, you might only see the results of some action or command, but what happens "under the covers" is what is going on in the background, that you cannot see or are not aware of, to make that action of command possible.
 					</para>
 
 				</listitem>
@@ -783,7 +811,9 @@
 				<term>value-added</term>
 				 <listitem>
 					<para>
-						Jargon. Say "added value" or "valuable". Or be more specific, for example, "adds value by improving productivity".
+						Jargon.
+            Say "added value" or "valuable".
+            Or be more specific, for example, "adds value by improving productivity".
 					</para>
 
 				</listitem>
@@ -839,11 +869,10 @@
 		</itemizedlist>
 
 	</section>
-<!-- Added phrasal verbs section. -->
 	 <section id="phrasal-verbs">
 		<title>Phrasal Verbs</title>
 		 <para>
-			Avoid using a two-word verb form (a <emphasis>phrasal verb</emphasis>) if a one-word equivalent exists.
+			Avoid using two-word verb forms (<emphasis>phrasal verbs</emphasis>) if a one-word equivalent exists.
 		</para>
 	<table>
 			<title></title>
@@ -978,19 +1007,28 @@
 			Follow these guiding principles:
 		</para>
 		 <para>
-			Do not use the terms "white" or "black" in a context where white is represented as good or black is represented as bad, such as "whitelist" and "blacklist". Such usage reinforces a model that promotes racial bias.
+			Do not use the terms "white" or "black" in a context where white is represented as good or black is represented as bad, such as "whitelist" and "blacklist".
+      Such usage reinforces a model that promotes racial bias.
 		</para>
 		 <para>
 			For alternatives, choose words that describe the action that is taken or the function that is performed, rather than a metaphor for that action or function, for example "allowlist" instead of "whitelist", or "blocklist" or "denylist" instead of "blacklist".
 		</para>
 		 <para>
-			Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use of "master" is acceptable in other contexts, such as to refer to mastery of a skill.
+			Do not use "master" when it is paired with "slave".
+      Such use diminishes the horror of the dehumanizing practice of slavery.
+      Use of "master" is acceptable in other contexts, such as to refer to mastery of a skill.
 		</para>
 		 <para>
-			Avoid gender bias. As an example, do not assume that the subject of a sentence is male if the context might refer to any gender. Thus, instead of using "man hours", use "labor hours" or "person hours". Avoid binary gendered language, such as "he" or "she", except to refer to a specific named person. Do not use "he or she". Instead, use the ungendered "they" as the preferred pronoun.
+			Avoid gender bias.
+      As an example, do not assume that the subject of a sentence is male if the context might refer to any gender.
+      Thus, instead of using "man hours", use "labor hours" or "person hours".
+      Avoid binary gendered language, such as "he" or "she", except to refer to a specific named person.
+      Do not use "he or she".
+      Instead, use the ungendered "they" as the preferred pronoun.
 		</para>
 		 <para>
-			Avoid neurodiversity bias. For example, avoid the terms "sanity check" and "sanity test", and do not use "disabled" to refer to a person.
+			Avoid neurodiversity bias.
+      For example, avoid the terms "sanity check" and "sanity test", and do not use "disabled" to refer to a person.
 		</para>
 		 <para>
 			Avoid superlatives in job titles and descriptions, especially problematic terms such as "guru", "ninja", "rockstar", or "evangelist".
@@ -1000,11 +1038,11 @@
 		</para>
 	</section>
 
-<!-- Added section for redundant words -->
 	 <section id="redundant">
 		<title>Avoiding Redundant Words</title>
 		 <para>
-			Avoid redundant words, such as "actually", "really", "simply" and "very". They are typically filler words that add no value to a sentence.  
+			Avoid redundant words, such as "actually", "really", "simply", and "very".
+      They are typically filler words that add no value to a sentence.  
 		</para>
 		 <para>
 			Redundant words might also occur where two words or phrases are used that mean approximately the same thing, such as "revert back" versus "revert", or that add nothing to the sentence, such as "located on" versus "on".
@@ -1035,8 +1073,8 @@
 
 								</row>
 								<row>
-									<entry> Restore the LUKS2 header to the encrypted volume located on the `/dev/sda1` partition. </entry>
-									 <entry> Restore the LUKS2 header to the encrypted volume on the `/dev/sda1` partition. </entry>
+									<entry> Restore the LUKS2 header to the encrypted volume located on the <systemitem>/dev/sda1</systemitem> partition. </entry>
+									 <entry> Restore the LUKS2 header to the encrypted volume on the <systemitem>/dev/sda1</systemitem> partition. </entry>
 
 								</row>
 
@@ -1057,7 +1095,8 @@
 				<term> Capitalizing Proper Nouns </term>
 				 <listitem>
 					<para>
-						In some cases it is not clear if a term refers to a concept or a proper noun or product name. By using the correct capitalization, you will help translators identify untranslatable proper nouns and Red Hat product names.
+						In some cases it is not clear if a term refers to a concept or a proper noun or product name.
+            By using the correct capitalization, you help translators identify untranslatable proper nouns and Red&nbsp;Hat product names.
 					</para>
 					 <table>
 						<title></title>
@@ -1088,12 +1127,13 @@
 				</listitem>
 
 			</varlistentry>
-<!-- Added entry for "easy, simple" -->
 			<varlistentry id="easy">
 				<term> Avoid Stating that Something Is Easy </term>
 				 <listitem>
 					<para>
-						Avoid stating that a task is easy to do or that a product is easy to use. Avoid "friendly" and "user-friendly" and similar terms. Focus instead on how to accomplish a task or on relevant features of a product.
+						Avoid stating that a task is easy to do or that a product is easy to use.
+            Avoid "friendly" and "user-friendly" and similar terms.
+            Focus instead on how to perform a task or on relevant features of a product.
 					</para>
 					 <table>
 						<title></title>
@@ -1135,7 +1175,10 @@
 				<term> Homographic Verbs </term>
 				 <listitem>
 					<para>
-						The verb "may" might indicate possibility or grant permission. Similarly, "should" might imply a recommendation or express obligation or expectation. A sentence containing one of these verbs often has a double meaning. Avoid these types of words.
+						The verb "may" might indicate possibility or grant permission.
+            Similarly, "should" might imply a recommendation or express obligation or expectation.
+            A sentence containing one of these verbs often has a double meaning.
+            Avoid these types of words.
 					</para>
 
 					 <table>
@@ -1190,7 +1233,7 @@
 				<term> Homonymity </term>
 				 <listitem>
 					<para>
-						When a single term has multiple meanings, be explicit in order to differentiate between them.
+						When a single term has multiple meanings, be explicit to differentiate between them.
 					</para>
 					 <table>
 						<title></title>
@@ -1408,7 +1451,9 @@
 				<term>Synonymity</term>
 				 <listitem>
 					<para>
-						Sometimes multiple terms have a single meaning. If terms are used inconsistently, users (and translators) will assume they refer to different things. It is best to use a single term for a single concept throughout.
+						Sometimes multiple terms have a single meaning.
+            If terms are used inconsistently, users (and translators) might assume they refer to different things.
+            It is best to use a single term for a single concept throughout.
 					</para>
 					 <para>
 						For example, "Administration UI" and "Administration Console" could both be used to refer to a single application or to different applications. For this reason it is important that writers choose the most suitable term for each situation and use it consistently.

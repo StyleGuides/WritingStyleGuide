@@ -43,7 +43,10 @@
 			<term>kernel</term>
 			 <listitem>
 				<para>
-					The central module of an operating system. It is the part of the operating system that loads first, and it remains in main memory. Because it stays in memory, it is important for the kernel to be as small as possible while still providing all the essential services that other parts of the operating system and applications require. Typically, the kernel is responsible for memory management, process and task management, and disk management.
+					The central module of an operating system.
+          It is the part of the operating system that loads first, and it remains in main memory.
+          Because it stays in memory, it is important for the kernel to be as small as possible but still provide all the essential services that other parts of the operating system and applications require.
+          Typically, the kernel is responsible for memory management, process and task management, and disk management.
 				</para>
 
 			</listitem>
@@ -63,7 +66,8 @@
 			<term>kernel panic</term>
 			 <listitem>
 				<para>
-					Correct. Numerous circumstances might cause a kernel panic, but unlike a kernel oops, when confronted with a kernel panic the operating system shuts down to prevent the possibility of further damage or security breaches.
+					Correct.
+          Many different circumstances might cause a kernel panic, but unlike a kernel oops, when confronted with a kernel panic the operating system shuts down to prevent the possibility of further damage or security breaches.
 				</para>
 
 			</listitem>
@@ -148,7 +152,10 @@
 			<term>kill</term>
 			 <listitem>
 				<para>
-					If terminating a UNIX process, use "kill". For example, to terminate the process, type <command>kill <replaceable>&lt;PID&gt;</replaceable></command>. If terminating a Windows process, use "terminate". For example, "To terminate the process, press <keycap>Q</keycap>."
+					If terminating a UNIX process, use "kill".
+          For example, to terminate the process, type <command>kill <replaceable>&lt;PID&gt;</replaceable></command>.
+          If terminating a Windows process, use "terminate".
+          For example, "To terminate the process, press <keycap>Q</keycap>."
 				</para>
 
 			</listitem>
