@@ -160,7 +160,11 @@
 			<term>load balancing</term>
 			 <listitem>
 				<para>
-					Distributing processing and communications activity evenly across a computer network so that no single device is overwhelmed. Load balancing is especially important for networks where it is difficult to predict the number of requests that are issued to a server. Busy websites typically employ two or more web servers in a load balancing scheme. If one server starts to get swamped, requests are forwarded to another server with more capacity. Load balancing can also refer to the communications channels themselves.
+					Distributing processing and communications activity evenly across a computer network so that no single device is overwhelmed.
+          Load balancing is especially important for networks where it is difficult to predict the number of requests that are issued to a server.
+          Busy websites typically use two or more web servers in a load balancing scheme.
+          If one server starts to get swamped, requests are forwarded to another server with more capacity.
+          Load balancing can also refer to the communications channels themselves.
 				</para>
 
 			</listitem>
@@ -170,12 +174,14 @@
 			<term>logical topology</term>
 			 <listitem>
 				<para>
-					Also called signal topology. Every LAN has a topology, which refers to the way that the devices on a network are arranged and how they communicate with each other. The physical topology is the way that the workstations are connected to the network through the cables that transmit data: the physical structure of the network. The logical topology, in contrast, is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices.
+					Also called signal topology.
+          Every LAN has a topology, which refers to the way that the devices on a network are arranged and how they communicate with each other.
+          The physical topology is the way that the workstations are connected to the network through the cables that transmit data: the physical structure of the network.
+          The logical topology, in contrast, is the way that the signals act on the network media, or the way that the data passes through the network from one device to the next without regard to the physical interconnection of the devices.
 				</para>
 
 			</listitem>
 
-<!-- Added entries for "log in" and "log in to". -->
 		</varlistentry>
 		 <varlistentry id="login">
 			<term>login, log in</term>
