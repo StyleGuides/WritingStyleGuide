@@ -180,7 +180,7 @@
           Additional application binary interface (ABI) features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
 				</para>
 				 <para>
-					Note: The PowerPC version of Red&nbsp; Hat Enterprise Linux runs on 64-bit IBM Power Series hardware in most cases.
+					Note: The PowerPC version of Red&nbsp;Hat Enterprise Linux runs on 64-bit IBM Power Series hardware in most cases.
 				</para>
 
 			</listitem>
