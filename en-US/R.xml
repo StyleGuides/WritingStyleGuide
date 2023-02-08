@@ -23,7 +23,10 @@
 					Correct. Do not use "RAMdisk", "ramdisk", or "RAdisk".
 				</para>
 				 <para>
-					Refers to RAM that is configured to simulate a disk drive. You can access files on a RAM disk as you would access files on a real disk. RAM disks, however, are approximately a thousand times faster than hard disk drives. They are particularly useful, therefore, for applications that require frequent disk accesses.
+					Refers to RAM that is configured to simulate a disk drive.
+          You can access files on a RAM disk as you would access files on a real disk.
+          RAM disks, however, are about a thousand times faster than hard disk drives.
+          They are particularly useful, therefore, for applications that require frequent disk accesses.
 				</para>
 
 			</listitem>
@@ -135,7 +138,8 @@
 			<term>remote access server</term>
 			 <listitem>
 				<para>
-					A dedicated server to handle users who are not on a LAN but who need remote access to it. With a remote access server, users can gain access to files and print services on the LAN from a remote location. 
+					A dedicated server to handle users who are not on a LAN but who need remote access to it.
+          With a remote access server, users can access files and print services on the LAN from a remote location. 
 				</para>
 
 			</listitem>
@@ -211,7 +215,10 @@
 			<term>RPM</term>
 			 <listitem>
 				<para>
-					Initialism for RPM Package Manager. RPM manages files in the RPM format, known as RPM packages. Note: RPM packages are known informally as <firstterm>rpm files</firstterm>, but this informal usage is not used in Red Hat documentation, to avoid confusion with the command name. Files in RPM format are referred to as "RPM packages".
+					Initialism for RPM Package Manager.
+          RPM manages files in the RPM format, known as RPM packages.
+          Note: RPM packages are known informally as <firstterm>rpm files</firstterm>, but this informal usage is not used in Red&nbsp;Hat documentation, to avoid confusion with the command name.
+          Files in RPM format are referred to as "RPM packages".
 				</para>
 
 			</listitem>

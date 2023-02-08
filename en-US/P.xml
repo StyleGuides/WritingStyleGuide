@@ -72,10 +72,13 @@
 			<term>plain text</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Two words. In most cases, do not use "plaintext", "cleartext", or other variants.
+					<emphasis>n.</emphasis> Two words.
+          In most cases, do not use "plaintext", "cleartext", or other variants.
 				</para>
 				 <para>
-					Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm). Red&nbsp;Hat uses "plain text" as a plain English denotation of all unencrypted information, whether it is stored or being fed to an encryption algorithm. Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext".
+					Cryptographers distinguish between "cleartext" (unencrypted data) and "plaintext" (unencrypted data as input to an encryption algorithm).
+          Red&nbsp;Hat uses "plain text" as a plain English denotation of all unencrypted information, whether it is stored or being fed to an encryption algorithm.
+          Unless it is necessary to make the cryptographer's distinction, do not use "plaintext" or "cleartext".
 				</para>
 
 			</listitem>
@@ -85,9 +88,9 @@
 			<term>please</term>
 			 <listitem>
 				<para>
-					Do not use. Instead of saying "Please see the <citetitle>Getting Started Guide</citetitle>", use "See the <citetitle>Getting Started Guide."</citetitle>
+					Do not use.
+          Instead of saying "Please see the <citetitle>Getting Started Guide</citetitle>", use "See the <citetitle>Getting Started Guide."</citetitle>
 				</para>
-<!-- Added justification -->
 				<para>
 				Technical information requires an authoritative tone; terms of politeness convey the wrong tone for technical information and are not regarded the same way in all cultures.
 				</para>
@@ -109,12 +112,11 @@
 			<term>plug-in</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Write hyphenated. Do not use "plugin".
+					<emphasis>n.</emphasis> Write hyphenated.
+          Do not use "plugin".
 				</para>
 				 <para>
 					A hardware or software module that adds a specific feature or service to a larger system.
-<!-- Removed dated example. -->
-					<!-- For example, a number of plug-ins are available for the Netscape Navigator browser that enable it to display different types of audio or video messages. Navigator plug-ins are based on MIME file types. -->
 				</para>
 
 			</listitem>
@@ -173,10 +175,12 @@
 					<emphasis>n.</emphasis> The name of the Power architecture is "Power", but the designation of individual chips tends to be either "PowerPC" or "POWER". Refer to IBM marketing or the <ulink url="http://openpowerfoundation.org">Open Power Foundation</ulink> if unsure.
 				</para>
 				 <para>
-					Do not use the "PPC64" or "ppc64le" shorthand. Depending on context, either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct. Additional application binary interface (ABI) features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
+					Do not use the "PPC64" or "ppc64le" shorthand.
+          Depending on context, either "64-bit PowerPC" (which covers most 64-bit PowerPC implementations) or "64-bit IBM Power Series" (which covers the IBM POWER2 and IBM POWER8 and POWER9 series) is correct.
+          Additional application binary interface (ABI) features are important, but are not officially part of the Power architecture name, so use them as descriptors, such as "64-bit IBM Power Series in little-endian mode".
 				</para>
 				 <para>
-					Note: The PowerPC version of Red Hat Enterprise Linux runs on 64-bit IBM Power Series hardware in almost all cases.
+					Note: The PowerPC version of Red&nbsp;Hat Enterprise Linux runs on 64-bit IBM Power Series hardware in most cases.
 				</para>
 
 			</listitem>

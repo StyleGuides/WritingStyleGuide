@@ -86,13 +86,13 @@
 						<member>BZ 927031: Review 'The Page Test' and 'The Reverse Test' entries.</member>
 						 <member>BZ 1020131: Section 6.2 The Page Test is not sensible.</member>
 						 <member>BZ 1070003: Add entry for "Internet of Things (IoT)".</member>
-						 <member>Relocate some slang and jargon terms to appropriate section.</member>
+						 <member>Move some slang and jargon terms to appropriate section.</member>
 						 <member>BZ 1070001: Add entry for "untrusted".</member>
 						 <member>BZ 1064711: Update section on hyphenation.</member>
 						 <member>BZ 1061598: Add section about correct use of Introductions, Titles, and other headings.</member>
 						 <member>Removed &lt;quote&gt; tags from body text to follow own advice.</member>
 						 <member>Updated section on using tags with abbreviations and acronyms.</member>
-						 <member>BZ 1028253: Document standard for user and host names in CLI examples.</member>
+						 <member>BZ 1028253: Document standard for user and hostnames in CLI examples.</member>
 
 					</simplelist>
 
@@ -309,7 +309,7 @@
 					<simplelist>
 						<member>BZ 921826 Add entry for "best practices" to chapter "Avoiding Slang".</member>
 						 <member>BZ 916000 Add entry for correct use of product version numbers to Design chapter.</member>
-						 <member>Fix entry for VDSM; it's not an acronym.</member>
+						 <member>Fix entry for VDSM; not an acronym.</member>
 						 <member>BZ 909015 Entry for "refer to" conflicts with IBM style guide.</member>
 						 <member>Update some punctuation standards and cross references.</member>
 

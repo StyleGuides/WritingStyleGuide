@@ -41,12 +41,13 @@
 			</listitem>
 
 		</varlistentry>
-<!-- Added for inclusive language -->
 		 <varlistentry id="master">
 			<term>master</term>
 			 <listitem>
 				<para>
-					Do not use "master" when it is paired with "slave". Such use diminishes the horror of the dehumanizing practice of slavery. Use another term such as "main", "primary", "controller", or "leader".
+					Do not use "master" when it is paired with "slave".
+          Such use diminishes the horror of the dehumanizing practice of slavery.
+          Use another term such as "main", "primary", "controller", or "leader".
 				</para>
 				<para>
 					Use of "master" is acceptable in other contexts, such as to refer to mastery of a skill.
@@ -58,7 +59,9 @@
 			<term>matrixes</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct plural form for US English spelling. Do not use "matrices".
+					Correct.
+          This is the correct plural form for US English spelling.
+          Do not use "matrices".
 				</para>
 <!-- "US" without periods? -->
 
@@ -125,18 +128,20 @@
 						<para>
 							Objects on which data can be stored. These include hard disks, CDs, and tapes.
 						</para>
-<!-- Deleted "diskettes". -->
 
 					</listitem>
 					 <listitem>
 						<para>
-							In computer networks, "media" refers to the cables that link workstations together. Out of many types of transmission media, the most popular are twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fiber optic cable (cables made out of glass).
+							In computer networks, "media" refers to the cables that link workstations together.
+              Out of many types of transmission media, the most popular are twisted-pair wire (normal electrical wire), coaxial cable (the type of cable used for cable television), and fiber optic cable (cables made out of glass).
+              <!-- This is way out of date and needs revision -->
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							The form and technology to communicate information. Multimedia presentations, for example, combine sound, pictures, and videos, all of which are different types of media.
+							The form and technology to communicate information.
+              Multimedia presentations, for example, combine sound, pictures, and videos, which are all different types of media.
 						</para>
 
 					</listitem>
@@ -254,7 +259,10 @@
 			<term>mouse button</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Two words. Do not use "mouse-button" or "mousebutton". If you need to indicate which mouse button, use "right", "left", or "center", such as "right mouse button". Do not hyphenate.
+					<emphasis>n.</emphasis> Two words.
+          Do not use "mouse-button" or "mousebutton".
+          If you need to indicate which mouse button, use "right", "left", or "center", such as "right mouse button".
+          Do not hyphenate.
 				</para>
 
 			</listitem>
@@ -264,7 +272,9 @@
 			<term>Mozilla Firefox</term>
 			 <listitem>
 				<para>
-					Correct. First reference must be "Mozilla Firefox". Subsequent references can be "Firefox".
+					Correct.
+          The first reference must be "Mozilla Firefox".
+          Any following references can be "Firefox".
 				</para>
 
 			</listitem>
@@ -274,7 +284,9 @@
 			<term>Mozilla Thunderbird</term>
 			 <listitem>
 				<para>
-					Correct. First reference must be "Mozilla Thunderbird". Subsequent references can be "Thunderbird".
+					Correct.
+          The first reference must be "Mozilla Thunderbird".
+          Any following references can be "Thunderbird".
 				</para>
 
 			</listitem>

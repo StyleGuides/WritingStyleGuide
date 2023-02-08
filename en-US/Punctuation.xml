@@ -419,11 +419,13 @@
 
 		</itemizedlist>
 		 <para>
-			If the contents of the parentheses include at least one complete sentence, the period goes inside the parentheses. If not, the period goes outside.
+			If the contents of the parentheses include at least one complete sentence, the period goes inside the parentheses.
+      If not, the period goes outside.
 		</para>
 
 		 <para>
-			Do not use "(s)" in parentheses to denote a plural. If something can be singular or plural, make it plural.
+			Do not use "(s)" in parentheses to denote a plural.
+      If something can be singular or plural, make it plural.
 		</para>
 
 
@@ -470,13 +472,6 @@
 	 <section id="quotation-marks">
 		<title>Quotation Marks</title>
 
-<!-- Previous guidance
-		 <para>
-			Commas and periods go inside quotation marks.
-		</para>
- 		 <para>
-			Question marks, exclamation points, dashes, and semicolons go inside the quotation marks if they are part of the quotation; if not, they go outside. 
-		</para> -->
  		 <para>
 			When indicating the start or end of a direct quotation, use curly quotation marks. 
 			In all other contexts, such as when writing code samples, code syntax, hexadecimal numbers, or hypertext links, use straight quotation marks.
@@ -506,7 +501,7 @@
 		If you use the keyword operand PGMID="PAYCOM", you must ...
     	</para> -->
 		<para>
-		Julius Caesar said, “I came. I saw. I conquered.”
+		Julius Caesar said, "I came. I saw. I conquered."
     	</para>
     	</example> 
 
@@ -521,15 +516,8 @@
         </para>
       	</example> 
 
- 	 	 <para>
-			Do not put quotation marks around cliches or slang terms (in fact, avoid using cliches and slang as it makes the translation of content more difficult).
-		</para>
-Remove this sentence, and leave it to chapter 4 to cover avoidance of slang. 		
+-->
 
-		 <para>
-			A word or words being introduced to readers should not be placed in quotation marks. In DocBook, use the &lt;firstterm&gt; element for first reference. If you are writing outside of the SGML tagging environment, use quotation marks for first references. Subsequent references do not need quotation marks or the &lt;firstterm&gt; element.
-		</para>
-Deleted paragraph now that DocBook tagging no longer applies. -->		
 
 	 <section id="apostrophes">
 		<title>Apostrophes</title>
@@ -554,7 +542,6 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 
 	</section>
 
-<!-- Moved from A-Z section to add here instead -->
 	 <section id="exclamation">
 		<title>Exclamation Points</title>
 		<para>
@@ -563,7 +550,6 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 
 	</section>
 
-<!-- Added section -->
  	 <section id="referring">
 		<title>Referring to Punctuation Marks</title>
 		<para>
@@ -593,14 +579,12 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 
 	</section>
 
-<!-- Added section -->
 	 <section id="punc-names">
 		<title>Names of Punctuation Marks and Special Characters</title>
 		<para>
 			Use the names in the following table to refer to punctuation marks or special characters:
 		</para>	
 
-<!-- If possible, reduce width of first column. -->
 		<table>
 			<title>Names of Punctuation Marks and Special Characters</title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
@@ -667,7 +651,7 @@ Deleted paragraph now that DocBook tagging no longer applies. -->
 					</row>
 					<row>
 						<entry> &#x2713; </entry>
-						 <entry> Check mark </entry>
+						 <entry> Checkmark </entry>
 
 					</row>
 					<row>
