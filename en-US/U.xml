@@ -20,10 +20,12 @@
 			<term>UltraSPARC</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "ULTRASPARC", "UltraSparc", or other variations.
+					Correct.
+          Do not use "ULTRASPARC", "UltraSparc", or other variations.
 				</para>
 				 <para>
-					UltraSPARC is a trademark of SPARC International, Inc., and is used under license by Sun Microsystems, Inc. Products that bear the SPARC trademarks are based on an architecture developed by Sun Microsystems, Inc.
+					UltraSPARC is a trademark of SPARC International, Inc., and is used under license by Sun Microsystems, Inc.
+          Products that bear the SPARC trademarks are based on an architecture developed by Sun Microsystems, Inc.
 				</para>
 
 			</listitem>
@@ -33,7 +35,10 @@
 			<term>undercloud</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Always lowercase. It is a concept, not a technology or product name. Being a common noun, it requires an article in most cases. See also <xref linkend="overcloud" />.
+					<emphasis>n.</emphasis> Always lowercase.
+          It is a concept, not a technology or product name.
+          Being a common noun, it normally requires an article.
+          See also <xref linkend="overcloud" />.
 				</para>
 
 			</listitem>
@@ -185,10 +190,14 @@
 			<term>user interface</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct. Do not use "user-interface" or "userinterface".
+					<emphasis>n.</emphasis> Correct.
+          Do not use "user-interface" or "userinterface".
 				</para>
 				 <para>
-					The junction between a user and a computer program. An interface is a set of commands or menus through which a user communicates with a program. In a command-driven interface, you enter commands. In a menu-driven interface, you select command choices from various menus that are displayed on the screen.
+					The junction between a user and a computer program.
+          An interface is a set of commands or menus through which a user communicates with a program.
+          In a command-driven interface, you enter commands.
+          In a menu-driven interface, you select command choices from various menus that are displayed on the screen.
 				</para>
 
 			</listitem>
@@ -198,7 +207,7 @@
 			<term>username</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> One word in most cases.
+					<emphasis>n.</emphasis> Usually one word.
           Capitalize the "U" at the beginning of a sentence.
           See the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
@@ -210,7 +219,9 @@
 			<term>user space</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Correct when used as a noun. When used as a modifier, use the hyphenated form, "user-space". Do not use "userspace".
+					<emphasis>n.</emphasis> Correct when used as a noun.
+          When used as a modifier, use the hyphenated form, "user-space".
+          Do not use "userspace".
 				</para>
 
 			</listitem>
