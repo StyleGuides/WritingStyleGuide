@@ -63,7 +63,9 @@
 			<term>web page</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Two words. Capitalize the "W" at the beginning of a sentence. If part of a proper noun, capitalize accordingly.
+					<emphasis>n.</emphasis> Two words.
+          Capitalize the "W" at the beginning of a sentence.
+          If part of a proper noun, capitalize accordingly.
 				</para>
 
 			</listitem>
@@ -73,7 +75,8 @@
 			<term>web UI</term>
 			 <listitem>
 				<para>
-					Correct. Use this term to refer to a browser-based interface to a software application, even if that application has no connection to the web.
+					Correct.
+          Use this term to refer to a browser-based interface to a software application, even if that application has no connection to the web.
           Do not hyphenate the abbreviation or use the one-word form.
 				</para>
 
@@ -97,7 +100,7 @@
 			<term>whether</term>
 			 <listitem>
 				<para>
-		  Use “whether” instead of “if” to refer to a choice or to alternatives.
+    		  Use "whether" instead of "if" to refer to a choice or to alternatives.
           For example, instead of "Test if authenticated FTP access is restored", write "Test whether authenticated FTP access is restored".
 				</para>
 
@@ -109,15 +112,14 @@
 			<term>while</term>
 			 <listitem>
 				<para>
-		  In technical content, use “while” only to indicate that many tasks or processes occur at the same time.
-          For example, instead of "While most targets use one target portal group (TPG), advanced configurations might define multiple TPGs", write "Although most targets use one target portal group (TPG), advanced configurations might define multiple TPGs".
+		      In technical content, use "while" only to indicate that many tasks or processes occur at the same time.
+          For example, instead of "While most targets use one target portal group (TPG), advanced configurations might define multiple TPGs", write "Although most targets use one target portal group (TPG), advanced configurations might define multiple TPGs."
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 
-<!-- Added for inclusive language -->
 		 <varlistentry id="whitelist">
 			<term>whitelist</term>
 			 <listitem>
@@ -125,7 +127,8 @@
 					Do not use. Use "allowlist".
 				</para>
 				<para>
-					Do not use the terms "white" or "black" in a context where white is represented as good or black is represented as bad. Such usage reinforces a model that promotes racial bias.
+					Do not use the terms "white" or "black" in a context where white is represented as good or black is represented as bad.
+          Such usage reinforces a model that promotes racial bias.
 				</para>
 			</listitem>
 
@@ -138,7 +141,8 @@
           Use the pronoun "whom" as a direct object, an indirect object, or the object of a preposition.
 				</para>
 				 <para>
-					For example: Who owns this phone? To whom does this phone belong?
+					For example: Who owns this phone?
+          To whom does this phone belong?
 				</para>
 
 			</listitem>
