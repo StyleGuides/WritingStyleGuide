@@ -27,7 +27,6 @@
 			</listitem>
 
 		</varlistentry>
-<!-- Removed "acronyms" entry (as it is not a literal term) and added this content instead to section 3.6. -->
 
 		 <varlistentry id="agile-development">
 			<term role="true">agile</term>
@@ -121,7 +120,6 @@
 					<para>
 						The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
 					</para>
-		<!-- Updated URL for AMD trademarks. -->
 					 <para>
 						For more information about Intel&reg; trademarks, see <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
 					</para>
@@ -145,7 +143,6 @@
 
 		</varlistentry>
 
-<!-- Added "appendixes" entry. -->
 		 <varlistentry id="appendixes">
 			<term>appendixes</term>
 			 <listitem>
@@ -157,25 +154,23 @@
 
 		</varlistentry>
 
-<!-- Commenting out this entry as it is not a literal term entry. Consider moving elsewhere, such as to Section 3.7 and expand scope of that section?
-		 <varlistentry id="application">
-			<term>application</term>
+		 <varlistentry id="application-velocity">
+			<term>application velocity</term>
 			 <listitem>
 				<para>
-					When used as a proper name, use the capitalization of the product, such as GNUPro, Source-Navigator, and Red&nbsp;Hat Enterprise&nbsp;Linux.
-          When used as a command, use lowercase as appropriate, such as "To start GCC, type gcc".
+					Used on its own, this phrase does not indicate what aspect of the application lifecycle is faster, because velocity means "speed in a given direction.”
 				</para>
-				 <note>
-					<para>
-						"vi" is always lowercase.
-					</para>
-
-				</note>
+				<para>
+					Always provide context on first mention for what exactly is moving faster (for example, application development velocity, development velocity, development and deployment velocity).
+					Then, unless the meaning changes, you can use “application velocity” for subsequent uses.
+				</para>
+				<para>
+					For example, the OpenShift team has used this term to mean "creating a streamlined developer experience" whose context is key to setting audience expectations for their content.
+				</para>
 
 			</listitem>
 
 		</varlistentry>
--->
 
 		 <varlistentry id="applixware">
 			<term role="true">Applixware</term>
