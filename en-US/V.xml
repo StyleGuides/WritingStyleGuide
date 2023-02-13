@@ -10,7 +10,8 @@
 			<term>VAR</term>
 			 <listitem>
 				<para>
-					Acronym for value-added reseller. Same as OEM (original equipment manufacturer).
+					Acronym for value-added reseller.
+					Same as OEM (original equipment manufacturer).
 				</para>
 
 			</listitem>
@@ -20,7 +21,10 @@
 			<term>VDSM</term>
 			 <listitem>
 				<para>
-					Initialism for Virtual Desktop Server Management. Do not spell out this initialism. Using the term "virtual desktop" in this context has negative marketing implications. Use VDSM without expansion.
+					Initialism for Virtual Desktop Server Management.
+					Do not spell out this initialism.
+					Using the term "virtual desktop" in this context has negative marketing implications.
+					Use VDSM without expansion.
 				</para>
 
 			</listitem>
@@ -30,7 +34,9 @@
 			<term>vi</term>
 			 <listitem>
 				<para>
-					Correct. Use all lowercase letters. Do not use "VI" (all caps).
+					Correct.
+					Use all lowercase letters.
+					Do not use "VI" (all caps).
 				</para>
 
 			</listitem>
@@ -40,10 +46,15 @@
 			<term>video mode</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "video-mode" or "videomode".
+					Correct.
+					Do not use "video-mode" or "videomode".
 				</para>
 				 <para>
-					The setting of a video adapter. Most video adapters can run in either text mode or graphics mode. In text mode, a monitor can display only ASCII characters. In graphics mode, a monitor can display any bit-mapped image. In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
+					The setting of a video adapter.
+					Most video adapters can run in either text mode or graphics mode.
+					In text mode, a monitor can display only ASCII characters.
+					In graphics mode, a monitor can display any bit-mapped image.
+					In addition to the text and graphics modes, video adapters offer different modes of resolution and color depth.
 				</para>
 
 			</listitem>
@@ -67,11 +78,24 @@
 			</listitem>
 
 		</varlistentry>
+		<varlistentry>
+			<term>virtual, virtualized</term>
+			<listitem>
+				<para>
+					"Virtual" is the preferred adjective.
+					Use "virtualized" to indicate a component or concept previously existed in non-virtual (physical) form.
+					(Note: Use the American spelling of this word even in documents that are for audiences that use British English spellings.
+					This is to avoid the visual inconsistency of talking about your "virtualisation" with "Red Hat Virtualization."
+					Never change the product name spelling.)
+				</para>
+			</listitem>
+		</varlistentry>
 		 <varlistentry id="virtual-console">
 			<term>virtual console</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "virtual-console" or "Virtual Console" for general use.
+					Correct.
+					Do not use "virtual-console" or "Virtual Console" for general use.
 				</para>
 				 <para>
 					It can be abbreviated to "VC" provided that the term is first introduced in the same content in its full version, such as "A virtual console (VC) is a shell prompt in a non-graphical environment. Multiple VCs can be accessed simultaneously."
@@ -100,7 +124,8 @@
 					Refers to virtual hardware that consists of virtual CPUs, memory, devices, and so on. Do not use "guest virtual machine" except for specific emphasis that it is a guest.
 				</para>
 				 <para>
-					It can be abbreviated to "VM" provided that the term is first introduced in the same content in its full version, and without any possible confusion with other terms, such as "virtual memory". Author discretion is recommended.
+					It can be abbreviated to "VM" provided that the term is first introduced in the same content in its full version, and without any possible confusion with other terms, such as "virtual memory".
+					Author discretion is recommended.
 				</para>
 
 			</listitem>
@@ -110,7 +135,8 @@
 			<term>virtual router</term>
 			 <listitem>
 				<para>
-					An abstract object managed by VRRP (virtual router redundancy protocol) that acts as a default router for hosts on a shared LAN. It consists of a Virtual Router Identifier and a set of associated IP addresses across a common LAN.
+					An abstract object managed by VRRP (virtual router redundancy protocol) that acts as a default router for hosts on a shared LAN.
+					It consists of a Virtual Router Identifier and a set of associated IP addresses across a common LAN.
 				</para>
 
 			</listitem>
@@ -120,7 +146,8 @@
 			<term>VNIC</term>
 			 <listitem>
 				<para>
-					Abbreviation for virtual network interface card. Use all uppercase characters for the abbreviation, but all lowercase for the expansion, except at the beginning of a sentence.
+					Abbreviation for virtual network interface card.
+					Use all uppercase characters for the abbreviation, but all lowercase for the expansion, except at the beginning of a sentence.
 				</para>
 
 			</listitem>
@@ -130,7 +157,9 @@
 			<term>VPN</term>
 			 <listitem>
 				<para>
-					Initialism for virtual private network, a network that uses public wires to connect nodes. For example, various systems can create networks with the internet as the medium for transporting data. These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.
+					Initialism for virtual private network, a network that uses public wires to connect nodes.
+					For example, various systems can create networks with the internet as the medium for transporting data.
+					These systems use encryption and other security mechanisms to ensure that only authorized users can access the network and that the data cannot be intercepted.
 				</para>
 
 			</listitem>
