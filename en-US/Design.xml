@@ -47,13 +47,52 @@
             </para>
           </formalpara>
 			<formalpara id="verbs-titles">
-				<title>Verbs in Titles</title>
+				<title>Writing Effective Titles</title>
 					<para>
-					Usually, you start a title with the gerund form of a verb, which ends with "-ing", for example "Creating Branches". Choose a verb that refers to specific actions that users take, such as "Configuring", "Creating", "Installing", and "Merging".
+					Use a title that represents the content. 
 					</para>
           </formalpara>
 					<para>
-					The gerund verb form is not always required. For example, avoid verbs such as "Describing", "Introducing", and "Understanding", because they add little value. Instead, use a more specific verb or omit the verb. For example, instead of "Describing Initial Git Configuration", you can use "Initial Git Configuration".
+					Typically, the "ing" form of a verb is a good way to title larger chunks of content such as chapters and sections, for example "Creating Branches". Choose a verb that refers to specific actions that users take, such as "Configuring", "Creating", "Installing", and "Merging".
+					</para>
+					<para>
+					Activities and subtasks that the user should perform can alternatively use an imperative verb for clarity. Imperative verbs are prescriptive, such as "Create" or "Delete". Example: "Assess the Health of an OpenShift Cluster".
+					</para>
+					<para>
+					In some cases, a verb might not be appropriate because the content is purely informational. Instead of using a vague verb like "Understanding", "Describing", "Introducing", or "Exploring", either use a more specific verb, or use a noun phrase instead of a verb. A noun phrase is descriptive and omits a verb, for example "Installation Overview" or "The OpenShift Web Console."
+					</para>
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Understanding OpenShift Users and Groups </entry>
+						 <entry> OpenShift Users and Groups </entry>
+
+					</row>
+					<row>
+						<entry> Introducing Cluster Updates </entry>
+						 <entry> Cluster Updates </entry>
+
+					</row>					
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+					<para>
+					In training content, avoid using a verb such as "Discussing" or "Demonstrating" in objectives for students. Such verbs might refer instead to what the instructor or the course content covers, or to a student group activity in class.
 					</para>
 					 <para>
 						See the <citetitle>IBM Style Guide</citetitle> for more information.
