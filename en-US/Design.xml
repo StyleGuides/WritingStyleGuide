@@ -392,6 +392,11 @@
 			</warning>
 			 <section>
 				<title>Documenting Multiple or Long Commands</title>
+          <note>
+            <para>
+              The following guidance differs from previous guidance on the subject.
+            </para>
+          </note>
 				 <para>
 					Sometimes you need to show how to use long commands that extend over two or more lines, or that include several commands in a single example.
           If the commands are relatively short and straightforward, then include the commands on consecutive lines.
@@ -404,11 +409,12 @@ $ vi myFile.txt
 </screen>
 
 				</example>
-				 <para>
-					If the commands are long, complex, or wrap over multiple lines, then the following design options are available.
+			<para>
+			  If the commands are long, complex, or wrap over multiple lines, then use the following design:
+<!-- 			If the commands are long, complex, or wrap over multiple lines, then the following design options are available. -->
           </para>
           <itemizedlist>
-            <listitem>
+<!--             <listitem>
               <para>
                 Use line continuation characters and the associated PS2 prompts.
                 If you are documenting commands on a different operating system, then update the prompts and line continuation characters to suit.
@@ -418,53 +424,52 @@ $ vi myFile.txt
               <para>
                 Use neither line continuation characters nor the associated PS2 prompts.
               </para>
-            </listitem>
+            </listitem> -->
 			<listitem>
               <para>
                 Use line continuation characters without the associated PS2 prompts.
               </para>
             </listitem>
           </itemizedlist>
-          <important>
+<!--          <important>
             <para>
               Do not mix these styles.
               Use the same style throughout your document, book, and product set.
             </para>
-          </important>
+          </important> -->
           <para>
             You can also indent the second and subsequent lines of such commands to assist in clarity and readability if required.
-            You can use this option for any of these designs.
+<!--            You can use this option for any of these designs. -->
           </para>
 
-<example><title>Wrapping Long Commands with Continuation Characters and PS2 Prompts</title>
+<!-- <example><title>Wrapping Long Commands with Continuation Characters and PS2 Prompts</title> 
   <para>
     This example uses both continuation characters and PS2 prompts.
-    <!-- These indicators are always used together. -->
-  </para>
+  </para> 
 
-<screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
+<screen># tar &#45;&#45;selinux -czvf config_files.tar.gz  /etc/katello \
 > /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 > /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
 > /etc/sysconfig/katello /etc/sysconfig/elasticsearch \
-> /root/ssl–build /var/www/html/pub/* /var/lib/katello</screen>
-</example>
+> /root/ssl-build /var/www/html/pub/* /var/lib/katello</screen>
+</example>  
 
 <example><title>Wrapping Long Commands Without Continuation Characters or PS2 Prompts</title>
   <para>
     This example uses neither continuation characters nor PS2 prompts, but it does show how to use line indentation to help to clarify long commands.
   </para>
-<screen># cd /var/lib/katello
+<screen># cd /var/lib/katello 
 
-# myCommand --option funky --color=true
-  --config_file=/home/user/config.conf
-  --output_file=/home/user/output.txt</screen>
+# myCommand &#45;&#45;option funky &#45;&#45;color=true
+  &#45;&#45;config_file=/home/user/config.conf
+  &#45;&#45;output_file=/home/user/output.txt</screen>
 
-</example>
+</example>  -->
 
 <example><title>Wrapping Long Commands with Continuation Characters and Without PS2 Prompts</title>
   <para>
     This example uses continuation characters but not PS2 prompts.
-  </para>
+  </para>  
 <screen>[root@node]# cephadm bootstrap --mon-ip=MON_IP --registry-url=registry.redhat.io \
 --registry-username=REGISTRY_USERNAME --registry-password=REGISTRY_PASSWORD \
 --initial-dashboard-password=DASHBOARD_PASSWORD --dashboard-password-noupdate \
