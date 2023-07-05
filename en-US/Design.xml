@@ -709,7 +709,7 @@ $ vi myFile.txt
 
 				</formalpara>
 				 <para>
-					For example, you are the system administrator at Global Banking and you are asked to set up permissions to the accounting directory for the following users: John Doe, Sunni Koning, Huong Sabo, and Jerlene Paluch. John is a department manager and needs read access to the accounting directory. Sunni is the lead accountant and needs both read and write access.
+					For example, you are the system administrator at Global Banking and you are asked to set up permissions to the accounting directory for the following users: Sunni Koning, Huong Sabo, and Jerlene Paluch. Sunni is a department manager and needs read access to the accounting directory. Huong is the lead accountant and needs both read and write access.
 				</para>
 				 <formalpara id="choosing-realistic-names">
 					<title>Choosing a Realistic Name</title>
@@ -1160,10 +1160,10 @@ $ vi myFile.txt
 		<title>Using Admonitions</title>
 		 <para>
 			To call attention to a statement, use an admonition.
-      Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
+      Red&nbsp;Hat technical documentation currently uses <systemitem>Note</systemitem>, <systemitem>Important</systemitem>, and <systemitem>Warning</systemitem> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition.
+			Depending on the tools and workflow, admonitions might automatically include a suitable title according to the type of admonition.
       Do not use a phrase or anything else for the title.
       Keep the following considerations in mind if using admonitions:
 			<itemizedlist>
@@ -1181,20 +1181,20 @@ $ vi myFile.txt
 				</listitem>
 				 <listitem>
 					<para>
-						Use a <command>Note</command> admonition to bring extra information to the user's attention.
+						Use a <systemitem>Note</systemitem> admonition to bring extra information to the user's attention.
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						Use an <command>Important</command> admonition to show the user a piece of information that should not be overlooked.
+						Use an <systemitem>Important</systemitem> admonition to show the user a piece of information that should not be overlooked.
             This information might not change anything that the user is doing, but it should show the user that this piece of information could be vital.
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						Use a <command>Warning</command> admonition to alert the reader to potential changes, such as files being removed, and not to perform the operation unless fully aware of the consequences.
+						Use a <systemitem>Warning</systemitem> admonition to alert the reader to potential changes, such as files being removed, and not to perform the operation unless fully aware of the consequences.
 					</para>
 
 				</listitem>
