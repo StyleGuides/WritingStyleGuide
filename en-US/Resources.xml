@@ -55,7 +55,7 @@
 				<para>
 					Red&nbsp;Hat employees can now access the latest version of the IBM Style Guide online, at <ulink url="https://www.ibm.com/docs/en/ibm-style/">https://www.ibm.com/docs/en/ibm-style/</ulink>.
         		</para>
-				<para>
+				<!-- <para>
           			Go to that web page, and click <guibutton>Log in to view content</guibutton>.
         		</para>
 				<para>
@@ -86,7 +86,7 @@
 							</para>
 						</listitem>
 
-					</itemizedlist>
+					</itemizedlist> -->
 
 			</listitem>
 			 <listitem>
