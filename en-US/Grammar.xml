@@ -865,7 +865,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 		 <formalpara id="hyphenate-complex-adjectives">
 			<title>Hyphenate Complex Adjectives</title>
 			 <para>
-				Hyphenate complex adjectives (compound modifiers). This is when two adjectives work together to modify an object. The hyphen is used when the first adjective modifies the second adjective. For example, cloud-based solutions, right-side paralysis, system-wide menu.
+				Hyphenate complex adjectives (compound modifiers). This is when two adjectives work together to modify an object. The hyphen is used when the first adjective modifies the second adjective. For example, cloud-based solutions, right-side paralysis, systemwide menu.
 			</para>
 
 		</formalpara>

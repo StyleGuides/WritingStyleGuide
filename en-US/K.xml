@@ -103,7 +103,7 @@
 			<term>key ring</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Use the two-word form as a noun. For example, "add your new key to the key ring".
+					<emphasis>n.</emphasis> Use the two-word form as a noun. For example, "Verify that the Ceph client key ring is present in the <filename>/etc/ceph</filename> directory on the client node", or "add your new key to the key ring".
 				</para>
 				 <para>
 					<emphasis>adj.</emphasis> Use the hyphenated form as an adjective. For example, "copy the key-ring file to the server".
