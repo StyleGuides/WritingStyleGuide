@@ -230,7 +230,7 @@
 			 <example id="exam-starting-apps">
 				<title>Preferred Approach to Starting Applications from the Desktop</title>
 				 <para>
-					To start <systemitem>gedit</command>, press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>gedit</literal>, and then press <keycap>Enter</keycap>.
+					To start <command>gedit</command>, press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>gedit</literal>, and then press <keycap>Enter</keycap>.
 				</para>
 
 			</example>
