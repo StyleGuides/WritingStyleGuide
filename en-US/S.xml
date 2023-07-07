@@ -419,7 +419,7 @@
 			<term>smart card</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Do not use smartcard or smart-card.
+					<emphasis>adj., n.</emphasis> Always use the two-word form. Do not use "smart-card" or other variations. Do not capitalize unless it is part of a product name or other proper noun.
 				</para>
 
 			</listitem>
@@ -547,6 +547,16 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="squad">
+			<term>squad (n.)</term>
+			 <listitem>
+				<para>
+					Do not use to refer to a group that is formed to accomplish a task. Use "team" or "group" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>			
 		 <varlistentry id="sr-iov">
 			<term>SR-IOV</term>
 			 <listitem>
