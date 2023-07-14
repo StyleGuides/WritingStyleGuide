@@ -484,7 +484,8 @@ $ vi myFile.txt
           <para>
             For the sake of brevity, do not show all output to the user in all cases, but only those parts of any output that are relevant to the context that is described. 
 			Where output is not included, place a marker to show that information is purposely excluded.
-			When shortening the output, use the <emphasis>...output omitted...</emphasis> notation, starting and ending with an ellipsis, and highlight it in italics.
+			When shortening the output, use a consistent notation.
+			Red{nbsp} uses the <emphasis>...output omitted...</emphasis> notation, starting and ending with an ellipsis, and highlighted in italics.
           </para>
 
 <example><title>Notation for Excluding Part of Output</title>
