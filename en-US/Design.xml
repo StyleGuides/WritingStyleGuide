@@ -479,6 +479,26 @@ $ vi myFile.txt
 
 	</section>
 
+			 <section>
+				<title>Omitting Part of Output</title>
+          <para>
+            For the sake of brevity, do not show all output to the user in all cases, but only those parts of any output that are relevant to the context that is described. 
+			Where output is not included, place a marker to show that information is purposely excluded.
+			When shortening the output, use a consistent notation.
+			Red{nbsp}Hat uses the <emphasis>...output omitted...</emphasis> notation, starting and ending with an ellipsis, and highlighted in italics.
+          </para>
+
+<example><title>Notation for Excluding Part of Output</title>
+<screen>[student@workstation image]$ podman build --layers=false -t nexus .
+STEP 1: FROM ubi8/ubi:8.3
+Getting image source signatures
+<emphasis>...output omitted...</emphasis>
+STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest</screen>
+
+</example>
+
+	</section>
+
       <section id="replaceable-paths">
         <title>Referring to Replaceable Paths</title>
           <para>
