@@ -250,7 +250,7 @@
       </para>
       <blockquote>
         <para>
-          "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter (‘-’). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, ‘-abc’ is equivalent to ‘-a -b -c’. [...] Certain options require an argument. For example, the ‘-o’ option of the ‘ld’ command requires an argument—an output file name". and so on.
+          "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter ('-'). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, '-abc' is equivalent to '-a -b -c'. [...] Certain options require an argument. For example, the '-o' option of the 'ld' command requires an argument—an output file name". and so on.
         </para>
         <para>
           See <command>info libc argument syntax</command> for the full discussion.
@@ -485,7 +485,7 @@ $ vi myFile.txt
             For the sake of brevity, do not show all output to the user in all cases, but only those parts of any output that are relevant to the context that is described. 
 			Where output is not included, place a marker to show that information is purposely excluded.
 			When shortening the output, use a consistent notation.
-			Red{nbsp}Hat uses the <emphasis>...output omitted...</emphasis> notation, starting and ending with an ellipsis, and highlighted in italics.
+			Red&nbsp;Hat uses the <emphasis>...output omitted...</emphasis> notation, starting and ending with an ellipsis, and highlighted in italics.
           </para>
 
 <example><title>Notation for Excluding Part of Output</title>
@@ -729,7 +729,8 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 
 				</formalpara>
 				 <para>
-					For example, you are the system administrator at Global Banking and you are asked to set up permissions to the accounting directory for the following users: Sunni Koning, Huong Sabo, and Jerlene Paluch. Sunni is a department manager and needs read access to the accounting directory. Huong is the lead accountant and needs both read and write access.
+					For example, you are the system administrator at Global Banking and you are asked to set up permissions to the accounting directory for the following users: Huong Sabo, Jerlene Paluch, Abby Quincy, Fricis Ritcher, and Jaya Lamont. 
+					Huong is a department manager and needs read access to the accounting directory. Jerlene is the lead accountant and needs both read and write access.
 				</para>
 				 <formalpara id="choosing-realistic-names">
 					<title>Choosing a Realistic Name</title>
