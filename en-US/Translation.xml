@@ -272,26 +272,17 @@
 								<para>
 									To obtain the file name of the default kernel with the <command>grubby</command> command: 
 								</para>
-								<para>
-									...  
-								</para>
 
 							</listitem>
 							 <listitem>
 								<para>
 									Finding the index number of the default kernel:
 								</para>
-								<para>
-									...  
-								</para>
 
 							</listitem>
 							 <listitem>
 								<para>
 									Use the <command>grubby</command> command to persistently change the default kernel:
-								</para>
-								<para>
-									...  
 								</para>
 
 							</listitem>							
@@ -304,26 +295,17 @@
 								<para>
 									Obtain the file name of the default kernel with the <command>grubby</command> command:
 								</para>
-								<para>
-									...  
-								</para>
 
 							</listitem>
 							 <listitem>
 								<para>
 									Find the index number of the default kernel:
 								</para>
-								<para>
-									...  
-								</para>
 
 							</listitem>
 							 <listitem>
 								<para>
 									Use the <command>grubby</command> command to persistently change the default kernel:
-								</para>
-								<para>
-									...  
 								</para>
 
 							</listitem>							
