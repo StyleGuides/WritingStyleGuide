@@ -16,7 +16,7 @@
 				<title>Capitalization</title>
 					<para>
 					The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
-            Table headings, procedure headings, and formal paragraph titles fall under this heading; standard title case capitalization rules apply.
+            Table headings and procedure headings fall under this heading; standard title case capitalization rules apply.
 					</para>
 		</formalpara>
 			<para>
@@ -1277,13 +1277,12 @@ Book Title by First name Surname; Publisher.
 </programlisting>
 
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by
-			<author>
+			For example, <citetitle>Maximum RPM</citetitle> by Edward Bailey; Red&nbsp;Hat Press.
+			<!-- <author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
 
-			</author>
-			; Red&nbsp;Hat Press.
+			</author> -->
 		</para>
 		 <formalpara id="other-websites">
 			<title>Referencing Other Internet Sites</title>
