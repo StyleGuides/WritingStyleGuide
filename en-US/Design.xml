@@ -953,6 +953,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			<title>Special Characters</title>
 			 <para>
         		For the purposes of this guide, special characters refer to those characters that are listed in <xref linkend="punc-names" />.
+				This section addresses how to use special characters as part of a file or directory name, such as "the <filename>.bashrc</filename> file" and "the <filename>_build/</filename> directory".
 			</para>
 		</formalpara>
 
