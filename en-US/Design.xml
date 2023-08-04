@@ -923,11 +923,11 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 
 	</section>
 	 <section id="using-abbreviations">
-		<title>Using Abbreviations, Acronyms, Initialisms, and Special Characters Correctly</title>
+		<title>Abbreviations, Acronyms, Initialisms, and Special Characters</title>
 		 <para>
-			This section describes how to use abbreviations, acronyms, and initialisms correctly in Red&nbsp;Hat documentation.
+			This section defines abbreviations, acronyms, initialisms, and special characters.
 		</para>
-		 <formalpara>
+		 <formalpara id="abbreviations">
 			<title>Abbreviations</title>
 			 <para>
 				An abbreviation is a shortened form of a word or phrase. For example, <abbrev>Pty.</abbrev> and <abbrev>Inc.</abbrev> are abbreviations for "proprietary" and "incorporated", respectively. Read them as the word for which they are an abbreviation.
@@ -937,46 +937,68 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		 <formalpara id="acronyms">
 			<title>Acronyms</title>
 			 <para>
-				What are acronyms anyway?
-        They are similar to abbreviations and initialisms but they are pronounced as a word.
-        An acronym is a word that is formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead-<emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader.
-        <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
+        		An acronym is a word that is formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead-<emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader.
+        		<acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
 			</para>
+
 		</formalpara>
-
-		 <para>
-			Consider pronunciation when using articles. For example, use "an <abbrev>RTS</abbrev> (real-time strategy)", because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade", because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
-		</para>
-
-		 <para>
-			Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK) ...".
-          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
-          	Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
-		</para>
-
-		 <para>
-			To form the plural of an acronym, add a trailing, lowercase "s" or "es" without an apostrophe, for example, ROMs, PINs, BIOSes.
-		</para>
-
-		 <para>
-			Be sure to use correct capitalization for acronyms. Not all acronyms are capitalized (for example, "spool"); see the <citetitle>IBM Style Guide</citetitle> or another suitable reference if you are unsure.
-		</para>
-
 		 <formalpara id="initialisms">
 			<title>Initialisms</title>
 			 <para>
-				An initialism is an abbreviation that consists of the first letters of words in a phrase, syllables, or some combination thereof. Each character is pronounced separately. For example, <abbrev>FTP</abbrev> is an initialism for <systemitem class="protocol">File Transfer Protocol.</systemitem>
+        		An initialism is an abbreviation that consists of the first letters of words in a phrase, syllables, or some combination thereof. Each character is pronounced separately. For example, FTP is an initialism for File Transfer Protocol.
 			</para>
-
 		</formalpara>
+
+		 <formalpara id="special-chars">
+			<title>Special Characters</title>
+			 <para>
+        		For the purposes of this guide, special characters refer to those characters that are listed in <xref linkend="punc-names" />.
+				This section addresses how to use special characters as part of a file or directory name, such as "the <filename>.bashrc</filename> file" and "the <filename>_build/</filename> directory".
+			</para>
+		</formalpara>
+
+	 <section id="abbreviations-correctly">
+		<title>Using Abbreviations, Acronyms, Initialisms, and Special Characters Correctly</title>
 		 <para>
-			Consider pronunciation when using articles. See <xref linkend="acronyms" /> for more information.
+			This section describes how to use abbreviations, acronyms, initialisms, and special characters correctly in Red&nbsp;Hat documentation.
 		</para>
+
+		 <formalpara id="first-mentions">
+			<title>First Mentions</title>
+		 <para>
+			Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK) ...".
+           	Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
+		</para>
+		</formalpara>
+
+		 <formalpara id="cap">
+			<title>Capitalization</title>
+		 <para>
+         	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
+			Not all acronyms are capitalized (for example, "spool"); see the <citetitle>IBM Style Guide</citetitle> or another suitable reference if you are unsure.
+		</para>
+		</formalpara>
+
+		 <formalpara id="articles">
+			<title>Articles</title>
+		 <para>
+			When deciding which articles to use, consider pronunciation. 
+			For example, use "an <abbrev>RTS</abbrev> (real-time strategy)", because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade", because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
+		</para>
+		</formalpara>
+
+		 <formalpara id="plurals">
+			<title>Plurals</title>
+		 <para>
+			To form the plural of an acronym, add a trailing, lowercase "s" or "es" without an apostrophe, for example, ROMs, PINs, BIOSes.
+		</para>
+		</formalpara>
+
 		 <formalpara id="special-characters">
 			<title>Special Characters</title>
-		 	 <para>
-				Consider pronunciation when referring to file or directory names that begin with special characters, and use the correct indefinite article.
-			</para>
+	 	 <para>
+			Consider pronunciation when referring to file or directory names that begin with special characters, and use the correct indefinite article.
+		</para>
 
 		</formalpara>
 		 <para>
@@ -990,6 +1012,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		 <para>
 			Using "a <filename>-compile/</filename> directory" is correct, because you pronounce "a dash compile directory".
 		</para>
+		</section>
 
 	</section>
 	 <section id="product-names">

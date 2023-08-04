@@ -1092,88 +1092,8 @@
 		<title>Avoiding Ambiguities</title>
 		 <variablelist>
 
-			<varlistentry id="proper-nouns">
-				<term> Capitalizing Proper Nouns </term>
-				 <listitem>
-					<para>
-						In some cases it is not clear if a term refers to a concept or a proper noun or product name.
-            By using the correct capitalization, you help translators identify untranslatable proper nouns and Red&nbsp;Hat product names.
-					</para>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-
-								</row>
-
-							</thead>
-							 <tbody>
-								<row>
-									<entry> This property must be enabled when you are using CTDB in a Windows domain or in active directory security mode. </entry>
-									 <entry> This property must be enabled when you are using CTDB in a Windows domain or in Active Directory security mode. </entry>
-
-								</row>
-
-							</tbody>
-
-						</tgroup>
-
-					</table>
-
-				</listitem>
-
-			</varlistentry>
-			<varlistentry id="easy">
-				<term> Avoid Stating that Something Is Easy </term>
-				 <listitem>
-					<para>
-						Avoid stating that a task is easy to do or that a product is easy to use.
-            Avoid "friendly" and "user-friendly" and similar terms.
-            Focus instead on how to perform a task or on relevant features of a product.
-					</para>
-					 <table>
-						<title></title>
-						 <tgroup cols="2" colsep="1" rowsep="1">
-							<colspec colname="c1"></colspec>
-							 <colspec colname="c2"></colspec>
-							 <thead>
-								<row>
-									<entry> Example </entry>
-									 <entry> Improvement </entry>
-
-								</row>
-
-							</thead>
-							 <tbody>
-								<row>
-									<entry> Mounting a device is relatively simple. 
-									Identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point.</entry>
-									 <entry> (Omit the first sentence.) 
-									 To mount a device, identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point. </entry>
-
-								</row>
-								<row>
-									<entry> Kubernetes is an open source system that makes it easy to manage containerized applications across multiple hosts. </entry>
-									 <entry> Kubernetes is an open source system to manage containerized applications across multiple hosts. </entry>
-
-								</row>
-
-							</tbody>
-
-						</tgroup>
-
-					</table>
-
-				</listitem>
-
-			</varlistentry>
 			 <varlistentry id="homographs">
-				<term> Homographic Verbs </term>
+				<term> Avoid May and Should </term>
 				 <listitem>
 					<para>
 						The verb "may" might indicate possibility or grant permission.
@@ -1218,6 +1138,86 @@
 									 <emphasis>Or:</emphasis> It might be held in memory. 
 									 </para>
 									 </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>			
+			<varlistentry id="easy">
+				<term> Avoid Stating that Something Is Easy </term>
+				 <listitem>
+					<para>
+						Avoid stating that a task is easy to do or that a product is easy to use.
+            Avoid "friendly" and "user-friendly" and similar terms.
+            Focus instead on how to perform a task or on relevant features of a product.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> Mounting a device is relatively simple. 
+									Identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point.</entry>
+									 <entry> (Omit the first sentence.) 
+									 To mount a device, identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point. </entry>
+
+								</row>
+								<row>
+									<entry> Kubernetes is an open source system that makes it easy to manage containerized applications across multiple hosts. </entry>
+									 <entry> Kubernetes is an open source system to manage containerized applications across multiple hosts. </entry>
+
+								</row>
+
+							</tbody>
+
+						</tgroup>
+
+					</table>
+
+				</listitem>
+
+			</varlistentry>
+			<varlistentry id="proper-nouns">
+				<term> Capitalizing Proper Nouns </term>
+				 <listitem>
+					<para>
+						In some cases it is not clear if a term refers to a concept or a proper noun or product name.
+            By using the correct capitalization, you help translators identify untranslatable proper nouns and Red&nbsp;Hat product names.
+					</para>
+					 <table>
+						<title></title>
+						 <tgroup cols="2" colsep="1" rowsep="1">
+							<colspec colname="c1"></colspec>
+							 <colspec colname="c2"></colspec>
+							 <thead>
+								<row>
+									<entry> Example </entry>
+									 <entry> Improvement </entry>
+
+								</row>
+
+							</thead>
+							 <tbody>
+								<row>
+									<entry> This property must be enabled when you are using CTDB in a Windows domain or in active directory security mode. </entry>
+									 <entry> This property must be enabled when you are using CTDB in a Windows domain or in Active Directory security mode. </entry>
 
 								</row>
 
