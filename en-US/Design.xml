@@ -923,9 +923,9 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 
 	</section>
 	 <section id="using-abbreviations">
-		<title>Abbreviations, Acronyms, and Initialisms</title>
+		<title>Abbreviations, Acronyms, Initialisms, and Special Characters</title>
 		 <para>
-			This section defines abbreviations, acronyms, and initialisms.
+			This section defines abbreviations, acronyms, initialisms, and special characters.
 		</para>
 		 <formalpara id="abbreviations">
 			<title>Abbreviations</title>
@@ -948,9 +948,13 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
         		An initialism is an abbreviation that consists of the first letters of words in a phrase, syllables, or some combination thereof. Each character is pronounced separately. For example, FTP is an initialism for File Transfer Protocol.
 			</para>
 		</formalpara>
-		 <para>
-				Consider pronunciation when using articles. See <xref linkend="articles" /> for more information.
-		</para>
+
+		 <formalpara id="special-chars">
+			<title>Special Characters</title>
+			 <para>
+        		For the purposes of this guide, special characters refer to those characters that are listed in <xref linkend="punc-names" />.
+			</para>
+		</formalpara>
 
 	 <section id="abbreviations-correctly">
 		<title>Using Abbreviations, Acronyms, Initialisms, and Special Characters Correctly</title>
