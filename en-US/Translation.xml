@@ -322,6 +322,102 @@
 		</table>
 
     </section>
+
+    <section><title>Punctuation in Lists</title>
+      <para>
+        For each item in a list, start with either a complete sentence or a sentence fragment. 
+      </para>
+      <para>
+        For a list where all items are complete sentences, end each item with a period.
+      </para>
+      <para>
+        Example:
+      </para>
+      <para>
+	  Which statement is true about deployments and deployment configurations?
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+			Deployments use replica sets, and deployment configurations use replication controllers.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Deployments use replication controllers, and deployment configurations use replica sets.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Deployments and deployment configurations both refer to the same thing.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+			Deployments use replica sets, and deployment configurations use stateful sets.
+          </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        For a list where all items are sentence fragments, do not end the items with any punctuation.
+      </para>
+      <para>
+        Example:
+      </para>
+      <para>
+	  Which resource type does the Operator Lifecycle Manager use to store information about installed operators?
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+			Operator group
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Catalog source
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Install plan
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Operator
+          </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        For a list where the items start with sentence fragments, and any of those fragments are followed by a complete sentence, end each of the fragments and sentences with a period.
+      </para>
+      <para>
+        Example:
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+			Identifier of the object schema version.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+			Schema identifier. In this example, the object conforms to the pod schema.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Name of the container inside a pod. 
+			Container names are important for <command>oc</command> commands when a pod contains multiple containers.
+          </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        For information about punctuation in lead-in sentences that introduce a list, see <xref linkend="list-intro-punc"/>.
+      </para>
+
+    </section>
     </section>
 
 		 <section id="Sentence_Structure-Noun_Stacking">
@@ -509,6 +605,10 @@
 
 <screen>Usage: <command>rhevm-iso-uploader <replaceable>[options]</replaceable> list</command>
 <command>rhevm-iso-uploader <replaceable>[options] </replaceable>upload <replaceable>[file1] [file2] [file3]</replaceable></command></screen>
+
+      <para>
+        For information about punctuation in lead-in sentences that introduce a code block, see <xref linkend="list-intro-punc"/>.
+      </para>
 
 	</section>
 	 <section id="Writing_Clearly_and_Succinctly-Entities">
