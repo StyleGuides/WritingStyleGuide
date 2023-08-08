@@ -54,9 +54,9 @@
 			Try to limit your use of colons and semicolons. Separate sentences with a period if possible.
 		</para>
 		 <formalpara>
-			<title>To introduce a list or series:</title>
+			<title>To introduce a series:</title>
 			 <para>
-				A colon is generally used before a list or series.
+				A colon is generally used before a series.
 			</para>
 
 		</formalpara>
@@ -70,7 +70,7 @@
 
 		</itemizedlist>
 		 <para>
-			Do not use a colon if the list is a complement or object of an element in the sentence.
+			Do not use a colon if the series is a complement or object of an element in the sentence.
 		</para>
 		 <itemizedlist>
 			<listitem>
@@ -79,7 +79,7 @@
 				</para>
 
 			</listitem>
-			 <listitem>
+			 <!-- <listitem>
 				<para>
 					The colors I hate most are:
 				</para>
@@ -107,15 +107,53 @@
 							magenta
 						</para>
 
-					</listitem>
+					</listitem> 
 
-				</itemizedlist>
+				</itemizedlist> 
+
+			</listitem>  -->
+
+		</itemizedlist> 
+
+		 <para>
+			Use a semicolon to separate items in a series if the items contain commas.
+		</para>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					Every day I have coffee, toast, and fruit for breakfast; a salad for lunch; and a peanut butter sandwich, cookies, ice cream, and chocolate cake for dinner.
+				</para>
 
 			</listitem>
 
 		</itemizedlist>
 		 <para>
-			Use a colon after "as follows" and "the following" if the related list immediately follows the stem, or introductory sentence.
+			When a conjunctive adverb (such as <emphasis>however, therefore, otherwise, namely, for example</emphasis>, and so on) joins two independent clauses, use a semicolon before the conjunctive adverb and a comma after it.
+		</para>
+
+		 <itemizedlist>
+			<listitem>
+				<para>
+					I think; therefore, I am.
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+
+		 <formalpara id="list-intro-punc">
+			<title>To introduce a list, command, code block, or procedure</title>
+			 <para>
+				If a list, command, code block, or procedure immediately follows a single stem or introductory sentence, then end that sentence with a colon.
+			</para>
+		</formalpara>
+			 <para>
+				If, however, any sentences intervene between the introduction and the next item, then end both the introduction and any intervening sentences with a period instead.
+			</para>			
+
+		 <para>
+			In the following example, the related list immediately follows the stem, or introductory sentence, after "as follows". 
+			If that sentence instead ends with "the following", then ensure that a noun is used after those words.
 		</para>
 		 <itemizedlist>
 			<listitem>
@@ -142,7 +180,7 @@
 
 		</itemizedlist>
 		 <para>
-			Use a colon to introduce a bullet list.
+			In the following example, a colon is used to introduce a bullet list:
 		</para>
 		 <itemizedlist>
 			<listitem>
@@ -176,7 +214,7 @@
 					</listitem>
 					 <listitem>
 						<para>
-							Cost per
+							Cost per unit
 						</para>
 
 					</listitem>
@@ -185,32 +223,43 @@
 
 			</listitem>
 
-		</itemizedlist>
-		 <para>
-			Use a semicolon to separate items in a series if the items contain commas.
+		</itemizedlist>		
+
+		<para>
+			In the following example, a colon is used for a step that introduces a command:	
 		</para>
-		 <itemizedlist>
+		<itemizedlist>
 			<listitem>
 				<para>
-					Everyday I have coffee, toast, and fruit for breakfast; a salad for lunch; and a peanut butter sandwich, cookies, ice cream, and chocolate cake for dinner.
+					2. Use the <command>ansible-navigator run</command> command to run the <filename>allfacts.yml</filename> playbook:
 				</para>
+<screen>[student@workstation manage-facts]$ ansible-navigator run allfacts.yml
+PLAY [Gather and display facts for managed nodes] ****************************</screen>
 
 			</listitem>
 
-		</itemizedlist>
-		 <para>
-			Use a semicolon before a conjunctive adverb, such as <emphasis>however, therefore, otherwise, namely, for example</emphasis>, and so on.
-		</para>
+		</itemizedlist>	
 
-		 <itemizedlist>
+		<para>
+			In the following example, several sentences introduce a code example, and each one ends in a period:	
+		</para>
+		<itemizedlist>
 			<listitem>
 				<para>
-					I think; therefore, I am.
+					To configure SELinux persistently, use the <filename>/etc/selinux/config</filename> file.
+					In the following default example, the configuration sets SELinux to <option>enforcing</option> mode.
+					The comments list other valid values, such as the <option>permissive</option> and <option>disabled</option> modes.
 				</para>
+<screen># This file controls the state of SELinux on the system.
+# SELINUX= can take one of these three values:
+# enforcing - SELinux security policy is enforced.
+# permissive - SELinux prints warnings instead of enforcing.
+# disabled - No SELinux policy is loaded.
+<emphasis>...output omitted...</emphasis> </screen>
 
 			</listitem>
 
-		</itemizedlist>
+				</itemizedlist>	
 
 	</section>
 	 <section id="commas">
@@ -265,6 +314,28 @@
 			<listitem>
 				<para>
 					You need to go to the grocery store for milk, drop off my dry cleaning, and pick up your little sister from soccer practice.
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+		 <formalpara id="conjunctive-adverbs">
+			<title>With conjunctive adverbs:</title>
+			 <para>
+				When using a conjunctive adverb (such as <emphasis>however, therefore, otherwise, namely, for example</emphasis>, and so on) in a sentence, set it off with commas.
+			</para>
+
+		</formalpara>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					It rained all afternoon. As a result, we canceled our picnic.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					The grass, however, stayed dry under the trees.
 				</para>
 
 			</listitem>
