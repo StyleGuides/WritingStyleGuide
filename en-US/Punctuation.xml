@@ -121,14 +121,14 @@
 		 <itemizedlist>
 			<listitem>
 				<para>
-					Everyday I have coffee, toast, and fruit for breakfast; a salad for lunch; and a peanut butter sandwich, cookies, ice cream, and chocolate cake for dinner.
+					Every day I have coffee, toast, and fruit for breakfast; a salad for lunch; and a peanut butter sandwich, cookies, ice cream, and chocolate cake for dinner.
 				</para>
 
 			</listitem>
 
 		</itemizedlist>
 		 <para>
-			Use a semicolon before a conjunctive adverb, such as <emphasis>however, therefore, otherwise, namely, for example</emphasis>, and so on.
+			When a conjunctive adverb (such as <emphasis>however, therefore, otherwise, namely, for example</emphasis>, and so on) joins two independent clauses, use a semicolon before the conjunctive adverb and a comma after it.
 		</para>
 
 		 <itemizedlist>
@@ -226,7 +226,7 @@
 		</itemizedlist>		
 
 		<para>
-			In the following example, a colon is used for a step that introduces or leads into a command:	
+			In the following example, a colon is used for a step that introduces a command:	
 		</para>
 		<itemizedlist>
 			<listitem>
@@ -241,7 +241,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 		</itemizedlist>	
 
 		<para>
-			In the following example, a period is used at the end of each of several sentences that introduce a code example:	
+			In the following example, several sentences introduce a code example, and each one ends in a period:	
 		</para>
 		<itemizedlist>
 			<listitem>
@@ -314,6 +314,28 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 			<listitem>
 				<para>
 					You need to go to the grocery store for milk, drop off my dry cleaning, and pick up your little sister from soccer practice.
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+		 <formalpara id="conjunctive-adverbs">
+			<title>With conjunctive adverbs:</title>
+			 <para>
+				When using a conjunctive adverb (such as <emphasis>however, therefore, otherwise, namely, for example</emphasis>, and so on) in a sentence, set it off with commas.
+			</para>
+
+		</formalpara>
+		 <itemizedlist>
+			<listitem>
+				<para>
+					It rained all afternoon. As a result, we canceled our picnic.
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					The grass, however, stayed dry under the trees.
 				</para>
 
 			</listitem>
