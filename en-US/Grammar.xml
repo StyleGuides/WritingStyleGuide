@@ -162,12 +162,27 @@ Avoid using possessives to refer to abbreviations and product names
 		 <itemizedlist>
 			<listitem>
 				<para>
-				GitHub is the place where the Red Hat Writing Style Guide is hosted.  
+				You can find NASA documentation on GitHub.
 				</para>
 <para> The OpenSauced Chrome Extension is the best tool to display your open source contributions.
 </para>
 			</listitem>
-			<section id="use-posessives-with-inanimate-objects-and-"
+			</section>
+			<section id="use-posessives-with-inanimate-objects-and-people">
+			<title> People and Inanimate Objects</title>
+			<para> Even though possessives can't be used with product names and abbreviations, they can be used with people and inanimate objects.
+			<para>
+	<emphasis>Examples:</emphasis>
+		</para>
+		 <itemizedlist>
+			<listitem>
+				<para>
+				Eddie Jaoude's YouTube channel is the best source for learning how to use GitHub.
+				</para>
+<para> The alt tag's text for the Pepsi logo is too short.
+</para>
+			</listitem>
+			</section>
 	</section> 
 	 <section id="using-who-whom">
 		<title>Using Who, Whom, That, and Which Correctly</title>
