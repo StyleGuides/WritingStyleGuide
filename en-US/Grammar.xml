@@ -146,6 +146,29 @@
 		</table>
 
 	</section>
+	<section id ="possessives">
+	<title> Possessives</title>
+	<para>
+	Possessives are when singular and plural nouns have an appostrophe and s (these two components appear after a singular noun whereas the appostrophe comes after the letter s in a plural noun) to show that something or someone belongs to a person or thing. However, consider avoidng using these terms in the following scenario.
+	</para>
+	<section id="no-posessives-with-abbreviations-and-product-names">
+	<title> Abbreviations and Product Names</title>
+<para> 
+Avoid using possessives to refer to abbreviations and product names
+</para>
+ <para>
+	<emphasis>Examples:</emphasis>
+		</para>
+		 <itemizedlist>
+			<listitem>
+				<para>
+				GitHub is the place where the Red Hat Writing Style Guide is hosted.  
+				</para>
+<para> The OpenSauced Chrome Extension is the best tool to display your open source contributions.
+</para>
+			</listitem>
+			<section id="use-posessives-with-inanimate-objects-and-"
+	</section> 
 	 <section id="using-who-whom">
 		<title>Using Who, Whom, That, and Which Correctly</title>
 		 <para>
@@ -285,7 +308,6 @@
 			</itemizedlist>
 
 		</note>
-
 	</section>
 	 <section id="sentence-structure">
 		<title>Sentence Structure</title>
