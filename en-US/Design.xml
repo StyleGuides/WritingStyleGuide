@@ -1059,6 +1059,11 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 <!-- 		<listitem>
 			 </listitem>		-->
 				<para>
+					Do not use possessives to refer to product names.
+					For examples and more information, see <xref linkend="possessives"/>.
+				</para>
+
+				<para>
 					Do not hyphenate or break a product name across lines.
 				</para>
 				<example>
