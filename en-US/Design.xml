@@ -156,10 +156,6 @@
           Click the <guibutton>^</guibutton> symbol.
         </para>
       </example>
-      <para>
-        If you cannot easily reproduce the symbol, include a screen capture, or a succinct description of the object type, or both.
-        Use this approach for icons, especially when they have no tooltip or other help text.
-      </para>
       <example><title>Preferred Style for Documenting Icons</title>
         <para>
           Click the <guiicon>Upload</guiicon> (<guiicon><inlinemediaobject>
@@ -1043,7 +1039,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 				<para>
 					Do not include "Inc." when referring to Red&nbsp;Hat except in legal documents.
 				</para>
-<para> Do not use possessives with the Red Hat company name. For examples and more information, see [Section 3.7]()
+<para> Do not use possessives with the Red Hat company name. For examples and more information, see [Section 3.7](https://stylepedia.net/style/6.0/#product-names)
 <!-- 		<listitem>
 			 </listitem>		-->
 				<para>
