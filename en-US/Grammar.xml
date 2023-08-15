@@ -155,14 +155,44 @@
 	 <para>
 	For guidance on how to form a possessive, see <xref linkend="apostrophes"/>.
 	</para>
-	<para>
-	Consider the following scenarios for when to use or not to use a possessive:
-	</para>
 	<para> 
-	Do not use possessives to refer to abbreviations or product names.
+	Do not use possessives with product names.
 	</para>
 
 		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Red&nbsp;Hat OpenShift's Logging operator creates cluster logging and cluster log forwarder instances. </entry>
+						 <entry> The Red&nbsp;Hat OpenShift Logging operator creates cluster logging and cluster log forwarder instances. </entry>
+
+					</row>		
+					<row>
+						<entry> OpenSauced's Chrome Extension is a good tool to display your open source contributions. </entry>
+						 <entry> The OpenSauced Chrome Extension is a good tool to display your open source contributions. </entry>
+
+					</row>					
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	<para> 
+	Do not use possessives with abbreviations.
+	</para>
+		<table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
 				<colspec colname="c1"></colspec>
@@ -181,21 +211,12 @@
 						 <entry> You can find NASA documentation on GitHub. </entry>
 
 					</row>
-					<row>
-						<entry> OpenSauced's Chrome Extension is a good tool to display your open source contributions. </entry>
-						 <entry> The OpenSauced Chrome Extension is a good tool to display your open source contributions. </entry>
-
-					</row>					
-					<row>
-						<entry> Red&nbsp;Hat OpenShift's Logging operator creates cluster logging and cluster log forwarder instances. </entry>
-						 <entry> The Red&nbsp;Hat OpenShift Logging operator creates cluster logging and cluster log forwarder instances. </entry>
-
-					</row>		
 				</tbody>
 
 			</tgroup>
 
 		</table>
+
 
 	<para> 
 	Otherwise, you can use possessives for people and inanimate objects.
