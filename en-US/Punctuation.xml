@@ -610,6 +610,10 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 		 <para>
 			Singular proper names ending in <emphasis>s</emphasis> only need an apostrophe (for example, Dickens' novels).
 		</para>
+		 <para>
+			For guidance on whether to use a possessive, see <xref linkend="possessives"/>.
+		</para>
+
 
 	</section>
 

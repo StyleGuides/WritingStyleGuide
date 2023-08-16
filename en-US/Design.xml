@@ -156,10 +156,6 @@
           Click the <guibutton>^</guibutton> symbol.
         </para>
       </example>
-      <para>
-        If you cannot easily reproduce the symbol, include a screen capture, or a succinct description of the object type, or both.
-        Use this approach for icons, especially when they have no tooltip or other help text.
-      </para>
       <example><title>Preferred Style for Documenting Icons</title>
         <para>
           Click the <guiicon>Upload</guiicon> (<guiicon><inlinemediaobject>
@@ -994,6 +990,14 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		</para>
 		</formalpara>
 
+		<formalpara id="possess-abbr">
+			<title>Possessives</title>
+		 <para>
+			Do not use possessives with abbreviations. For examples and more information, see <xref linkend="possessives"/>.
+		</para>
+		</formalpara>
+
+
 		 <formalpara id="special-characters">
 			<title>Special Characters</title>
 	 	 <para>
@@ -1058,6 +1062,11 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 
 <!-- 		<listitem>
 			 </listitem>		-->
+				<para>
+					Do not use possessives to refer to product names.
+					For examples and more information, see <xref linkend="possessives"/>.
+				</para>
+
 				<para>
 					Do not hyphenate or break a product name across lines.
 				</para>

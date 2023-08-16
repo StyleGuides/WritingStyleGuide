@@ -146,6 +146,95 @@
 		</table>
 
 	</section>
+	<section id="possessives">
+	<title>Possessives</title>
+	<para>
+	A <emphasis>possessive</emphasis> indicates that something or someone belongs to a person or thing.
+	</para>
+	 <para>
+	For guidance on how to form a possessive, see <xref linkend="apostrophes"/>.
+	</para>
+	<para> 
+	Do not use possessives with product names.
+	</para>
+
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Red&nbsp;Hat OpenShift's Logging operator creates cluster logging and cluster log forwarder instances. </entry>
+						 <entry> The Red&nbsp;Hat OpenShift Logging operator creates cluster logging and cluster log forwarder instances. </entry>
+
+					</row>		
+					<row>
+						<entry> OpenSauced's Chrome Extension is a good tool to display your open source contributions. </entry>
+						 <entry> The OpenSauced Chrome Extension is a good tool to display your open source contributions. </entry>
+
+					</row>					
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	<para> 
+	Do not use possessives with abbreviations.
+	</para>
+		<table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> You can find NASA's documentation on GitHub. </entry>
+						 <entry> You can find NASA documentation on GitHub. </entry>
+
+					</row>
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	<para> 
+	Otherwise, you can use possessives for people and inanimate objects.
+	</para>
+	<para>
+	<emphasis>Examples:</emphasis>
+	</para>
+		 <itemizedlist>
+			<listitem>
+				<para>
+				Eddie Jaoude's YouTube channel is one of the best sources for learning how to use GitHub.
+				</para>
+			</listitem>
+			<listitem>
+				<para> 
+				The alt tag's text for the Pepsi logo is too short.
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section> 
 	 <section id="using-who-whom">
 		<title>Using Who, Whom, That, and Which Correctly</title>
 		 <para>
@@ -285,7 +374,6 @@
 			</itemizedlist>
 
 		</note>
-
 	</section>
 	 <section id="sentence-structure">
 		<title>Sentence Structure</title>
