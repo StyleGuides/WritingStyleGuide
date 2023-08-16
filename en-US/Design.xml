@@ -636,7 +636,9 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 				If the file to edit is empty or does not exist, do not highlight any content to add.
 			</para>
 			 <para>
-				You can also use <systemitem>here</systemitem> documents to describe how to create a file with required content. The syntax of <systemitem>here</systemitem> documents varies by system, shell, language, and so on. The following example creates the <filename>my-script</filename> file in the current directory, with the example content.
+				You can also use <systemitem>here</systemitem> documents to describe how to create a file with required content. 
+				For more information about <systemitem>here</systemitem> documents, see <ulink url="https://tldp.org/LDP/abs/html/here-docs.html" />
+				The syntax of <systemitem>here</systemitem> documents varies by system, shell, language, and so on. The following example creates the <filename>my-script</filename> file in the current directory, with the example content.
 			</para>
 
 <screen><![CDATA[$ cat << EOF > my-script
@@ -649,6 +651,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			</para>
 
 		</section>
+		
 		 <section id="use-hostnames-correctly">
 			<title>Using Host and Usernames Correctly</title>
 			 <para>
