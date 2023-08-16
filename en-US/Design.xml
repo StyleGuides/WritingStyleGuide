@@ -990,7 +990,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		</para>
 		</formalpara>
 
-		<formalpara id="possessives">
+		<formalpara id="possess-abbr">
 			<title>Possessives</title>
 		 <para>
 			Do not use possessives with abbreviations. For examples and more information, see <xref linkend="possessives"/>.
