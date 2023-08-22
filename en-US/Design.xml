@@ -386,7 +386,7 @@
 				</para>
 
 			</warning>
-			 <section>
+			 <section id="continuation">
 				<title>Documenting Multiple or Long Commands</title>
           <note>
             <para>
@@ -475,7 +475,7 @@ $ vi myFile.txt
 
 	</section>
 
-			 <section>
+			 <section id="omitting">
 				<title>Omitting Part of Output</title>
           <para>
             For the sake of brevity, do not show all output to the user in all cases, but only those parts of any output that are relevant to the context that is described. 
