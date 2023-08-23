@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: 'overpass',sans;
+    font-family: "liberation sans", "Myriad ", "Bitstream Vera Sans", "Lucida Grande", "Luxi Sans", "Trebuchet MS", helvetica, verdana, arial, sans-serif;
     background-color: #fff;
     margin: 0;
     padding: 0;
@@ -44,7 +44,7 @@ header img {
 }
 
 #main > div {
-    padding-top: 5%;
+    padding-top: 2%;
 }
 
 #main > img {
@@ -52,7 +52,8 @@ header img {
 }
 
 #main p {
-    width: 50%;
+    text-align: left;
+    width: 70%;
     font-size: 1.33em;
     margin: auto;
 }

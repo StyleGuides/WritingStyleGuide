@@ -5,9 +5,7 @@
 ]>
 <chapter id="a">
 	<title>A</title>
-<!-- Some of the entries were not listed in alphabetical order.	 -->
 	 <variablelist>
-<!-- Entries previously used a mixture of "v." and "vb." to denote a verb. Changed all occurrences to "v." -->
 		<varlistentry id="amp-and-">
 			<term>"&amp;" and "+"</term>
 			 <listitem>
@@ -29,7 +27,6 @@
 			</listitem>
 
 		</varlistentry>
-<!-- Removed "acronyms" entry (as it is not a literal term) and added this content instead to section 3.6. -->
 
 		 <varlistentry id="agile-development">
 			<term role="true">agile</term>
@@ -55,10 +52,10 @@
 		</varlistentry>
 		 <varlistentry id="all-in-one">
 			<term role="true">all-in-one</term>
-      <term role="false">allinone</term>
 			 <listitem>
 				<para>
-					<emphasis>n., adj.</emphasis> Hyphenate in both places. Do not use "allinone" or other variations.
+					<emphasis>n., adj.</emphasis> Write as shown as both a noun and an adjective.
+					Do not use other variations.
 				</para>
 
 			</listitem>
@@ -78,7 +75,7 @@
 			</listitem>
 
 		</varlistentry>
-		 
+
 		 <varlistentry id="alternative">
 			<term role="true">alternative</term>
 			 <listitem>
@@ -98,7 +95,7 @@
 			 <listitem>
 				<para>
 					For times of day, use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "11&nbsp;AM".
-				</para> 
+				</para>
         <para>
           See also <xref linkend="pm"/>.
         </para>
@@ -123,7 +120,6 @@
 					<para>
 						The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
 					</para>
-		<!-- Updated URL for AMD trademarks. -->			
 					 <para>
 						For more information about Intel&reg; trademarks, see <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
 					</para>
@@ -147,7 +143,6 @@
 
 		</varlistentry>
 
-<!-- Added "appendixes" entry. -->
 		 <varlistentry id="appendixes">
 			<term>appendixes</term>
 			 <listitem>
@@ -157,27 +152,25 @@
 
 			</listitem>
 
-		</varlistentry>		
+		</varlistentry>
 
-<!-- Commenting out this entry as it is not a literal term entry. Consider moving elsewhere, such as to Section 3.7 and expand scope of that section? 		
-		 <varlistentry id="application">
-			<term>application</term>
+		 <varlistentry id="application-velocity">
+			<term>application velocity</term>
 			 <listitem>
 				<para>
-					When used as a proper name, use the capitalization of the product, such as GNUPro, Source-Navigator, and Red&nbsp;Hat Enterprise&nbsp;Linux.
-          When used as a command, use lowercase as appropriate, such as "To start GCC, type gcc".
+					Used on its own, this phrase does not indicate what aspect of the application lifecycle is faster, because velocity means "speed in a given direction.”
 				</para>
-				 <note>
-					<para>
-						"vi" is always lowercase.
-					</para>
-
-				</note>
+				<para>
+					Always provide context on first mention for what exactly is moving faster (for example, application development velocity, development velocity, development and deployment velocity).
+					Then, unless the meaning changes, you can use “application velocity” for subsequent uses.
+				</para>
+				<para>
+					For example, the OpenShift team has used this term to mean "creating a streamlined developer experience" whose context is key to setting audience expectations for their content.
+				</para>
 
 			</listitem>
 
 		</varlistentry>
--->
 
 		 <varlistentry id="applixware">
 			<term role="true">Applixware</term>
@@ -263,7 +256,7 @@
 					</listitem>
 					 <listitem>
 						<para>
-							MaaS (Messaging-as-a-Service)
+							MaaS (Messaging-as-a-Service, Metal-as-a-Service)
 						</para>
 
 					</listitem>
@@ -295,14 +288,14 @@
 						<para>
 							When in all capitals, such as a title or headline, the "aa" in the acronym remains lowercase (such as INTRODUCTION TO PaaS SOLUTIONS).
 						</para>
-<!-- When would all capitals be used? -->						
+<!-- When would all capitals be used? -->
 
 					</listitem>
 					 <listitem>
 						<para>
 							Hyphenate when written out: Thing-as-a-Service.
               For two-word prefixes, do not include a hyphen between the first and second words, for example: Mobile Backend-as-a-Service.
-              It can be used as an adjective to describe multiple: for example, when referring to IaaS, PaaS, and SaaS, use as-a-Service offerings, as-a-Service products, or similar wording.
+              It can be used as an adjective to describe multiple: for example, when referring to IaaS, MaaS, PaaS, and SaaS, use as-a-Service offerings, as-a-Service products, or similar wording.
 						</para>
 
 					</listitem>

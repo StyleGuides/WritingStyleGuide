@@ -16,7 +16,7 @@
 				<title>Capitalization</title>
 					<para>
 					The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
-            Table headings, procedure headings, and formal paragraph titles fall under this heading, and consequently, standard title case capitalization rules apply.
+            Table headings and procedure headings fall under this heading; standard title case capitalization rules apply.
 					</para>
 		</formalpara>
 			<para>
@@ -42,18 +42,57 @@
 
           <para>
             Be frugal with punctuation.
-            In most cases, avoid semicolons, colons, dashes, and similar punctuation unless part of the actual subject, or a proper name.
+            Avoid semicolons, colons, dashes, and similar punctuation unless part of the actual subject, or a proper name.
             Do not use terminating periods.
             </para>
           </formalpara>
 			<formalpara id="verbs-titles">
-				<title>Verbs in Titles</title>
+				<title>Writing Effective Titles</title>
 					<para>
-					Usually, you start a title with the gerund form of a verb, which ends with "-ing", for example "Creating Branches". Choose a verb that refers to specific actions that users take, such as "Configuring", "Creating", "Installing", and "Merging".
+					Use a title that represents the content. 
 					</para>
           </formalpara>
 					<para>
-					The gerund verb form is not always required. For example, avoid verbs such as "Describing", "Introducing", and "Understanding", because they add little value. Instead, use a more specific verb or omit the verb. For example, instead of "Describing Initial Git Configuration", you can use "Initial Git Configuration".
+					Typically, the "ing" form of a verb is a good way to title larger chunks of content such as chapters and sections, for example "Creating Branches". Choose a verb that refers to specific actions that users take, such as "Configuring", "Creating", "Installing", and "Merging".
+					</para>
+					<para>
+					Activities and subtasks that the user should perform can alternatively use an imperative verb for clarity. Imperative verbs are prescriptive, such as "Create" or "Delete". Example: "Assess the Health of an OpenShift Cluster".
+					</para>
+					<para>
+					In some cases, a verb might not be appropriate because the content is purely informational. Instead of using a vague verb like "Understanding", "Describing", "Introducing", or "Exploring", either use a more specific verb, or use a noun phrase instead of a verb. A noun phrase is descriptive and omits a verb, for example "Installation Overview" or "The OpenShift Web Console."
+					</para>
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Understanding OpenShift Users and Groups </entry>
+						 <entry> OpenShift Users and Groups </entry>
+
+					</row>
+					<row>
+						<entry> Introducing Cluster Updates </entry>
+						 <entry> Cluster Updates </entry>
+
+					</row>					
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+					<para>
+					In training content, avoid using a verb such as "Discussing" or "Demonstrating" in objectives for students. Such verbs might refer instead to what the instructor or the course content covers, or to a student group activity in class.
 					</para>
 					 <para>
 						See the <citetitle>IBM Style Guide</citetitle> for more information.
@@ -63,7 +102,7 @@
 							Gerunds should be avoided elsewhere.
               See <xref linkend="sentence-structure" />.
 						</para>
-					</important> 
+					</important>
       <formalpara>
         <title>File Names, Commands, and Related Terms</title>
           <para>
@@ -102,7 +141,7 @@
 				For example, for a button labeled <guibutton>Save As...</guibutton>, do not include the ellipsis in the documentation.
 			</para>
       <para>
-        In most cases, do not include the element type in instructions.
+        Avoid including the element type in instructions.
         For example, rather than "Click the <guibutton>Save</guibutton> button", write "Click <guibutton>Save</guibutton>".
       </para>
       <para>
@@ -117,10 +156,6 @@
           Click the <guibutton>^</guibutton> symbol.
         </para>
       </example>
-      <para>
-        If you cannot easily reproduce the symbol, include a screen capture, or a succinct description of the object type, or both.
-        Use this approach for icons, especially when they have no tooltip or other help text.
-      </para>
       <example><title>Preferred Style for Documenting Icons</title>
         <para>
           Click the <guiicon>Upload</guiicon> (<guiicon><inlinemediaobject>
@@ -136,7 +171,7 @@
 			<section>
 			 <title>Navigating Through Multiple UI Options</title>
 				 <para>
-					 Use "Navigate to" when moving through multiple UI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to initiate an action.
+					 Use "Navigate to" when moving through multiple UI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to start an action.
 				 </para>
 				 <para>
 					 For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
@@ -182,7 +217,7 @@
 			</para>
 			 <para>
 				RHEL&nbsp;8 uses the following approach to starting applications from the desktop.
-				In an effort to maintain consistency and to make translation easier, Red&nbsp;Hat documentation assumes use of GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to start applications.
+				To maintain consistency and to make translation easier, Red&nbsp;Hat documentation assumes the use of GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to start applications.
 			</para>
 			 <para>
 				The preferred approach is to use the <keycap>Super</keycap> key to enter the Activities Overview, to enter the name of the required application, and to press <keycap>Enter</keycap>.
@@ -211,7 +246,7 @@
       </para>
       <blockquote>
         <para>
-          "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter (‘-’). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, ‘-abc’ is equivalent to ‘-a -b -c’. [...] Certain options require an argument. For example, the ‘-o’ option of the ‘ld’ command requires an argument—an output file name". and so on.
+          "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter ('-'). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, '-abc' is equivalent to '-a -b -c'. [...] Certain options require an argument. For example, the '-o' option of the 'ld' command requires an argument—an output file name". and so on.
         </para>
         <para>
           See <command>info libc argument syntax</command> for the full discussion.
@@ -272,7 +307,7 @@
 					<term>Target options <replaceable>[directory]</replaceable></term>
 					 <listitem>
 						<para>
-							The optional directory into which the repository will be cloned.
+							The optional directory into which the repository is cloned.
               It must be replaced with a valid value, or be omitted.
 						</para>
 
@@ -326,7 +361,8 @@
 					<term>Target options (<replaceable>[username@]hostname:/directory</replaceable>)</term>
 					 <listitem>
 						<para>
-							The optional username, indicated by brackets ([]), followed by the hostname and path to the target directory. All aspects of this component must be replaced with valid values.
+							The optional username, indicated by brackets, [], followed by the hostname and path to the target directory.
+              All aspects of this component must be replaced with valid values.
 						</para>
 
 					</listitem>
@@ -336,7 +372,7 @@
 			</variablelist>
 			 <warning>
 				<para>
-					In most cases, avoid using the <option>--force (-f)</option> and <option>--assumeyes (-y)</option> options on most commands, especially when logged in as the <systemitem>root</systemitem> user. This can lead to unintended consequences, such as removing files or directories by mistake or installing packages or other software that might not suit your system. Refer to the following examples:
+					Avoid using the <option>--force (-f)</option> and <option>--assumeyes (-y)</option> options on most commands, especially when logged in as the <systemitem>root</systemitem> user. This can lead to unintended consequences, such as removing files or directories by mistake or installing packages or other software that might not suit your system. Refer to the following examples:
 				</para>
 
 <screen>[root@serverc pam.d]# rm -f system-auth password-auth
@@ -350,10 +386,16 @@
 				</para>
 
 			</warning>
-			 <section>
+			 <section id="continuation">
 				<title>Documenting Multiple or Long Commands</title>
+          <note>
+            <para>
+              The following guidance differs from previous guidance on the subject.
+            </para>
+          </note>
 				 <para>
-					Sometimes you need to demonstrate how to use long commands that extend over two or more lines, or that include several commands in a single example. If the commands are relatively short and straightforward, then include the commands on consecutive lines:
+					Sometimes you need to show how to use long commands that extend over two or more lines, or that include several commands in a single example.
+          If the commands are relatively short and straightforward, then include the commands on consecutive lines.
 				</para>
 				 <example>
 					<title>Documenting Multiple Commands</title>
@@ -363,11 +405,12 @@ $ vi myFile.txt
 </screen>
 
 				</example>
-				 <para>
-					If the commands are long, complex, or wrap over multiple lines, then the following design options are available.
+			<para>
+			  If the commands are long, complex, or wrap over multiple lines, then use the following design:
+<!-- 			If the commands are long, complex, or wrap over multiple lines, then the following design options are available. -->
           </para>
           <itemizedlist>
-            <listitem>
+<!--             <listitem>
               <para>
                 Use line continuation characters and the associated PS2 prompts.
                 If you are documenting commands on a different operating system, then update the prompts and line continuation characters to suit.
@@ -377,57 +420,76 @@ $ vi myFile.txt
               <para>
                 Use neither line continuation characters nor the associated PS2 prompts.
               </para>
-            </listitem>
+            </listitem> -->
 			<listitem>
               <para>
                 Use line continuation characters without the associated PS2 prompts.
               </para>
             </listitem>
           </itemizedlist>
-          <important>
+<!--          <important>
             <para>
               Do not mix these styles.
-              Maintain the same style throughout your document, book, and product set.
+              Use the same style throughout your document, book, and product set.
             </para>
-          </important>
+          </important> -->
           <para>
             You can also indent the second and subsequent lines of such commands to assist in clarity and readability if required.
-            You can use this option for any of these designs.
+<!--            You can use this option for any of these designs. -->
           </para>
 
-<example><title>Wrapping Long Commands with Continuation Characters and PS2 Prompts</title>
+<!-- <example><title>Wrapping Long Commands with Continuation Characters and PS2 Prompts</title> 
   <para>
     This example uses both continuation characters and PS2 prompts.
-    <!-- These indicators are always used together. -->
-  </para>
+  </para> 
 
-<screen># tar --selinux -czvf config_files.tar.gz  /etc/katello \
+<screen># tar &#45;&#45;selinux -czvf config_files.tar.gz  /etc/katello \
 > /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
 > /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
 > /etc/sysconfig/katello /etc/sysconfig/elasticsearch \
-> /root/ssl–build /var/www/html/pub/* /var/lib/katello</screen>
-</example>
+> /root/ssl-build /var/www/html/pub/* /var/lib/katello</screen>
+</example>  
 
 <example><title>Wrapping Long Commands Without Continuation Characters or PS2 Prompts</title>
   <para>
-    This example uses neither continuation characters nor PS2 prompts, but it does demonstrate how to use line indentation to help to clarify long commands.
+    This example uses neither continuation characters nor PS2 prompts, but it does show how to use line indentation to help to clarify long commands.
   </para>
-<screen># cd /var/lib/katello
+<screen># cd /var/lib/katello 
 
-# myCommand --option funky --color=true
-  --config_file=/home/user/config.conf
-  --output_file=/home/user/output.txt</screen>
+# myCommand &#45;&#45;option funky &#45;&#45;color=true
+  &#45;&#45;config_file=/home/user/config.conf
+  &#45;&#45;output_file=/home/user/output.txt</screen>
 
-</example>
+</example>  -->
 
 <example><title>Wrapping Long Commands with Continuation Characters and Without PS2 Prompts</title>
   <para>
     This example uses continuation characters but not PS2 prompts.
-  </para>
+  </para>  
 <screen>[root@node]# cephadm bootstrap --mon-ip=MON_IP --registry-url=registry.redhat.io \
 --registry-username=REGISTRY_USERNAME --registry-password=REGISTRY_PASSWORD \
 --initial-dashboard-password=DASHBOARD_PASSWORD --dashboard-password-noupdate \
 --allow-fqdn-hostname</screen>
+
+</example>
+
+	</section>
+
+			 <section id="omitting">
+				<title>Omitting Part of Output</title>
+          <para>
+            For the sake of brevity, do not show all output to the user in all cases, but only those parts of any output that are relevant to the context that is described. 
+			Where output is not included, place a marker to show that information is purposely excluded.
+			When shortening the output, use a consistent notation.
+			Red&nbsp;Hat uses the <emphasis>...output omitted...</emphasis> notation, starting and ending with an ellipsis, and highlighted in italics.
+          </para>
+
+<example><title>Notation for Excluding Part of Output</title>
+<screen>[student@workstation image]$ podman build --layers=false -t nexus .
+STEP 1: FROM ubi8/ubi:8.3
+Getting image source signatures
+<emphasis>...output omitted...</emphasis>
+STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest</screen>
 
 </example>
 
@@ -470,7 +532,7 @@ $ vi myFile.txt
 
       <para>
         The term <firstterm>escalated privileges</firstterm> refers to changing to a user whose privileges allow operations that a normal user cannot access.
-        It also refers to temporarily changing the privileges of the current user to perfom those operations without actually changing user accounts.
+        It also refers to temporarily changing the privileges of the current user to perfom those operations without changing user accounts.
       </para>
       <note>
         <para>
@@ -544,7 +606,7 @@ $ vi myFile.txt
           </listitem>
           <listitem>
             <para>
-              As much as possible, leave the system-wide default as <varname>become: false</varname> or <varname>become: no</varname> and if a single task needs privileges, set <varname>become: true</varname> or <varname>become: yes</varname> on that task.
+              As much as possible, leave the systemwide default as <varname>become: false</varname> or <varname>become: no</varname> and if a single task needs privileges, set <varname>become: true</varname> or <varname>become: yes</varname> on that task.
             </para>
           </listitem>
           <listitem>
@@ -565,13 +627,18 @@ $ vi myFile.txt
 				To describe how to view and edit files, such as configuration files, scripts, and so on, do not include editor names as part of the guidance, unless the topic is about a specific editor, or is otherwise necessary to achieve a wanted result.
 			</para>
 			 <para>
-				For example, do not refer to <command>cat</command> or <command>vi</command> if you need to tell readers to "view the <filename>my-script</filename> file". If you need to tell readers to edit a file and add or remove content, write "Edit the <filename>my-script</filename> file and add the following content:" and then include the required content in a &lt;screen&gt; block. Use &lt;code&gt; tags to highlight the text to change. Include some surrounding text in the file for context. Do not use line numbers as a reference point because they can change.
+				For example, do not refer to <command>cat</command> or <command>vi</command> if you need to tell readers to "view the <filename>my-script</filename> file".
+				If you need to tell readers to edit a file and add or remove content, write "Edit the <filename>my-script</filename> file and add the following content:" and then include the required content in a code block and highlight the text to change.
+				Include some surrounding text in the file for context.
+				Do not use line numbers as a reference point because they can change.
 			</para>
 			 <para>
-				If the file to edit is empty or does not exist, do not use &lt;code&gt; tags to highlight any content to add.
+				If the file to edit is empty or does not exist, do not highlight any content to add.
 			</para>
 			 <para>
-				You can also use <systemitem>here</systemitem> documents to describe how to create a file with required content. The syntax of <systemitem>here</systemitem> documents varies by system, shell, language, and so on. The following example creates the <filename>my-script</filename> file in the current directory, with the example content.
+				You can also use <systemitem>here</systemitem> documents to describe how to create a file with required content. 
+				For more information about <systemitem>here</systemitem> documents, see <ulink url="https://tldp.org/LDP/abs/html/here-docs.html" />
+				The syntax of <systemitem>here</systemitem> documents varies by system, shell, language, and so on. The following example creates the <filename>my-script</filename> file in the current directory, with the example content.
 			</para>
 
 <screen><![CDATA[$ cat << EOF > my-script
@@ -584,10 +651,12 @@ $ vi myFile.txt
 			</para>
 
 		</section>
+		
 		 <section id="use-hostnames-correctly">
 			<title>Using Host and Usernames Correctly</title>
 			 <para>
-				Many examples in Red&nbsp;Hat documentation require the use of usernames, hostnames, IP addresses, and similar information. In an effort to reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following approach.
+				Many examples in Red&nbsp;Hat documentation require the use of usernames, hostnames, IP addresses, and similar information.
+        To reduce security risks, to minimize translation overhead, and to maintain consistency, Red&nbsp;Hat recommends the following approach:
 			</para>
 			 <note>
 				<para>
@@ -598,7 +667,8 @@ $ vi myFile.txt
 			 <itemizedlist>
 				<listitem>
 					<para>
-						Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to determine suitable domain names. For documentation and example purposes, it is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
+						Use <ulink url="http://tools.ietf.org/search/rfc2606">RFC 2606</ulink> to find suitable domain names.
+            For documentation and example purposes, it is typically <systemitem>example.com</systemitem>, <systemitem>example.net</systemitem>, <systemitem>example.org</systemitem>, and <systemitem>example.edu</systemitem>.
 					</para>
 					 <important>
 						<para>
@@ -618,7 +688,7 @@ $ vi myFile.txt
 
 <screen><prompt>[root@fedora ~]# </prompt><userinput>setfacl -m u:user1:rw /project/file1</userinput></screen>
 					 <para>
-						The following list provides further alternatives:
+						The following list provides further options:
 					</para>
 					 <itemizedlist>
 						<listitem>
@@ -658,7 +728,8 @@ $ vi myFile.txt
 
 				</formalpara>
 				 <para>
-					For example, you are the system administrator at Global Banking and you are asked to set up permissions to the accounting directory for the following users: John Doe, Sunni Koning, Huong Sabo, and Jerlene Paluch. John is a department manager and needs read access to the accounting directory. Sunni is the lead accountant and needs both read and write access.
+					For example, you are the system administrator at Global Banking and you are asked to set up permissions to the accounting directory for the following users: Huong Sabo, Jerlene Paluch, Abby Quincy, Fricis Ritcher, and Jaya Lamont. 
+					Huong is a department manager and needs read access to the accounting directory. Jerlene is the lead accountant and needs both read and write access.
 				</para>
 				 <formalpara id="choosing-realistic-names">
 					<title>Choosing a Realistic Name</title>
@@ -685,7 +756,8 @@ $ vi myFile.txt
 					</listitem>
 					 <listitem>
 						<para>
-							Include a diverse set of names in your examples to reflect the diversity of the real world. For example, use male, female, and culturally diverse names that suggest a variety of backgrounds in examples to avoid implying that only certain groups have specific skills.
+							Include a diverse set of names in your examples to reflect the diversity of the real world.
+              For example, use male, female, and culturally diverse names that suggest various backgrounds in examples to avoid implying that only certain groups have specific skills.
 						</para>
 
 					</listitem>
@@ -850,11 +922,11 @@ $ vi myFile.txt
 
 	</section>
 	 <section id="using-abbreviations">
-		<title>Using Abbreviations, Acronyms, Initialisms, and Special Characters Correctly</title>
+		<title>Abbreviations, Acronyms, Initialisms, and Special Characters</title>
 		 <para>
-			This section describes how to use abbreviations, acronyms, and initialisms correctly in Red&nbsp;Hat documentation.
+			This section defines abbreviations, acronyms, initialisms, and special characters.
 		</para>
-		 <formalpara>
+		 <formalpara id="abbreviations">
 			<title>Abbreviations</title>
 			 <para>
 				An abbreviation is a shortened form of a word or phrase. For example, <abbrev>Pty.</abbrev> and <abbrev>Inc.</abbrev> are abbreviations for "proprietary" and "incorporated", respectively. Read them as the word for which they are an abbreviation.
@@ -864,46 +936,76 @@ $ vi myFile.txt
 		 <formalpara id="acronyms">
 			<title>Acronyms</title>
 			 <para>
-				What are acronyms anyway?
-        They are similar to abbreviations and initialisms but they are pronounced as a word.
-        An acronym is a word that is formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead-<emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader.
-        <acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
+        		An acronym is a word that is formed from the initial letters of a name, such as ROM for <emphasis>R</emphasis>ead-<emphasis>O</emphasis>nly <emphasis>M</emphasis>emory, or by combining initial letters or part of a series of words, such as LILO for <emphasis>LI</emphasis>nux <emphasis>LO</emphasis>ader.
+        		<acronym>COBOL</acronym> is the acronym for Common Business-oriented Language, and <acronym>POP</acronym> is the acronym for Post Office Protocol.
 			</para>
+
 		</formalpara>
-
-		 <para>
-			Consider pronunciation when using articles. For example, use "an <abbrev>RTS</abbrev> (real-time strategy)", because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade", because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
-		</para>
-
-		 <para>
-			Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK) ...".
-          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
-          	Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
-		</para>
-
-		 <para>
-			To form the plural of an acronym, add a trailing, lowercase "s" or "es" without an apostrophe, for example, ROMs, PINs, BIOSes.
-		</para>
-
-		 <para>
-			Be sure to use correct capitalization for acronyms. Not all acronyms are capitalized (for example, "spool"); see the <citetitle>IBM Style Guide</citetitle> or another suitable reference if you are unsure.
-		</para>
-
 		 <formalpara id="initialisms">
 			<title>Initialisms</title>
 			 <para>
-				An initialism is an abbreviation that consists of the first letters of words in a phrase, syllables, or some combination thereof. Each character is pronounced separately. For example, <abbrev>FTP</abbrev> is an initialism for <systemitem class="protocol">File Transfer Protocol.</systemitem>
+        		An initialism is an abbreviation that consists of the first letters of words in a phrase, syllables, or some combination thereof. Each character is pronounced separately. For example, FTP is an initialism for File Transfer Protocol.
 			</para>
-
 		</formalpara>
+
+		 <formalpara id="special-chars">
+			<title>Special Characters</title>
+			 <para>
+        		For the purposes of this guide, special characters refer to those characters that are listed in <xref linkend="punc-names" />.
+				This section addresses how to use special characters as part of a file or directory name, such as "the <filename>.bashrc</filename> file" and "the <filename>_build/</filename> directory".
+			</para>
+		</formalpara>
+
+	 <section id="abbreviations-correctly">
+		<title>Using Abbreviations, Acronyms, Initialisms, and Special Characters Correctly</title>
 		 <para>
-			Consider pronunciation when using articles. See <xref linkend="acronyms" /> for more information.
+			This section describes how to use abbreviations, acronyms, initialisms, and special characters correctly in Red&nbsp;Hat documentation.
 		</para>
+
+		 <formalpara id="first-mentions">
+			<title>First Mentions</title>
+		 <para>
+			Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK) ...".
+           	Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
+		</para>
+		</formalpara>
+
+		 <formalpara id="cap">
+			<title>Capitalization</title>
+		 <para>
+         	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
+			Not all acronyms are capitalized (for example, "spool"); see the <citetitle>IBM Style Guide</citetitle> or another suitable reference if you are unsure.
+		</para>
+		</formalpara>
+
+		 <formalpara id="articles">
+			<title>Articles</title>
+		 <para>
+			When deciding which articles to use, consider pronunciation. 
+			For example, use "an <abbrev>RTS</abbrev> (real-time strategy)", because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade", because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
+		</para>
+		</formalpara>
+
+		 <formalpara id="plurals">
+			<title>Plurals</title>
+		 <para>
+			To form the plural of an acronym, add a trailing, lowercase "s" or "es" without an apostrophe, for example, ROMs, PINs, BIOSes.
+		</para>
+		</formalpara>
+
+		<formalpara id="possess-abbr">
+			<title>Possessives</title>
+		 <para>
+			Do not use possessives with abbreviations. For examples and more information, see <xref linkend="possessives"/>.
+		</para>
+		</formalpara>
+
+
 		 <formalpara id="special-characters">
 			<title>Special Characters</title>
-		 	 <para>
-				Consider pronunciation when referring to file or directory names that begin with special characters, and use the correct indefinite article.
-			</para>
+	 	 <para>
+			Consider pronunciation when referring to file or directory names that begin with special characters, and use the correct indefinite article.
+		</para>
 
 		</formalpara>
 		 <para>
@@ -917,6 +1019,7 @@ $ vi myFile.txt
 		 <para>
 			Using "a <filename>-compile/</filename> directory" is correct, because you pronounce "a dash compile directory".
 		</para>
+		</section>
 
 	</section>
 	 <section id="product-names">
@@ -962,6 +1065,11 @@ $ vi myFile.txt
 
 <!-- 		<listitem>
 			 </listitem>		-->
+				<para>
+					Do not use possessives to refer to product names.
+					For examples and more information, see <xref linkend="possessives"/>.
+				</para>
+
 				<para>
 					Do not hyphenate or break a product name across lines.
 				</para>
@@ -1087,14 +1195,18 @@ $ vi myFile.txt
 
 		</para>
 		 <para>
-			In most cases, major changes take place in major version releases, and are carried through any minor updates to that release. If you are referring to a major change, or to the first appearance of a new technology, it is therefore most accurate to refer to the major release.
+			Major changes usually take place in major version releases, and are carried through any minor updates to that release.
+      If you are referring to a major change, or to the first appearance of a new technology, it is therefore most accurate to refer to the major release.
 		</para>
 		 <para>
-			Avoid using the "dot-oh" release number. For example, do not use Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.0. Use instead Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.
+			Avoid using the "dot-oh" release number.
+      For example, do not use Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.0.
+      Use instead Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.
 		</para>
 		 <important>
 			<para>
-				This rule applies only to Red&nbsp;Hat products. Refer to other companies' products and use their version numbers as they use them.
+				This rule applies only to Red&nbsp;Hat products.
+        Refer to other companies' products and use their version numbers as they use them.
 			</para>
 
 		</important>
@@ -1103,14 +1215,17 @@ $ vi myFile.txt
 	 <section id="admonitions">
 		<title>Using Admonitions</title>
 		 <para>
-			To call attention to a statement, use an admonition. Red&nbsp;Hat technical documentation currently uses <command>Note</command>, <command>Important</command>, and <command>Warning</command> admonitions.
+			To call attention to a statement, use an admonition.
+      Red&nbsp;Hat technical documentation currently uses <systemitem>Note</systemitem>, <systemitem>Important</systemitem>, and <systemitem>Warning</systemitem> admonitions.
 		</para>
 		 <para>
-			Admonitions automatically include a suitable title according to the type of admonition. Do not use a phrase or anything else for the title. Keep in mind these considerations if using admonitions:
+			Depending on the tools and workflow, admonitions might automatically include a suitable title according to the type of admonition.
+      Do not use a phrase or anything else for the title.
+      Keep the following considerations in mind if using admonitions:
 			<itemizedlist>
 				<listitem>
 					<para>
-						Keep the statements as brief and to the point as possible.
+						Keep statements brief and to the point.
 					</para>
 
 				</listitem>
@@ -1122,19 +1237,20 @@ $ vi myFile.txt
 				</listitem>
 				 <listitem>
 					<para>
-						Use a <command>Note</command> admonition to bring additional information to the user's attention.
+						Use a <systemitem>Note</systemitem> admonition to bring extra information to the user's attention.
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						Use an <command>Important</command> admonition to show the user a piece of information that should not be overlooked. While this information might not change anything that the user is doing, it should show the user that this piece of information could be vital.
+						Use an <systemitem>Important</systemitem> admonition to show the user a piece of information that should not be overlooked.
+            This information might not change anything that the user is doing, but it should show the user that this piece of information could be vital.
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						Use a <command>Warning</command> admonition to alert the reader that the current setup will change or be altered, such as files being removed, and not to perform the operation unless fully aware of the consequences.
+						Use a <systemitem>Warning</systemitem> admonition to alert the reader to potential changes, such as files being removed, and not to perform the operation unless fully aware of the consequences.
 					</para>
 
 				</listitem>
@@ -1196,13 +1312,12 @@ Book Title by First name Surname; Publisher.
 </programlisting>
 
 		 <para>
-			For example, <citetitle>Maximum RPM</citetitle> by
-			<author>
+			For example, <citetitle>Maximum RPM</citetitle> by Edward Bailey; Red&nbsp;Hat Press.
+			<!-- <author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
 
-			</author>
-			; Red&nbsp;Hat Press.
+			</author> -->
 		</para>
 		 <formalpara id="other-websites">
 			<title>Referencing Other Internet Sites</title>

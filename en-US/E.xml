@@ -12,8 +12,6 @@
 				<para>
 					Refer to the primary reference for the type of copy you are creating, either AP or IBM.
 				</para>
-<!-- Deleted the dated term "e-business". -->
-
 			</listitem>
 
 		</varlistentry>
@@ -31,7 +29,8 @@
 			<term>earlier</term>
 			 <listitem>
 				<para>
-					Use to refer to earlier releases of products. Do not use "older" or related terms. See also <xref linkend="later" />.
+					Use to refer to earlier releases of products. Do not use "older" or related terms.
+          See also <xref linkend="later" />.
 				</para>
 
 			</listitem>
@@ -41,7 +40,7 @@
 			<term>Emacs</term>
 			 <listitem>
 				<para>
-					If referring to the program, use "Emacs". For example, "Source-Navigator supports Emacs or vi commands". If referring to the shell prompt command, use "emacs". For example, "At the prompt, type <command>emacs</command>." The complete and correct name is "GNU Emacs".
+					If referring to the program, use "Emacs". For example, "Source-Navigator supports Emacs or vi commands". If referring to the shell prompt command, use "emacs". For example, "At the prompt, type <systemitem>emacs</systemitem>." The complete and correct name is "GNU Emacs".
 				</para>
 
 			</listitem>
@@ -65,7 +64,7 @@
 					When referring to the keyboard key, use <keycap>Enter</keycap>. If referring to the keyboard key on Solaris, use <keycap>Return</keycap>.
 				</para>
 				 <para>
-					When referring to typing a command, use "type" instead, such as "To open Source-Navigator from the command line, type <command>snavigator</command>."
+					When referring to typing a command, use "type" instead, such as "To open Source-Navigator from the command line, type <systemitem>snavigator</systemitem>."
 				</para>
 				 <para>
 					When typing information into a single-field dialog box, "enter" means "type and press <keycap>Enter</keycap>". An example is "enter the license number". For multi-field dialog boxes, see "type".
@@ -120,7 +119,7 @@
 			<term>Ethernet</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Uppercase "E" at all times.
+					<emphasis>n.</emphasis> Always capitalize as shown.
 				</para>
 
 			</listitem>

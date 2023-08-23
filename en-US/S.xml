@@ -141,7 +141,7 @@
 				<para>
 					Abbreviation of Security-Enhanced Linux.
           SELinux uses Linux Security Modules (LSM) in the Linux kernel to provide a range of minimum-privilege-required security policies.
-          Do not use any other alternatives.
+          Do not use any other forms.
 				</para>
 
 			</listitem>
@@ -216,7 +216,9 @@
 					Pronounced "shä" and thus requires "an" as the indefinite article.
         </para>
         <para>
-          SHA stands for Secure Hash Algorithm; each is a cryptographic hash function. SHA2 variants are often specified by using their digest size, in bits, as the trailing number, in lieu of "2". Thus "SHA224", "SHA256", "SHA384", and "SHA512" are considered correct when referring to these specific hash functions.
+          SHA stands for Secure Hash Algorithm; each is a cryptographic hash function.
+          SHA2 variants are often specified by using their digest size, in bits, as the trailing number, instead of "2".
+          Thus "SHA224", "SHA256", "SHA384", and "SHA512" are considered correct when referring to these specific hash functions.
 				</para>
         <para>
           See <ulink url="https://en.wikipedia.org/wiki/Secure_Hash_Algorithms"></ulink> for full details.
@@ -302,7 +304,9 @@
 			<term>should</term>
 			 <listitem>
 				<para>
-					Do not use if it is something the user must do. For example, "You should make a backup" is a suggestion, while "You must make a backup" is a requirement. See also <xref linkend="must" />.
+					Do not use if it is something the user must do.
+          For example, "You should make a backup" is a suggestion, but "You must make a backup" is a requirement.
+          See also <xref linkend="must" />.
 				</para>
 
 			</listitem>
@@ -351,7 +355,9 @@
 			<term>since, as, because</term>
 			 <listitem>
 				<para>
-					Do not use "since" or "as" to mean "because"; it is ambiguous. Use "because" to refer to a reason. Use "since" or "as" to refer to the passage of time.
+					Do not use "since" or "as" to mean "because"; it is ambiguous.
+          Use "because" to refer to a reason.
+          Use "since" or "as" to refer to the passage of time.
 				</para>
 
 			</listitem>
@@ -398,12 +404,13 @@
       </listitem>
     </varlistentry>
 
-<!-- Added for inclusive language -->
 		 <varlistentry id="slave">
 			<term>slave</term>
 			 <listitem>
 				<para>
-					Do not use. It diminishes the horror of the dehumanizing practice of slavery. Use another term such as "worker", "child", "helper", "replica", or "secondary (server, node, process, or other noun)".
+					Do not use.
+          It diminishes the horror of the dehumanizing practice of slavery.
+          Use another term such as "worker", "child", "helper", "replica", or "secondary (server, node, process, or other noun)".
 				</para>
 			</listitem>
 
@@ -412,7 +419,7 @@
 			<term>smart card</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Do not use smartcard or smart-card.
+					<emphasis>adj., n.</emphasis> Always use the two-word form. Do not use "smart-card" or other variations. Do not capitalize unless it is part of a product name or other proper noun.
 				</para>
 
 			</listitem>
@@ -540,6 +547,16 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="squad">
+			<term>squad (n.)</term>
+			 <listitem>
+				<para>
+					Do not use to refer to a group that is formed to accomplish a task. Use "team" or "group" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>			
 		 <varlistentry id="sr-iov">
 			<term>SR-IOV</term>
 			 <listitem>
@@ -587,11 +604,11 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>stand-alone</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Write hyphenated. Do not use "standalone".
+					<emphasis>adj.</emphasis> Hyphenate.
+          Do not use "standalone".
 				</para>
 				 <para>
 					Refers to something that is self-contained, or that does not require any other devices to function. 
-<!-- Updated dated example that referred to a fax machine. -->
 					For example, a smartphone is a stand-alone device because it does not require a computer, printer, modem, or other device. 
 					A printer, on the other hand, is not a stand-alone device because it requires a computer to feed it data.
 				</para>
@@ -617,7 +634,8 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>start up</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Do not use. Instead, use "activate" or "invoke".
+					<emphasis>v.</emphasis> Do not use.
+          Instead, use "start", "activate", or "invoke".
 				</para>
 
 			</listitem>

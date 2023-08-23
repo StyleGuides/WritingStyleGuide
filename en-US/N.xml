@@ -10,7 +10,8 @@
  			<term>navigate to</term>
  			 <listitem>
  				<para>
-					Use "Navigate to" when moving through multiple UI options, because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action. For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
+					Use "Navigate to" when moving through multiple UI options, because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action.
+          For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
  				</para>
 				<para>
 					Do not use "Go to", or "point to", or other variations.
@@ -22,7 +23,8 @@
 			<term>needs, needs to be, need to</term>
 			 <listitem>
 				<para>
-					Avoid when possible. Suggested alternatives include "must" or "required".
+					Avoid when possible.
+          Use "must" or "required" or similar.
 				</para>
 
 			</listitem>
@@ -56,10 +58,13 @@
 			<term>NFS</term>
 			 <listitem>
 				<para>
-					Abbreviation of Network File System, a client/server application designed by Sun Microsystems that provides access for all network users to shared files stored on computers of different types. NFS provides access to shared files through the Virtual File System (VFS) interface that runs in a layer above TCP/IP. Users can manipulate shared files as if they were stored locally on the user's own hard disk.
+					Abbreviation of Network File System, a client/server application designed by Sun Microsystems that provides access for all network users to shared files stored on computers of different types.
+          NFS provides access to shared files through the Virtual File System (VFS) interface that runs in a layer above TCP/IP.
+          Users can manipulate shared files as if they were stored locally on the user's own hard disk.
 				</para>
 				 <para>
-					With NFS, computers that are connected to a network operate as clients while accessing remote files, and as servers while providing remote users access to local shared files. The NFS standards are publicly available and widely used.
+					With NFS, computers that are connected to a network operate as clients while accessing remote files, and as servers while providing remote users access to local shared files.
+          The NFS standards are publicly available and widely used.
 				</para>
 
 			</listitem>
@@ -111,17 +116,14 @@
 			<term>number sign</term>
 			 <listitem>
 				<para>
-					Generally, use "number sign" to refer to the # character. Alternatively, use "hash" to refer to a hashtag in social media, or to refer to Secure Hash Algorithm (see <xref linkend="sha" />), or when writing exclusively for a European audience. You can instead use "pound sign" when writing exclusively for a North American audience, if "number sign" is not appropriate for the context.  
+					Generally, use "number sign" to refer to the # character.
+          Otherwise, use "hash" to refer to a hashtag in social media, or to refer to Secure Hash Algorithm (see <xref linkend="sha" />), or when writing exclusively for a European audience.
+          You can instead use "pound sign" when writing exclusively for a North American audience, if "number sign" is not appropriate for the context.  
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-
-<!-- Moved "Numbers" entry to Chapter 4. -->
-		 <!-- <varlistentry id="numbers">
-			<term>numbers</term>
-		</varlistentry> -->
 
 	</variablelist>
 </chapter>

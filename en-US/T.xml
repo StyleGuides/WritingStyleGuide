@@ -149,32 +149,31 @@
 			</listitem>
 
 		</varlistentry>
-<!-- IBM has now changed to use of one-word forms for many "time-" prefixed words: timebox, timeframe, timeline, timeout, timeslice, timestamp, but still "time zone". -->
 		 <varlistentry id="time-frame">
-			<term>time frame (n.)</term>
+			<term>time frame</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "timeframe" or "time-frame".
+					<emphasis>n.</emphasis> Correct. Do not use "timeframe" or "time-frame".
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="time-zone">
-			<term>time zone (n.)</term>
+			<term>time zone</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "timezone" or "time-zone".
+					<emphasis>n.</emphasis> Correct. Do not use "timezone" or "time-zone".
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="token-ring">
-			<term>token-ring (n.)</term>
+			<term>token-ring</term>
 			 <listitem>
 				<para>
-					When capitalized, Token-Ring refers to the PC network architecture that IBM developed. The IBM Token-Ring specification is standardized by the IEEE as the IEEE 802.5 standard. 
+					<emphasis>n.</emphasis> When capitalized, Token-Ring refers to the PC network architecture that IBM developed. The IBM Token-Ring specification is standardized by the IEEE as the IEEE 802.5 standard. 
 					<!-- See the <citetitle>IBM Style Guide</citetitle> for further uses of this term. -->
 				</para>
 
@@ -211,6 +210,16 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="tribe">
+			<term>tribe (n.)</term>
+			 <listitem>
+				<para>
+					Do not use to refer to a group that is formed to accomplish a task. Use "team" or "group" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
 		 <varlistentry id="troubleshoot_v.">
 			<term>troubleshoot (v.)</term>
 			 <listitem>

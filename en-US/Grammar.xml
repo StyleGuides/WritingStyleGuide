@@ -146,6 +146,95 @@
 		</table>
 
 	</section>
+	<section id="possessives">
+	<title>Possessives</title>
+	<para>
+	A <emphasis>possessive</emphasis> indicates that something or someone belongs to a person or thing.
+	</para>
+	 <para>
+	For guidance on how to form a possessive, see <xref linkend="apostrophes"/>.
+	</para>
+	<para> 
+	Do not use possessives with product names.
+	</para>
+
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Red&nbsp;Hat OpenShift's Logging operator creates cluster logging and cluster log forwarder instances. </entry>
+						 <entry> The Red&nbsp;Hat OpenShift Logging operator creates cluster logging and cluster log forwarder instances. </entry>
+
+					</row>		
+					<row>
+						<entry> OpenSauced's Chrome Extension is a good tool to display your open source contributions. </entry>
+						 <entry> The OpenSauced Chrome Extension is a good tool to display your open source contributions. </entry>
+
+					</row>					
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	<para> 
+	Do not use possessives with abbreviations.
+	</para>
+		<table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> You can find NASA's documentation on GitHub. </entry>
+						 <entry> You can find NASA documentation on GitHub. </entry>
+
+					</row>
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	<para> 
+	Otherwise, you can use possessives for people and inanimate objects.
+	</para>
+	<para>
+	<emphasis>Examples:</emphasis>
+	</para>
+		 <itemizedlist>
+			<listitem>
+				<para>
+				Eddie Jaoude's YouTube channel is one of the best sources for learning how to use GitHub.
+				</para>
+			</listitem>
+			<listitem>
+				<para> 
+				The alt tag's text for the Pepsi logo is too short.
+				</para>
+			</listitem>
+		</itemizedlist>
+	</section> 
 	 <section id="using-who-whom">
 		<title>Using Who, Whom, That, and Which Correctly</title>
 		 <para>
@@ -203,7 +292,7 @@
 		 <itemizedlist>
 			<listitem>
 				<para>
-					The jewel case, which once held the CD, was broken recently.
+					The jewel case, which previously held the CD, was broken recently.
 				</para>
 
 			</listitem>
@@ -277,7 +366,7 @@
 				</listitem>
 				 <listitem>
 					<para>
-						If the restatement contains the word <emphasis>he</emphasis>, <emphasis>she</emphasis>, <emphasis>they</emphasis>, I<emphasis>I</emphasis>, or <emphasis>we</emphasis>, then use <emphasis>who</emphasis> or <emphasis>whoever</emphasis>. "Do you think he would mind?" "Who do you think would mind?" "She's walking in the door." "Who's walking in the door?"
+						If the restatement contains the word <emphasis>he</emphasis>, <emphasis>she</emphasis>, <emphasis>they</emphasis>, <emphasis>I</emphasis>, or <emphasis>we</emphasis>, then use <emphasis>who</emphasis> or <emphasis>whoever</emphasis>. "Do you think he would mind?" "Who do you think would mind?" "She's walking in the door." "Who's walking in the door?"
 					</para>
 
 				</listitem>
@@ -285,7 +374,6 @@
 			</itemizedlist>
 
 		</note>
-
 	</section>
 	 <section id="sentence-structure">
 		<title>Sentence Structure</title>
@@ -299,7 +387,10 @@
 		 <formalpara id="length">
 			<title>Sentence Length</title>
 			 <para>
-				Try not to pack too much information into one sentence. In technical documentation, try not to exceed 30 words in a sentence. Keep it short. The following sentence is a bad writing example:
+				Try not to pack too much information into one sentence.
+        In technical documentation, try not to exceed 40 words in a sentence.
+        Keep it short.
+        The following sentence is a bad writing example:
 			</para>
 
 		</formalpara>
@@ -328,13 +419,15 @@
 		 <itemizedlist>
 			<listitem>
 				<para>
-					Separate independent clauses with a period. Doing so will form two sentences out of one.
+					Separate independent clauses with a period.
+          This creates two sentences from one.
 				</para>
 
 			</listitem>
 			 <listitem>
 				<para>
-					Use semicolons to form a compound sentence. Think of a semicolon as an extended breather; it is longer than a comma.
+					Use semicolons to form a compound sentence.
+          Think of a semicolon as an extended breather; it is longer than a comma.
 				</para>
 
 			</listitem>
@@ -390,13 +483,17 @@
 		 <formalpara id="fragments">
 			<title>Sentence Fragments</title>
 			 <para>
-				A <firstterm>sentence fragment</firstterm> is an incomplete sentence. For example, "Red Hat releases no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade. At least, before its time." the second of the two sentences is a fragment. Repair sentence fragments by making them complete sentences.
+				A <firstterm>sentence fragment</firstterm> is an incomplete sentence.
+        For example, "Red&nbsp;Hat releases no upgrade before its time." is a complete sentence, whereas in "We will release no upgrade.
+        At least, before its time." the second of the two sentences is a fragment.
+        Repair sentence fragments by making them complete sentences.
 			</para>
 
 		</formalpara>
 		 <note>
 			<para>
-				Read your sentences aloud, as if each sentence were the *only* sentence on a piece of paper. If you hear a sentence that does not make any sense by itself, then it is probably a sentence fragment.
+				Read your sentences aloud, as if each sentence were the *only* sentence on paper.
+        If you hear a sentence that does not make any sense by itself, then it is probably a sentence fragment.
 			</para>
 
 		</note>
@@ -423,7 +520,7 @@
 				 <tbody>
 					<row>
 						<entry> Click button to start. </entry>
-						 <entry> Click <guibutton>Initiate</guibutton> to start the process. </entry>
+						 <entry> Click <guibutton>Start</guibutton> to start the process. </entry>
 
 					</row>
 
@@ -717,8 +814,8 @@
 
 					</row>
 					<row>
-						<entry> A site can use these to self-allocate a private routable IP address space inside the organization. </entry>
-						 <entry> A site can use these unique local addresses to self-allocate a private routable IP address space inside the organization. </entry>
+						<entry> A site can use these to self-assign a private routable IP address space inside the organization. </entry>
+						 <entry> A site can use these unique local addresses to self-assign a private routable IP address space inside the organization. </entry>
 
 					</row>
 
@@ -750,7 +847,7 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> The <command>fsck /dev/vdb1</command> command performs a file system check on the XFS file system residing on the <filename>/dev/vdb1</filename> partition. </entry>
+						<entry> The <command>fsck /dev/vdb1</command> command performs a file-system check on the XFS file system residing on the <filename>/dev/vdb1</filename> partition. </entry>
 						 <entry> The <command>fsck /dev/vdb1</command> command checks the XFS file system on the <filename>/dev/vdb1</filename> partition. </entry>
 
 					</row>
@@ -773,7 +870,8 @@
 		 <formalpara id="word-order">
 			<title>Word Order</title>
 			 <para>
-				When two or more correct arrangements are possible, choose the order that will create the least ambiguity. Generally, this is the standard subject-verb-object, with modifiers before or immediately following what they modify.
+				When two or more correct arrangements are possible, choose the order that creates the least ambiguity.
+        Generally, this is the standard subject-verb-object sequence, with modifiers before or immediately following what they modify.
 			</para>
 
 		</formalpara>
@@ -814,7 +912,11 @@ Split contractions and abbreviations into separate paragraphs. -->
 	 <section id="contractions-and-abbreviations">
 		<title>Contractions and Abbreviations</title>
 		 <para>
-			Do not use contractions in Red&nbsp;Hat documents. For example, do not use "can't", "don't", "won't", and similar examples. Write out the words in full. Contractions are a mark of informal writing, and should be avoided when writing technical documentation or other more formal types of manuals. They can also cause problems for translation. 
+			Do not use contractions in Red&nbsp;Hat documents.
+      For example, do not use can't, "don't", "won't", and similar examples.
+      Write out the words in full.
+      Contractions are a mark of informal writing, and should be avoided when writing technical documentation or other more formal types of manuals.
+      They can also cause problems for translation. 
 		</para>
 
  		<para>
@@ -826,7 +928,10 @@ Split contractions and abbreviations into separate paragraphs. -->
 	 <section id="hyphenation">
 		<title>Hyphenation</title>
 		 <para>
-			There are no hard and fast rules for hyphenation. In general, do not hyphenate unless required for clarity, or our other references declare that hyphens are required. The following is general guidance; if you are unsure about whether or not to hyphenate, ask your peers. See also the "Hyphens" topic in the <citetitle>IBM Style Guide</citetitle>.
+			No hard and fast rules exist for hyphenation.
+      In general, do not hyphenate unless required for clarity, or your other references declare that hyphens are required.
+      The following is general guidance; if you are unsure about whether to hyphenate, ask your peers.
+      See also the "Hyphens" topic in the <citetitle>IBM Style Guide</citetitle>.
 		</para>
 		
 		 <formalpara id="hyphenate-for-clarity">
@@ -848,7 +953,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 		 <formalpara id="hyphenate-complex-adjectives">
 			<title>Hyphenate Complex Adjectives</title>
 			 <para>
-				Hyphenate complex adjectives (compound modifiers). This is when two adjectives work together to modify an object. The hyphen is used when the first adjective modifies the second adjective. For example, cloud-based solutions, right-side paralysis, system-wide menu.
+				Hyphenate complex adjectives (compound modifiers). This is when two adjectives work together to modify an object. The hyphen is used when the first adjective modifies the second adjective. For example, cloud-based solutions, right-side paralysis, systemwide menu.
 			</para>
 
 		</formalpara>
@@ -893,13 +998,19 @@ Split contractions and abbreviations into separate paragraphs. -->
 	 <section id="pronouns-gender-references">
 		<title>Pronouns and Gender References</title>
 		 <para>
-			Do not use gender-specific pronouns in documentation, except to refer to a specific named user, such as in a case study. It is easier to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers". It is acceptable to use "they" to refer to one person, with a plural verb. 
+			Do not use gender-specific pronouns in documentation, except to refer to a specific named user, such as in a case study.
+      It is easier to read a sentence that uses "they" and "their" rather than "he/she" and "his/hers".
+      It is acceptable to use "they" to refer to one person, with a plural verb. 
 		</para>
 		 <para>			
-			In most cases, when giving instructions, use the imperative mood or use "you". In more general explanations, you can use "users" or "new users". Do not use "one" in place of "you" when writing technical documentation, because it is too formal. Do not use "it" to refer to a person.
+			Usually, when giving instructions, use the imperative mood or use "you".
+      In more general explanations, you can use "users" or "new users".
+      Do not use "one" in place of "you" when writing technical documentation, because it is too formal.
+      Do not use "it" to refer to a person.
 		</para>
 		 <para>
-			Avoid first person "I, we, our". Use second person "you" whenever possible. 
+			Avoid first person "I, we, our".
+      Use second person "you" whenever possible. 
 		</para>
 		 <para>
 			If referring to what Red&nbsp;Hat does, use "Red&nbsp;Hat" followed by a singular verb. 
@@ -945,11 +1056,14 @@ Split contractions and abbreviations into separate paragraphs. -->
 	 <section id="tense">
 		<title>Tense</title>
 		 <para>
-			Avoid future tense (or using the term "will") whenever possible. For example, future tense ("The window will open ...") does not read as well as the present tense ("The window opens ..."). Remember, the users you are writing for most often refer to the documentation while they are using the system, not after or in advance of using the system.
+			Avoid future tense (or using the term "will") whenever possible.
+      For example, future tense ("The window will open ...") does not read as well as the present tense ("The window opens ...").
+      Remember, the users you are writing for most often refer to the documentation while they are using the system, not after or in advance of using the system.
 		</para>
 
 		 <para>
-			Use simple present tense as much as possible. It avoids problems with consequences and time-related communications, and is the easiest tense for translation.
+			Use simple present tense as much as possible.
+      It avoids problems with consequences and time-related communications, and is the easiest tense for translation.
 		</para>
 		 <para>
 			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>

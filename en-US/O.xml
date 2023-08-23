@@ -51,15 +51,13 @@
 			<term>offline backup</term>
 			 <listitem>
 				<para>
-					Correct. Use this term to refer to backing up a database while the database is not being accessed by applications. Do not use "cold backup" or any other variations.
+					Correct.
+          Use this term to refer to backing up a database while the database is not being accessed by applications.
+          Do not use "cold backup" or any other variations.
 				</para>
 				 <para>
-					The counterpart to this term is "online backup", to refer to the process of backing up a database while it is being accessed by other applications. Do not use "hot backup" or any other variations.
-<!-- Deleted footnote: URL is no longer valid. -->
-					<!-- <footnote> <para>
-						<ulink url="http://www-01.ibm.com/software/globalization/terminology/o.html" />
-					</para>
-					 </footnote> -->
+					The counterpart to this term is "online backup", to refer to the process of backing up a database while it is being accessed by other applications.
+          Do not use "hot backup" or any other variations.
 				</para>
 
 			</listitem>
@@ -69,12 +67,13 @@
 			<term>OK</term>
 			 <listitem>
 				<para>
-					When referring to the <guibutton>OK</guibutton> button, it is not necessary to use "button" in the sentence. For example, "Click <guibutton>OK</guibutton> to close the dialog box."
+					When referring to the <guibutton>OK</guibutton> button, it is not necessary to use "button" in the sentence.
+          For example, "Click <guibutton>OK</guibutton> to close the dialog box."
 				</para>
 				<para>
-					Use "OK" only to refer to an interface element, not in general text. For example, instead of using "It is OK to run the command", use alternative wording, such as "You can run the command".
+					Use "OK" only to refer to an interface element, not in general text.
+          For example, instead of using "It is OK to run the command", use alternative wording, such as "You can run the command".
 				</para>
-<!-- Added paragraph to avoid "OK" when not referring to a button. -->
 
 			</listitem>
 
@@ -92,7 +91,8 @@
 		 <term>once</term>
 			<listitem>
 			 <para>
-				 Use only to mean "one time". Do not use as a conjunction to mean "after" or "when".
+				 Use only to mean "one time".
+         Do not use as a conjunction to mean "after" or "when".
 			 </para>
 			 <para>
 				 Example 1: Instead of "Once the name is set for a network interface on the system, the name of the interface does not change", use "When the name is set for a network interface on the system, the name of the interface does not change".
@@ -162,7 +162,9 @@
 			<term>on-the-fly</term>
 			 <listitem>
 				<para>
-					Do not use. Avoid idioms, which might not be globally known. In this case, for example, "real time" is both non-idiomatic and more technically accurate.
+					Do not use.
+          Avoid idioms, which might not be globally known.
+          In this case, for example, "real time" is both non-idiomatic and more technically accurate.
 				</para>
 
 			</listitem>
@@ -172,7 +174,10 @@
 			<term>oops</term>
 			 <listitem>
 				<para>
-					A kernel oops is an error message that is generated as a result of a bug in the kernel. Do not use "oops" on its own. Also, avoid using "kernel oops" at the beginning of a sentence. See also "kernel panic".
+					A kernel oops is an error message that is generated because of a bug in the kernel.
+          Do not use "oops" on its own.
+          Also, avoid using "kernel oops" at the beginning of a sentence.
+          See also "kernel panic".
 				</para>
 
 			</listitem>
@@ -244,10 +249,11 @@
 			<term>open source way</term>
 			 <listitem>
 				<para>
-					A phrase that was coined by the Red&nbsp;Hat community and adopted by opensource.com in 2009. It is a reference to an "open source method", as in "Let's develop this project the open source way."
+					A phrase that was coined by the Red&nbsp;Hat community and adopted by opensource.com in 2009.
+          It is a reference to an "open source method", as in "The team developed this project the open source way."
 				</para>
 				 <para>
-					Do not use to suggest that something is being done only in the "spirit" of open source without actually having an open source policy as defined by <ulink url="http://opensource.org/osd">Open Source Initiative</ulink>, to avoid diluting the legal meaning of the term "open source".
+					Do not use to suggest that something is being done only in the "spirit" of open source without having an open source policy as defined by <ulink url="http://opensource.org/osd">Open Source Initiative</ulink>, to avoid diluting the legal meaning of the term "open source".
 				</para>
 
 			</listitem>
@@ -273,6 +279,17 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="OTP">
+			<term>OTP</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> OTP stands for "one-time password".
+          			Always use lowercase for the phrase itself. Do not use any other variations.
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
 		 <varlistentry id="output-device">
 			<term>output device</term>
 			 <listitem>
@@ -287,7 +304,10 @@
 			<term>overcloud</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Always lowercase. This is a concept, not a technology or product name. Being a common noun, it requires an article in most cases. See also <xref linkend="undercloud" />.
+					<emphasis>n.</emphasis> Always lowercase.
+          This is a concept, not a technology or product name.
+          Being a common noun, it normally requires an article.
+          See also <xref linkend="undercloud" />.
 				</para>
 
 			</listitem>
@@ -297,7 +317,8 @@
 			<term>override</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "over-ride" or "over ride".
+					Correct.
+          Do not use "over-ride" or "over ride".
 				</para>
 
 			</listitem>
