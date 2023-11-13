@@ -634,7 +634,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 			. , : ; ' " ( ) [ ] { } ! ?
 		</para>
 		<para>
-			For another character, use its name followed by the symbol in parentheses.  
+			For all other characters, use the character name followed by the symbol in parentheses.  
 		</para>
 		<para>
 			Do not use the symbol on its own.   
