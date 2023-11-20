@@ -329,7 +329,7 @@
       </para>
       <para>
         A <emphasis>complete sentence</emphasis> must include a subject and a verb.
-		It conveys a complete thought, and can stand on its own. 
+        It conveys a complete thought, and can stand on its own. 
       </para>
       <para>
         For a list where all items are complete sentences, end each item with a period.
@@ -338,12 +338,12 @@
         Example:
       </para>
       <para>
-	  Which statement is true about deployments and deployment configurations?
+        Which statement is true about deployments and deployment configurations?
       </para>
       <itemizedlist>
         <listitem>
           <para>
-			Deployments use replica sets, and deployment configurations use replication controllers.
+            Deployments use replica sets, and deployment configurations use replication controllers.
           </para>
         </listitem>
         <listitem>
@@ -358,7 +358,7 @@
         </listitem>
         <listitem>
           <para>
-			Deployments use replica sets, and deployment configurations use stateful sets.
+            Deployments use replica sets, and deployment configurations use stateful sets.
           </para>
         </listitem>
       </itemizedlist>
@@ -369,12 +369,12 @@
         Example:
       </para>
       <para>
-	  Kubernetes networking provides the following capabilities:
+        Kubernetes networking provides the following capabilities:
       </para>
       <itemizedlist>
         <listitem>
           <para>
-			Highly coupled container-to-container communications
+            Highly coupled container-to-container communications
           </para>
         </listitem>
         <listitem>
@@ -400,12 +400,12 @@
         Example:
       </para>
       <para>
-		Common uses for jobs include the following tasks:
+        Common uses for jobs include the following tasks:
       </para>
       <itemizedlist>
         <listitem>
           <para>
-			Initializing or migrating a database
+            Initializing or migrating a database
           </para>
         </listitem>
         <listitem>
@@ -423,12 +423,12 @@
         Example:
       </para>
       <para>
-		Consider the following settings when creating a route:
+        Consider the following settings when creating a route:
       </para>
       <itemizedlist>
         <listitem>
           <para>
-			An optional path, for path-based routes
+            An optional path, for path-based routes
           </para>
         </listitem>
         <listitem>
@@ -442,7 +442,7 @@
           </para>
         </listitem>
       </itemizedlist>
-	  <para>
+      <para>
         For a list where the items start with sentence fragments, and any of those fragments are followed by a complete sentence, end each of the fragments and sentences with a period.
       </para>
       <para>
@@ -451,18 +451,18 @@
       <itemizedlist>
         <listitem>
           <para>
-			Identifier of the object schema version.
+            Identifier of the object schema version.
           </para>
         </listitem>
         <listitem>
           <para>
-			Schema identifier. In this example, the object conforms to the pod schema.
+            Schema identifier. In this example, the object conforms to the pod schema.
           </para>
         </listitem>
         <listitem>
           <para>
             Name of the container inside a pod. 
-			Container names are important for <command>oc</command> commands when a pod contains multiple containers.
+            Container names are important for <command>oc</command> commands when a pod contains multiple containers.
           </para>
         </listitem>
       </itemizedlist>
