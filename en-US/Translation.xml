@@ -328,6 +328,13 @@
         For each item in a list, start with either a complete sentence or a sentence fragment. 
       </para>
       <para>
+        A <emphasis>complete sentence</emphasis> must include a subject and a verb.
+		It conveys a complete thought, and can stand on its own. 
+      </para>
+
+
+
+      <para>
         For a list where all items are complete sentences, end each item with a period.
       </para>
       <para>
@@ -365,31 +372,80 @@
         Example:
       </para>
       <para>
-	  Which resource type does the Operator Lifecycle Manager use to store information about installed operators?
+	  Kubernetes networking provides the following capabilities:
       </para>
       <itemizedlist>
         <listitem>
           <para>
-			Operator group
+			Highly coupled container-to-container communications
           </para>
         </listitem>
         <listitem>
           <para>
-            Catalog source
+            Pod-to-pod communications
           </para>
         </listitem>
         <listitem>
           <para>
-            Install plan
+            Pod-to-service communications
           </para>
         </listitem>
         <listitem>
           <para>
-            Operator
+            External-to-service communications
           </para>
         </listitem>
       </itemizedlist>
       <para>
+        Sometimes, list items might include some form of a verb, but without a subject and not capable of standing on their own. Such items count as sentence fragments, and are not ended with any punctuation.
+      </para>
+      <para>
+        Example:
+      </para>
+      <para>
+		Common uses for jobs include the following tasks:
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+			Initializing or migrating a database
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Calculating one-off metrics from information within the cluster
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Creating or restoring from a data backup
+          </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        Example:
+      </para>
+      <para>
+		Consider the following settings when creating a route:
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+			An optional path, for path-based routes
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            A target port that the application listens to
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            An encryption strategy, depending on whether you need a secure or an insecure route
+          </para>
+        </listitem>
+      </itemizedlist>
+	  <para>
         For a list where the items start with sentence fragments, and any of those fragments are followed by a complete sentence, end each of the fragments and sentences with a period.
       </para>
       <para>
