@@ -133,7 +133,7 @@
 			Depending on the context, an option might be to write around an incorrectly spelled interface item rather than naming it specifically.
 		</para>
 		 <section id="gui-elements-punctuation">
-			<title>User Interface Elements, Punctuation, and Symbols</title>
+			<title>User Interface Elements and Punctuation</title>
 			 <para>
 				When describing UI elements, do not include punctuation that appears on those elements, unless omission of that punctuation might lead to confusion.
 			</para>
