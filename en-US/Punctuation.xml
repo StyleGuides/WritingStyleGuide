@@ -625,19 +625,141 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 	</section>
 
- 	 <section id="referring">
-		<title>Referring to Punctuation Marks</title>
+	 <section id="punc-lists">
+		<title>Punctuation in Lists</title>
 		<para>
-			To refer to a punctuation mark or special character, use its name alone if it is one of the following standard characters:
+			For information about punctuation in lists, refer to <xref linkend="punc-in-lists"/>.
+		</para>
+
+	</section>
+
+	 <section id="punc-tables">
+		<title>Punctuation in Tables</title>
+		<para>
+         Use the following guidance for punctuation in tables:			
+		</para>
+		<para>
+         If all cells in a table column are complete sentences, then end each cell with a period.			
+		</para>
+		<para>
+         If all cells in a table column are sentence fragments, then do not use a period to end each cell.		
+		</para>
+		<para>
+         If cells in a table column contain a mixture of complete sentences and sentence fragments, then first consider whether it would be appropriate to make them grammatically parallel (either all complete sentences or all sentence fragments). 
+         However, in some cases, such an approach might not work, where tables are complex and include a variety of content, such as lists of strings, variables, IP addresses, descriptions, or states (selected or cleared). 
+         In such cases, treat each cell as an individual entry, and either use or omit a closing period depending on whether that cell is a complete sentence.
+		</para>
+		<para>
+			Example of a complex table with punctuation:		
+		</para>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Field </entry>
+						 <entry> Value </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> 
+						Question
+						 </entry>
+						<entry> 
+						Default domain name
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Description
+						 </entry>
+						<entry> 
+						This domain name is used to set the hostname of the node.
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Answer variable name
+						 </entry>
+						<entry> 
+						<varname>global_domain_name</varname>
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Answer type
+						 </entry>
+						<entry> 
+						text
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Required
+						 </entry>
+						<entry> 
+						<emphasis>(selected)</emphasis>
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Minimum length
+						 </entry>
+						<entry> 
+						1
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Maximum length
+						 </entry>
+						<entry> 
+						251
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Default answer
+						 </entry>
+						<entry> 
+						<code>lab.example.com</code>
+						 </entry>
+
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+
+	</section>	
+
+ 	 <section id="referring">
+		<title>Referring to Punctuation Marks and Special Characters</title>
+		<para>
+            To refer to a punctuation mark or special character, use its name alone if it is one of the following standard characters:
 		</para>
 		<para>
 			. , : ; ' " ( ) [ ] { } ! ?
 		</para>
 		<para>
-			For all other characters, use the character name followed by the symbol in parentheses.  
+            For all other characters, use the character name followed by the symbol in parentheses.  
+            For special character names that include a noun such as "sign", "symbol", or "character", provide the character name, the noun that describes the symbol, and then the symbol in parentheses, for example "the greater than symbol (>)". 
+            For special character names that do not include such nouns, provide the character name and the symbol in parentheses, for example "a forward slash (/)". 
+            You can end a sentence with the symbol in parentheses.		
 		</para>
 		<para>
-			Do not use the symbol on its own.   
+            Do not use the symbol on its own.   
 		</para>
 		<example><title>Referring to Punctuation Marks</title>
 
@@ -648,8 +770,20 @@ PLAY [Gather and display facts for managed nodes] ****************************</
             The path contains the library qualifier in braces.
           </para>
           </example>
+		<example><title>Referring to Special Characters</title>
+
+          <para>
+            When a regular user starts a shell, the prompt includes an ending dollar character (<guibutton>$</guibutton>).
+          </para>
+		  <para>
+            Use the pipe character (|) to send the output of one program to the input of another program.
+          </para>
+		  <para>
+            The hyphen after the greater than symbol (>) indicates that a newline character (\n) is not added to the end of the variable.
+          </para>
+          </example>
 		<para>
-			For more details, see the <citetitle>IBM Style Guide</citetitle>.
+            For more details, see the <citetitle>IBM Style Guide</citetitle>.
 		</para>
 
 	</section>
