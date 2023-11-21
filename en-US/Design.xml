@@ -146,16 +146,16 @@
       </para>
       <para>
         In some cases it is preferred practice to include the object type for the sake of clarity.
-        Consider the following:
+        Consider the following example:
       </para>
-      <example><title>Preferred Style for Documenting Symbols and Other Special Characters</title>
+      <!-- <example><title>Preferred Style for Documenting Symbols and Other Special Characters</title>
         <para>
           Click the <guibutton>+</guibutton> sign.
         </para>
         <para>
           Click the <guibutton>^</guibutton> symbol.
         </para>
-      </example>
+      </example> -->
       <example><title>Preferred Style for Documenting Icons</title>
         <para>
           Click the <guiicon>Upload</guiicon> (<guiicon><inlinemediaobject>
@@ -296,7 +296,7 @@
 					<term>Source options <replaceable>[username@]hostname:/repository_filename</replaceable>)</term>
 					 <listitem>
 						<para>
-							The optional username, indicated by brackets ([]), followed by the hostname and path to the repository.
+							The optional username, indicated by brackets, [], followed by the hostname and path to the repository.
               All aspects of this component must be replaced with valid values.
 						</para>
 

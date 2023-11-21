@@ -754,7 +754,9 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 		</para>
 		<para>
             For all other characters, use the character name followed by the symbol in parentheses.  
-            When referring to a symbol in parentheses, the symbol name comes after any noun that describes the symbol.			
+            For special character names that include a noun such as "sign", "symbol", or "character", provide the character name, the symbol in parentheses, and then the noun that describes the symbol, for example "the greater than symbol (>)". 
+            For special character names that do not include such nouns, provide the character name and the symbol in parentheses, for example "a forward slash (/)". 
+            You can end a sentence with the symbol in parentheses.		
 		</para>
 		<para>
             Do not use the symbol on its own.   
@@ -771,13 +773,13 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 		<example><title>Referring to Special Characters</title>
 
           <para>
-            When a regular user starts a shell, the prompt includes an ending dollar character ($).
+            When a regular user starts a shell, the prompt includes an ending dollar character (<guibutton>$</guibutton>).
           </para>
 		  <para>
             Use the pipe character (|) to send the output of one program to the input of another program.
           </para>
 		  <para>
-            The hyphen after the greater-than sign (>) indicates that a newline character (\n) is not added to the end of the variable.
+            The hyphen after the greater than symbol (>) indicates that a newline character (\n) is not added to the end of the variable.
           </para>
           </example>
 		<para>
