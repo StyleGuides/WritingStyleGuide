@@ -95,12 +95,12 @@
 					In training content, avoid using a verb such as "Discussing" or "Demonstrating" in objectives for students. Such verbs might refer instead to what the instructor or the course content covers, or to a student group activity in class.
 					</para>
 					 <para>
-						See the <citetitle>IBM Style Guide</citetitle> for more information.
+						Refer to the <citetitle>IBM Style Guide</citetitle> for more information.
 					</para>
 					 <important>
 						<para>
 							Gerunds should be avoided elsewhere.
-              See <xref linkend="sentence-structure" />.
+              Refer to <xref linkend="sentence-structure" />.
 						</para>
 					</important>
       <formalpara>
@@ -124,7 +124,7 @@
 	 <section id="documenting-ui">
 		<title>Documenting the User Interface</title>
 		 <para>
-			In all cases, see the <citetitle>IBM Style Guide</citetitle> for initial guidance.
+			In all cases, refer to the <citetitle>IBM Style Guide</citetitle> for initial guidance.
       The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
 		 <para>
@@ -166,7 +166,7 @@
         </para>
       </example>
 			 <para>
-				See the <citetitle>UI elements</citetitle> chapter in the <citetitle>IBM Style Guide</citetitle> for more information.
+				Refer to the <citetitle>UI elements</citetitle> chapter in the <citetitle>IBM Style Guide</citetitle> for more information.
 			</para>
 			<section>
 			 <title>Navigating Through Multiple UI Options</title>
@@ -249,11 +249,11 @@
           "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter ('-'). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, '-abc' is equivalent to '-a -b -c'. [...] Certain options require an argument. For example, the '-o' option of the 'ld' command requires an argument—an output file name". and so on.
         </para>
         <para>
-          See <command>info libc argument syntax</command> for the full discussion.
+          Refer to <command>info libc argument syntax</command> for the full discussion.
         </para>
         </blockquote>
       <para>
-        See <command>info bash</command> and the <citetitle>IBM Style Guide</citetitle> for further guidance.
+        Refer to <command>info bash</command> and the <citetitle>IBM Style Guide</citetitle> for further guidance.
       </para>
 			 <para>
         The following examples are intended to highlight correct usage.
@@ -585,7 +585,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
           <listitem>
             <para>
               In the narrative, do not show the use of <command>su</command> or <command>sudo</command>, but always show privileged commands with the correct prompt.
-              See <xref linkend="exam-documenting-command-syntax"/> for information about command prompts.
+              Refer to <xref linkend="exam-documenting-command-syntax"/> for information about command prompts.
             </para>
           </listitem>
         </itemizedlist>
@@ -637,7 +637,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			</para>
 			 <para>
 				You can also use <systemitem>here</systemitem> documents to describe how to create a file with required content. 
-				For more information about <systemitem>here</systemitem> documents, see <ulink url="https://tldp.org/LDP/abs/html/here-docs.html" />
+				For more information about <systemitem>here</systemitem> documents, refer to <ulink url="https://tldp.org/LDP/abs/html/here-docs.html" />
 				The syntax of <systemitem>here</systemitem> documents varies by system, shell, language, and so on. The following example creates the <filename>my-script</filename> file in the current directory, with the example content.
 			</para>
 
@@ -974,7 +974,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			<title>Capitalization</title>
 		 <para>
          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
-			Not all acronyms are capitalized (for example, "spool"); see the <citetitle>IBM Style Guide</citetitle> or another suitable reference if you are unsure.
+			Not all acronyms are capitalized (for example, "spool"); refer to the <citetitle>IBM Style Guide</citetitle> or another suitable reference if you are unsure.
 		</para>
 		</formalpara>
 
@@ -996,7 +996,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		<formalpara id="possess-abbr">
 			<title>Possessives</title>
 		 <para>
-			Do not use possessives with abbreviations. For examples and more information, see <xref linkend="possessives"/>.
+			Do not use possessives with abbreviations. For examples and more information, refer to <xref linkend="possessives"/>.
 		</para>
 		</formalpara>
 
@@ -1067,7 +1067,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			 </listitem>		-->
 				<para>
 					Do not use possessives to refer to product names.
-					For examples and more information, see <xref linkend="possessives"/>.
+					For examples and more information, refer to <xref linkend="possessives"/>.
 				</para>
 
 				<para>
@@ -1266,7 +1266,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		<para>
 		When making a recommendation, the preferred verbiage is "Red&nbsp;Hat recommends ..." instead of the common but indirect "It is recommended ...".
 		Recommendations can include best practices, recommended practices, and product-specific suggestions.
-		See <xref linkend="avoiding-confusing-language"/> for information on using the terms "best practices" and "recommended practices" in Red&nbsp;Hat documentation.
+		Refer to <xref linkend="avoiding-confusing-language"/> for information on using the terms "best practices" and "recommended practices" in Red&nbsp;Hat documentation.
 	  </para>
 		<example>
 			<title>
@@ -1341,7 +1341,7 @@ Book Title by First name Surname; Publisher.
 			</listitem>
 			 <listitem>
 				<para>
-					If the URL is excessively long or complex, create a link by using the title of the destination as a label, and put the actual URL in a footnote. For example: See the <ulink url="http://world-database-of-everything.com/en/classifcation_of_species/mammals.html"><citetitle>Classification of Species</citetitle></ulink><footnote> <para>
+					If the URL is excessively long or complex, create a link by using the title of the destination as a label, and put the actual URL in a footnote. For example: Refer to the <ulink url="http://world-database-of-everything.com/en/classifcation_of_species/mammals.html"><citetitle>Classification of Species</citetitle></ulink><footnote> <para>
 						http://world-database-of-everything.com/en/classifcation_of_species/mammals.html
 					</para>
 					 </footnote> page for more information.

@@ -118,7 +118,8 @@
 			<term>refer to</term>
 			 <listitem>
 				<para>
-					Do not use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source). Use "See".
+					Use to refer readers to another resource. 
+					<!-- Do not use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source). Use "Refer to". -->
 				</para>
 
 			</listitem>
@@ -149,7 +150,7 @@
 			<term>required</term>
 			 <listitem>
 				<para>
-					See <xref linkend="must" />.
+					Refer to <xref linkend="must" />.
 				</para>
 
 			</listitem>
@@ -159,7 +160,7 @@
 			<term>return</term>
 			 <listitem>
 				<para>
-					When referring to the keyboard key on Solaris or Mac, use <keycap>Return</keycap> or <keycap>return</keycap>, respectively. See <xref linkend="enter" /> for other platforms.
+					When referring to the keyboard key on Solaris or Mac, use <keycap>Return</keycap> or <keycap>return</keycap>, respectively. Refer to <xref linkend="enter" /> for other platforms.
 				</para>
 
 			</listitem>

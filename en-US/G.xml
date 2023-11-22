@@ -146,7 +146,7 @@
 			<term>GigE</term>
 			 <listitem>
 				<para>
-					See <xref linkend="gbe" />.
+					Refer to <xref linkend="gbe" />.
 				</para>
 
 			</listitem>
@@ -166,7 +166,7 @@
 			<term>GNOME</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "gnome", "Gnome", or other variants. See also <xref linkend="gnome-classic" />.
+					Correct. Do not use "gnome", "Gnome", or other variants. Refer also to <xref linkend="gnome-classic" />.
 				</para>
 
 			</listitem>

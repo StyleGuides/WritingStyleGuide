@@ -46,7 +46,7 @@
 					When referring to a compact disk, use "CD". For example, "Insert the CD into the CD drive". The plural is "CDs".
 				</para>
 				 <para>
-					See the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
+					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>
@@ -67,7 +67,7 @@
 			 <listitem>
 				<para>
 					Correct. Ceph is a distributed storage platform that provides object, block, and file storage.<footnote> <para>
-						See <ulink url="http://en.wikipedia.org/wiki/Ceph_%28software%29" />
+						Refer to <ulink url="http://en.wikipedia.org/wiki/Ceph_%28software%29" />
 					</para>
 					 </footnote> Do not use alternative capitalization.
 				</para>
@@ -129,7 +129,7 @@
 					Define on first use; generally continuous integration/continuous delivery. It does not mean continuous development, a term with questionable usefulness and only marginal adoption.
 				</para>
 				 <para>
-					See also <xref linkend="continuous-integration" />, <xref linkend="continuous-delivery" />, <xref linkend="continuous-deployment" />.
+					Refer also to <xref linkend="continuous-integration" />, <xref linkend="continuous-delivery" />, <xref linkend="continuous-deployment" />.
 				</para>
 
 			</listitem>
@@ -153,7 +153,7 @@
 				</para>
 <!-- Added comment about "click on". -->
 				 <para>
-					See the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
+					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>
@@ -186,7 +186,7 @@
 			<term>cloud</term>
 			 <listitem>
 				<para>
-					Although cloud is important to Red&nbsp;Hat's business, it is not a proper noun. Do not capitalize, unless it is part of a Red&nbsp;Hat product, service, solution, or business unit name. Use a lowercase "c" when referring to cloud or cloud computing in a general sense. Use a capitalized "C" when referring to the full name of official products, such as Red&nbsp;Hat CloudForms or Red&nbsp;Hat Cloud Foundations. See also "big data".
+					Although cloud is important to Red&nbsp;Hat's business, it is not a proper noun. Do not capitalize, unless it is part of a Red&nbsp;Hat product, service, solution, or business unit name. Use a lowercase "c" when referring to cloud or cloud computing in a general sense. Use a capitalized "C" when referring to the full name of official products, such as Red&nbsp;Hat CloudForms or Red&nbsp;Hat Cloud Foundations. Refer also to "big data".
 				</para>
 
 			</listitem>
@@ -247,7 +247,7 @@
 			<term>combo-box</term>
 			 <listitem>
 				<para>
-					Do not use as an abbreviation for "combination box". See the relevant entry in the <citetitle>IBM Style Guide</citetitle> for further usage information.
+					Do not use as an abbreviation for "combination box". Refer to the relevant entry in the <citetitle>IBM Style Guide</citetitle> for further usage information.
 				</para>
 
 			</listitem>
@@ -313,7 +313,7 @@
 			<term>command line, command prompt, command-line</term>
 			 <listitem>
 				<para>
-					See the appropriate entries in the <citetitle>IBM Style Guide</citetitle> for an explanation of how to use these terms.
+					Refer to the appropriate entries in the <citetitle>IBM Style Guide</citetitle> for an explanation of how to use these terms.
 				</para>
 
 			</listitem>
@@ -348,7 +348,7 @@
 			<term>communication service provider (CSP)</term>
 			 <listitem>
 				<para>
-					Another way to refer to a telecommunications provider. See also <xref linkend="telco" />.
+					Another way to refer to a telecommunications provider. Refer also to <xref linkend="telco" />.
 				</para>
 
 			</listitem>
@@ -358,7 +358,7 @@
 			<term>Containers-as-a-Service</term>
 			 <listitem>
 				<para>
-					The term "Containers-as-a-Service" is owned by Docker and should be used only when referring to that company's offering. See also <xref linkend="as-a-service" />.
+					The term "Containers-as-a-Service" is owned by Docker and should be used only when referring to that company's offering. Refer also to <xref linkend="as-a-service" />.
 				</para>
 
 			</listitem>
@@ -511,7 +511,7 @@
       <listitem>
         <para>
           <emphasis>n.</emphasis> CVE stands for Common Vulnerabilities and Exposures, and should be capitalized as shown.
-          See <ulink url="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures"></ulink> for more information.
+          Refer to <ulink url="https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures"></ulink> for more information.
         </para>
       </listitem>
     </varlistentry>

@@ -38,7 +38,7 @@
 					<emphasis>n.</emphasis> Always lowercase.
           It is a concept, not a technology or product name.
           Being a common noun, it normally requires an article.
-          See also <xref linkend="overcloud" />.
+          Refer also to <xref linkend="overcloud" />.
 				</para>
 
 			</listitem>
@@ -143,7 +143,7 @@
 			<term>upstream</term>
 			 <listitem>
 				<para>
-					Correct. Use the one-word form for both the nominal and adjectival forms. See also <xref linkend="downstream" />. Do not use "up-stream" or "up stream".
+					Correct. Use the one-word form for both the nominal and adjectival forms. Refer also to <xref linkend="downstream" />. Do not use "up-stream" or "up stream".
 				</para>
 
 			</listitem>
@@ -166,7 +166,7 @@
 					<emphasis>n.</emphasis> Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
 				</para>
 				 <para>
-					See <xref linkend="other-websites" /> for more information.
+					Refer to <xref linkend="other-websites" /> for more information.
 				</para>
 
 			</listitem>
@@ -209,7 +209,7 @@
 				<para>
 					<emphasis>n.</emphasis> Usually one word.
           Capitalize the "U" at the beginning of a sentence.
-          See the <citetitle>IBM Style Guide</citetitle> for more information.
+          Refer to the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>

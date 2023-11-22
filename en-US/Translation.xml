@@ -111,7 +111,7 @@
       </note>
 
 		 <para>
-			The following discussion provides some initial insight into using lists correctly. See the <citetitle>IBM Style Guide</citetitle> for a full discussion.
+			The following discussion provides some initial insight into using lists correctly. Refer to the <citetitle>IBM Style Guide</citetitle> for a full discussion.
 		</para>
 		 <para>
 			Do not insert a list midway through a sentence and then continue the sentence after the list.
@@ -468,7 +468,7 @@
         </listitem>
       </itemizedlist>
       <para>
-        For information about punctuation in lead-in sentences that introduce a list, see <xref linkend="list-intro-punc"/>.
+        For information about punctuation in lead-in sentences that introduce a list, refer to <xref linkend="list-intro-punc"/>.
       </para>
 
     </section>
@@ -661,7 +661,7 @@
 <command>rhevm-iso-uploader <replaceable>[options] </replaceable>upload <replaceable>[file1] [file2] [file3]</replaceable></command></screen>
 
       <para>
-        For information about punctuation in lead-in sentences that introduce a code block, see <xref linkend="list-intro-punc"/>.
+        For information about punctuation in lead-in sentences that introduce a code block, refer to <xref linkend="list-intro-punc"/>.
       </para>
 
 	</section>
@@ -708,7 +708,7 @@
 
 		</itemizedlist>
 		 <para>
-			Do not include entities such as &amp;PRODNAME; or &amp;VERSION; and so on, or things like &amp;BIBLE; to represent "The King James Bible". To learn more about entities, see the relevant chapter in <ulink url="http://jfearn.fedorapeople.org/en-US/Publican/4.0/html/Users_Guide/index.html" />
+			Do not include entities such as &amp;PRODNAME; or &amp;VERSION; and so on, or things like &amp;BIBLE; to represent "The King James Bible". To learn more about entities, refer to the relevant chapter in <ulink url="http://jfearn.fedorapeople.org/en-US/Publican/4.0/html/Users_Guide/index.html" />
 		</para>
 
 	</section>

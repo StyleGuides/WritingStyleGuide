@@ -13,66 +13,66 @@
                         <itemizedlist>
 				<listitem>
 										<para>Updated audience information for this guide.
-										See <xref linkend="audience"/>.</para>
+										Refer to <xref linkend="audience"/>.</para>
 				</listitem>
 				<listitem>
 										<para>Updated guidance about writing titles.
-										See <xref linkend="verbs-titles"/>.</para>
+										Refer to <xref linkend="verbs-titles"/>.</para>
 				</listitem>
 				<listitem>
 										<para>Updated guidance on continuation prompts.
-										See <xref linkend="continuation"/>.</para>
+										Refer to <xref linkend="continuation"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated using realistic usernames.
-										See <xref linkend="using-realistic-names"/>.</para>
+										Refer to <xref linkend="using-realistic-names"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Added guidance on omitting part of an output.
-										See <xref linkend="omitting"/>.</para>
+										Refer to <xref linkend="omitting"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Added guidance about possessives with product names and abbreviations.
-										See <xref linkend="possessives"/>.</para>
+										Refer to <xref linkend="possessives"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Various additions to the Punctuation section.
-										See <xref linkend="punctuation"/>.</para>
+										Refer to <xref linkend="punctuation"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Restructured "Using Abbreviations, Acronyms, Initialisms, and Special Characters Correctly".
-										See <xref linkend="abbreviations-correctly"/>.</para>	
+										Refer to <xref linkend="abbreviations-correctly"/>.</para>	
 				</listitem>
 				<listitem>
                                         <para>Rewrote "The Repeatability Test" section and renamed it to "Repetition".
-										See <xref linkend="repeatability-test"/>.</para>
+										Refer to <xref linkend="repeatability-test"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Changed "Homographic Verbs" subsection title to "Avoid May and Should".
-										See <xref linkend="homographs"/>.</para>
+										Refer to <xref linkend="homographs"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Inclusive naming of default branch.
-										See <xref linkend="inclusive-language"/>.</para>		
+										Refer to <xref linkend="inclusive-language"/>.</para>		
 				</listitem>
 				<listitem>
                                         <para>Updated IBM Style access information.
-										See <xref linkend="tech-content-refs"/>.</para>
+										Refer to <xref linkend="tech-content-refs"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Adjusted sentence length guideline.
-										See <xref linkend="length"/>.</para>
+										Refer to <xref linkend="length"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Removed some references that were specific to DocBook.</para>
 				</listitem>
 				<listitem>
                                         <para>Use "team" or "group" instead of "squad".
-										See <xref linkend="squad"/>.</para>			
+										Refer to <xref linkend="squad"/>.</para>			
 				</listitem>
 				<listitem>
                                         <para>New or updated usage entries: application velocity, key ring, Metal-as-a-Service, OTP, smart card, systemwide, virtualized.
-										See <xref linkend="part-Usage_Dictionary"/>.</para>			
+										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>			
 				</listitem>
 				<listitem>
                                         <para>Various other fixes.</para>				

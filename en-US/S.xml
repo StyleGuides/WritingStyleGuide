@@ -21,7 +21,7 @@
 			 <listitem>
 				<para>
 					The correct abbreviation for "Software-as-a-Service". 
-					See also <xref linkend="paas" />.
+					Refer also to <xref linkend="paas" />.
 				</para>
 
 			</listitem>
@@ -47,11 +47,11 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="screen-capture">
-			<term>screen capture</term>
+		 <varlistentry id="screenshot">
+			<term>screenshot</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Do not use "screen shot", "screenshot", or other terms or variations. See the relevant entry in the <citetitle>IBM Style Guide.</citetitle>
+					<emphasis>n.</emphasis> Use this term, and write as one word. Do not use other terms or variations.
 				</para>
 
 			</listitem>
@@ -82,7 +82,7 @@
       <listitem>
         <para>
           <emphasis>n., vb.</emphasis> Due to potential legal ramifications, do not use without a qualifier.
-          See <xref linkend="qualify-sensitive-terms"/> for examples.
+          Refer to <xref linkend="qualify-sensitive-terms"/> for examples.
         </para>
         <table id="qualify-sensitive-terms"><title>Using Qualifiers with Sensitive Terms</title>
           <tgroup cols="2" align="left" colsep="1" rowsep="1">
@@ -112,7 +112,7 @@
         </table>
       </listitem>
     </varlistentry>
-		 <varlistentry id="see">
+    <!-- 		 <varlistentry id="see">
 			<term>see</term>
 			 <listitem>
 				<para>
@@ -121,7 +121,7 @@
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry> -->
 		 <varlistentry id="segmentation-fault">
 			<term>segmentation fault</term>
 			 <listitem>
@@ -129,7 +129,7 @@
 					<emphasis>n.</emphasis> Only use the abbreviation "segfault" if absolutely necessary, and never use it as a verb.
 				</para>
 				 <para>
-					See also <ulink url="https://access.redhat.com/site/articles/372743 ">"What is a segfault?"</ulink> on the Red&nbsp;Hat Customer Portal for more information.
+					Refer also to <ulink url="https://access.redhat.com/site/articles/372743 ">"What is a segfault?"</ulink> on the Red&nbsp;Hat Customer Portal for more information.
 				</para>
 
 			</listitem>
@@ -171,7 +171,7 @@
 			<term>server-side/server side</term>
 			 <listitem>
 				<para>
-					See <xref linkend="client-side" />.
+					Refer to <xref linkend="client-side" />.
 				</para>
 
 			</listitem>
@@ -221,7 +221,7 @@
           Thus "SHA224", "SHA256", "SHA384", and "SHA512" are considered correct when referring to these specific hash functions.
 				</para>
         <para>
-          See <ulink url="https://en.wikipedia.org/wiki/Secure_Hash_Algorithms"></ulink> for full details.
+          Refer to <ulink url="https://en.wikipedia.org/wiki/Secure_Hash_Algorithms"></ulink> for full details.
         </para>
 
 			</listitem>
@@ -306,7 +306,7 @@
 				<para>
 					Do not use if it is something the user must do.
           For example, "You should make a backup" is a suggestion, but "You must make a backup" is a requirement.
-          See also <xref linkend="must" />.
+          Refer also to <xref linkend="must" />.
 				</para>
 
 			</listitem>
@@ -345,7 +345,7 @@
 			<term>simply</term>
 			 <listitem>
 				<para>
-					Do not use. See also <xref linkend="basically" />.
+					Do not use. Refer also to <xref linkend="basically" />.
 				</para>
 
 			</listitem>
@@ -367,7 +367,7 @@
 			<term>skill set, skills, knowledge</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective. Do not use "skill-set knowledge"; it is redundant. See the following examples:
+					<emphasis>n.</emphasis> Avoid using "skill set" as much as possible; use "skills" or "knowledge" instead. Do not use "skill set" or "skill-set" as an adjective. Do not use "skill-set knowledge"; it is redundant. Refer to the following examples:
 				</para>
 				 <example id="exam-skillset">
 					<title>Example Use of Term "Skillset" Versus "Skills"</title>
@@ -684,7 +684,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 					In this example, "hammer" is the main or primary command, and "import" and "organization" are subcommands. <option>--help</option> is an option.
 				</para>
 				 <para>
-					See also <xref linkend="hyphenate-double-prefixes" />.
+					Refer also to <xref linkend="hyphenate-double-prefixes" />.
 				</para>
 
 			</listitem>
@@ -694,7 +694,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>subdirectory</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-directory". See also <xref linkend="hyphenate-double-prefixes" />.
+					Correct. Do not use "sub-directory". Refer also to <xref linkend="hyphenate-double-prefixes" />.
 				</para>
 
 			</listitem>
@@ -704,7 +704,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>submenu</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "sub-menu". See also <xref linkend="hyphenate-double-prefixes" />.
+					Correct. Do not use "sub-menu". Refer also to <xref linkend="hyphenate-double-prefixes" />.
 				</para>
 
 			</listitem>
@@ -756,7 +756,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 					Use <productname>SAP Sybase Adaptive Server Enterprise (ASE)</productname> in the first instance. Subsequent entries can use the abbreviation "Sybase ASE". If discussing the high-availability version, use "Sybase ASE and High Availability".
 				</para>
 				 <para>
-					See <ulink url=" http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise"> http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise</ulink> for more information.
+					Refer to <ulink url=" http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise"> http://www.sybase.com/products/databasemanagement/adaptiveserverenterprise</ulink> for more information.
 				</para>
 
 			</listitem>

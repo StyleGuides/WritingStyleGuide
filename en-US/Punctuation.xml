@@ -563,7 +563,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 		Using project "default".
         </screen>
 		<para>
-		As you can see in the previous image, the title of the web page is "OpenShift 3 Etherpad".
+		As in the previous image, the title of the web page is "OpenShift 3 Etherpad".
 		</para>
 		<para>
 		In the program segment, ensure that the value is X'FF'.
@@ -611,7 +611,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 			Singular proper names ending in <emphasis>s</emphasis> only need an apostrophe (for example, Dickens' novels).
 		</para>
 		 <para>
-			For guidance on whether to use a possessive, see <xref linkend="possessives"/>.
+			For guidance on whether to use a possessive, refer to <xref linkend="possessives"/>.
 		</para>
 
 
@@ -783,7 +783,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
           </para>
           </example>
 		<para>
-            For more details, see the <citetitle>IBM Style Guide</citetitle>.
+            For more details, refer to the <citetitle>IBM Style Guide</citetitle>.
 		</para>
 
 	</section>

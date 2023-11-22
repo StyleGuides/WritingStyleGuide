@@ -20,7 +20,7 @@
 			<term>tar, tarball</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> See the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
+					<emphasis>n.</emphasis> Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
 				</para>
 
 			</listitem>
@@ -30,11 +30,11 @@
 			<term>telco</term>
 			 <listitem>
 				<para>
-					Preferred abbreviation for "telecommunications company". Do not use "telecom". See also <xref linkend="csp" />.
+					Preferred abbreviation for "telecommunications company". Do not use "telecom". Refer also to <xref linkend="csp" />.
 				</para>
 				<para>
 					Use "telecommunications service provider" on first use. Subsequent uses can be "telco" or "telco service provider"; only use "telco" when the context makes it clear that the industry is engaged in providing telecommunications services. Use in URLs.
-					See <xref linkend="telecom-service-provider" />.
+					Refer to <xref linkend="telecom-service-provider" />.
 				</para>
 
 			</listitem>
@@ -44,7 +44,7 @@
 		 <term>telecommunications service provider</term>
 			<listitem>
 			 <para>
-				 Expand fully on first use, after which "telco" is the preferred abbreviation. "Service provider" is also acceptable as an abbreviation, but be careful in content that mentions different industries or types of services. Do not use in URLs. See <xref linkend="telco" />.
+				 Expand fully on first use, after which "telco" is the preferred abbreviation. "Service provider" is also acceptable as an abbreviation, but be careful in content that mentions different industries or types of services. Do not use in URLs. Refer to <xref linkend="telco" />.
 			 </para>
 
 		 </listitem>
@@ -70,7 +70,7 @@
 					<emphasis>n.</emphasis> Do not use to describe where to type commands. Use "command line" instead.
 				</para>
 				 <para>
-					See the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
+					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>
@@ -133,7 +133,7 @@
 			<term>throughput</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> The amount of data that is transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See the <citetitle>IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
+					<emphasis>n.</emphasis> The amount of data that is transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. Refer to the <citetitle>IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
 				</para>
 
 			</listitem>
@@ -174,7 +174,7 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> When capitalized, Token-Ring refers to the PC network architecture that IBM developed. The IBM Token-Ring specification is standardized by the IEEE as the IEEE 802.5 standard. 
-					<!-- See the <citetitle>IBM Style Guide</citetitle> for further uses of this term. -->
+					<!-- Refer to the <citetitle>IBM Style Guide</citetitle> for further uses of this term. -->
 				</para>
 
 			</listitem>
@@ -204,7 +204,7 @@
 			<term>totally</term>
 			 <listitem>
 				<para>
-					Do not use. See "basically".
+					Do not use. Refer to "basically".
 				</para>
 
 			</listitem>
