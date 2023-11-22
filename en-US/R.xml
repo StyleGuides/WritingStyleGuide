@@ -118,7 +118,7 @@
 			<term>refer to</term>
 			 <listitem>
 				<para>
-					Use to provide readers with a resource. 
+					Use to provide references within a document, and for cross-references to other resources.
 					<!-- Do not use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source). Use "See". -->
 				</para>
 
