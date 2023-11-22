@@ -118,8 +118,8 @@
 			<term>refer to</term>
 			 <listitem>
 				<para>
-					Use to refer readers to another resource. 
-					<!-- Do not use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source). Use "Refer to". -->
+					Use to provide readers with a resource. 
+					<!-- Do not use to indicate a reference (within a manual) or a cross-reference (to another manual or documentation source). Use "See". -->
 				</para>
 
 			</listitem>
