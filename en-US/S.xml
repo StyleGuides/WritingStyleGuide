@@ -121,7 +121,7 @@
 				<para>
 				For descriptions of graphics, explanations of command outputs, and other similar cases, it is acceptable to use “see”. 
 				Alternatively, it might be more concise or precise to replace “see” with another verb in these cases.
-				For example, instead of using "Click a server link to see the result details", you could use "Click a server link for the result details. 
+				For example, instead of using "Click a server link to see the result details", you could use "Click a server link for the result details". 
 				Instead of using "As you can see, these expected Audit events have an AVC Audit record", you could use "As shown in the output, these expected Audit events have an AVC Audit record".
 				</para>
 			</listitem>
