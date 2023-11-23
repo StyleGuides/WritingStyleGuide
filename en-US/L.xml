@@ -42,7 +42,7 @@
 			<term>later</term>
 			 <listitem>
 				<para>
-					Use to refer to later or more recent releases of products. Do not use "newer" or related terms. See also <xref linkend="earlier" />.
+					Use to refer to later or more recent releases of products. Do not use "newer" or related terms. Refer also to <xref linkend="earlier" />.
 				</para>
 
 			</listitem>
@@ -77,7 +77,7 @@
 					A Linux desktop suite. Do not use "Libre", "Libreoffice", or "Libre Office".
 				</para>
 				 <para>
-					See also <xref linkend="openoffice" />
+					Refer also to <xref linkend="openoffice" />
 				</para>
 
 			</listitem>
@@ -226,16 +226,13 @@
 
 		</varlistentry>
 		 <varlistentry id="lookup">
-			<term>lookup, look-up, look up</term>
+			<term>lookup, look up</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Use the one-word form.
+					<emphasis>n., adj.</emphasis> Use the one-word form, unhyphenated.
 				</para>
 				 <para>
 					<emphasis>v.</emphasis> Use the two-word form.
-				</para>
-				 <para>
-					<emphasis>adj.</emphasis> Hyphenate when used as a modifier. For example, "a look-up table".
 				</para>
 
 			</listitem>

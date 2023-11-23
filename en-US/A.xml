@@ -69,7 +69,7 @@
 					<emphasis>v.</emphasis> "Alternate" as a verb means to change between two states or options.
 				</para>
         <para>
-          See also <xref linkend="alternative"/>.
+          Refer also to <xref linkend="alternative"/>.
         </para>
 
 			</listitem>
@@ -84,7 +84,7 @@
           "Alternate" (vb.) means to change between two states or options. If you mean "another way of doing something", use "an alternative method is to ...".
 				</para>
         <para>
-          See also <xref linkend="alternate"/>.
+          Refer also to <xref linkend="alternate"/>.
         </para>
 
 			</listitem>
@@ -97,7 +97,7 @@
 					For times of day, use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "11&nbsp;AM".
 				</para>
         <para>
-          See also <xref linkend="pm"/>.
+          Refer also to <xref linkend="pm"/>.
         </para>
 
 			</listitem>
@@ -114,14 +114,14 @@
           When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
 				</para>
         <para>
-          See also <xref linkend="Intel64"/>.
+          Refer also to <xref linkend="Intel64"/>.
         </para>
 				 <note>
 					<para>
-						The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
+						The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, refer to the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
 					</para>
 					 <para>
-						For more information about Intel&reg; trademarks, see <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
+						For more information about Intel&reg; trademarks, refer to <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
 					</para>
 
 				</note>

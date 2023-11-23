@@ -10,7 +10,7 @@
 			<term>KB, kB</term>
 			 <listitem>
 				<para>
-					See the <citetitle>IBM Style Guide</citetitle> for the correct abbreviation to use for specific use cases.
+					Refer to the <citetitle>IBM Style Guide</citetitle> for the correct abbreviation to use for specific use cases.
 				</para>
 
 			</listitem>
@@ -93,7 +93,7 @@
 					When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X". When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S".
 				</para>
 				 <para>
-					See also <xref linkend="spacebar" />.
+					Refer also to <xref linkend="spacebar" />.
 				</para>
 
 			</listitem>
@@ -119,7 +119,7 @@
 			<term>keytab</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> <emphasis>(Kerberos)</emphasis> Correct. A keytab (short for "key table") stores long-term keys for one or more principals. For details, see <ulink url="https://web.mit.edu/kerberos/krb5-1.12/doc/basic/keytab_def.html" />.
+					<emphasis>n.</emphasis> <emphasis>(Kerberos)</emphasis> Correct. A keytab (short for "key table") stores long-term keys for one or more principals. For details, refer to <ulink url="https://web.mit.edu/kerberos/krb5-1.12/doc/basic/keytab_def.html" />.
 				</para>
 
 			</listitem>

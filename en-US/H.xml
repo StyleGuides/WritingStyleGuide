@@ -154,7 +154,7 @@
 			<term>host group</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Two words. Capitalize the "H" at the beginning of a sentence. See RFC 966 for more details.
+					<emphasis>n.</emphasis> Two words. Capitalize the "H" at the beginning of a sentence. Refer to RFC 966 for more details.
 				</para>
 
 			</listitem>
@@ -166,7 +166,7 @@
 				<para>
 					<emphasis>n.</emphasis> Usually one word.
           Capitalize the "H" at the beginning of a sentence.
-          See the <citetitle>IBM Style Guide</citetitle> for more information.
+          Refer to the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>
@@ -217,7 +217,7 @@
 			<term>hover help</term>
 			 <listitem>
 				<para>
-					See <xref linkend="tooltip" />.
+					Refer to <xref linkend="tooltip" />.
 				</para>
 
 			</listitem>
@@ -237,7 +237,7 @@
 			<term>HTML</term>
 			 <listitem>
 				<para>
-					When referring to the language, use "HTML", such as "To see the HTML version of this documentation ...". When referring to a web page extension, use "html", such as "The main page is <filename>index.html</filename>."
+					When referring to the language, use "HTML", such as "To refer to the HTML version of this documentation ...". When referring to a web page extension, use "html", such as "The main page is <filename>index.html</filename>."
 				</para>
 
 			</listitem>
@@ -260,7 +260,7 @@
 			<term>hybrid IT</term>
 			 <listitem>
 				<para>
-					The preferred term to refer to IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of them. Because hybrid can indicate either infrastructure or environment, or both, be specific about the underlying combination. See also <xref linkend="bimodal-it" />.
+					The preferred term to refer to IT that spans both traditional and modern infrastructure, or private and public environments, or some combination of them. Because hybrid can indicate either infrastructure or environment, or both, be specific about the underlying combination. Refer also to <xref linkend="bimodal-it" />.
 				</para>
 
 			</listitem>

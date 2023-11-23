@@ -20,7 +20,7 @@
 			<term>IaaS</term>
 			 <listitem>
 				<para>
-					Correct. This is the correct abbreviation for "Infrastructure-as-a-Service". See also <xref linkend="paas" />.
+					Correct. This is the correct abbreviation for "Infrastructure-as-a-Service". Refer also to <xref linkend="paas" />.
 				</para>
 
 			</listitem>
@@ -142,16 +142,16 @@
           When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
 				</para>
         <para>
-          See also <xref linkend="AMD64"/>.
+          Refer also to <xref linkend="AMD64"/>.
         </para>
 				 <note>
 					<para>
 						The AMD64 logo is trademarked; the term "AMD64" is not.
-            For more information about AMD trademarks, see the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
+            For more information about AMD trademarks, refer to the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
 					</para>
 <!-- Updated URL for AMD trademarks. -->					
 					 <para>
-						For more information about Intel&reg; trademarks, see <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
+						For more information about Intel&reg; trademarks, refer to <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
 					</para>
 
 				</note>
@@ -252,7 +252,7 @@
 			<term>Intranet, intranet</term>
 			 <listitem>
 				<para>
-					See the "Word usage" appendix of the <citetitle>IBM Style Guide</citetitle> for guidance.
+					Refer to the "Word usage" appendix of the <citetitle>IBM Style Guide</citetitle> for guidance.
 				</para>
 
 			</listitem>
