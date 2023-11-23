@@ -134,24 +134,41 @@
 			<term role="true">Intel 64</term>
 			 <listitem>
 				<para>
-					Correct.
+					<emphasis>n.</emphasis> The Intel 64-bit version of the x86 architecture. 
+					Use this format when referring to information that is exclusive to Intel processors. 
+					For Red&nbsp;Hat products, it applies only to Red&nbsp;Hat Enterprise Linux content. 
+				</para>
+				 <para>
+					Cloud providers can use different formats of this term when using architectures. 
+					If you are documenting code, commands, or outputs, confer with your subject-matter expert on the correct format for the specific use case.
+				</para>
+				 <para>
+					Example:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							This feature can run on only Intel 64 processors.
+						</para>
+					</listitem>
+				 </itemizedlist>				
+				 <!-- <para>
           Do not use "Hammer", "x86_64", "x86-64", "x64", "64-bit x86", or other variations as the name of this architecture.
 				</para>
 				 <para>
 					The correct term for Intel's implementation of this architecture is "Intel&reg;&nbsp;64".
           When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
-				</para>
+				</para> -->
         <para>
-          Refer also to <xref linkend="AMD64"/>.
+          Refer also to <xref linkend="a64-bit"/>, <xref linkend="a64-bit-x86"/>, <xref linkend="aarch64"/>, <xref linkend="AMD64"/>, <xref linkend="ARM64"/>, and <xref linkend="x86-64"/>.
         </para>
 				 <note>
-					<para>
+					<!-- <para>
 						The AMD64 logo is trademarked; the term "AMD64" is not.
             For more information about AMD trademarks, refer to the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
-					</para>
-<!-- Updated URL for AMD trademarks. -->					
+					</para> -->
 					 <para>
-						For more information about Intel&reg; trademarks, refer to <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
+						For more information about Intel trademarks, refer to <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
 					</para>
 
 				</note>

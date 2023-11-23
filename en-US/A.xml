@@ -103,20 +103,83 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="AMD64">
-			<term role="true">AMD64</term>
+		 <varlistentry id="aarch64">
+			<term role="true">AArch64, aarch64</term>
 			 <listitem>
 				<para>
-					Correct. Do not use "Hammer", "x86_64", "x86-64", "x64", "64-bit x86" or other variations as the name of this architecture.
+					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture. 
+					Use this term when referring to operating systems and server instances, for example Red&nbsp;Hat Enterprise Linux, Fedora, CoreOS, and other Linux distributions. 
 				</para>
 				 <para>
-					The correct term for AMD's implementation of this architecture is "AMD64".
-          When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
+					Use the uppercase (AArch64) format in general cases when referring to system architecture.
+					Use the lowercase (aarch64) format only when referring to objects or parameters. 
+					It can be styled as code (monospace font or a code-styled block) when referring to code.
 				</para>
+				 <para>
+					Cloud providers can use different formats of this term when using architectures. 
+					If you are documenting code, commands, or outputs, confer with your subject-matter expert on the correct format for the specific use case.
+				</para>
+				 <para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							When running Red&nbsp;Hat Enterprise Linux with an AArch64 system, run the following commands:
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Specify the system architecture of your cluster, such as <code>x86_64</code> or <code>aarch64</code>.
+						</para>
+					</listitem>
+				 </itemizedlist>
         <para>
-          Refer also to <xref linkend="Intel64"/>.
+          Refer also to <xref linkend="a64-bit"/>, <xref linkend="a64-bit-x86"/>, <xref linkend="AMD64"/>, <xref linkend="ARM64"/>, <xref linkend="Intel64"/>, and <xref linkend="x86-64"/>.
         </para>
-				 <note>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="AMD64">
+			<term role="true">AMD64, amd64</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> The AMD 64-bit version of the x86 architecture. 
+					Use this term for Red&nbsp;Hat OpenShift Container Platform attributes, Kubernetes, operators, application programming interfaces (APIs), or command-line interface (CLI) objects. 
+				</para>
+				 <para>
+					Use the uppercase format (AMD64) in general sentences when referring to Red&nbsp;Hat OpenShift Container Platform features.
+					Use the lowercase format (amd64) only when referring to objects or parameters. 
+					It can be styled as code (monospace font or a code-styled block) when referring to code.
+				</para>
+				 <para>
+					Cloud providers can use different formats of this term when using architectures. 
+					If you are documenting code, commands, or outputs, confer with your subject-matter expert on the correct format for the specific use case.
+				</para>
+				 <para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							This operator is supported on AMD64 and ARM64 platforms.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							In this scenario, <code>amd64</code> is a valid value for X.
+						</para>
+					</listitem>
+				 </itemizedlist>
+				 <!-- <para>
+					The correct term for AMD's implementation of this architecture is "AMD64".
+					When discussing the architecture generally, reference both AMD64 and Intel 64 implementations specifically.
+				</para> -->
+        <para>
+          Refer also to <xref linkend="a64-bit"/>, <xref linkend="a64-bit-x86"/>, <xref linkend="aarch64"/>, <xref linkend="ARM64"/>, <xref linkend="Intel64"/>, and <xref linkend="x86-64"/>.
+        </para>
+				 <!-- <note>
 					<para>
 						The AMD64 logo is trademarked; the term "AMD64" is not. For more information about AMD trademarks, refer to the <citetitle>AMD Trademark Information</citetitle> page at <ulink url="https://www.amd.com/en/corporate/trademarks" />.
 					</para>
@@ -124,11 +187,50 @@
 						For more information about Intel&reg; trademarks, refer to <ulink url="http://www.intel.com/content/www/us/en/legal/trademarks.html" /> and <ulink url="http://www.intel.com/content/www/us/en/trademarks/trademarks.html" />.
 					</para>
 
-				</note>
+				</note> -->
 
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="ARM64">
+			<term role="true">ARM64, arm64</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture. 
+					Use this term for Red&nbsp;Hat OpenShift Container Platform attributes, Kubernetes, operators, application programming interfaces (APIs), and command-line interface (CLI) objects. 
+				</para>
+				 <para>
+					Use the uppercase format (ARM64) in general sentences when referring to Red&nbsp;Hat OpenShift Container Platform features.
+					Use lowercase format (arm64) only when referring to objects or parameters. 
+					It can be styled as code (monospace font or a code-styled block) when referring to code.
+				</para>
+				 <para>
+					Cloud providers can use different formats of this term when using architectures. 
+					If you are documenting code, commands, or outputs, confer with your subject-matter expert on the correct format for the specific use case.
+				</para>
+				 <para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							In this exercise, you create an ARM64 compute machine set.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							In this scenario, <code>arm64</code> is a valid value for X.
+						</para>
+					</listitem>
+				 </itemizedlist>
+        <para>
+          Refer also to <xref linkend="a64-bit"/>, <xref linkend="a64-bit-x86"/>, <xref linkend="aarch64"/>, <xref linkend="AMD64"/>, <xref linkend="Intel64"/>, and <xref linkend="x86-64"/>.
+        </para>
+
+			</listitem>
+
+		</varlistentry>
+
 		 <varlistentry id="andor">
 			<term role="false">and/or</term>
 			 <listitem>

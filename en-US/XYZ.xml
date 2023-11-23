@@ -16,6 +16,41 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="x86-64">
+			<term role="true">x86_64</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> A 64-bit version of the x86 architecture. 
+					Use this term when referring to operating systems and server instances, for example Red&nbsp;Hat Enterprise Linux, Fedora, CoreOS and other Linux distributions. 
+					Use this format without backticks in general cases when referring to system architecture. 
+					Use this format in backticks when referring to architecture as a value or parameter. 
+				</para>
+				 <para>
+					Cloud providers can use different formats of this term when using architectures. 
+					If you are documenting code, commands or outputs, confer with your subject-matter expert on the correct format for the specific use case.
+				</para>
+				 <para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Specifies the type of architecture for your server, such as x86_64.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							When specifying the architecture, <code>x86_64</code> is a valid value.
+						</para>
+					</listitem>
+				 </itemizedlist>
+        <para>
+          Refer also to <xref linkend="a64-bit"/>, <xref linkend="a64-bit-x86"/>, <xref linkend="aarch64"/>, <xref linkend="AMD64"/>, <xref linkend="ARM64"/>, and <xref linkend="Intel64"/>.
+        </para>
+
+			</listitem>
+
+		</varlistentry>		
 		 <varlistentry id="xyxemacs">
 			<term>XEmacs</term>
 			 <listitem>
