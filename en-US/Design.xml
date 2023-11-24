@@ -426,6 +426,21 @@ $ vi myFile.txt
                 Use line continuation characters without the associated PS2 prompts.
               </para>
             </listitem>
+			<listitem>
+              <para>
+                On Linux and macOS operating systems, use the Linux shell continuation character (\).
+              </para>
+            </listitem>
+			<listitem>
+              <para>
+                On Windows operating systems, use instead the backtick character (`).
+              </para>	
+            </listitem>
+			<listitem>
+              <para>
+                For content that is potentially used in multiple operating systems, use the Linux shell continuation character, and include an explanatory sentence before the command.
+              </para>						  		  			  
+            </listitem>
           </itemizedlist>
 <!--          <important>
             <para>
@@ -438,39 +453,20 @@ $ vi myFile.txt
 <!--            You can use this option for any of these designs. -->
           </para>
 
-<!-- <example><title>Wrapping Long Commands with Continuation Characters and PS2 Prompts</title> 
+<example><title>Long Command Example</title>
   <para>
-    This example uses both continuation characters and PS2 prompts.
-  </para> 
-
-<screen># tar &#45;&#45;selinux -czvf config_files.tar.gz  /etc/katello \
-> /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
-> /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
-> /etc/sysconfig/katello /etc/sysconfig/elasticsearch \
-> /root/ssl-build /var/www/html/pub/* /var/lib/katello</screen>
-</example>  
-
-<example><title>Wrapping Long Commands Without Continuation Characters or PS2 Prompts</title>
-  <para>
-    This example uses neither continuation characters nor PS2 prompts, but it does show how to use line indentation to help to clarify long commands.
-  </para>
-<screen># cd /var/lib/katello 
-
-# myCommand &#45;&#45;option funky &#45;&#45;color=true
-  &#45;&#45;config_file=/home/user/config.conf
-  &#45;&#45;output_file=/home/user/output.txt</screen>
-
-</example>  -->
-
-<example><title>Wrapping Long Commands with Continuation Characters and Without PS2 Prompts</title>
-  <para>
-    This example uses continuation characters but not PS2 prompts.
+    If the <systemitem>memory</systemitem> machine pool does not exist, then create it.
   </para>  
-<screen>[root@node]# cephadm bootstrap --mon-ip=MON_IP --registry-url=registry.redhat.io \
---registry-username=REGISTRY_USERNAME --registry-password=REGISTRY_PASSWORD \
---initial-dashboard-password=DASHBOARD_PASSWORD --dashboard-password-noupdate \
---allow-fqdn-hostname</screen>
-
+  <para>
+    On a Microsoft Windows system, replace the line continuation character (\) in the following long command with the backtick character (`), which is the line continuation character in PowerShell.
+  </para>
+<screen>$ <userinput>aws iam create-policy --policy-name RosaCloudWatch \ </userinput>
+<userinput>  --policy-document file://policy.json --query Policy.Arn --output text</userinput>
+arn:aws:iam::452954386616:policy/RosaCloudWatch
+</screen>
+  <para>
+The ARN in the preceding output is different on your system.
+  </para>
 </example>
 
 	</section>
