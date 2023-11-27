@@ -433,7 +433,7 @@ $ vi myFile.txt
             </listitem>
 			<listitem>
               <para>
-                On Windows operating systems, use instead the backtick character (`).
+                On Windows operating systems, use the backtick character (`).
               </para>	
             </listitem>
 			<listitem>
