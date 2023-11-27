@@ -43,14 +43,14 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture. 
-					This term can refer to both AArch66/aarch64 and to ARM64/arm64. 
+					This term can refer to both AArch66/`aarch64` and to ARM64/`arm64`. 
 				</para>
 				 <para>
-					Use this format in general cases when writing for both names of the architecture and various cloud providers.
+					Use this format in general cases to refer to names of the architecture for various cloud providers.
 				</para>
 				 <para>
-					Cloud providers can use different formats of this term when using architectures. 
-					If you are documenting code, commands, or outputs, confer with your subject-matter expert on the correct format for the specific use case.
+					Cloud providers might use different formats of this term to refer to architectures. 
+					If you are documenting code, commands, or outputs, then confer with your subject-matter expert on the correct format for the specific use case.
 				</para>
 				 <para>
 					Examples:
@@ -58,12 +58,12 @@
 				 <itemizedlist>
 					<listitem>
 						<para>
-							The customer is using Amazon Web Services (AWS) on 64-bit ARM systems.
+							Amazon Web Services (AWS) on 64-bit ARM systems
 						</para>
 					</listitem>
 					 <listitem>
 						<para>
-							The customer is using multiple machine types for Microsoft Azure on 64-bit ARM infrastructures.
+							Machine types for Microsoft Azure on 64-bit ARM infrastructures
 						</para>
 					</listitem>
 				 </itemizedlist>
@@ -80,11 +80,11 @@
 				<para>
 					<emphasis>n.</emphasis> A 64-bit version of the x86 architecture. 
 					This term is a synonym of x86_64. 
-					Use this format in general cases when writing for names of the architectures for various cloud providers.
+					Use this format in general cases to refer to names of the architecture for various cloud providers.
 				</para>
 				 <para>
-					Cloud providers can use different formats of this term when using architectures. 
-					If you are documenting code, commands or outputs, confer with your subject-matter expert on the correct format for the specific use case.
+					Cloud providers might use different formats of this term to refer to architectures. 
+					If you are documenting code, commands or outputs, then confer with your subject-matter expert on the correct format for the specific use case.
 				</para>
 				 <para>
 					Examples:
