@@ -38,6 +38,77 @@
 
 		</varlistentry>
 
+		 <varlistentry id="a64-bit">
+			<term role="true">64-bit ARM</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture. 
+					This term can refer to both AArch66/`aarch64` and to ARM64/`arm64`. 
+				</para>
+				 <para>
+					Use this format in general cases to refer to names of the architecture for various cloud providers.
+				</para>
+				 <para>
+					Cloud providers might use different formats of this term to refer to architectures. 
+					If you are documenting code, commands, or outputs, then confer with your subject-matter expert on the correct format for the specific use case.
+				</para>
+				 <para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Amazon Web Services (AWS) on 64-bit ARM systems
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Machine types for Microsoft Azure on 64-bit ARM infrastructures
+						</para>
+					</listitem>
+				 </itemizedlist>
+        <para>
+          Refer also to <xref linkend="a64-bit-x86"/>, <xref linkend="aarch64"/>, <xref linkend="AMD64"/>, <xref linkend="ARM64"/>, <xref linkend="Intel64"/>, and <xref linkend="x86-64"/>.
+        </para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="a64-bit-x86">
+			<term role="true">64-bit x86</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> A 64-bit version of the x86 architecture. 
+					This term is a synonym of x86_64. 
+					Use this format in general cases to refer to names of the architecture for various cloud providers.
+				</para>
+				 <para>
+					Cloud providers might use different formats of this term to refer to architectures. 
+					If you are documenting code, commands or outputs, then confer with your subject-matter expert on the correct format for the specific use case.
+				</para>
+				 <para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Amazon Web Services (AWS) on 64-bit x86 systems
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Machine types for Microsoft Azure on 64-bit x86 infrastructures
+						</para>
+					</listitem>
+				 </itemizedlist>
+        <para>
+          Refer also to <xref linkend="a64-bit"/>, <xref linkend="aarch64"/>, <xref linkend="AMD64"/>, <xref linkend="ARM64"/>, <xref linkend="Intel64"/>, and <xref linkend="x86-64"/>.
+        </para>
+
+			</listitem>
+
+		</varlistentry>
+
 	</variablelist>
 </chapter>
 
