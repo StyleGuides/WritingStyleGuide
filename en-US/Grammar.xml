@@ -932,7 +932,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 		<title>Contractions and Abbreviations</title>
 		 <para>
 			Do not use contractions in Red&nbsp;Hat documents.
-      For example, do not use can't, "don't", "won't", and similar examples.
+      For example, do not use "can't", "don't", "won't", and similar examples.
       Write out the words in full.
       Contractions are a mark of informal writing, and should be avoided when writing technical documentation or other more formal types of manuals.
       They can also cause problems for translation. 
