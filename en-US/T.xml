@@ -6,21 +6,40 @@
 <chapter id="t">
 	<title>T</title>
 	 <variablelist>
-		<varlistentry id="taskbar">
-			<term>taskbar</term>
+		 <varlistentry id="tar">
+			<term>tar</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> One word. Do not use "task bar".
+					<emphasis>n., adj.</emphasis> The tape archive file format. 
+					Only use in reference to the file format, for example "a .tar file". 
+					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
+				</para>
+				<para>
+					<emphasis>v.</emphasis> Do not use to refer to the process of creating a .tar file. 
+					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="tar-tarball">
-			<term>tar, tarball</term>
+		 <varlistentry id="tarball">
+			<term>tarball</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
+					<emphasis>n.</emphasis> In most cases, do not use "tarball" to refer to a compressed archive in the .tar format. 
+					Use ".tar file".
+					In some limited cases, "tarball" might be introduced as a commonly used term for a compressed archive in the .tar format. 
+					In such cases, briefly mentioning the term as an alternative name might be acceptable, but do not use "tarball" as the primary term to refer to compressed archives.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		<varlistentry id="taskbar">
+			<term>taskbar</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> One word. Do not use "task bar".
 				</para>
 
 			</listitem>
