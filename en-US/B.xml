@@ -227,7 +227,7 @@
 					Correct. Named after George Boole, who first developed the concept.
 				</para>
 				 <para>
-					According to the <citetitle>IBM Style Guide</citetitle>, it is acceptable to use "boolean" in API programming information when it refers to a primitive return type.
+					According to the <citetitle>IBM Style Guide</citetitle>, it is acceptable to use "boolean" (lowercase) in API programming information when it refers to a primitive return type.
 				</para>
 				 <para>
 					To set Boolean values in YAML files, use <varname>true</varname> or <varname>false</varname>, written lowercase, rather than <varname>yes</varname> or <varname>no</varname>, because YAML&nbsp;1.2 and later versions do not support the latter syntax.  
