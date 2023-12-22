@@ -227,9 +227,18 @@
 					Correct. Named after George Boole, who first developed the concept.
 				</para>
 				 <para>
-					According to the <citetitle>IBM Style Guide</citetitle>, it is acceptable to use "boolean" in API programming information when it refers to a primitive return type.
+					According to the <citetitle>IBM Style Guide</citetitle>, it is acceptable to use "boolean" (lowercase) in API programming information when it refers to a primitive return type.
 				</para>
-
+				 <para>
+					To set Boolean values in YAML files, use <varname>true</varname> or <varname>false</varname>, written lowercase, rather than <varname>yes</varname> or <varname>no</varname>, because YAML&nbsp;1.2 and later versions do not support the latter syntax.  
+				</para>
+				 <para>
+					For example, the following scenario specifies that a task is run only one time:  
+				</para>
+<screen>- name: Pause 30 seconds
+  ansible.builtin.pause:
+    seconds: 30
+  <userinput>run_once: true</userinput></screen>
 			</listitem>
 
 		</varlistentry>
