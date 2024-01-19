@@ -16,7 +16,7 @@
 				<title>Capitalization</title>
 					<para>
 					The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
-            Table titles and procedure headings fall into this category; standard title case capitalization rules apply.
+            Table titles and procedure titles fall into this category; standard title case capitalization rules apply.
 					</para>
 		</formalpara>
 			<para>
@@ -747,7 +747,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 					 <listitem>
 						<para>
 							Include a diverse set of names in your examples to reflect the diversity of the real world.
-              For example, use male, female, and culturally diverse names that suggest various backgrounds in examples to avoid implying that only certain groups have specific skills.
+              For example, use gender-inclusive and culturally diverse names that suggest various backgrounds in examples to avoid implying that only certain groups have specific skills.
 						</para>
 
 					</listitem>
@@ -761,8 +761,9 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 					 <listitem>
 						<para>
 							When choosing names, also consider how those names might appear in email addresses, usernames, and similar contexts.
+							Avoid name combinations or abbreviations that result in unintended meanings, such as slang.
 							An example that works well might be "John Smith", with an email address of <email>jsmith@example.com</email>.
-							However, for the name "Brian Smith", a corresponding email address of <email>bstrong@example.com</email> might not work so well (when read out, it sounds like "be strong").
+							However, for the name "Brian Strong", a corresponding email address of <email>bstrong@example.com</email> might not work so well (when read out, it sounds like "be strong").
 							Consider also any implications for names in different languages. 
 						</para>
 
@@ -911,7 +912,8 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 
 		</table>
 			 <para>
-				However, if the noun refers to a password, a value, or a status, then instead it flows better to state the object name first, followed by "as the password" as an example.
+				However, in some cases, the sentence might be easier to understand if the noun appears first, or if additional language separates the object name from the noun. 
+				For example, if the noun refers to a password, a value, or a status, then consider stating the noun first, or including explanatory language between the object name and the noun, or doing both.
 			</para>
 
 			 <table>
