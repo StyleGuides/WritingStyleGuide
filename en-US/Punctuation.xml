@@ -613,6 +613,9 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 		 <para>
 			For guidance on whether to use a possessive, refer to <xref linkend="possessives"/>.
 		</para>
+		 <para>
+			Whether an apostrophe uses a straight character (the same as a straight single quotation mark) or a curly character is determined by considerations that include language, translation, and typography.
+		</para>
 
 
 	</section>
@@ -819,7 +822,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 					</row>
 					<row>
-						<entry> &apos; </entry>
+						<entry> &apos; or ’ </entry>
 						 <entry> Apostrophe </entry>
 
 					</row>
@@ -874,8 +877,8 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 					</row>
 					<row>
-						<entry> &quot; </entry>
-						 <entry> Double quotation mark </entry>
+						<entry> &quot; or “ ” </entry>
+						 <entry> Double quotation marks </entry>
 
 					</row>
 					<row>
@@ -959,8 +962,8 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 					</row>
 					<row>
-						<entry> &apos; </entry>
-						 <entry> Single quotation mark </entry>
+						<entry> &apos; or ‘ ’ </entry>
+						 <entry> Single quotation marks </entry>
 
 					</row>
 					<row>
