@@ -37,6 +37,12 @@
 			</listitem>
 			 <listitem>
 				<para>
+					Placement of headings
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
 					Unused heading titles
 				</para>
 
@@ -48,10 +54,10 @@
 	 <section id="titles-and-subtitles">
 		<title>Titles and Subtitles</title>
 		 <para>
-			The title should be a combination of the complete product name, its version, and the name of the book. For example, "Red&nbsp;Hat Satellite&nbsp;5.6 Installation Guide", or "Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6 Deployment Guide".
+			The title should be a combination of the complete product name, its version, and the name of the book. For example, "Red&nbsp;Hat Satellite&nbsp;6.12 Installation Guide", or "Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 Deployment Guide".
 		</para>
 		 <para>
-			The subtitle should be a single, succinct phrase that describes the intent of the book; an abstract of the abstract. For example, "Installing Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8 for all architectures".
+			The subtitle should be a single, succinct phrase that describes the intent of the book; an abstract of the abstract. For example, "Installing Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 for all architectures".
 		</para>
 
 	</section>
@@ -111,7 +117,7 @@
 	 <section id="introductions">
 		<title>Introductions</title>
 		 <para>
-			The term "introduction" on its own is sufficiently vague, and raises enough questions in translation and with translation memory (TM) tools, that Red&nbsp;Hat technical documentation does not use this term on its own. Instead, use the phrase "Introduction to &lt;product_name&gt;" near the beginning of the book to introduce the reader to the product. Do not use "Introduction" to introduce the book; that is the task of the Abstract. A further benefit of this usage is that the same introduction can be used across various books to introduce the same product.
+			The term "introduction" on its own is sufficiently vague, and raises enough questions in translation and with translation memory tools, that Red&nbsp;Hat technical documentation does not use this term on its own. Instead, use the phrase "Introduction to &lt;product_name&gt;" near the beginning of the book to introduce the reader to the product. Do not use "Introduction" to introduce the book; that is the task of the Abstract. A further benefit of this usage is that the same introduction can be used across various books to introduce the same product.
 		</para>
 
 	</section>
