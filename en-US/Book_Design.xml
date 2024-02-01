@@ -4,7 +4,7 @@
 %BOOK_ENTITIES;
 ]>
 <section id="overall-book-design">
-	<title>Overall Book Design</title>
+	<title>Overall Publication Design</title>
 	 <para>
 		This section describes a general approach to the overall layout and design of technical documentation. This design was developed specifically for technical documentation and might not suit content produced by other groups.
 	</para>
@@ -54,10 +54,10 @@
 	 <section id="titles-and-subtitles">
 		<title>Titles and Subtitles</title>
 		 <para>
-			The title should be a combination of the complete product name, its version, and the name of the book. For example, "Red&nbsp;Hat Satellite&nbsp;6.12 Installation Guide", or "Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 Deployment Guide".
+			The title should be a combination of the complete product name, its version, and the name of the publication. For example, "Red&nbsp;Hat Satellite&nbsp;6.12 Installation Guide", or "Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 Deployment Guide".
 		</para>
 		 <para>
-			The subtitle should be a single, succinct phrase that describes the intent of the book; an abstract of the abstract. For example, "Installing Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 for all architectures".
+			The subtitle should be a single, succinct phrase that describes the intent of the publication; an abstract of the abstract. For example, "Installing Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 for All Architectures".
 		</para>
 
 	</section>
@@ -77,23 +77,23 @@
 			 </footnote>
 		</para>
 		 <para>
-			A suitable abstract covers the high-level topics of the book, and is probably a good place to mention the audience. It should cover the following basics:
+			A suitable abstract covers the high-level topics of the publication, and is probably a good place to mention the audience. It should cover the following basics:
 			<itemizedlist>
 				<listitem>
 					<para>
-						What: What is the purpose of the book or document? A brief summary, for example, "The Red&nbsp;Hat Satellite&nbsp;5.6 API Guide is a full reference for Satellite's XMRPC API."
+						What: What is the purpose of the publication or document? A brief summary, for example, "The Red&nbsp;Hat Satellite&nbsp;5.6 API Guide is a full reference for Satellite's XMRPC API."
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						How: How does the book convey its content? That is, is it task-based? Example-driven? A reference guide? For example, "The guide explains each API method and demonstrates examples of data models for input and output."
+						How: How does the publication convey its content? That is, is it task-based? Example-driven? A reference guide? For example, "The guide explains each API method and demonstrates examples of data models for input and output."
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						Why (and possibly Who): A basic rationale for why this book exists, and its audience (and elaborate on the target audience inside the book). For example, "This book provides a basis for administrators and developers to write custom scripts and to integrate Red&nbsp;Hat Satellite with third-party applications."
+						Why (and possibly Who): A basic rationale for why this publication exists, and its audience (and elaborate on the target audience inside the publication). For example, "This publication provides a basis for administrators and developers to write custom scripts and to integrate Red&nbsp;Hat Satellite with third-party applications."
 					</para>
 
 				</listitem>
@@ -107,17 +107,17 @@
 		 <para>
 			"The Red&nbsp;Hat Satellite&nbsp;5.6 API Guide is a full reference for Satellite's XMRPC API.
 			The guide explains each API method and demonstrates examples of data models for input and output.
-			This book provides a basis for administrators and developers to write custom scripts and to integrate Red&nbsp;Hat Satellite with third-party applications."
+			This publication provides a basis for administrators and developers to write custom scripts and to integrate Red&nbsp;Hat Satellite with third-party applications."
 		</para>
 		 <para>
-			Update or modify each component according to the type of book that you are writing.
+			Update or modify each component according to the type of publication that you are writing.
 		</para>
 
 	</section>
 	 <section id="introductions">
 		<title>Introductions</title>
 		 <para>
-			The term "introduction" on its own is sufficiently vague, and raises enough questions in translation and with translation memory tools, that Red&nbsp;Hat technical documentation does not use this term on its own. Instead, use the phrase "Introduction to &lt;product_name&gt;" near the beginning of the book to introduce the reader to the product. Do not use "Introduction" to introduce the book; that is the task of the Abstract. A further benefit of this usage is that the same introduction can be used across various books to introduce the same product.
+			The term "introduction" on its own is sufficiently vague, and raises enough questions in translation and with translation memory tools, that Red&nbsp;Hat technical documentation does not use this term on its own. Instead, use the phrase "Introduction to &lt;product_name&gt;" near the beginning of the publication to introduce the reader to the product. Do not use "Introduction" to introduce the publication; that is the task of the Abstract. A further benefit of this usage is that the same introduction can be used across various books to introduce the same product.
 		</para>
 
 	</section>

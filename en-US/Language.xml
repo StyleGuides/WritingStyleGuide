@@ -1628,7 +1628,7 @@
 		Spell out the following number types: numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of ...), and very large values.
 		</para>
 		 <para>
-		Use numerals for numbers 10 and greater, and for numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (for example, "You answered 8 out of 14 questions correctly"). Use numerals for negative numbers, fractions, percentages, decimals, measurements, and references to book sections (for example, Chapter 3, Table 5, Page 11). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (such as Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8, Linux kernel&nbsp;4.18).
+		Use numerals for numbers 10 and greater, and for numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (for example, "You answered 8 out of 14 questions correctly"). Use numerals for negative numbers, fractions, percentages, decimals, measurements, and references to publication sections (for example, Chapter 3, Table 5, Page 11). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (such as Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8, Linux kernel&nbsp;4.18).
 		</para>
 		 <para>
 		Do not use commas in numbers with four digits (use 1000 rather than 1,000). Use commas, to separate groups of three digits, in numbers with five or more digits (such as 10,000; 123,456,789; 1,000,000,000).

@@ -678,7 +678,7 @@
 			Entities can be helpful in some cases, but they are more of a hindrance when used for terms that need translation. Translators must compare the string with the built document to determine what the entity stands for. These entities might even be overlooked and not be translated at all.
 		</para>
 		 <para>
-			To avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities that are required to build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates the required entities with default values when you create a book. Required entities vary by brand; only the following entities are required for a standard book:
+			To avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities that are required to build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates the required entities with default values when you create a publication. Required entities vary by brand; only the following entities are required for a standard publication:
 		</para>
 		 <itemizedlist>
 			<listitem>

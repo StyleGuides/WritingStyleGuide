@@ -480,7 +480,7 @@ $ vi myFile.txt
 <!--          <important>
             <para>
               Do not mix these styles.
-              Use the same style throughout your document, book, and product set.
+              Use the same style throughout your document, publication, and product set.
             </para>
           </important> -->
           <para>
@@ -749,7 +749,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			 <section id="using-extended-names">
 				<title>Using Extended User and Group Names</title>
 				 <para>
-					Sometimes, the recommended list of user and group names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable.
+					Sometimes, the recommended list of user and group names is too restrictive for the scope of a publication or article. In such cases, the following extended model is acceptable.
 				</para>
 				 <formalpara id="using-realistic-names">
 					<title>Using Realistic Usernames</title>
@@ -1373,9 +1373,9 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 	 <section id="citing-other-works">
 		<title>Citing Other Works</title>
 		 <formalpara id="other-books">
-			<title>Referencing Other Books</title>
+			<title>Referencing Other Publications</title>
 			 <para>
-				When referencing another book, either internal or external to Red&nbsp;Hat, use the following format:
+				When referencing another publication, either internal or external to Red&nbsp;Hat, use the following format:
 			</para>
 
 		</formalpara>
@@ -1384,8 +1384,8 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		</para> -->
 
 <programlisting>
-<!-- &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher. -->
-Book Title by First name Surname; Publisher.
+<!-- &lt;citetitle&gt;Publication Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher. -->
+Publication Title by First name Surname; Publisher.
 </programlisting>
 
 		 <para>
