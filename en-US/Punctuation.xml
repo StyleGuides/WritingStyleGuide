@@ -753,7 +753,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
             To refer to a punctuation mark or special character, use its name alone if it is one of the following standard characters:
 		</para>
 		<para>
-			. , : ; ' " ( ) [ ] { } ! ?
+			. , : ; ' ‘ ’ " “ ” ( ) [ ] { } ! ?
 		</para>
 		<para>
             For all other characters, use the character name followed by the symbol in parentheses.  
