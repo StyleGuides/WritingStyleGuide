@@ -15,7 +15,8 @@
 		 <formalpara id="capitalization">
 				<title>Capitalization</title>
 					<para>
-					The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
+					The standard for technical documentation is title case for all headings and titles.
+					<!-- The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles. -->
             Table titles and procedure titles fall into this category; standard title case capitalization rules apply.
 					</para>
 		</formalpara>
@@ -32,7 +33,7 @@
 					 <warning>
 						<title>Marketing and Brand Capitalization Guide</title>
 						 <para>
-							The Red&nbsp;Hat Marketing and Brand groups use sentence case for most titles and headings, with some exceptions, for example, when referencing an externally produced resource's title.
+							The Red&nbsp;Hat Marketing and Brand groups and some other groups use sentence case for most titles and headings, with some exceptions, for example, when referencing an externally produced resource's title.
 						</para>
 
 					</warning>
@@ -61,6 +62,9 @@
 					<para>
 					In some cases, a verb might not be appropriate because the content is purely informational. Instead of using a vague verb like "Understanding", "Describing", "Introducing", or "Exploring", either use a more specific verb, or use a noun phrase instead of a verb. A noun phrase is descriptive and omits a verb, for example "Installation Overview" or "The OpenShift Web Console."
 					</para>
+					<para>
+					Avoid a title that consists of only one word. 
+					</para>
 			 <table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
@@ -85,6 +89,11 @@
 						 <entry> Cluster Updates </entry>
 
 					</row>					
+					<row>
+						<entry> MetalLB </entry>
+						 <entry> The MetalLB Component </entry>
+
+					</row>		
 
 				</tbody>
 
@@ -106,12 +115,38 @@
       <formalpara>
         <title>File Names, Commands, and Related Terms</title>
           <para>
-            When creating chapter and section titles, do not include file, command, or similar names, and do not include markup elements.
+            When creating chapter and section titles, do not include file, command, or similar names, and generally do not include markup elements.
             Instead, focus on the task at hand and introduce the required file and command names in the text.
             Including such objects in titles is generally considered poor technical writing practice.
             Depending on how your documentation is built and delivered, including these object types can result in unpredictable results and can even cause failed builds.
           </para>
 		</formalpara>
+
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Custom Domains and cert-manager Operators with ROSA </entry>
+						 <entry> Custom Domains and Certificate Management Operators with ROSA </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
 
 	</section>
 	 <section id="documenting-fonts">
@@ -445,7 +480,7 @@ $ vi myFile.txt
 <!--          <important>
             <para>
               Do not mix these styles.
-              Use the same style throughout your document, book, and product set.
+              Use the same style throughout your document, publication, and product set.
             </para>
           </important> -->
           <para>
@@ -714,7 +749,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			 <section id="using-extended-names">
 				<title>Using Extended User and Group Names</title>
 				 <para>
-					Sometimes, the recommended list of user and group names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable.
+					Sometimes, the recommended list of user and group names is too restrictive for the scope of a publication or article. In such cases, the following extended model is acceptable.
 				</para>
 				 <formalpara id="using-realistic-names">
 					<title>Using Realistic Usernames</title>
@@ -1338,9 +1373,9 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 	 <section id="citing-other-works">
 		<title>Citing Other Works</title>
 		 <formalpara id="other-books">
-			<title>Referencing Other Books</title>
+			<title>Referencing Other Publications</title>
 			 <para>
-				When referencing another book, either internal or external to Red&nbsp;Hat, use the following format:
+				When referencing another publication, either internal or external to Red&nbsp;Hat, use the following format:
 			</para>
 
 		</formalpara>
@@ -1349,8 +1384,8 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		</para> -->
 
 <programlisting>
-<!-- &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher. -->
-Book Title by First name Surname; Publisher.
+<!-- &lt;citetitle&gt;Publication Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher. -->
+Publication Title by First name Surname; Publisher.
 </programlisting>
 
 		 <para>
