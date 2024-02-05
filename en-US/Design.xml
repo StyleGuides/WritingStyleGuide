@@ -1419,7 +1419,7 @@ Publication Title by First name Surname; Publisher.
 			 <listitem>
 				<para>
 					If the URL is excessively long or complex, create a link by using the title of the destination as a label, and put the actual URL in a footnote. For example: Refer to the <ulink url="http://world-database-of-everything.com/en/classifcation_of_species/mammals.html"><citetitle>Classification of Species</citetitle></ulink><footnote> <para>
-						http://world-database-of-everything.com/en/classifcation_of_species/mammals.html
+						<ulink url="http://world-database-of-everything.com/en/classifcation_of_species/mammals.html" />
 					</para>
 					 </footnote> page for more information.
 				</para>
