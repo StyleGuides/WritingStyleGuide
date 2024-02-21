@@ -15,7 +15,7 @@ Dependencies:
 $ sudo dnf install publican
 ```
 
-Also, follow the instructions at https://github.com/RedHatTraining/redhat-styleguide-xsl to build `publican-brand-redhat-*.noarch.rpm` and install that.
+Also, follow the instructions at https://github.com/RedHatTraining/redhat-styleguide-xsl (access for Red Hat only) to build `publican-brand-redhat-*.noarch.rpm` and install that.
 
 To build:
 
