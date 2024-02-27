@@ -6,6 +6,35 @@
 <chapter id="t">
 	<title>T</title>
 	 <variablelist>
+		 <varlistentry id="tar">
+			<term>tar</term>
+			 <listitem>
+				<para>
+					<emphasis>n., adj.</emphasis> The tape archive file format. 
+					Only use in reference to the file format, for example "a .tar file". 
+					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
+				</para>
+				<para>
+					<emphasis>v.</emphasis> Do not use to refer to the process of creating a .tar file. 
+					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="tarball">
+			<term>tarball</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> In most cases, do not use "tarball" to refer to a compressed archive in the .tar format. 
+					Use ".tar file".
+					In some limited cases, "tarball" might be introduced as a commonly used term for a compressed archive in the .tar format. 
+					In such cases, briefly mentioning the term as an alternative name might be acceptable, but do not use "tarball" as the primary term to refer to compressed archives.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		<varlistentry id="taskbar">
 			<term>taskbar</term>
 			 <listitem>
@@ -16,25 +45,15 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="tar-tarball">
-			<term>tar, tarball</term>
-			 <listitem>
-				<para>
-					<emphasis>n.</emphasis> See the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="telco">
 			<term>telco</term>
 			 <listitem>
 				<para>
-					Preferred abbreviation for "telecommunications company". Do not use "telecom". See also <xref linkend="csp" />.
+					Preferred abbreviation for "telecommunications company". Do not use "telecom". Refer also to <xref linkend="csp" />.
 				</para>
 				<para>
 					Use "telecommunications service provider" on first use. Subsequent uses can be "telco" or "telco service provider"; only use "telco" when the context makes it clear that the industry is engaged in providing telecommunications services. Use in URLs.
-					See <xref linkend="telecom-service-provider" />.
+					Refer to <xref linkend="telecom-service-provider" />.
 				</para>
 
 			</listitem>
@@ -44,7 +63,7 @@
 		 <term>telecommunications service provider</term>
 			<listitem>
 			 <para>
-				 Expand fully on first use, after which "telco" is the preferred abbreviation. "Service provider" is also acceptable as an abbreviation, but be careful in content that mentions different industries or types of services. Do not use in URLs. See <xref linkend="telco" />.
+				 Expand fully on first use, after which "telco" is the preferred abbreviation. "Service provider" is also acceptable as an abbreviation, but be careful in content that mentions different industries or types of services. Do not use in URLs. Refer to <xref linkend="telco" />.
 			 </para>
 
 		 </listitem>
@@ -70,7 +89,7 @@
 					<emphasis>n.</emphasis> Do not use to describe where to type commands. Use "command line" instead.
 				</para>
 				 <para>
-					See the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
+					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
 				</para>
 
 			</listitem>
@@ -133,7 +152,7 @@
 			<term>throughput</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> The amount of data that is transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. See the <citetitle>IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
+					<emphasis>n.</emphasis> The amount of data that is transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. Refer to the <citetitle>IBM Style Guide</citetitle> for more information about using measurements and abbreviations.
 				</para>
 
 			</listitem>
@@ -174,7 +193,7 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> When capitalized, Token-Ring refers to the PC network architecture that IBM developed. The IBM Token-Ring specification is standardized by the IEEE as the IEEE 802.5 standard. 
-					<!-- See the <citetitle>IBM Style Guide</citetitle> for further uses of this term. -->
+					<!-- Refer to the <citetitle>IBM Style Guide</citetitle> for further uses of this term. -->
 				</para>
 
 			</listitem>
@@ -204,7 +223,7 @@
 			<term>totally</term>
 			 <listitem>
 				<para>
-					Do not use. See "basically".
+					Do not use. Refer to "basically".
 				</para>
 
 			</listitem>

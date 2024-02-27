@@ -139,7 +139,7 @@
 			 <listitem>
 				<para>
 					Do not use.
-          See <xref linkend="onpremise"/>.
+          Refer to <xref linkend="onpremise"/>.
 				</para>
 
 			</listitem>
@@ -177,7 +177,7 @@
 					A kernel oops is an error message that is generated because of a bug in the kernel.
           Do not use "oops" on its own.
           Also, avoid using "kernel oops" at the beginning of a sentence.
-          See also "kernel panic".
+          Refer also to "kernel panic".
 				</para>
 
 			</listitem>
@@ -207,7 +207,7 @@
 			<term>Open InfiniBand</term>
 			 <listitem>
 				<para>
-					"Open InfiniBand" is deprecated and should not be used. See "InfiniBand" for usage rules regarding the current preferred term for this switched fabric network topology.
+					"Open InfiniBand" is deprecated and should not be used. Refer to "InfiniBand" for usage rules regarding the current preferred term for this switched fabric network topology.
 				</para>
 
 			</listitem>
@@ -228,7 +228,7 @@
 					A Linux desktop suite. Do not use "Openoffice", "Open Office", or "ooo".
 				</para>
 				 <para>
-					See also <xref linkend="libreoffice" />.
+					Refer also to <xref linkend="libreoffice" />.
 				</para>
 
 			</listitem>
@@ -307,7 +307,7 @@
 					<emphasis>n.</emphasis> Always lowercase.
           This is a concept, not a technology or product name.
           Being a common noun, it normally requires an article.
-          See also <xref linkend="undercloud" />.
+          Refer also to <xref linkend="undercloud" />.
 				</para>
 
 			</listitem>

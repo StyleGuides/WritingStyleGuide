@@ -19,7 +19,7 @@
 					Use the one-word form only if it is part of the established product terminology, for example "Mobile Backend-as-a-Service", and when it is not being used to describe a generic process.
 				</para>
 				 <para>
-					See also <xref linkend="front-end" />
+					Refer also to <xref linkend="front-end" />
 				</para>
 
 			</listitem>
@@ -73,7 +73,7 @@
 			<term>backwards compatible</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "compatible with earlier versions" to refer to something that is compatible with older equipment or previous versions of software. See also <xref linkend="forwards-compatible" />.
+					Do not use. Instead, use "compatible with earlier versions" to refer to something that is compatible with older equipment or previous versions of software. Refer also to <xref linkend="forwards-compatible" />.
 				</para>
 
 			</listitem>
@@ -106,7 +106,7 @@
 			<term>basically</term>
 			 <listitem>
 				<para>
-					Do not use. For example, removing the word "basically" in the following sentence strengthens it: "This is how it is basically done." See also <xref linkend="simply" />.
+					Do not use. For example, removing the word "basically" in the following sentence strengthens it: "This is how it is basically done." Refer also to <xref linkend="simply" />.
 				</para>
 
 			</listitem>
@@ -152,7 +152,7 @@
 			<term>big data</term>
 			 <listitem>
 				<para>
-					<emphasis>n., adj.</emphasis> Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. See also <xref linkend="cloud" />. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
+					<emphasis>n., adj.</emphasis> Always use lowercase. Do not capitalize except at the beginning of a sentence, or if it is part of a Red&nbsp;Hat product, service, solution, or business unit name. Refer also to <xref linkend="cloud" />. Big data is also never hyphenated, per AP style, even when used as a complex adjective.
 				</para>
 
 			</listitem>
@@ -227,9 +227,18 @@
 					Correct. Named after George Boole, who first developed the concept.
 				</para>
 				 <para>
-					According to the <citetitle>IBM Style Guide</citetitle>, it is acceptable to use "boolean" in API programming information when it refers to a primitive return type.
+					According to the <citetitle>IBM Style Guide</citetitle>, it is acceptable to use "boolean" (lowercase) in API programming information when it refers to a primitive return type.
 				</para>
-
+				 <para>
+					To set Boolean values in YAML files, use <varname>true</varname> or <varname>false</varname>, written lowercase, rather than <varname>yes</varname> or <varname>no</varname>, because YAML&nbsp;1.2 and later versions do not support the latter syntax.  
+				</para>
+				 <para>
+					For example, the following scenario specifies that a task is run only one time:  
+				</para>
+<screen>- name: Pause 30 seconds
+  ansible.builtin.pause:
+    seconds: 30
+  <userinput>run_once: true</userinput></screen>
 			</listitem>
 
 		</varlistentry>
@@ -296,7 +305,7 @@
 			<term>Bps, bps</term>
 			 <listitem>
 				<para>
-					The abbreviation of bytes per second is Bps. The abbreviation of bits per second is bps. To avoid confusion, do not use at the beginning of a sentence. See also <xref linkend="bandwidth" />.
+					The abbreviation of bytes per second is Bps. The abbreviation of bits per second is bps. To avoid confusion, do not use at the beginning of a sentence. Refer also to <xref linkend="bandwidth" />.
 				</para>
 
 			</listitem>
@@ -306,7 +315,7 @@
       <term>breadcrumb trail</term>
       <listitem>
         <para>
-          See the <citetitle>IBM Style Guide</citetitle> for initial guidance on how to use this term.
+          Refer to the <citetitle>IBM Style Guide</citetitle> for initial guidance on how to use this term.
         </para>
         <note>
           <para>
@@ -379,10 +388,10 @@
 					A copy-on-write file system for Linux. Use an uppercase "B" when referring to the file system. When referring to tools, commands, and other utilities that relate to the file system, be faithful to those utilities.
 				</para>
 				 <para>
-					See <ulink url="http://en.wikipedia.org/wiki/Btrfs" /> for more information on this file system.
+					Refer to <ulink url="http://en.wikipedia.org/wiki/Btrfs" /> for more information on this file system.
 				</para>
 				 <para>
-					See <ulink url="http://en.wikipedia.org/wiki/List_of_file_systems" /> for a list of file-system names and how to present them.
+					Refer to <ulink url="http://en.wikipedia.org/wiki/List_of_file_systems" /> for a list of file-system names and how to present them.
 				</para>
 
 			</listitem>
@@ -428,7 +437,7 @@
 					Ordinarily you would not include the text "button" in a procedure or description. For example, "Click <guibutton>OK</guibutton> to continue" is perfectly acceptable. It might be necessary to distinguish between buttons and links; for example, "Click the <guibutton>Download</guibutton> link".
 				</para>
         <para>
-          See also <xref linkend="documenting-ui"/>.
+          Refer also to <xref linkend="documenting-ui"/>.
         </para>
 
 			</listitem>

@@ -33,7 +33,7 @@
 						This is a commonly understood phrase, and despite some concerns about using superlatives without statistics to back them up, Red&nbsp;Hat does not actively discourage its use. It is also a more common search term than most alternatives. If you are in any doubt, the preferred alternative is "recommended practices".
 					</para>
 					<para>
-						See the section <xref linkend="making-recommendations" /> for additional information about recommendations in Red&nbsp;Hat documentation.
+						Refer to the section <xref linkend="making-recommendations" /> for additional information about recommendations in Red&nbsp;Hat documentation.
 					</para>
 		 		 </listitem>
 
@@ -214,19 +214,6 @@
 
 			</varlistentry>
 			 <varlistentry>
-				<term>check this site</term>
-				 <listitem>
-					<para>
-						Understood to mean "have a look at this website".
-            The preferred phraseology is "See www.somewhere.com for more information."
-            It is better to avoid "check" because it has so many meanings.
-					</para>
-
-				</listitem>
-
-			</varlistentry>
-
-			 <varlistentry>
 				<term>core competency</term>
 				 <listitem>
 					<para>
@@ -253,7 +240,7 @@
 					<para>
 						"Visit the following web link to dig deeper into [subject] ...".
             Using "dig deeper" might translate awkwardly.
-            Consider rewording: "For detailed information regarding [subject], see [link]."
+            Consider rewording: "For detailed information regarding [subject], refer to [link]."
 					</para>
 
 				</listitem>
@@ -833,7 +820,7 @@
 				<term>virtual elephants</term>
 				 <listitem>
 					<para>
-						This refers to a group of blind-folded people all touching different parts of an elephant and trying to describe what it is. Nobody sees the "big picture". Curiously, it appeared in an STC article about working in global and virtual teams and using effective communication. It falls into the same category as "skeletons in the closet", "dark horse", "black sheep", and so on. Use descriptions and adjectives that are not specific to a particular culture or locale. See <ulink url="http://en.wikipedia.org/wiki/Blind_Men-anElephant">http://en.wikipedia.org/wiki/Blind_Men-anElephant</ulink> for more information.
+						This refers to a group of blind-folded people all touching different parts of an elephant and trying to describe what it is. Nobody sees the "big picture". Curiously, it appeared in an STC article about working in global and virtual teams and using effective communication. It falls into the same category as "skeletons in the closet", "dark horse", "black sheep", and so on. Use descriptions and adjectives that are not specific to a particular culture or locale. Refer to <ulink url="http://en.wikipedia.org/wiki/Blind_Men-anElephant">http://en.wikipedia.org/wiki/Blind_Men-anElephant</ulink> for more information.
 					</para>
 
 				</listitem>
@@ -1275,7 +1262,7 @@
 					</table>
 					 <note>
 						<para>
-							See also <xref linkend="genders" />.
+							Refer also to <xref linkend="genders" />.
 						</para>
 
 					</note>
@@ -1641,13 +1628,13 @@
 		Spell out the following number types: numbers zero through nine, any number that begins a sentence, a number that precedes another number (four 6-pound bags; eleven 20-pound bags), approximations (thousands of ...), and very large values.
 		</para>
 		 <para>
-		Use numerals for numbers 10 and greater, and for numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (for example, "You answered 8 out of 14 questions correctly"). Use numerals for negative numbers, fractions, percentages, decimals, measurements, and references to book sections (for example, Chapter 3, Table 5, Page 11). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (such as Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8, Linux kernel&nbsp;4.18).
+		Use numerals for numbers 10 and greater, and for numbers less than 10 if they appear in the same paragraph as numbers of 10 or greater (for example, "You answered 8 out of 14 questions correctly"). Use numerals for negative numbers, fractions, percentages, decimals, measurements, and references to publication sections (for example, Chapter 3, Table 5, Page 11). Also use numerals when referring to registers (such as R1), code (such as x = 6), and release versions (such as Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8, Linux kernel&nbsp;4.18).
 		</para>
 		 <para>
 		Do not use commas in numbers with four digits (use 1000 rather than 1,000). Use commas, to separate groups of three digits, in numbers with five or more digits (such as 10,000; 123,456,789; 1,000,000,000).
 		</para>
     	 <para>
-		See <citetitle>The Chicago Manual of Style, 17th Edition</citetitle> for detailed information on numbering formats.
+		Refer to <citetitle>The Chicago Manual of Style, 17th Edition</citetitle> for detailed information on numbering formats.
 		</para>
 
 <!-- Moved Telephone numbers entry here from T section, and renamed to Phone numbers. -->

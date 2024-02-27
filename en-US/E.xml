@@ -30,7 +30,7 @@
 			 <listitem>
 				<para>
 					Use to refer to earlier releases of products. Do not use "older" or related terms.
-          See also <xref linkend="later" />.
+          Refer also to <xref linkend="later" />.
 				</para>
 
 			</listitem>
@@ -50,7 +50,7 @@
 			<term>emdash</term>
 			 <listitem>
 				<para>
-					Used (informally) to indicate a pause or abrupt change in thought; for emphasis; or to set off a series in a phrase. See <xref linkend="dash" /> for more information.
+					Used (informally) to indicate a pause or abrupt change in thought; for emphasis; or to set off a series in a phrase. Refer to <xref linkend="dash" /> for more information.
 				</para>
 
 			</listitem>
@@ -67,7 +67,7 @@
 					When referring to typing a command, use "type" instead, such as "To open Source-Navigator from the command line, type <systemitem>snavigator</systemitem>."
 				</para>
 				 <para>
-					When typing information into a single-field dialog box, "enter" means "type and press <keycap>Enter</keycap>". An example is "enter the license number". For multi-field dialog boxes, see "type".
+					When typing information into a single-field dialog box, "enter" means "type and press <keycap>Enter</keycap>". An example is "enter the license number". For multi-field dialog boxes, refer to "type".
 				</para>
 
 			</listitem>

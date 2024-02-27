@@ -111,7 +111,7 @@
       </note>
 
 		 <para>
-			The following discussion provides some initial insight into using lists correctly. See the <citetitle>IBM Style Guide</citetitle> for a full discussion.
+			The following discussion provides some initial insight into using lists correctly. Refer to the <citetitle>IBM Style Guide</citetitle> for a full discussion.
 		</para>
 		 <para>
 			Do not insert a list midway through a sentence and then continue the sentence after the list.
@@ -323,9 +323,13 @@
 
     </section>
 
-    <section><title>Punctuation in Lists</title>
+    <section id="punc-in-lists"><title>Punctuation in Lists</title>
       <para>
         For each item in a list, start with either a complete sentence or a sentence fragment. 
+      </para>
+      <para>
+        A <emphasis>complete sentence</emphasis> must include a subject and a verb.
+        It conveys a complete thought, and can stand on its own. 
       </para>
       <para>
         For a list where all items are complete sentences, end each item with a period.
@@ -334,12 +338,12 @@
         Example:
       </para>
       <para>
-	  Which statement is true about deployments and deployment configurations?
+        Which statement is true about deployments and deployment configurations?
       </para>
       <itemizedlist>
         <listitem>
           <para>
-			Deployments use replica sets, and deployment configurations use replication controllers.
+            Deployments use replica sets, and deployment configurations use replication controllers.
           </para>
         </listitem>
         <listitem>
@@ -354,7 +358,7 @@
         </listitem>
         <listitem>
           <para>
-			Deployments use replica sets, and deployment configurations use stateful sets.
+            Deployments use replica sets, and deployment configurations use stateful sets.
           </para>
         </listitem>
       </itemizedlist>
@@ -365,27 +369,77 @@
         Example:
       </para>
       <para>
-	  Which resource type does the Operator Lifecycle Manager use to store information about installed operators?
+        Kubernetes networking provides the following capabilities:
       </para>
       <itemizedlist>
         <listitem>
           <para>
-			Operator group
+            Highly coupled container-to-container communications
           </para>
         </listitem>
         <listitem>
           <para>
-            Catalog source
+            Pod-to-pod communications
           </para>
         </listitem>
         <listitem>
           <para>
-            Install plan
+            Pod-to-service communications
           </para>
         </listitem>
         <listitem>
           <para>
-            Operator
+            External-to-service communications
+          </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        Sometimes, list items might include some form of a verb, but if they do not also include a subject, then they are not capable of standing on their own. 
+        Such items count as sentence fragments, and are not ended with any punctuation.
+      </para>
+      <para>
+        Example:
+      </para>
+      <para>
+        Common uses for jobs include the following tasks:
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+            Initializing or migrating a database
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Calculating one-off metrics from information within the cluster
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Creating or restoring from a data backup
+          </para>
+        </listitem>
+      </itemizedlist>
+      <para>
+        Example:
+      </para>
+      <para>
+        Consider the following settings when creating a route:
+      </para>
+      <itemizedlist>
+        <listitem>
+          <para>
+            An optional path, for path-based routes
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            A target port that the application listens to
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            An encryption strategy, depending on whether you need a secure or an insecure route
           </para>
         </listitem>
       </itemizedlist>
@@ -398,23 +452,23 @@
       <itemizedlist>
         <listitem>
           <para>
-			Identifier of the object schema version.
+            Identifier of the object schema version.
           </para>
         </listitem>
         <listitem>
           <para>
-			Schema identifier. In this example, the object conforms to the pod schema.
+            Schema identifier. In this example, the object conforms to the pod schema.
           </para>
         </listitem>
         <listitem>
           <para>
             Name of the container inside a pod. 
-			Container names are important for <command>oc</command> commands when a pod contains multiple containers.
+            Container names are important for <command>oc</command> commands when a pod contains multiple containers.
           </para>
         </listitem>
       </itemizedlist>
       <para>
-        For information about punctuation in lead-in sentences that introduce a list, see <xref linkend="list-intro-punc"/>.
+        For information about punctuation in lead-in sentences that introduce a list, refer to <xref linkend="list-intro-punc"/>.
       </para>
 
     </section>
@@ -607,7 +661,7 @@
 <command>rhevm-iso-uploader <replaceable>[options] </replaceable>upload <replaceable>[file1] [file2] [file3]</replaceable></command></screen>
 
       <para>
-        For information about punctuation in lead-in sentences that introduce a code block, see <xref linkend="list-intro-punc"/>.
+        For information about punctuation in lead-in sentences that introduce a code block, refer to <xref linkend="list-intro-punc"/>.
       </para>
 
 	</section>
@@ -624,7 +678,7 @@
 			Entities can be helpful in some cases, but they are more of a hindrance when used for terms that need translation. Translators must compare the string with the built document to determine what the entity stands for. These entities might even be overlooked and not be translated at all.
 		</para>
 		 <para>
-			To avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities that are required to build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates the required entities with default values when you create a book. Required entities vary by brand; only the following entities are required for a standard book:
+			To avoid issues with incorrect or outdated entity values, problems with translation, and so on, only include the entities that are required to build your books. If you use Publican (<ulink url="https://fedorahosted.org/publican/" />) to create and maintain your documentation, it creates and populates the required entities with default values when you create a publication. Required entities vary by brand; only the following entities are required for a standard publication:
 		</para>
 		 <itemizedlist>
 			<listitem>
@@ -654,7 +708,7 @@
 
 		</itemizedlist>
 		 <para>
-			Do not include entities such as &amp;PRODNAME; or &amp;VERSION; and so on, or things like &amp;BIBLE; to represent "The King James Bible". To learn more about entities, see the relevant chapter in <ulink url="http://jfearn.fedorapeople.org/en-US/Publican/4.0/html/Users_Guide/index.html" />
+			Do not include entities such as &amp;PRODNAME; or &amp;VERSION; and so on, or things like &amp;BIBLE; to represent "The King James Bible". To learn more about entities, refer to the relevant chapter in <ulink url="http://jfearn.fedorapeople.org/en-US/Publican/4.0/html/Users_Guide/index.html" />
 		</para>
 
 	</section>

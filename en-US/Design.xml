@@ -15,8 +15,9 @@
 		 <formalpara id="capitalization">
 				<title>Capitalization</title>
 					<para>
-					The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles.
-            Table headings and procedure headings fall under this heading; standard title case capitalization rules apply.
+					The standard for technical documentation is title case for all headings and titles.
+					<!-- The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles. -->
+            Table titles and procedure titles fall into this category; standard title case capitalization rules apply.
 					</para>
 		</formalpara>
 			<para>
@@ -26,13 +27,13 @@
 			The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase</ulink>.
 			</para>
 			<para>
-			Use sentence case for captions, legends, diagram labels, and table column headers.
+			Use sentence case for figure captions, legends, diagram labels, and table column headers.
             They are not classified as titles.
 			</para>
 					 <warning>
 						<title>Marketing and Brand Capitalization Guide</title>
 						 <para>
-							The Red&nbsp;Hat Marketing and Brand groups use sentence case for most titles and headings, with some exceptions, for example, when referencing an externally produced resource's title.
+							The Red&nbsp;Hat Marketing and Brand groups and some other groups use sentence case for most titles and headings, with some exceptions, for example, when referencing an externally produced resource's title.
 						</para>
 
 					</warning>
@@ -61,6 +62,9 @@
 					<para>
 					In some cases, a verb might not be appropriate because the content is purely informational. Instead of using a vague verb like "Understanding", "Describing", "Introducing", or "Exploring", either use a more specific verb, or use a noun phrase instead of a verb. A noun phrase is descriptive and omits a verb, for example "Installation Overview" or "The OpenShift Web Console."
 					</para>
+					<para>
+					Avoid a title that consists of only one word. 
+					</para>
 			 <table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
@@ -85,6 +89,11 @@
 						 <entry> Cluster Updates </entry>
 
 					</row>					
+					<row>
+						<entry> MetalLB </entry>
+						 <entry> The MetalLB Component </entry>
+
+					</row>		
 
 				</tbody>
 
@@ -95,23 +104,49 @@
 					In training content, avoid using a verb such as "Discussing" or "Demonstrating" in objectives for students. Such verbs might refer instead to what the instructor or the course content covers, or to a student group activity in class.
 					</para>
 					 <para>
-						See the <citetitle>IBM Style Guide</citetitle> for more information.
+						Refer to the <citetitle>IBM Style Guide</citetitle> for more information.
 					</para>
 					 <important>
 						<para>
 							Gerunds should be avoided elsewhere.
-              See <xref linkend="sentence-structure" />.
+              Refer to <xref linkend="sentence-structure" />.
 						</para>
 					</important>
       <formalpara>
         <title>File Names, Commands, and Related Terms</title>
           <para>
-            When creating chapter and section titles, do not include file, command, or similar names, and do not include markup elements.
+            When creating chapter and section titles, do not include file, command, or similar names, and generally do not include markup elements.
             Instead, focus on the task at hand and introduce the required file and command names in the text.
             Including such objects in titles is generally considered poor technical writing practice.
             Depending on how your documentation is built and delivered, including these object types can result in unpredictable results and can even cause failed builds.
           </para>
 		</formalpara>
+
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Custom Domains and cert-manager Operators with ROSA </entry>
+						 <entry> Custom Domains and Certificate Management Operators with ROSA </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
 
 	</section>
 	 <section id="documenting-fonts">
@@ -124,7 +159,7 @@
 	 <section id="documenting-ui">
 		<title>Documenting the User Interface</title>
 		 <para>
-			In all cases, see the <citetitle>IBM Style Guide</citetitle> for initial guidance.
+			In all cases, refer to the <citetitle>IBM Style Guide</citetitle> for initial guidance.
       The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
 		 <para>
@@ -133,7 +168,7 @@
 			Depending on the context, an option might be to write around an incorrectly spelled interface item rather than naming it specifically.
 		</para>
 		 <section id="gui-elements-punctuation">
-			<title>User Interface Elements, Punctuation, and Symbols</title>
+			<title>User Interface Elements and Punctuation</title>
 			 <para>
 				When describing UI elements, do not include punctuation that appears on those elements, unless omission of that punctuation might lead to confusion.
 			</para>
@@ -146,16 +181,16 @@
       </para>
       <para>
         In some cases it is preferred practice to include the object type for the sake of clarity.
-        Consider the following:
+        Consider the following example:
       </para>
-      <example><title>Preferred Style for Documenting Symbols and Other Special Characters</title>
+      <!-- <example><title>Preferred Style for Documenting Symbols and Other Special Characters</title>
         <para>
           Click the <guibutton>+</guibutton> sign.
         </para>
         <para>
           Click the <guibutton>^</guibutton> symbol.
         </para>
-      </example>
+      </example> -->
       <example><title>Preferred Style for Documenting Icons</title>
         <para>
           Click the <guiicon>Upload</guiicon> (<guiicon><inlinemediaobject>
@@ -166,7 +201,7 @@
         </para>
       </example>
 			 <para>
-				See the <citetitle>UI elements</citetitle> chapter in the <citetitle>IBM Style Guide</citetitle> for more information.
+				Refer to the <citetitle>UI elements</citetitle> chapter in the <citetitle>IBM Style Guide</citetitle> for more information.
 			</para>
 			<section>
 			 <title>Navigating Through Multiple UI Options</title>
@@ -249,11 +284,11 @@
           "POSIX recommends these conventions for command line arguments. [...] Arguments are options if they begin with a hyphen delimiter ('-'). Multiple options may follow a hyphen delimiter in a single token if the options do not take arguments. Thus, '-abc' is equivalent to '-a -b -c'. [...] Certain options require an argument. For example, the '-o' option of the 'ld' command requires an argument—an output file name". and so on.
         </para>
         <para>
-          See <command>info libc argument syntax</command> for the full discussion.
+          Refer to <command>info libc argument syntax</command> for the full discussion.
         </para>
         </blockquote>
       <para>
-        See <command>info bash</command> and the <citetitle>IBM Style Guide</citetitle> for further guidance.
+        Refer to <command>info bash</command> and the <citetitle>IBM Style Guide</citetitle> for further guidance.
       </para>
 			 <para>
         The following examples are intended to highlight correct usage.
@@ -296,7 +331,7 @@
 					<term>Source options <replaceable>[username@]hostname:/repository_filename</replaceable>)</term>
 					 <listitem>
 						<para>
-							The optional username, indicated by brackets ([]), followed by the hostname and path to the repository.
+							The optional username, indicated by brackets, [], followed by the hostname and path to the repository.
               All aspects of this component must be replaced with valid values.
 						</para>
 
@@ -426,11 +461,26 @@ $ vi myFile.txt
                 Use line continuation characters without the associated PS2 prompts.
               </para>
             </listitem>
+			<listitem>
+              <para>
+                On Linux and macOS operating systems, use the Linux shell continuation character (\).
+              </para>
+            </listitem>
+			<listitem>
+              <para>
+                On Windows operating systems, use the backtick character (`).
+              </para>	
+            </listitem>
+			<listitem>
+              <para>
+                For content that is potentially used in multiple operating systems, use the Linux shell continuation character, and include an explanatory sentence before the command.
+              </para>						  		  			  
+            </listitem>
           </itemizedlist>
 <!--          <important>
             <para>
               Do not mix these styles.
-              Use the same style throughout your document, book, and product set.
+              Use the same style throughout your document, publication, and product set.
             </para>
           </important> -->
           <para>
@@ -438,39 +488,20 @@ $ vi myFile.txt
 <!--            You can use this option for any of these designs. -->
           </para>
 
-<!-- <example><title>Wrapping Long Commands with Continuation Characters and PS2 Prompts</title> 
+<example><title>Long Command Example</title>
   <para>
-    This example uses both continuation characters and PS2 prompts.
-  </para> 
-
-<screen># tar &#45;&#45;selinux -czvf config_files.tar.gz  /etc/katello \
-> /etc/elasticsearch /etc/candlepin /etc/pulp /etc/gofer \
-> /etc/grinder /etc/pki/katello /etc/pki/pulp /etc/qpidd.conf \
-> /etc/sysconfig/katello /etc/sysconfig/elasticsearch \
-> /root/ssl-build /var/www/html/pub/* /var/lib/katello</screen>
-</example>  
-
-<example><title>Wrapping Long Commands Without Continuation Characters or PS2 Prompts</title>
-  <para>
-    This example uses neither continuation characters nor PS2 prompts, but it does show how to use line indentation to help to clarify long commands.
-  </para>
-<screen># cd /var/lib/katello 
-
-# myCommand &#45;&#45;option funky &#45;&#45;color=true
-  &#45;&#45;config_file=/home/user/config.conf
-  &#45;&#45;output_file=/home/user/output.txt</screen>
-
-</example>  -->
-
-<example><title>Wrapping Long Commands with Continuation Characters and Without PS2 Prompts</title>
-  <para>
-    This example uses continuation characters but not PS2 prompts.
+    If the <systemitem>memory</systemitem> machine pool does not exist, then create it.
   </para>  
-<screen>[root@node]# cephadm bootstrap --mon-ip=MON_IP --registry-url=registry.redhat.io \
---registry-username=REGISTRY_USERNAME --registry-password=REGISTRY_PASSWORD \
---initial-dashboard-password=DASHBOARD_PASSWORD --dashboard-password-noupdate \
---allow-fqdn-hostname</screen>
-
+  <para>
+    On a Microsoft Windows system, replace the line continuation character (\) in the following long command with the backtick character (`), which is the line continuation character in PowerShell.
+  </para>
+<screen>$ <userinput>aws iam create-policy --policy-name RosaCloudWatch \ </userinput>
+<userinput>  --policy-document file://policy.json --query Policy.Arn --output text</userinput>
+arn:aws:iam::452954386616:policy/RosaCloudWatch
+</screen>
+  <para>
+The ARN in the preceding output is different on your system.
+  </para>
 </example>
 
 	</section>
@@ -585,7 +616,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
           <listitem>
             <para>
               In the narrative, do not show the use of <command>su</command> or <command>sudo</command>, but always show privileged commands with the correct prompt.
-              See <xref linkend="exam-documenting-command-syntax"/> for information about command prompts.
+              Refer to <xref linkend="exam-documenting-command-syntax"/> for information about command prompts.
             </para>
           </listitem>
         </itemizedlist>
@@ -637,7 +668,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			</para>
 			 <para>
 				You can also use <systemitem>here</systemitem> documents to describe how to create a file with required content. 
-				For more information about <systemitem>here</systemitem> documents, see <ulink url="https://tldp.org/LDP/abs/html/here-docs.html" />
+				For more information about <systemitem>here</systemitem> documents, refer to <ulink url="https://tldp.org/LDP/abs/html/here-docs.html" />
 				The syntax of <systemitem>here</systemitem> documents varies by system, shell, language, and so on. The following example creates the <filename>my-script</filename> file in the current directory, with the example content.
 			</para>
 
@@ -718,7 +749,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			 <section id="using-extended-names">
 				<title>Using Extended User and Group Names</title>
 				 <para>
-					Sometimes, the recommended list of user and group names is too restrictive for the scope of a book or article. In such cases, the following extended model is acceptable.
+					Sometimes, the recommended list of user and group names is too restrictive for the scope of a publication or article. In such cases, the following extended model is acceptable.
 				</para>
 				 <formalpara id="using-realistic-names">
 					<title>Using Realistic Usernames</title>
@@ -728,8 +759,8 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 
 				</formalpara>
 				 <para>
-					For example, you are the system administrator at Global Banking and you are asked to set up permissions to the accounting directory for the following users: Huong Sabo, Jerlene Paluch, Abby Quincy, Fricis Ritcher, and Jaya Lamont. 
-					Huong is a department manager and needs read access to the accounting directory. Jerlene is the lead accountant and needs both read and write access.
+					For example, you are the system administrator at Global Banking and you are asked to set up permissions to the accounting directory for the following users: Huong Sabo, Jolene Paluch, Abby Quincy, Francis Ritcher, and Jaya Lamont. 
+					Huong is a department manager and needs read access to the accounting directory. Jolene is the lead accountant and needs both read and write access.
 				</para>
 				 <formalpara id="choosing-realistic-names">
 					<title>Choosing a Realistic Name</title>
@@ -750,14 +781,25 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 					</listitem>
 					 <listitem>
 						<para>
-							Do not use copyrighted fictional characters in examples, and do not use real people.
+							Include a diverse set of names in your examples to reflect the diversity of the real world.
+              For example, use gender-inclusive and culturally diverse names that suggest various backgrounds in examples to avoid implying that only certain groups have specific skills.
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							Include a diverse set of names in your examples to reflect the diversity of the real world.
-              For example, use male, female, and culturally diverse names that suggest various backgrounds in examples to avoid implying that only certain groups have specific skills.
+							Do not use copyrighted fictional characters in examples, and do not use real people.
+						</para>
+
+					</listitem>
+
+					 <listitem>
+						<para>
+							When choosing names, also consider how those names might appear in email addresses, usernames, and similar contexts.
+							Avoid name combinations or abbreviations that result in unintended meanings, such as slang.
+							An example that works well might be "John Smith", with an email address of <email>jsmith@example.com</email>.
+							However, for the name "Brian Strong", a corresponding email address of <email>bstrong@example.com</email> might not work so well (when read out, it sounds like "be strong").
+							Consider also any implications for names in different languages. 
 						</para>
 
 					</listitem>
@@ -876,7 +918,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 
 		</table>
 			 <para>
-				Place an object name before the noun that it modifies rather than after the noun.
+				In most cases, place an object name before the noun that it modifies rather than after the noun.
 			</para>
 
 			 <table>
@@ -896,6 +938,41 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 					<row>
 						<entry> Enable the default module stream for the module <systemitem>python36</systemitem> and install all packages from that stream. </entry>
 						 <entry> Enable the default module stream for the <systemitem>python36</systemitem> module and install all packages from that stream. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+			 <para>
+				However, in some cases, the sentence might be easier to understand if the noun appears first, or if additional language separates the object name from the noun. 
+				For example, if the noun refers to a password, a value, or a status, then consider stating the noun first, or including explanatory language between the object name and the noun, or doing both.
+			</para>
+
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Log in as the <systemitem>admin</systemitem> user with the <systemitem>redhat</systemitem> password. </entry>
+						 <entry> Log in as the <systemitem>admin</systemitem> user with <systemitem>redhat</systemitem> as the password. </entry>
+
+					</row>
+					<row>
+						<entry> Define the <varname>backup_tmp</varname> variable with the <varname>/tmp</varname> value in the <filename>defaults/main.yml</filename> file. </entry>
+						 <entry> Define the <varname>backup_tmp</varname> variable with a value of <varname>/tmp</varname> in the <filename>defaults/main.yml</filename> file. </entry>
 
 					</row>
 
@@ -974,7 +1051,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			<title>Capitalization</title>
 		 <para>
          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
-			Not all acronyms are capitalized (for example, "spool"); see the <citetitle>IBM Style Guide</citetitle> or another suitable reference if you are unsure.
+			Not all acronyms are capitalized (for example, "spool"); refer to the <citetitle>IBM Style Guide</citetitle> or another suitable reference if you are unsure.
 		</para>
 		</formalpara>
 
@@ -996,7 +1073,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		<formalpara id="possess-abbr">
 			<title>Possessives</title>
 		 <para>
-			Do not use possessives with abbreviations. For examples and more information, see <xref linkend="possessives"/>.
+			Do not use possessives with abbreviations. For examples and more information, refer to <xref linkend="possessives"/>.
 		</para>
 		</formalpara>
 
@@ -1067,7 +1144,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			 </listitem>		-->
 				<para>
 					Do not use possessives to refer to product names.
-					For examples and more information, see <xref linkend="possessives"/>.
+					For examples and more information, refer to <xref linkend="possessives"/>.
 				</para>
 
 				<para>
@@ -1266,7 +1343,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		<para>
 		When making a recommendation, the preferred verbiage is "Red&nbsp;Hat recommends ..." instead of the common but indirect "It is recommended ...".
 		Recommendations can include best practices, recommended practices, and product-specific suggestions.
-		See <xref linkend="avoiding-confusing-language"/> for information on using the terms "best practices" and "recommended practices" in Red&nbsp;Hat documentation.
+		Refer to <xref linkend="avoiding-confusing-language"/> for information on using the terms "best practices" and "recommended practices" in Red&nbsp;Hat documentation.
 	  </para>
 		<example>
 			<title>
@@ -1296,9 +1373,9 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 	 <section id="citing-other-works">
 		<title>Citing Other Works</title>
 		 <formalpara id="other-books">
-			<title>Referencing Other Books</title>
+			<title>Referencing Other Publications</title>
 			 <para>
-				When referencing another book, either internal or external to Red&nbsp;Hat, use the following format:
+				When referencing another publication, either internal or external to Red&nbsp;Hat, use the following format:
 			</para>
 
 		</formalpara>
@@ -1307,8 +1384,8 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		</para> -->
 
 <programlisting>
-<!-- &lt;citetitle&gt;Book Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher. -->
-Book Title by First name Surname; Publisher.
+<!-- &lt;citetitle&gt;Publication Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher. -->
+Publication Title by First name Surname; Publisher.
 </programlisting>
 
 		 <para>
@@ -1341,8 +1418,9 @@ Book Title by First name Surname; Publisher.
 			</listitem>
 			 <listitem>
 				<para>
-					If the URL is excessively long or complex, create a link by using the title of the destination as a label, and put the actual URL in a footnote. For example: See the <ulink url="http://world-database-of-everything.com/en/classifcation_of_species/mammals.html"><citetitle>Classification of Species</citetitle></ulink><footnote> <para>
-						http://world-database-of-everything.com/en/classifcation_of_species/mammals.html
+					If the URL is long or complex, then create a link by using the title of the destination as a label, and put the URL in a footnote. 
+					For example: Refer to the <ulink url="https://www.britannica.com/animal/mammal/Classification"><citetitle>Classification of Species</citetitle></ulink><footnote> <para>
+						<ulink url="https://www.britannica.com/animal/mammal/Classification" />
 					</para>
 					 </footnote> page for more information.
 				</para>

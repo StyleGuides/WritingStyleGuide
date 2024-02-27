@@ -14,7 +14,7 @@
 			Current standards allow the use of a colon or semicolon in a range of different circumstances. Some of these are described in the following sections.
 		</para>
 		 <formalpara>
-			<title> To relate clauses:</title>
+			<title> To Relate Clauses</title>
 			 <para>
 				The following sentences show a connection or shared theme between two clauses, or use the second clause to reiterate or amplify the idea in the first clause:
 			</para>
@@ -54,7 +54,7 @@
 			Try to limit your use of colons and semicolons. Separate sentences with a period if possible.
 		</para>
 		 <formalpara>
-			<title>To introduce a series:</title>
+			<title>To Introduce a Series</title>
 			 <para>
 				A colon is generally used before a series.
 			</para>
@@ -142,7 +142,7 @@
 		</itemizedlist>
 
 		 <formalpara id="list-intro-punc">
-			<title>To introduce a list, command, code block, or procedure</title>
+			<title>To Introduce a List, Command, Code Block, or Procedure</title>
 			 <para>
 				If a list, command, code block, or procedure immediately follows a single stem or introductory sentence, then end that sentence with a colon.
 			</para>
@@ -265,7 +265,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 	 <section id="commas">
 		<title>Commas</title>
 		 <formalpara id="compound-sentences">
-			<title>In compound sentences:</title>
+			<title>In Compound Sentences</title>
 			 <para>
 				Use a comma to join clauses in a compound sentence, unless the clauses are short and have a similar theme.
 			</para>
@@ -320,7 +320,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 		</itemizedlist>
 		 <formalpara id="conjunctive-adverbs">
-			<title>With conjunctive adverbs:</title>
+			<title>With Conjunctive Adverbs</title>
 			 <para>
 				When using a conjunctive adverb (such as <emphasis>however, therefore, otherwise, namely, for example</emphasis>, and so on) in a sentence, set it off with commas.
 			</para>
@@ -342,7 +342,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 		</itemizedlist>
 		 <formalpara id="adverbial-clauses">
-			<title>In adverbial clauses and phrases:</title>
+			<title>In Adverbial Clauses and Phrases</title>
 			 <para>
 				If a dependent clause is restrictive (omission affects the meaning of the main clause), do not set it off with commas. If it is nonrestrictive (omission does not affect the main clause), set it off with commas:
 			</para>
@@ -382,7 +382,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 		</itemizedlist>
 		 <formalpara id="adjectival-clauses">
-			<title>In adjectival clauses or phrases:</title>
+			<title>In Adjectival Clauses or Phrases</title>
 			 <para>
 				An adjectival clause that can be dropped without changing the meaning of the sentence is set off with commas.
 			</para>
@@ -410,7 +410,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 		</itemizedlist>
 		 <formalpara id="coordinate-adjectives">
-			<title>With coordinate adjectives:</title>
+			<title>With Coordinate Adjectives</title>
 			 <para>
 				Separate coordinate adjectives (two or more adjectives modifying the same noun) with commas.
 			</para>
@@ -432,7 +432,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 		</itemizedlist>
 		 <formalpara id="series-lists">
-			<title>With series and lists:</title>
+			<title>With Series and Lists</title>
 			 <para>
 				Separate elements in a series of three or more with commas, including a comma before the conjunction if one is used.
 			</para>
@@ -563,7 +563,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 		Using project "default".
         </screen>
 		<para>
-		As you can see in the previous image, the title of the web page is "OpenShift 3 Etherpad".
+		As in the previous image, the title of the web page is "OpenShift 3 Etherpad".
 		</para>
 		<para>
 		In the program segment, ensure that the value is X'FF'.
@@ -611,7 +611,10 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 			Singular proper names ending in <emphasis>s</emphasis> only need an apostrophe (for example, Dickens' novels).
 		</para>
 		 <para>
-			For guidance on whether to use a possessive, see <xref linkend="possessives"/>.
+			For guidance on whether to use a possessive, refer to <xref linkend="possessives"/>.
+		</para>
+		 <para>
+			Whether an apostrophe uses a straight character (the same as a straight single quotation mark) or a curly character is determined by considerations that include language, translation, and typography.
 		</para>
 
 
@@ -625,19 +628,141 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 	</section>
 
+	 <section id="punc-lists">
+		<title>Punctuation in Lists</title>
+		<para>
+			For information about punctuation in lists, refer to <xref linkend="punc-in-lists"/>.
+		</para>
+
+	</section>
+
+	 <section id="punc-tables">
+		<title>Punctuation in Tables</title>
+		<para>
+         Use the following guidance for punctuation in tables:			
+		</para>
+		<para>
+         If all cells in a table column are complete sentences, then end each cell with a period.			
+		</para>
+		<para>
+         If all cells in a table column are sentence fragments, then do not use a period to end each cell.		
+		</para>
+		<para>
+         If cells in a table column contain a mixture of complete sentences and sentence fragments, then first consider whether it would be appropriate to make them grammatically parallel (either all complete sentences or all sentence fragments). 
+         However, in some cases, such an approach might not work, where tables are complex and include a variety of content, such as lists of strings, variables, IP addresses, descriptions, or states (selected or cleared). 
+         In such cases, treat each cell as an individual entry, and either use or omit a closing period depending on whether that cell is a complete sentence.
+		</para>
+		<para>
+			Example of a complex table with punctuation:		
+		</para>
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Field </entry>
+						 <entry> Value </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> 
+						Question
+						 </entry>
+						<entry> 
+						Default domain name
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Description
+						 </entry>
+						<entry> 
+						This domain name is used to set the hostname of the node.
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Answer variable name
+						 </entry>
+						<entry> 
+						<varname>global_domain_name</varname>
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Answer type
+						 </entry>
+						<entry> 
+						text
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Required
+						 </entry>
+						<entry> 
+						<emphasis>(selected)</emphasis>
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Minimum length
+						 </entry>
+						<entry> 
+						1
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Maximum length
+						 </entry>
+						<entry> 
+						251
+						 </entry>
+
+					</row>
+					<row>
+						<entry> 
+						Default answer
+						 </entry>
+						<entry> 
+						<code>lab.example.com</code>
+						 </entry>
+
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+
+	</section>	
+
  	 <section id="referring">
-		<title>Referring to Punctuation Marks</title>
+		<title>Referring to Punctuation Marks and Special Characters</title>
 		<para>
-			To refer to a punctuation mark or special character, use its name alone if it is one of the following standard characters:
+            To refer to a punctuation mark or special character, use its name alone if it is one of the following standard characters:
 		</para>
 		<para>
-			. , : ; ' " ( ) [ ] { } ! ?
+			. , : ; ' ‘ ’ " “ ” ( ) [ ] { } ! ?
 		</para>
 		<para>
-			For another character, use its name followed by the symbol in parentheses.  
+            For all other characters, use the character name followed by the symbol in parentheses.  
+            For special character names that include a noun such as "sign", "symbol", or "character", provide the character name, the noun that describes the symbol, and then the symbol in parentheses, for example "the greater than symbol (>)". 
+            For special character names that do not include such nouns, provide the character name and the symbol in parentheses, for example "a forward slash (/)". 
+            You can end a sentence with the symbol in parentheses.		
 		</para>
 		<para>
-			Do not use the symbol on its own.   
+            Do not use the symbol on its own.   
 		</para>
 		<example><title>Referring to Punctuation Marks</title>
 
@@ -648,8 +773,20 @@ PLAY [Gather and display facts for managed nodes] ****************************</
             The path contains the library qualifier in braces.
           </para>
           </example>
+		<example><title>Referring to Special Characters</title>
+
+          <para>
+            When a regular user starts a shell, the prompt includes an ending dollar character (<guibutton>$</guibutton>).
+          </para>
+		  <para>
+            Use the pipe character (|) to send the output of one program to the input of another program.
+          </para>
+		  <para>
+            The hyphen after the greater than symbol (>) indicates that a newline character (\n) is not added to the end of the variable.
+          </para>
+          </example>
 		<para>
-			For more details, see the <citetitle>IBM Style Guide</citetitle>.
+            For more details, refer to the <citetitle>IBM Style Guide</citetitle>.
 		</para>
 
 	</section>
@@ -685,7 +822,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 					</row>
 					<row>
-						<entry> &apos; </entry>
+						<entry> &apos; or ’ </entry>
 						 <entry> Apostrophe </entry>
 
 					</row>
@@ -740,8 +877,8 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 					</row>
 					<row>
-						<entry> &quot; </entry>
-						 <entry> Double quotation mark </entry>
+						<entry> &quot; or “ ” </entry>
+						 <entry> Double quotation marks </entry>
 
 					</row>
 					<row>
@@ -825,8 +962,8 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 					</row>
 					<row>
-						<entry> &apos; </entry>
-						 <entry> Single quotation mark </entry>
+						<entry> &apos; or ‘ ’ </entry>
+						 <entry> Single quotation marks </entry>
 
 					</row>
 					<row>
