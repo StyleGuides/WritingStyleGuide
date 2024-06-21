@@ -101,17 +101,6 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="check">
-			<term>check</term>
-			 <listitem>
-				<para>
-					Avoid. Use "verify", "ensure", or "read", depending on the context.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-
 		 <varlistentry id="chip-set">
 			<term>chipset</term>
 			 <listitem>
