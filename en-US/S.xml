@@ -326,17 +326,31 @@
 
 			</listitem>
 
-<!-- Added entries for "sign in" and "sign in to". -->
 		</varlistentry>
 		 <varlistentry id="sign-in">
-			<term>sign in</term>
+			<term>sign-in, sign in</term>
 			 <listitem>
 				 <para>
-					<emphasis>v.</emphasis> Write as two words. For example, "two options are available to sign in".
+					Write hyphenated as an adjective or noun, or as two words as a verb.
 				</para>
-			</listitem>
-				 
+				 <itemizedlist>
+					<listitem>
+						<para>
+							<emphasis>adj., n.</emphasis> Hyphenated. For example, "the sign-in page".
+						</para>
+					</listitem>
+
+					<listitem>
+						<para>
+							<emphasis>v.</emphasis> Two words. For example, "to sign in by using your IAM user account ID".
+						</para>
+
+					</listitem>
+				</itemizedlist>
+			</listitem>	
+
 		</varlistentry>
+
 		 <varlistentry id="sign-in-to">
 			<term>sign in to</term>
 			 <listitem>
@@ -346,6 +360,15 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="sign-on">
+			<term>sign-on, sign on</term>
+			 <listitem>
+				 <para>
+					Write hyphenated as an adjective or noun, such as "single sign-on", or as two words as a verb.
+				</para>
+			</listitem>	
+
+		</varlistentry>		
 		 <varlistentry id="simply">
 			<term>simply</term>
 			 <listitem>
