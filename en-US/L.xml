@@ -198,10 +198,18 @@
 
 					<listitem>
 						<para>
-							<emphasis>v.</emphasis> Two words. For example, "to log in as root".
+							<emphasis>v.</emphasis> Two words. For example, "to log in as the root user".
 						</para>
 
 					</listitem>
+				 <para>
+					In general, use "log in" when referring to Linux-based technologies and platforms. 
+					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password. 
+					In these cases, align to the terminology that is used in the user interface.
+				</para>
+				 <para>				
+    			    Refer also to <xref linkend="sign-in"/> and <xref linkend="sign-on"/>.					
+				</para>
 				</itemizedlist>
 			</listitem>	
 

@@ -346,6 +346,14 @@
 						</para>
 
 					</listitem>
+				 <para>
+					In general, use "log in" when referring to Linux-based technologies and platforms. 
+					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password. 
+					In these cases, align to the terminology that is used in the user interface.
+				</para>
+				 <para>				
+    			    Refer also to <xref linkend="login"/>.					
+				</para>
 				</itemizedlist>
 			</listitem>	
 
@@ -364,7 +372,28 @@
 			<term>sign-on, sign on</term>
 			 <listitem>
 				 <para>
-					Write hyphenated as an adjective or noun, such as "single sign-on", or as two words as a verb.
+					Write hyphenated as an adjective or noun, or as two words as a verb.
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							<emphasis>adj., n.</emphasis> Hyphenated. For example, "single sign-on".
+						</para>
+					</listitem>
+
+					<listitem>
+						<para>
+							<emphasis>v.</emphasis> Two words.
+						</para>
+
+					</listitem>
+				 <para>
+					In general, use "log in" when referring to Linux-based technologies and platforms. 
+					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password. 
+					In these cases, align to the terminology that is used in the user interface.
+				</para>
+				 <para>				
+    			    Refer also to <xref linkend="login"/>.					
 				</para>
 			</listitem>	
 
