@@ -326,17 +326,39 @@
 
 			</listitem>
 
-<!-- Added entries for "sign in" and "sign in to". -->
 		</varlistentry>
 		 <varlistentry id="sign-in">
-			<term>sign in</term>
+			<term>sign-in, sign in</term>
 			 <listitem>
 				 <para>
-					<emphasis>v.</emphasis> Write as two words. For example, "two options are available to sign in".
+					Write hyphenated as an adjective or noun, or as two words as a verb.
 				</para>
-			</listitem>
-				 
+				 <itemizedlist>
+					<listitem>
+						<para>
+							<emphasis>adj., n.</emphasis> Hyphenated. For example, "the sign-in page".
+						</para>
+					</listitem>
+
+					<listitem>
+						<para>
+							<emphasis>v.</emphasis> Two words. For example, "to sign in by using your IAM user account ID".
+						</para>
+
+					</listitem>
+				</itemizedlist>
+				 <para>
+					In general, use "log in" when referring to Linux-based technologies and platforms. 
+					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password. 
+					In these cases, align to the terminology that is used in the user interface.
+				</para>
+				 <para>				
+    			    Refer also to <xref linkend="login"/>.					
+				</para>
+			</listitem>	
+
 		</varlistentry>
+
 		 <varlistentry id="sign-in-to">
 			<term>sign in to</term>
 			 <listitem>
@@ -346,6 +368,37 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="sign-on">
+			<term>sign-on, sign on</term>
+			 <listitem>
+				 <para>
+					Write hyphenated as an adjective or noun, or as two words as a verb.
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							<emphasis>adj., n.</emphasis> Hyphenated. For example, "single sign-on".
+						</para>
+					</listitem>
+
+					<listitem>
+						<para>
+							<emphasis>v.</emphasis> Two words.
+						</para>
+
+					</listitem>
+				</itemizedlist>
+				 <para>
+					In general, use "log in" when referring to Linux-based technologies and platforms. 
+					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password. 
+					In these cases, align to the terminology that is used in the user interface.
+				</para>
+				 <para>				
+    			    Refer also to <xref linkend="login"/>.					
+				</para>
+			</listitem>	
+
+		</varlistentry>		
 		 <varlistentry id="simply">
 			<term>simply</term>
 			 <listitem>
