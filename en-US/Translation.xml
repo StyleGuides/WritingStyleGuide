@@ -42,7 +42,7 @@
                 <para>
                     These appear as numbered lists.
                     Use this list type for multiple entries if you need to refer to one of the entries from elsewhere in your document, or where order is important.
-                    For example, if you need to list the order of operations that are required to prepare for an installation, or list a sequence of events that occurs.
+                    For example, use an ordered list if you need to list the order of operations that are required to prepare for an installation, or to list a sequence of events that occurs.
                     Titles are optional.
                 </para>
             </listitem>
@@ -154,7 +154,7 @@
 						</para>
 						 </entry>
 						 <entry> <para>
-							Before you start the installation, follow these steps to ensure a smooth installation:
+							Before you start the installation, follow these prerequisite steps:
 						</para>
 						 <itemizedlist>
 							<listitem>
@@ -625,13 +625,13 @@
 
 					</row>
 					 <row>
-						<entry> Troubleshooting Glance. </entry>
-						 <entry> Troubleshooting the Glance image service. </entry>
+						<entry> Troubleshoot Glance. </entry>
+						 <entry> Troubleshoot the Glance image service. </entry>
 
 					</row>
 					 <row>
-						<entry> Installing the <package>maven-changelog-plugin</package>. </entry>
-						 <entry> Installing the <package>maven-changelog-plugin</package> package. </entry>
+						<entry> Install the <package>maven-changelog-plugin</package>. </entry>
+						 <entry> Install the <package>maven-changelog-plugin</package> package. </entry>
 
 					</row>
 

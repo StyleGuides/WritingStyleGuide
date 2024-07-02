@@ -637,7 +637,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
           </listitem>
           <listitem>
             <para>
-              As much as possible, leave the systemwide default as <varname>become: false</varname> or <varname>become: no</varname> and if a single task needs privileges, set <varname>become: true</varname> or <varname>become: yes</varname> on that task.
+              As much as possible, leave the system-wide default as <varname>become: false</varname> or <varname>become: no</varname> and if a single task needs privileges, set <varname>become: true</varname> or <varname>become: yes</varname> on that task.
             </para>
           </listitem>
           <listitem>
@@ -1043,7 +1043,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			<title>First Mentions</title>
 		 <para>
 			Spell out most acronyms and initialisms before using them in text, such as "The Embedded DevKit (EDK) ...".
-           	Unless required for the audience or the topic, do not spell out well-known abbreviations, such as HTML.
+           	Unless required for the audience or the topic, do not spell out well-known initialisms, such as HTML.
 		</para>
 		</formalpara>
 
