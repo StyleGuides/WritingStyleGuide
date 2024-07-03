@@ -527,7 +527,7 @@
 				<term>low-hanging fruit</term>
 				 <listitem>
 					<para>
-						Metaphor. Do not use. Instead, refer to what is meant, such as that the results are easily achieved.
+						Metaphor. Do not use. Instead, describe the outcome or opportunity in more precise terms, such as "readily achievable goals" or "low-risk, high-yield opportunities". 
 					</para>
 
 				</listitem>
@@ -1168,7 +1168,7 @@
 								</row>
 								<row>
 									<entry> Kubernetes is an open source system that makes it easy to manage containerized applications across multiple hosts. </entry>
-									 <entry> Kubernetes is an open source system that is used to manage containerized applications across multiple hosts. </entry>
+									 <entry> Kubernetes is an open source system that manages containerized applications across multiple hosts. </entry>
 
 								</row>
 

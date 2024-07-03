@@ -42,7 +42,7 @@
                 <para>
                     These appear as numbered lists.
                     Use this list type for multiple entries if you need to refer to one of the entries from elsewhere in your document, or where order is important.
-                    For example, use an ordered list if you need to list the order of operations that are required to prepare for an installation, or to list a sequence of events that occurs.
+                    For example, use an ordered list for a sequence of steps to complete a task, or for a sequence of events.
                     Titles are optional.
                 </para>
             </listitem>
