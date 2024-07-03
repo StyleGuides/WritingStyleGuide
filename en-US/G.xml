@@ -37,7 +37,7 @@
 					AP style: Do not use a space between the value and the abbreviation. For example, "a 2GB file".
 				</para> -->
 				 <para>
-					If you are using IBM Style, then use a non-breaking space between the value and the abbreviation. For example, "a 2&nbsp;GB file".
+					Use a non-breaking space between the value and the abbreviation. For example, "a 2&nbsp;GB file".
 				</para>
 
 			</listitem>
