@@ -6,6 +6,23 @@
 <chapter id="c">
 	<title>C</title>
 	 <variablelist>
+		 <varlistentry id="called">
+ 			<term>call, called</term>
+ 			 <listitem>
+ 				<para>
+					Use to mean "invoked" in the context of functions or methods.
+					For example, "A liveness probe is called throughout the lifetime of the application."
+ 				</para>
+				 <para>
+					On the other hand, when referring to the designation of files, objects, or entities within documentation, use the term "named" instead of "called". 
+					This choice promotes clarity and precision in technical content.
+ 				</para>
+				 <para>
+					Refer also to <xref linkend="named" />.
+				</para>
+ 			</listitem>
+
+ 		</varlistentry>
 		<varlistentry id="can-may">
 			<term>can, may</term>
 			 <listitem>
