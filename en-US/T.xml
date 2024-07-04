@@ -188,6 +188,16 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="tls">
+			<term>TLS</term>
+			 <listitem>
+				<para>
+					Initialism for Transport Layer Security, a security protocol that provides privacy and data integrity for internet communications. By convention, URLs that require a TLS connection start with <emphasis>https:</emphasis> instead of <emphasis>http:</emphasis>. 
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="token-ring">
 			<term>token-ring</term>
 			 <listitem>

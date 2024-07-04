@@ -95,7 +95,7 @@
 					Do not use "characters" to mean "bytes". In English, bytes and characters can be used interchangeably; in other languages, a single character might consist of multiple bytes.
 				</para>
 				 <para>
-					In computer software, any symbol that requires one byte of storage. This includes all the ASCII and extended ASCII characters, including the space character. In character-based software, everything that appears on the screen, including graphics symbols, is considered to be a character. In graphics-based applications, the term character is generally reserved for letters, numbers, and punctuation.
+					In computer software, a character is a symbol, such as a letter or number, that represents information. This includes all the ASCII and extended ASCII characters, including the space character. In character-based software, everything that appears on the screen, including graphics symbols, is considered to be a character. In graphics-based applications, the term character is generally reserved for letters, numbers, and punctuation.
 				</para>
 
 			</listitem>
@@ -443,8 +443,8 @@
 			<term>cookie</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> A message given to a web browser by a web server.
-          The browser stores the message in a text file named <filename>cookie.txt</filename>.
+					<emphasis>n.</emphasis> Data that is given to a web browser by a web server.
+          The browser stores the message in a text file that might be named <filename>cookie.txt</filename>.
           The message is then sent back to the server each time the browser requests a page from the server.
 				</para>
 

@@ -30,13 +30,14 @@
 			<term>GB</term>
 			 <listitem>
 				<para>
-					Abbreviation of gigabyte. Depending on the type of content you are writing, refer either to <citetitle>The AP Style Guide</citetitle> or the <citetitle>IBM Style Guide.</citetitle>
+					Abbreviation of gigabyte. 
+					<!-- Depending on the type of content you are writing, refer either to <citetitle>The AP Style Guide</citetitle> or the <citetitle>IBM Style Guide.</citetitle> -->
 				</para>
-				 <para>
+<!-- 				 <para>
 					AP style: Do not use a space between the value and the abbreviation. For example, "a 2GB file".
-				</para>
+				</para> -->
 				 <para>
-					IBM style: Use a non-breaking space between the value and the abbreviation. For example, "a 2&nbsp;GB file".
+					Use a non-breaking space between the value and the abbreviation. For example, "a 2&nbsp;GB file".
 				</para>
 
 			</listitem>
