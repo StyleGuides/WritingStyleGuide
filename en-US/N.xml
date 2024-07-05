@@ -10,11 +10,11 @@
  			<term>navigate to</term>
  			 <listitem>
  				<para>
-					Use "Navigate to" when moving through multiple UI options, because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action.
-          For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
+					Use "go to", in preference to "navigate to", for directing readers to a location, including when moving through multiple UI options, to cover all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action.
+          For example, "Go to the student user's home directory."
  				</para>
 				<para>
-					Do not use "Go to", or "point to", or other variations.
+					Refer to <xref linkend="go-to" />.
 				</para>
  			</listitem>
 

@@ -204,12 +204,12 @@
 				Refer to the <citetitle>UI elements</citetitle> chapter in the <citetitle>IBM Style Guide</citetitle> for more information.
 			</para>
 			<section>
-			 <title>Navigating Through Multiple UI Options</title>
+			 <title>Moving Through Multiple UI Options</title>
 				 <para>
-					 Use "Navigate to" when moving through multiple UI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to start an action.
+					 Use "go to" when moving through multiple UI options because it covers all cases where you might have to click, point to, press, select, or otherwise make a series of selections to start an action.
 				 </para>
 				 <para>
-					 For example, "From the OpenShift web console, navigate to Monitoring → Alerting."
+					 For example, "From the OpenShift web console, go to Monitoring → Metrics and enter the following metrics as queries."
 				 </para>
 
 		 </section>
