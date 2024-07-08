@@ -64,7 +64,7 @@
 	 <section id="prefaces">
 		<title>Prefaces</title>
 		 <para>
-			The brands that form part of Publican contain a preface as part of the common content. Whether your publication is for external Red&nbsp;Hat customers, JBoss customers, internal customers, or whomever, the brand you choose should provide a suitable preface. Try to use the standard preface to help maintain consistency, reduce overhead and maintenance, and also to reduce translation costs. If you feel that the preface fails to meet your needs, consider whether or not you are using the correct brand, or if the brand itself requires an update.
+			The brands that form part of Publican (<ulink url="https://fedorahosted.org/publican/" />) contain a preface as part of the common content. Whether your publication is for external Red&nbsp;Hat customers, JBoss customers, internal customers, or whomever, the brand you choose should provide a suitable preface. Try to use the standard preface to help maintain consistency, reduce overhead and maintenance, and also to reduce translation costs. If you feel that the preface fails to meet your needs, consider whether or not you are using the correct brand, or if the brand itself requires an update.
 		</para>
 
 	</section>

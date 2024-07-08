@@ -652,7 +652,10 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>SSL</term>
 			 <listitem>
 				<para>
-					Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. Most web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with <emphasis>https:</emphasis> instead of <emphasis>http:</emphasis>.
+					Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. Most web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with <emphasis>https:</emphasis> instead of <emphasis>http:</emphasis>. SSL later evolved into Transport Layer Security (TLS).
+				</para>
+				 <para>
+					Refer also to <xref linkend="tls" />.
 				</para>
 
 			</listitem>
