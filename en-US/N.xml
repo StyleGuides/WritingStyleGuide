@@ -6,6 +6,25 @@
 <chapter id="n">
 	<title>N</title>
 	 <variablelist>
+		 <varlistentry id="named">
+ 			<term>named</term>
+ 			 <listitem>
+ 				<para>
+					When referring to the designation of files, objects, or entities within documentation, use the term "named" instead of "called". 
+					This choice promotes clarity and precision in technical content.
+					The word "named" directly associates the name with the entity and is more specific in technical contexts. 
+					Use "named" to refer to such items as a file, directory, task, user, or group.
+					For example, "When you need to store configuration settings, create a directory named <filename>configurations</filename> to keep your workspace organized."
+ 				</para>
+				 <para>
+					On the other hand, "called" can imply a more casual or informal reference and might introduce ambiguity, because it can also mean "invoked" in the context of functions or methods.
+ 				</para>
+				 <para>
+					Refer also to <xref linkend="called" />.
+				</para>
+ 			</listitem>
+
+ 		</varlistentry>
 		 <varlistentry id="navigate-to">
  			<term>navigate to</term>
  			 <listitem>
