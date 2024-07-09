@@ -1,0 +1,12 @@
+*~
+.DS_Store
+.idea
+
+# editor swap files
+.*.sw?
+
+# databases
+*.db
+
+# tmp directory
+tmp
