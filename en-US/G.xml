@@ -203,6 +203,36 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="go-to">
+ 			<term>go to</term>
+ 			 <listitem>
+ 				<para>
+					Use "go to" for directing readers to a location, including when moving through multiple UI options, because it covers all cases where you might have to click, point to, select, or otherwise make a series of selections to initiate an action.
+ 				</para>
+				 <para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+					 		From the OpenShift web console, go to Monitoring → Metrics and enter the following metrics as queries.
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Open a browser and go to <ulink url="https://www.redhat.com"></ulink>
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Go to the student user's home directory.
+						</para>
+					</listitem>
+				 </itemizedlist>
+
+ 			</listitem>
+
+ 		</varlistentry>
 		 <!-- <varlistentry id="got">
 			<term>got</term>
 			 <listitem>
