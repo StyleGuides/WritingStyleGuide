@@ -60,7 +60,7 @@
 					Activities and subtasks that the user should perform can alternatively use an imperative verb for clarity. Imperative verbs are prescriptive, such as "Create" or "Delete". Example: "Assess the Health of an OpenShift Cluster".
 					</para>
 					<para>
-					In some cases, a verb might not be appropriate because the content is purely informational. Instead of using a vague verb like "Understanding", "Describing", "Introducing", or "Exploring", either use a more specific verb, or use a noun phrase instead of a verb. A noun phrase is descriptive and omits a verb, for example "Installation Overview" or "The OpenShift Web Console."
+					In some cases, a verb might not be appropriate because the content is purely informational. Instead of using a vague verb like "Understanding", "Describing", "Introducing", or "Exploring", either use a more specific verb, or use a noun phrase instead of a verb. A noun phrase is descriptive and omits a verb, for example "OpenShift Operators" or "The OpenShift Web Console."
 					</para>
 					<para>
 					Avoid a title that consists of only one word. 
