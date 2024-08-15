@@ -637,12 +637,12 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
           </listitem>
           <listitem>
             <para>
-              As much as possible, leave the system-wide default as <varname>become: false</varname> or <varname>become: no</varname> and if a single task needs privileges, set <varname>become: true</varname> or <varname>become: yes</varname> on that task.
+              As much as possible, leave the system-wide default as <varname>become: false</varname> and if a single task needs privileges, set <varname>become: true</varname> on that task.
             </para>
           </listitem>
           <listitem>
             <para>
-              If most tasks in a play require escalated privileges, set the entire play to <varname>become: true</varname> or <varname>become: yes</varname> and possibly selectively set individual tasks to <varname>become: false</varname> or <varname>become: no</varname>.
+              If most tasks in a play require escalated privileges, set the entire play to <varname>become: true</varname> and possibly selectively set individual tasks to <varname>become: false</varname>.
             </para>
           </listitem>
         </itemizedlist>
