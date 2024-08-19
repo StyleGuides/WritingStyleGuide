@@ -642,7 +642,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
           </listitem>
           <listitem>
             <para>
-              If most tasks in a play require escalated privileges, set the entire play to <varname>become: true</varname> and selectively set individual tasks that do not need escalated privileges to <varname>become: false</varname>.
+              If most tasks in a play require escalated privileges, then set the entire play to <varname>become: true</varname> and selectively set individual tasks that do not need escalated privileges to <varname>become: false</varname>.
             </para>
           </listitem>
         </itemizedlist>
