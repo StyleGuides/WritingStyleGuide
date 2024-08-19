@@ -637,7 +637,8 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
           </listitem>
           <listitem>
             <para>
-              As much as possible, configure the default setting for <varname>become</varname> to <code>false</code>. If a single task needs privileges, then set <varname>become: true</varname> on that task.
+              As much as possible, configure the default setting for <varname>become</varname> to <code>false</code>.
+			  If a single task needs privileges, then set <varname>become: true</varname> on that task.
             </para>
           </listitem>
           <listitem>
