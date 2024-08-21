@@ -416,6 +416,14 @@
 		 <para>
 			The <guibutton>Start</guibutton> button, which you can find in the bottom left corner of your screen (also activated by the "Windows key" on your keyboard, the one between the <keycap>Ctrl</keycap> and <keycap>Alt</keycap> keys), provides a central starting point for applications and tasks, and can be customized according to your individual preferences so that it presents menu items relevant to you instead of presenting the standard items that come with the default installation of the operating system, items which, in my opinion, are irrelevant for most users these days who really only need access to an internet browser such as Google Chrome or Mozilla Firefox.
 		</para>
+		<para>
+		    The following paragraph is a suggested improvement to the previous long sentence:
+		</para>
+		 <para>
+			Click the <guibutton>Start</guibutton> button to start any applications or tasks on your Windows system.
+			Either click this button at the lower left of the screen, or press the Windows key.
+			You can customize the Start menu to show the items that are relevant to you.
+		</para>
 
 		 <formalpara id="preposition">
 			<title>Preposition at the End of a Sentence</title>

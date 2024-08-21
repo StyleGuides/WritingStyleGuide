@@ -279,7 +279,7 @@
 			<term>shebang</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Refers to the character sequence consisting of the number sign and exclamation mark (#!) at the beginning of a script. Do not use hashbang or pound-bang or other variations.
+					<emphasis>n.</emphasis> Refers to the character sequence consisting of the number sign and exclamation point (#!) at the beginning of a script. Do not use hashbang or pound-bang or other variations.
 				</para>
 
 			</listitem>

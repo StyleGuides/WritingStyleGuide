@@ -87,7 +87,7 @@
 			<term>data store, datastore</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Use the two-word form.
+					<emphasis>n.</emphasis> In most cases, write as two words. In a VMware context, use "datastore".
 				</para>
 				 <warning>
 					<title>Marketing Publications Exception</title>
@@ -189,7 +189,7 @@
 			<term>dialog box</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Use "dialog box" (<emphasis>not</emphasis> "dialog", "dialogue", "dialogue box", or "window"), to refer to an element that is displayed for a user to interact with a graphical user interface.
+					<emphasis>n.</emphasis> Use "dialog box" (<emphasis>not</emphasis> "dialog", "dialogue", or "dialogue box"), to refer to an element that is displayed for a user to interact with a graphical user interface.
 				</para>					
 				<para>
 					Use this term regardless of whether a dialog box is <emphasis>modal</emphasis>, where the user must respond to a prompt before the main content of the interface is enabled again, or is <emphasis>non-modal</emphasis>, where the user can continue interacting with the main content when the dialog box is open.
