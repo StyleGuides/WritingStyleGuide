@@ -420,9 +420,9 @@
 		    The following paragraph is a suggested improvement to the previous long sentence:
 		</para>
 		 <para>
-			Click the <guibutton>Start</guibutton> button to start any applications or tasks on your Windows system.
-			Either click this button at the lower left of the screen, or press the Windows key.
-			You can customize the Start menu to show the items that are relevant to you.
+			The <guibutton>Start</guibutton> button provides a starting point for any applications or tasks on your Windows system.
+			Either click <guibutton>Start</guibutton> or press the <keycap>Windows</keycap> key to activate the <guimenu>Start</guimenu> menu.
+			You can customize the <guimenu>Start</guimenu> menu to suit your own preferences.
 		</para>
 
 		 <formalpara id="preposition">

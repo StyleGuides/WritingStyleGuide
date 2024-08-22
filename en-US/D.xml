@@ -87,15 +87,8 @@
 			<term>data store, datastore</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> In most cases, write as two words. In a VMware context, use "datastore".
+					<emphasis>n.</emphasis> Write as two words, except that in a VMware context and in marketing publications, use "datastore".
 				</para>
-				 <warning>
-					<title>Marketing Publications Exception</title>
-					 <para>
-						In marketing publications, the one-word form is recommended.
-					</para>
-
-				</warning>
 
 			</listitem>
 

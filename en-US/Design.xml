@@ -1176,7 +1176,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 
 		</important>
 		 <para>
-			Use a non-breaking space in the following situations to avoid a break across lines:
+			To keep certain words together on the same line, use a non-breaking space in the following situations:
 		</para>
 				 <itemizedlist>
 					<listitem>
