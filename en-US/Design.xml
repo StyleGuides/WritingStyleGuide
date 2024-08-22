@@ -215,9 +215,9 @@
 		 </section>
 		</section>
 		<section id="figures-illustrations">
-			<title>Figures, Illustrations, and Screen Captures</title>
+			<title>Figures, Illustrations, and Screenshots</title>
 			<para>
-				Refer to the <citetitle>Figures</citetitle> section in the <citetitle>IBM Style Guide</citetitle> for general advice about using figures, illustrations, and screen captures.
+				Refer to the <citetitle>Figures</citetitle> section in the <citetitle>IBM Style Guide</citetitle> for general advice about using figures, illustrations, and screenshots.
 			</para>
 			<para>
 				The following specific conventions apply to using captions and callouts with figures in Red&nbsp;Hat technical documentation, and are generally recommended.
@@ -261,7 +261,7 @@
 			 <example id="exam-starting-apps">
 				<title>Preferred Approach to Starting Applications from the Desktop</title>
 				 <para>
-					To start <command>gedit</command>, press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>gedit</literal>, and then press <keycap>Enter</keycap>.
+					To start gedit, press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>gedit</literal>, and then press <keycap>Enter</keycap>.
 				</para>
 
 			</example>
@@ -1168,8 +1168,15 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 	</section>
 	 <section id="nonbreaking-spaces">
 		<title>Using Non-breaking Spaces</title>
+		 <important>
+			<para>
+				The following guidance about using non-breaking spaces applies only to the Red&nbsp;Hat company name and to Red&nbsp;Hat products.
+        		Do not use non-breaking spaces with other companies' product names.
+			</para>
+
+		</important>
 		 <para>
-			Use a non-breaking space in the following situations to avoid a break across lines:
+			To keep text together on the same line, use a non-breaking space in the following situations:
 		</para>
 				 <itemizedlist>
 					<listitem>
@@ -1223,9 +1230,6 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		 <para>
 			Non-breaking spaces are not needed elsewhere in a product name and might cause undesirable line-breaking behavior.
 			In particular, do not use non-breaking spaces between extended components of Red&nbsp;Hat product names. For example, "Red&nbsp;Hat Enterprise Linux OpenStack Platform" does not require a non-breaking space between any of the words after "Red&nbsp;Hat".
-		</para>
-		<para>
-			Do not use non-breaking spaces with other companies' product names.
 		</para>
 
 	</section>

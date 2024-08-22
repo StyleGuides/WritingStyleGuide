@@ -1237,11 +1237,6 @@
 
 							</thead>
 							 <tbody>
-								<row>
-									<entry> Tab through the dialog box. Set the tab. Move the tab on the ruler. How to show or hide tab characters. Select the tab. </entry>
-									 <entry> Use the tab key to move through the dialog box. Set the tab stop. Move the tab mark on the ruler. To show or hide tab characters in Vim, use the <command>/\t</command> and <command>noh</command> commands. Select the <guimenuitem>View</guimenuitem> tab in the <guimenuitem>Options</guimenuitem> dialog box. </entry>
-
-								</row>
 								 <row>
 									<entry> To create another administrator, click <guimenuitem>File > New</guimenuitem>. </entry>
 									 <entry> 

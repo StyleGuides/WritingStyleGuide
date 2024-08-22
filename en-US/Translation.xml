@@ -92,12 +92,17 @@
         </listitem>
         <listitem>
           <para>
-            Navigation or similar instructions (such as "Navigate to Menu -> Submenu").
+            Navigation or similar instructions (such as "Go to Menu -> Submenu").
           </para>
         </listitem>
         <listitem>
           <para>
             Multiple paragraphs, or sentences that wrap to two or more lines.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Other sections where your deliverables might benefit from more spacing between list items, for example a list of objectives in a training course.
           </para>
         </listitem>
       </itemizedlist>
