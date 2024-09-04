@@ -103,9 +103,6 @@
 					<para>
 					In training content, avoid using a verb such as "Discussing" or "Demonstrating" in objectives for students. Such verbs might refer instead to what the instructor or the course content covers, or to a student group activity in class.
 					</para>
-					 <para>
-						Refer to the <citetitle>IBM Style Guide</citetitle> for more information.
-					</para>
 					 <important>
 						<para>
 							Gerunds should be avoided elsewhere.
@@ -159,7 +156,12 @@
 	 <section id="documenting-ui">
 		<title>Documenting the User Interface</title>
 		 <para>
-			In all cases, refer to the <citetitle>IBM Style Guide</citetitle> for initial guidance.
+			For initial guidance in all cases, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=elements-ui"><citetitle>UI Elements</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
       The following sections highlight exceptions or cases that might otherwise cause confusion.
 		</para>
 		 <para>
@@ -201,7 +203,12 @@
         </para>
       </example>
 			 <para>
-				Refer to the <citetitle>UI elements</citetitle> chapter in the <citetitle>IBM Style Guide</citetitle> for more information.
+			 For more information, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=elements-ui"><citetitle>UI Elements</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 			</para>
 			<section>
 			 <title>Moving Through Multiple UI Options</title>
@@ -217,7 +224,12 @@
 		<section id="figures-illustrations">
 			<title>Figures, Illustrations, and Screenshots</title>
 			<para>
-				Refer to the <citetitle>Figures</citetitle> section in the <citetitle>IBM Style Guide</citetitle> for general advice about using figures, illustrations, and screenshots.
+				For general advice about using figures, illustrations, and screenshots, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=format-figures"><citetitle>Figures</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 			</para>
 			<para>
 				The following specific conventions apply to using captions and callouts with figures in Red&nbsp;Hat technical documentation, and are generally recommended.
@@ -288,7 +300,12 @@
         </para>
         </blockquote>
       <para>
-        Refer to <command>info bash</command> and the <citetitle>IBM Style Guide</citetitle> for further guidance.
+        For further guidance, refer to <command>info bash</command>, and to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=technical-elements"><citetitle>Technical Elements</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
       </para>
 			 <para>
         The following examples are intended to highlight correct usage.
@@ -767,7 +784,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 					<title>Choosing a Realistic Name</title>
 					 <para>
 						Consider the following points when choosing a realistic name: <footnote> <para>
-							Examples taken from the <citetitle>IBM Style Guide</citetitle> and the <citetitle>Google Developer Documentation Style Guide</citetitle>.
+							Examples taken from <citetitle>IBM Style</citetitle> and the <citetitle>Google Developer Documentation Style Guide</citetitle>.
 						</para>
 						 </footnote>
 					</para>
@@ -1052,7 +1069,13 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 			<title>Capitalization</title>
 		 <para>
          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
-			Not all acronyms are capitalized (for example, "spool"); refer to the <citetitle>IBM Style Guide</citetitle> or another suitable reference if you are unsure.
+			Not all acronyms are capitalized (for example, "spool"); refer to 
+			<ulink url="https://www.ibm.com/docs/en/ibm-style?topic=grammar-capitalization#abbreviations"><citetitle>Capitalization</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon> or to another suitable reference if you are unsure.
 		</para>
 		</formalpara>
 

@@ -94,7 +94,12 @@
 			<term>file extensions (general usage)</term>
 			 <listitem>
 				<para>
-					Refer to <citetitle>File names, file types, and directory names</citetitle> in the <citetitle>IBM Style Guide</citetitle>.
+					Refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=elements-files-directories"><citetitle>Files and Directories</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>
@@ -104,7 +109,7 @@
 			<term>file mode, file name, file system, file type</term>
 			 <listitem>
 				<para>
-          <emphasis>n.</emphasis> Write as shown, two words, unless used as a variable. Refer to the <citetitle>IBM Style Guide</citetitle> for more information.
+          <emphasis>n.</emphasis> Write as shown, two words, unless used as a variable. Refer to <citetitle>IBM Style</citetitle> for more information.
 				</para>
         <para>
           <emphasis>adj.</emphasis> Hyphenate when used as a compound adjective. For example, "file-system attributes".

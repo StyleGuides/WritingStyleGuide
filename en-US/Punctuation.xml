@@ -791,7 +791,12 @@ PLAY [Gather and display facts for managed nodes] ****************************</
           </para>
           </example>
 		<para>
-            For more details, refer to the <citetitle>IBM Style Guide</citetitle>.
+            For more details, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=punctuation-symbols"><citetitle>Punctuation and Symbols</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 		</para>
 
 	</section>

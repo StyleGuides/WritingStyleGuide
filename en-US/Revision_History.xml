@@ -310,7 +310,7 @@
 						<member>BZ 921826 Add entry for "best practices" to chapter "Avoiding Slang".</member>
 						 <member>BZ 916000 Add entry for correct use of product version numbers to Design chapter.</member>
 						 <member>Fix entry for VDSM; not an acronym.</member>
-						 <member>BZ 909015 Entry for "refer to" conflicts with IBM style guide.</member>
+						 <member>BZ 909015 Entry for "refer to" conflicts with IBM Style.</member>
 						 <member>Update some punctuation standards and cross references.</member>
 
 					</simplelist>
@@ -416,7 +416,7 @@
 						 <member>Updates to and integration of Chapters X, Y, and Z.</member>
 						 <member>Updated section on "Avoiding Slang".</member>
 						 <member>Removed some redundant entries.</member>
-						 <member>Various cleanups based on IBM Style Guide.</member>
+						 <member>Various cleanups based on IBM Style.</member>
 						 <member>New entries from Word Nerds discussions.</member>
 
 					</simplelist>
@@ -453,7 +453,7 @@
 				 <revdescription>
 					<simplelist>
 						<member>Removed some redundant entries.</member>
-						 <member>Patched some entries based on IBM Style Guide.</member>
+						 <member>Patched some entries based on IBM Style.</member>
 						 <member>Cleaned up A, B, C, and part of D in Word Usage Dictionary.</member>
 
 					</simplelist>

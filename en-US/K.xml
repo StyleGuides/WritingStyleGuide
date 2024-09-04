@@ -10,7 +10,12 @@
 			<term>KB, kB</term>
 			 <listitem>
 				<para>
-					Refer to the <citetitle>IBM Style Guide</citetitle> for the correct abbreviation to use for specific use cases.
+					For the correct abbreviation to use for specific use cases, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=measurement-units"><citetitle>Units of Measurement</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>

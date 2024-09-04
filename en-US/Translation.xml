@@ -116,7 +116,13 @@
       </note>
 
 		 <para>
-			The following discussion provides some initial insight into using lists correctly. Refer to the <citetitle>IBM Style Guide</citetitle> for a full discussion.
+			The following explanation provides some initial insight into using lists correctly. 
+			For a detailed explanation, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=format-lists"><citetitle>Lists</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 		</para>
 		 <para>
 			Do not insert a list midway through a sentence and then continue the sentence after the list.
