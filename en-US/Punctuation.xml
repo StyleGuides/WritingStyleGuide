@@ -546,7 +546,12 @@ PLAY [Gather and display facts for managed nodes] ****************************</
  		 <para>
 			When indicating the start or end of a direct quotation, use curly quotation marks. 
 			In all other contexts, such as when writing code samples, code syntax, hexadecimal numbers, or hypertext links, use straight quotation marks.
-			Refer to the "Typographical Considerations" section in the "Quotation Marks" topic in the <citetitle>IBM Style Guide</citetitle>. 
+			Refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=punctuation-quotation-marks#typographical-considerations"><citetitle>Typographical Considerations</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 		</para>
 		 <para>
 			In technical documentation, place punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons inside the quotation marks if they are part of the quotation or part of a programming element that uses quotation marks; if not, place punctuation marks outside the quotation marks. 
