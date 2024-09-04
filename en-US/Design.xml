@@ -30,13 +30,13 @@
 			Use sentence case for figure captions, legends, diagram labels, and table column headers.
             They are not classified as titles.
 			</para>
-					 <warning>
+					 <!-- <warning>
 						<title>Marketing and Brand Capitalization Guide</title>
 						 <para>
 							The Red&nbsp;Hat Marketing and Brand groups and some other groups use sentence case for most titles and headings, with some exceptions, for example, when referencing an externally produced resource's title.
 						</para>
 
-					</warning>
+					</warning> -->
 
       <formalpara>
         <title>Punctuation</title>
