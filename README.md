@@ -1,13 +1,14 @@
 WritingStyleGuide
 =================
 
-A guide to writing clear, concise, and consistent technical documentation.
+This guide is the official style guide for Red&nbsp;Hat training and certification content, and for all other technical documentation except as stated.
+Red&nbsp;Hat product documentation by Customer Content Services (CCS) follows the Red&nbsp;Hat supplementary style guide at https://redhat-documentation.github.io/supplementary-style-guide/ instead of this Red&nbsp;Hat Technical Writing Style Guide.
 
-The Red&nbsp;Hat Style Guide and Word Usage Dictionary is a joint effort by various groups within Red Hat.
+The Red&nbsp;Hat Technical Writing Style Guide includes everyday punctuation and grammar, common mistakes to avoid, strategies for translation and global audiences, and a word usage dictionary.
 
-It covers recommended design practices, how to write for translation, common mistakes to avoid, rules for everyday punctuation, grammar, and sources of information for the less common cases.
+This guide is a public guide. It is reviewed and maintained by Red&nbsp;Hat. Contributions from the wider community are always welcomed. 
 
-It is based on IBM Style but differs in several key areas, uses the Merriam-Webster Unabridged Dictionary and American Heritage Dictionary as spelling references, and the Chicago Manual of Style (17th Ed.) for further grammatical and style decisions.
+Other resources for technical writing are listed in the "Resources" section of the guide.
 
 Dependencies:
 

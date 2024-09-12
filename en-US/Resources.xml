@@ -6,23 +6,38 @@
 <chapter id="resources">
 	<title>Resources</title>
 	 <para>
-		This section lists some books and websites for you to consult on your quest to create a better document.
+		This section lists some helpful resources for creating effective technical content.
 	</para>
 	 <para>
-		The guides that you refer to first are generally dictated by the type of material that you are writing. It is important to establish this point first because the guidelines in the following references sometimes contradict each other. It does not mean that the guidelines are wrong; different audiences require different writing styles, and different references are sometimes required when you change styles.
+		The type of content that you are writing will determine which resources are most relevant. 
+		In general, consult company-specific style guides before general resources. 
+		The guidelines in the following references sometimes contradict each other. 
+		It does not mean that the guidelines are wrong; rather, different audiences and genres require different writing styles, and different references are sometimes required when you change styles.
 	</para>
 	 <para>
- 		The following documentation types are within the scope of this guide:
+ 		The following technical content types are within the scope of this guide:
 		<itemizedlist>
 			<listitem>
 				<para>
-					Technical content: software manuals and documentation, user guides, training courses
+					Software manuals and documentation
 				</para>
 
 			</listitem>
-			 <listitem>
+			<listitem>
 				<para>
-					Technical collateral: white papers and technology briefs
+					Training courses
+				</para>
+
+			</listitem>
+			<listitem>
+				<para>
+					User guides
+				</para>
+
+			</listitem>
+			<listitem>
+				<para>
+					White papers
 				</para>
 
 			</listitem>
@@ -30,23 +45,17 @@
 		</itemizedlist>
 	</para>
 	 <para>
-		The following documentation types are outside the scope of this guide:
+		The following content types are outside the scope of this guide:
 		<itemizedlist>
 			 <listitem>
 				<para>
-					Marketing content: advertising, promotions, articles
+					Marketing content: advertising, articles, press releases, promotions
 				</para>
 
 			</listitem>
 			 <listitem>
 				<para>
-					Corporate collateral: related to company or products
-				</para>
-
-			</listitem>
-			 <listitem>
-				<para>
-					Press releases
+					Corporate content about the company or its products
 				</para>
 
 			</listitem>
@@ -55,14 +64,20 @@
 
 	</para>
 	 <section id="tech-content-refs">
-		<title>References for Technical Content and Collateral</title>
+		<title>References for Technical Content</title>
 		 <itemizedlist>
 			<listitem>
 				<para>
-					<citetitle>IBM Style</citetitle>. IBM Corporation, latest version.
+					<citetitle>IBM Style</citetitle>
+			<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
+					IBM Corporation, latest version.
 				</para>
 				<para>
-					Red&nbsp;Hat employees can now access the latest version of <citetitle>IBM Style</citetitle> online, at <ulink url="https://www.ibm.com/docs/en/ibm-style/">https://www.ibm.com/docs/en/ibm-style/</ulink>.
+					Red&nbsp;Hat employees can access the latest version of <citetitle>IBM Style</citetitle> online, at <ulink url="https://www.ibm.com/docs/en/ibm-style/">https://www.ibm.com/docs/en/ibm-style/</ulink>.
 					<citetitle>IBM Style</citetitle> does not have a wider circulation.
 					Links in this guide to <citetitle>IBM Style</citetitle> are denoted by a padlock icon
          	<guiicon><inlinemediaobject>
@@ -113,14 +128,14 @@
 			</listitem>
      		 <listitem>
 				<para>
-					<citetitle>Merriam-Webster Unabridged Dictionary</citetitle>
+					<citetitle>Merriam-Webster Dictionary</citetitle>
 				</para>
         <para>
-          Visit <ulink url="https://www.merriam-webster.com/">https://www.merriam-webster.com/</ulink> for subscription options.
+          Visit <ulink url="https://www.merriam-webster.com/">https://www.merriam-webster.com/</ulink>
         </para>
 
 			</listitem>
-			 <listitem>
+			 <!-- <listitem>
 				<para>
 					<citetitle>The American Heritage Dictionary of the English Language</citetitle>
 				</para>
@@ -128,7 +143,7 @@
 					An online edition is accessible free of charge through <ulink url="http://www.ahdictionary.com/">http://www.ahdictionary.com/</ulink>
 				</para>
 
-			</listitem>
+			</listitem> -->
 
 		</itemizedlist>
 
