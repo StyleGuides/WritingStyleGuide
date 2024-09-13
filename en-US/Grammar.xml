@@ -958,7 +958,12 @@ Split contractions and abbreviations into separate paragraphs. -->
 			No hard and fast rules exist for hyphenation.
       In general, do not hyphenate unless required for clarity, or your other references declare that hyphens are required.
       The following is general guidance; if you are unsure about whether to hyphenate, ask your peers.
-      Refer also to the "Hyphens" topic in the <citetitle>IBM Style Guide</citetitle>.
+      Refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=punctuation-hyphens"><citetitle>Hyphens</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 		</para>
 		
 		 <formalpara id="hyphenate-for-clarity">

@@ -116,7 +116,12 @@
 										Refer to <xref linkend="inclusive-language"/>.</para>		
 				</listitem>
 				<listitem>
-                                        <para>Updated IBM Style access information.
+                                        <para>Updated <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon> access information.
 										Refer to <xref linkend="tech-content-refs"/>.</para>
 				</listitem>
 				<listitem>
@@ -249,7 +254,12 @@
                 </formalpara>   
                         <itemizedlist>
 				<listitem>
-                                        <para>Accessing IBM Style online.</para>
+                                        <para>Accessing <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon> online.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated guidance for long commands.</para>
@@ -288,7 +298,12 @@
 
 		<formalpara id="new_50">
 		<title>Release 5.0</title>
-                        <para>Major update in July 2021 to align with some recent changes in IBM Style:</para>
+                        <para>Major update in July 2021 to align with some recent changes in <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>:</para>
                 </formalpara>     
                         <itemizedlist>
 				<listitem>
