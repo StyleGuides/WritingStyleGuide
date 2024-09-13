@@ -27,10 +27,10 @@
 
 		</varlistentry>
 		 <varlistentry id="iac">
-			<term>infrastructure as code (IaC)</term>
+			<term>Infrastructure as Code (IaC)</term>
 			 <listitem>
 				<para>
-					Based on search volume, the nonhyphenated full term and camel-case acronym are preferred. Use lowercase except in headings or at the start of a sentence.
+					Based on search volume, the nonhyphenated full term and camel-case acronym are preferred. Use uppercase "I" and "C".
 				</para>
 
 			</listitem>
