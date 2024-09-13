@@ -166,7 +166,12 @@
 				<para>
 					<emphasis>n.</emphasis> Usually one word.
           Capitalize the "H" at the beginning of a sentence.
-          Refer to <citetitle>IBM Style</citetitle> for more information.
+          For more information, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>

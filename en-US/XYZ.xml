@@ -138,7 +138,12 @@
 			 <listitem>
 				<para>
 					<emphasis>v.</emphasis> Do not use. 
-					Refer to the Word Usage section of <citetitle>IBM Style</citetitle>.
+					Refer to the Word Usage section of <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>

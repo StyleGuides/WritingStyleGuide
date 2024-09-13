@@ -17,7 +17,12 @@
 					<emphasis>v.</emphasis> Do not use to refer to the process of creating a .tar file. 
 				</para>
 				<para>
-					Refer to the Word Usage section of <citetitle>IBM Style</citetitle>.
+					Refer to the Word Usage section of <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>
@@ -90,7 +95,12 @@
 					<emphasis>n.</emphasis> Do not use to describe where to type commands. Use "command line" instead.
 				</para>
 				 <para>
-					Refer to the Word Usage section of <citetitle>IBM Style</citetitle> for more information.
+					For more information, refer to the Word Usage section of <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>
@@ -154,7 +164,7 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> The amount of data that is transferred from one place to another or processed in a specified amount of time. Data transfer rates for disk drives and networks are measured in terms of throughput. Typically, throughput is measured in kbps, Mbps, or Gbps. 
-					For more information about using measurements and abbreviations, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=measurement-units"><citetitle>Units of Measurement</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+					For more information about using abbreviations for units of measurement, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=measurement-units"><citetitle>Units of Measurement</citetitle></ulink> in <citetitle>IBM Style</citetitle>
          	<guiicon><inlinemediaobject>
             <imageobject>
               <imagedata fileref="images/padlock.png"/>

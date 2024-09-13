@@ -17,8 +17,15 @@
 	</para>
 	<para>
         Other resources for technical writing are listed in <xref linkend="resources"/>.
-		Of these resources, <citetitle>IBM Style</citetitle> is available for Red&nbsp;Hat employees to access online, but does not have a wider circulation.
-		Links in this guide to <citetitle>IBM Style</citetitle> are denoted by a padlock icon
+		Of these resources, 
+		<ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon> 
+		is available for Red&nbsp;Hat employees to access online, but does not have a wider circulation.
+		Links in this guide to <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink> are denoted by a padlock icon
          	<guiicon><inlinemediaobject>
             <imageobject>
               <imagedata fileref="images/padlock.png"/>

@@ -783,10 +783,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 				 <formalpara id="choosing-realistic-names">
 					<title>Choosing a Realistic Name</title>
 					 <para>
-						Consider the following points when choosing a realistic name: <footnote> <para>
-							Examples taken from <citetitle>IBM Style</citetitle> and the <citetitle>Google Developer Documentation Style Guide</citetitle>.
-						</para>
-						 </footnote>
+						Consider the following points when choosing a realistic name: 
 					</para>
 
 				</formalpara>
@@ -818,6 +815,10 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 							An example that works well might be "John Smith", with an email address of <email>jsmith@example.com</email>.
 							However, for the name "Brian Strong", a corresponding email address of <email>bstrong@example.com</email> might not work so well (when read out, it sounds like "be strong").
 							Consider also any implications for names in different languages. 
+						</para>
+						<para>
+							Refer also to the 
+							<ulink url="https://developers.google.com/style"><citetitle>Google Developer Documentation Style Guide</citetitle></ulink>.
 						</para>
 
 					</listitem>
@@ -1070,7 +1071,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 		 <para>
          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
 			Not all acronyms are capitalized (for example, "spool"); refer to 
-			<ulink url="https://www.ibm.com/docs/en/ibm-style?topic=grammar-capitalization#abbreviations"><citetitle>Capitalization</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+			<ulink url="https://www.ibm.com/docs/en/ibm-style?topic=grammar-capitalization"><citetitle>Capitalization</citetitle></ulink> in <citetitle>IBM Style</citetitle>
          	<guiicon><inlinemediaobject>
             <imageobject>
               <imagedata fileref="images/padlock.png"/>
