@@ -96,8 +96,8 @@
 					For example, "Open a terminal and log in to your OpenShift cluster", or "The exercise file captures any error messages from your terminal". 
 				</para>
 				<para>
-					Use "command line" instead to refer to the prompt where commands are entered. 
-					For example, "Copy the command from the web console and paste it on the command line", or "The following command creates a generic secret that contains key-value pairs from literal values that are typed on the command line". 
+					Use "command line" or "shell prompt" instead to refer to the prompt where commands are entered. 
+					For example, "Copy the command from the web console and paste it on the command line", or "If you enter your username and password correctly, then you log in and get a shell prompt".
 				</para>
 				<!-- <para>
 					<emphasis>n.</emphasis> Do not use to describe where to type commands. Use "command line" instead.
