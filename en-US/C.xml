@@ -335,12 +335,13 @@
 			<term>command line, command prompt, command-line</term>
 			 <listitem>
 				<para>
-					 For an explanation of how to use these terms, refer to the appropriate entries in <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+					For an explanation of how to use these terms, refer to the appropriate entries in <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
          	<guiicon><inlinemediaobject>
             <imageobject>
               <imagedata fileref="images/padlock.png"/>
             </imageobject>
           </inlinemediaobject></guiicon>.
+					Use "command line" as a noun, and use "command-line" as an adjective.
 				</para>
 
 			</listitem>
