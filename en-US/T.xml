@@ -93,11 +93,19 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Use "terminal" to refer to a text-based interface where typed instructions are entered, or to refer to a session of this type. 
+				</para>
+				<para>
 					For example, "Open a terminal and log in to your OpenShift cluster", or "The exercise file captures any error messages from your terminal". 
 				</para>
 				<para>
-					Use "command line" or "shell prompt" instead to refer to the prompt where commands are entered. 
-					For example, "Copy the command from the web console and paste it on the command line", or "If you enter your username and password correctly, then you log in and get a shell prompt".
+					<!-- Use "command line" or "shell prompt" instead to refer to the prompt where commands are entered.  -->
+					Use "command line" instead to refer to the place where commands are entered.
+				</para>
+				<para>
+					For example, "Copy the command from the web console and paste it on the command line."
+				</para>
+				<para>
+				Refer also to <xref linkend="command-line"/> and to <xref linkend="shell-prompt"/>.
 				</para>
 				<!-- <para>
 					<emphasis>n.</emphasis> Do not use to describe where to type commands. Use "command line" instead.
