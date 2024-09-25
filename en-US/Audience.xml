@@ -7,13 +7,17 @@
 	<title>Audience</title>
 	 <para>
 		This guide is the official style guide for Red&nbsp;Hat training and certification content, and for all other technical documentation except as stated.
-		Red&nbsp;Hat product documentation by Customer Content Services (CCS) follows the Red&nbsp;Hat supplementary style guide at <ulink url="https://redhat-documentation.github.io/supplementary-style-guide/" /> instead of this Red&nbsp;Hat Technical Writing Style Guide.
+		Red&nbsp;Hat product documentation 
+		<!-- by Customer Content Services (CCS)  -->
+		follows the Red&nbsp;Hat supplementary style guide at <ulink url="https://redhat-documentation.github.io/supplementary-style-guide/" /> instead of this guide.
 	</para>
 	 <para>
-		The Red&nbsp;Hat Technical Writing Style Guide includes everyday punctuation and grammar, common mistakes to avoid, strategies for translation and global audiences, and a word usage dictionary.        
+		The Red&nbsp;Hat Technical Writing Style Guide includes guidance for everyday punctuation and grammar, common mistakes and how to avoid them, strategies for translation and global audiences, content design guidance, and a word usage dictionary.        
 	</para>
 	 <para>
-		This guide is a public guide. It is reviewed and maintained by Red&nbsp;Hat. Contributions from the wider community are always welcomed.        
+		This guide is a public and open source guide.
+		It is reviewed and maintained primarily by Red&nbsp;Hat.
+		Contributions from the wider community are always welcome.        
 	</para>
 	<para>
         Other resources for technical writing are listed in <xref linkend="resources"/>.
