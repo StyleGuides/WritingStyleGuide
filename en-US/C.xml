@@ -332,15 +332,22 @@
 
 		</varlistentry>
 		 <varlistentry id="command-line">
-			<term>command line, command prompt, command-line</term>
+			<term>command line, command-line, command prompt</term>
 			 <listitem>
 				<para>
-					 For an explanation of how to use these terms, refer to the appropriate entries in <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+					Use "command line" to refer to the place where commands are entered.
+					Use "command line" as a noun, and use "command-line" as an adjective.
+				</para>
+				 <para>
+					For more details about how to use these terms, refer to the appropriate entries in <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
          	<guiicon><inlinemediaobject>
             <imageobject>
               <imagedata fileref="images/padlock.png"/>
             </imageobject>
           </inlinemediaobject></guiicon>.
+				</para>
+				<para>
+				Refer also to <xref linkend="shell-prompt"/> and to <xref linkend="terminal"/>.
 				</para>
 
 			</listitem>

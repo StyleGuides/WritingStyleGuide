@@ -23,19 +23,9 @@
 			<term>dash</term>
 			 <listitem>
 				<para>
-					In technical publications, <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
-         	<guiicon><inlinemediaobject>
-            <imageobject>
-              <imagedata fileref="images/padlock.png"/>
-            </imageobject>
-          </inlinemediaobject></guiicon> recommends not to use em&nbsp;dashes. Use a colon or other suitable punctuation.
-					En&nbsp;dashes are used to show a range. 
-					Refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=punctuation-dashes"><citetitle>Dashes</citetitle></ulink> in <citetitle>IBM Style</citetitle>
-         	<guiicon><inlinemediaobject>
-            <imageobject>
-              <imagedata fileref="images/padlock.png"/>
-            </imageobject>
-          </inlinemediaobject></guiicon>. 
+					Use a dash to show a range, such as for page numbers, letters, pages, or dates.
+					Otherwise, do not use dashes in technical content.
+					Instead, use other punctuation marks, such as commas, parentheses, or a colon. 
 				</para>
 
 			</listitem>

@@ -299,7 +299,13 @@
 			<term>shell prompt</term>
 			 <listitem>
 				<para>
-					Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use "command prompt", "terminal", or "shell".
+					Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use "command prompt" or "shell".
+				</para>
+				<para>
+					For example, "If you enter your username and password correctly, then you log in and get a shell prompt."
+				</para>
+				<para>
+				Refer also to <xref linkend="command-line"/> and to <xref linkend="terminal"/>.
 				</para>
 
 			</listitem>

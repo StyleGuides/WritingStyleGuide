@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="emdash">
+		 <!-- <varlistentry id="emdash">
 			<term>emdash</term>
 			 <listitem>
 				<para>
@@ -55,7 +55,7 @@
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry> -->
 
 		 <varlistentry id="enter">
 			<term>enter</term>
