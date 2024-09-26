@@ -5,6 +5,86 @@
 ]>
 <section id="new">
         <title>New in This Release</title>
+		<formalpara id="new_70">
+		<title>Release 7.0</title>
+            <para>Major update in October 2024 with migration to a new hosting site, and extensive added and updated guidance.</para>
+                </formalpara>   
+            <itemizedlist>
+				<!-- <listitem>
+                                        <para>This guide is now hosted at https://nnn.redhat.com and no longer at https://stylepedia.net/.</para>
+				</listitem>
+				<listitem>
+                                        <para>The GitHub repository for contributions to this guide is now at https://github.com/RedHatTraining/nnnnn and no longer at https://github.com/StyleGuides/WritingStyleGuide.</para>
+				</listitem> -->
+				<listitem>
+                                        <para>Updated references to IBM Style to include a link, which is to a specific topic page where relevant.
+										Each link is denoted with a padlock icon, to show that access is currently restricted to IBM and Red&nbsp;Hat employees.</para>
+				</listitem>
+				<listitem>
+                                        <para>Removed content that was specific to marketing content.
+										Removed references to AP Style.</para>
+				</listitem>
+				<listitem>
+                                        <para>Updated the audience information.
+										Refer to <xref linkend="audience"/>.</para>			
+				</listitem>
+				<listitem>
+                                        <para>Updated the resources information.
+										Refer to <xref linkend="resources"/>.</para>			
+				</listitem>
+				<listitem>
+                                        <para>Updated guidance to use the simpler phrase "go to" rather than "navigate to", for directing readers to a location.
+										Refer to <xref linkend="go-to"/> and <xref linkend="navigate-to"/>.</para>	
+				</listitem>
+				<listitem>
+                                        <para>Updated guidance on when to use "named" versus "called" to refer to different items.
+										Refer to <xref linkend="named"/> and <xref linkend="called"/>.</para>	
+				</listitem>
+				<listitem>
+                                        <para>Added a definition of "mission-critical".
+										Refer to <xref linkend="mission-critical"/>.</para>	
+				</listitem>
+				<listitem>
+                                        <para>Updated guidance for "command line", "command-line", "command prompt", "shell prompt", and "terminal".
+										Refer to <xref linkend="command-line"/>, <xref linkend="shell-prompt"/>, and <xref linkend="terminal"/>.</para>	
+				</listitem>
+				<listitem>
+                                        <para>Updated guidance on using "Overview" in a title.
+										Refer to <xref linkend="overview"/>.</para>	
+				</listitem>
+				<listitem>
+                                        <para>Clarified the use of non-breaking spaces.
+										Refer to <xref linkend="nonbreaking-spaces"/>.</para>	
+				</listitem>
+				<listitem>
+                                        <para>Added guidance on notation for omitting vertical output.
+										Refer to <xref linkend="omitting"/>.</para>	
+				</listitem>
+				<listitem>
+                                        <para>Updated guidance on when to use or not to use compact spacing in lists.
+										Refer to <xref linkend="Sentence_Structure-Using_Lists_Correctly"/>.</para>	
+				</listitem>
+				<listitem>
+                                        <para>Added the pipe character to the table of special characters.
+										Refer to <xref linkend="punc-names"/>.</para>			
+				</listitem>
+				<listitem>
+                                        <para>New or updated usage entries: 
+										dash, data store/datastore, dialog box, EPUB, Infrastructure as Code (IaC), lifecycle, sign in/sign-in.
+										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>			
+				</listitem>
+				<listitem>
+                                        <para>Removed usage entries: check, emdash.</para>
+				</listitem>
+				<listitem>
+                                        <para>Various other fixes.</para>				
+				</listitem>
+
+
+
+
+			</itemizedlist>        
+
 		<formalpara id="new_62">
 		<title>Release 6.2</title>
             <para>Update in February 2024 to provide added or updated guidance and to address reported issues.</para>
