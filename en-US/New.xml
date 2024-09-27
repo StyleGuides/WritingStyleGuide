@@ -17,7 +17,7 @@
                                         <para>The GitHub repository for contributions to this guide is now at https://github.com/RedHatTraining/nnnnn and no longer at https://github.com/StyleGuides/WritingStyleGuide.</para>
 				</listitem> -->
 				<listitem>
-                                        <para>Updated references to IBM Style to include a link, which is to a specific topic page where relevant.
+                                        <para>Updated references to IBM Style to include a link, either to the guide or to a specific topic page where relevant.
 										Each link is denoted with a padlock icon, to show that access is currently restricted to IBM and Red&nbsp;Hat employees.</para>
 				</listitem>
 				<listitem>
@@ -49,6 +49,14 @@
 										Refer to <xref linkend="command-line"/>, <xref linkend="shell-prompt"/>, and <xref linkend="terminal"/>.</para>	
 				</listitem>
 				<listitem>
+                                        <para>Other new or updated usage entries: 
+										dash, data store/datastore, dialog box, EPUB, hardened, Infrastructure as Code (IaC), lifecycle, secure, sign in/sign-in.
+										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>			
+				</listitem>
+				<listitem>
+                                        <para>Removed usage entries: check, emdash.</para>
+				</listitem>
+				<listitem>
                                         <para>Updated guidance on using "Overview" in a title.
 										Refer to <xref linkend="overview"/>.</para>	
 				</listitem>
@@ -61,20 +69,12 @@
 										Refer to <xref linkend="omitting"/>.</para>	
 				</listitem>
 				<listitem>
-                                        <para>Updated guidance on when to use or not to use compact spacing in lists.
+                                        <para>Updated guidance on when to use compact spacing in lists.
 										Refer to <xref linkend="Sentence_Structure-Using_Lists_Correctly"/>.</para>	
 				</listitem>
 				<listitem>
                                         <para>Added the pipe character to the table of special characters.
 										Refer to <xref linkend="punc-names"/>.</para>			
-				</listitem>
-				<listitem>
-                                        <para>New or updated usage entries: 
-										dash, data store/datastore, dialog box, EPUB, Infrastructure as Code (IaC), lifecycle, sign in/sign-in.
-										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>			
-				</listitem>
-				<listitem>
-                                        <para>Removed usage entries: check, emdash.</para>
 				</listitem>
 				<listitem>
                                         <para>Various other fixes.</para>				
