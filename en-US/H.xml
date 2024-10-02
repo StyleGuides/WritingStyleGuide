@@ -53,6 +53,19 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="hardened">
+			<term>hardened</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Do not use as a general descriptor for Red&nbsp;Hat's software development model or to describe the value of a Red&nbsp;Hat subscription. 
+					Use this term in the context of security, for example, reducing the attack surface by enhancing code and fixing vulnerabilities. 
+					If this term is used in other contexts, then add a qualifier. 
+					Always add a descriptive phrase to explain: for example, "hardened for security" or "hardened for stability". 
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="he-she">
 			<term>he/she</term>
 			 <listitem>
