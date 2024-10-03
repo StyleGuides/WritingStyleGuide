@@ -82,7 +82,7 @@
       <listitem>
         <para>
           Instead of stating that a product or service is "secure", describe specifically how features or qualities provide trustworthiness and resilience, and provide verifiable data where it exists.
-		  Avoid exaggerated, misleading, or unsubstantiated claims about security.
+		  When discussing security, use qualifiers to avoid making definitive or unsubstantiated claims about security.
         </para>
         <table><title></title>		
           <tgroup cols="2" align="left" colsep="1" rowsep="1">

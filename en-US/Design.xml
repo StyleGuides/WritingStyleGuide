@@ -542,7 +542,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 </example>
 
           <para>
-			For omitting vertical columns of output, or omitting part of horizontal lines of output, Red&nbsp;Hat uses the ellipsis notation (...).
+			For omitting vertical columns of output, omitting partial lines of output, or to shorten long strings in output, Red&nbsp;Hat uses the ellipsis notation (...).
           </para>
 
 <example><title>Notation for Omitting Vertical Output</title>
