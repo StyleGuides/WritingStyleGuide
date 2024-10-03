@@ -81,6 +81,32 @@
       <term>secure</term>
       <listitem>
         <para>
+          Instead of stating that a product or service is "secure", describe specifically how features or qualities provide trustworthiness and resilience, and provide verifiable data where it exists.
+		  When discussing security, use qualifiers to avoid making definitive or unsubstantiated claims about security.
+        </para>
+        <table><title></title>		
+          <tgroup cols="2" align="left" colsep="1" rowsep="1">
+            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+            <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+            <thead>
+              <row>
+                <entry>Original text</entry>
+                <entry>Improvement</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>This [product or solution] is secure.</entry>
+                <entry>This [product or solution] enables you to [do X, Y, and Z] to improve security, by ...</entry>
+              </row>
+              <row>
+                <entry>This [product or solution] is more secure.</entry>
+                <entry>This [product or solution] is more secure through [describe the steps that are taken]; or This [product or solution] is more secure than [previous state, or competitor example with cited source].</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!-- <para>
           <emphasis>n., vb.</emphasis> Due to potential legal ramifications, do not use without a qualifier.
           Refer to <xref linkend="qualify-sensitive-terms"/> for examples.
         </para>
@@ -109,7 +135,7 @@
               </row>
             </tbody>
           </tgroup>
-        </table>
+        </table> -->
       </listitem>
     </varlistentry>
     	 <varlistentry id="see">

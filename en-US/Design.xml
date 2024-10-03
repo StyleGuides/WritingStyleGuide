@@ -529,7 +529,7 @@ The ARN in the preceding output is different on your system.
             For the sake of brevity, do not show all output to the user in all cases, but only those parts of any output that are relevant to the context that is described. 
 			Where output is not included, place a marker to show that information is purposely excluded.
 			When shortening the output, use a consistent notation.
-			For omitting horizontal lines of output, Red&nbsp;Hat uses the <emphasis>...output&nbsp;omitted...</emphasis> notation, starting and ending with an ellipsis, and highlighted in italics.
+			For omitting entire horizontal lines of output, Red&nbsp;Hat uses the <emphasis>...output&nbsp;omitted...</emphasis> notation, starting and ending with an ellipsis, and highlighted in italics.
           </para>
 
 <example><title>Notation for Omitting Horizontal Output</title>
@@ -542,7 +542,7 @@ STEP 14: COMMIT <emphasis>...output omitted...</emphasis> localhost/nexus:latest
 </example>
 
           <para>
-			For omitting vertical columns of output, use a consistent notation such as an ellipsis (...).
+			For omitting vertical columns of output, omitting partial lines of output, or to shorten long strings in output, Red&nbsp;Hat uses the ellipsis notation (...).
           </para>
 
 <example><title>Notation for Omitting Vertical Output</title>
