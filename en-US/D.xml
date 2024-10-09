@@ -23,7 +23,9 @@
 			<term>dash</term>
 			 <listitem>
 				<para>
-					In technical publications, the <citetitle>IBM Style Guide</citetitle> recommends not to use em&nbsp;dashes or en&nbsp;dashes at all. Use a colon or other suitable punctuation.
+					Use a dash to show a range, such as for page numbers, letters, pages, or dates.
+					Otherwise, do not use dashes in technical content.
+					Instead, use other punctuation marks, such as commas, parentheses, or a colon. 
 				</para>
 
 			</listitem>
@@ -35,13 +37,13 @@
 				<para>
 					<emphasis>n.</emphasis> Use the two-word form unless referring to a product name or other proper noun where the one-word form is used.
 				</para>
-				 <warning>
+				 <!-- <warning>
 					<title>Marketing Publications Exception</title>
 					 <para>
 						In marketing publications, use the one-word form of this term unless referring to a product name or other proper noun where the two-word form is used.
 					</para>
 
-				</warning>
+				</warning> -->
 
 			</listitem>
 
@@ -62,13 +64,13 @@
 				<para>
 					<emphasis>n.</emphasis> Use the two-word form.
 				</para>
-				 <warning>
+				 <!-- <warning>
 					<title>Marketing Publications Exception</title>
 					 <para>
 						In marketing publications, the one-word form is recommended.
 					</para>
 
-				</warning>
+				</warning> -->
 
 			</listitem>
 
@@ -87,15 +89,8 @@
 			<term>data store, datastore</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Use the two-word form.
+					<emphasis>n.</emphasis> Write as two words, except in a VMware context where the one-word form is required.
 				</para>
-				 <warning>
-					<title>Marketing Publications Exception</title>
-					 <para>
-						In marketing publications, the one-word form is recommended.
-					</para>
-
-				</warning>
 
 			</listitem>
 
@@ -189,7 +184,13 @@
 			<term>dialog box</term>
 			 <listitem>
 				<para>
-					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for usage information related to this and similar terms.
+					<emphasis>n.</emphasis> Use "dialog box" (<emphasis>not</emphasis> "dialog", "dialogue", or "dialogue box"), to refer to an element that is displayed for a user to interact with a graphical user interface.
+				</para>					
+				<para>
+					Use this term regardless of whether a dialog box is <emphasis>modal</emphasis>, where the user must respond to a prompt before the main content of the interface is enabled again, or is <emphasis>non-modal</emphasis>, where the user can continue interacting with the main content when the dialog box is open.
+				</para>
+				<para>
+					For example: "In the <guilabel>Subscriptions</guilabel> window, click <guilabel>Register</guilabel> to open the <guilabel>Register System</guilabel> dialog box."
 				</para>
 
 			</listitem>
@@ -231,7 +232,7 @@
 			<term>disk, disc</term>
 			 <listitem>
 				<para>
-					Use "compact disc" or "hard disk". Refer to the <citetitle>IBM Style Guide</citetitle> for more information and example use cases.
+					Use "compact disc" or "hard disk".
 				</para>
 <!-- Removed reference to "diskette". -->
 

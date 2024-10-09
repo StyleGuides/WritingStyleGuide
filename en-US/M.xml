@@ -220,6 +220,27 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="mission-critical">
+			<term>mission-critical</term>
+			 <listitem>
+				<para>
+					<emphasis>adj.</emphasis> Write as shown. 
+				</para>
+				<para>
+					Use to refer to software or systems that are essential to fulfilling the core purpose of an organization. 
+					When mission-critical systems fail, the impact is often immediate and always severe. 
+					Mission-critical software can include customer-facing software for ensuring safety and regulatory compliance and core back-end systems, such as databases and enterprise resource planning (ERP) systems.  
+				</para>
+				<para>
+					To continue to accomplish its core mission, Red&nbsp;Hat considers software to be mission-critical if it is essential to preventing major loss or sustaining health and safety, data or software security, or regulatory compliance. 
+				</para>
+				<para>
+					Examples of failures that are not considered as mission-critical include an outage for routine maintenance, or a system that is down but is not directly affecting customers.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="montecito">
 			<term>Montecito</term>
 			 <listitem>

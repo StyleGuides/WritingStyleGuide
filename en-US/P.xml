@@ -12,13 +12,13 @@
 				<para>
 					<emphasis>n.</emphasis> The correct abbreviation for "Platform-as-a-Service". In the spelled-out version of this term and its variants (for example, Infrastructure-as-a-Service and Software-as-a-Service), always use hyphens.
 				</para>
-				 <warning>
+				 <!-- <warning>
 					<title>Marketing, Brand, Customer Portal Usage</title>
 					 <para>
 						For all-caps text, such as banners, use "&lt;VARIANT&gt;-AS-A-SERVICE" for the spelled-out version. The same abbreviation is used across all groups.
 					</para>
 
-				</warning>
+				</warning> -->
 				<para>
 					Refer also to <xref linkend="saas" />.
 				</para>
@@ -139,7 +139,7 @@
 			<term>pop-up</term>
 			 <listitem>
 				<para>
-					<emphasis>n, adj.</emphasis> Do not use "popup" or "pop up".
+					<emphasis>n, adj.</emphasis> Use only if you must specify the type of menu, list, or window. Do not use "popup" or "pop up".
 				</para>
 
 			</listitem>

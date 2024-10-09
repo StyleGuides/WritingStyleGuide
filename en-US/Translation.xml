@@ -42,7 +42,7 @@
                 <para>
                     These appear as numbered lists.
                     Use this list type for multiple entries if you need to refer to one of the entries from elsewhere in your document, or where order is important.
-                    For example, if you need to list the order of operations that are required to prepare for an installation, or list a sequence of events that occurs.
+                    For example, use an ordered list for a sequence of steps to complete a task, or for a sequence of events.
                     Titles are optional.
                 </para>
             </listitem>
@@ -92,12 +92,17 @@
         </listitem>
         <listitem>
           <para>
-            Navigation or similar instructions (such as "Navigate to Menu -> Submenu").
+            Navigation or similar instructions (such as "Go to Menu -> Submenu").
           </para>
         </listitem>
         <listitem>
           <para>
             Multiple paragraphs, or sentences that wrap to two or more lines.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Other sections where your deliverables might benefit from more spacing between list items, for example a list of objectives in a training course.
           </para>
         </listitem>
       </itemizedlist>
@@ -111,7 +116,13 @@
       </note>
 
 		 <para>
-			The following discussion provides some initial insight into using lists correctly. Refer to the <citetitle>IBM Style Guide</citetitle> for a full discussion.
+			The following explanation provides some initial guidance for using lists correctly. 
+			For a detailed explanation, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=format-lists"><citetitle>Lists</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 		</para>
 		 <para>
 			Do not insert a list midway through a sentence and then continue the sentence after the list.
@@ -154,7 +165,7 @@
 						</para>
 						 </entry>
 						 <entry> <para>
-							Before you start the installation, follow these steps to ensure a smooth installation:
+							Before you start the installation, follow these prerequisite steps:
 						</para>
 						 <itemizedlist>
 							<listitem>
@@ -625,13 +636,13 @@
 
 					</row>
 					 <row>
-						<entry> Troubleshooting Glance. </entry>
-						 <entry> Troubleshooting the Glance image service. </entry>
+						<entry> Troubleshoot Glance. </entry>
+						 <entry> Troubleshoot the Glance image service. </entry>
 
 					</row>
 					 <row>
-						<entry> Installing the <package>maven-changelog-plugin</package>. </entry>
-						 <entry> Installing the <package>maven-changelog-plugin</package> package. </entry>
+						<entry> Install the <package>maven-changelog-plugin</package>. </entry>
+						 <entry> Install the <package>maven-changelog-plugin</package> package. </entry>
 
 					</row>
 

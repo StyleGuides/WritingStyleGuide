@@ -6,6 +6,23 @@
 <chapter id="c">
 	<title>C</title>
 	 <variablelist>
+		 <varlistentry id="called">
+ 			<term>call, called</term>
+ 			 <listitem>
+ 				<para>
+					Use to refer to code, programs, or scripts that invoke functions or methods.
+					For example, "A liveness probe is called throughout the lifetime of the application."
+ 				</para>
+				 <para>
+					On the other hand, when referring to the designation of files, objects, or entities within documentation, use the term "named" instead of "called". 
+					This choice promotes clarity and precision in technical content.
+ 				</para>
+				 <para>
+					Refer also to <xref linkend="named" />.
+				</para>
+ 			</listitem>
+
+ 		</varlistentry>
 		<varlistentry id="can-may">
 			<term>can, may</term>
 			 <listitem>
@@ -46,7 +63,12 @@
 					When referring to a compact disk, use "CD". For example, "Insert the CD into the CD drive". The plural is "CDs".
 				</para>
 				 <para>
-					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
+					For more information, refer to the Word Usage section of <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>
@@ -95,23 +117,12 @@
 					Do not use "characters" to mean "bytes". In English, bytes and characters can be used interchangeably; in other languages, a single character might consist of multiple bytes.
 				</para>
 				 <para>
-					In computer software, any symbol that requires one byte of storage. This includes all the ASCII and extended ASCII characters, including the space character. In character-based software, everything that appears on the screen, including graphics symbols, is considered to be a character. In graphics-based applications, the term character is generally reserved for letters, numbers, and punctuation.
+					In computer software, a character is a symbol, such as a letter or number, that represents information. This includes all the ASCII and extended ASCII characters, including the space character. In character-based software, everything that appears on the screen, including graphics symbols, is considered to be a character. In graphics-based applications, the term character is generally reserved for letters, numbers, and punctuation.
 				</para>
 
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="check">
-			<term>check</term>
-			 <listitem>
-				<para>
-					Avoid. Use "verify", "ensure", or "read", depending on the context.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-
 		 <varlistentry id="chip-set">
 			<term>chipset</term>
 			 <listitem>
@@ -153,7 +164,12 @@
 				</para>
 <!-- Added comment about "click on". -->
 				 <para>
-					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle> for more information.
+					For more information, refer to the Word Usage section of <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>
@@ -244,10 +260,16 @@
 
 		</varlistentry>
 		 <varlistentry id="combo-box">
-			<term>combo-box</term>
+			<term>combo box</term>
 			 <listitem>
 				<para>
-					Do not use as an abbreviation for "combination box". Refer to the relevant entry in the <citetitle>IBM Style Guide</citetitle> for further usage information.
+					Do not use as an abbreviation for "combination box". 
+					For further usage information, refer to the relevant entry in <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>
@@ -310,10 +332,22 @@
 
 		</varlistentry>
 		 <varlistentry id="command-line">
-			<term>command line, command prompt, command-line</term>
+			<term>command line, command-line, command prompt</term>
 			 <listitem>
 				<para>
-					Refer to the appropriate entries in the <citetitle>IBM Style Guide</citetitle> for an explanation of how to use these terms.
+					Use "command line" to refer to the place where commands are entered.
+					Use "command line" as a noun, and use "command-line" as an adjective.
+				</para>
+				 <para>
+					For more details about how to use these terms, refer to the appropriate entries in <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
+				</para>
+				<para>
+				Refer also to <xref linkend="shell-prompt"/> and to <xref linkend="terminal"/>.
 				</para>
 
 			</listitem>
@@ -454,8 +488,8 @@
 			<term>cookie</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> A message given to a web browser by a web server.
-          The browser stores the message in a text file named <filename>cookie.txt</filename>.
+					<emphasis>n.</emphasis> Data that is given to a web browser by a web server.
+          The browser stores the message in a text file that might be named <filename>cookie.txt</filename>.
           The message is then sent back to the server each time the browser requests a page from the server.
 				</para>
 

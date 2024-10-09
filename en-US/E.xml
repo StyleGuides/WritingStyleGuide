@@ -7,10 +7,10 @@
 	<title>E</title>
 	 <variablelist>
 		<varlistentry id="e-book">
-			<term>e-book, e-commerce, e-learning, email</term>
+			<term>ebook, e-commerce, e-learning, email</term>
 			 <listitem>
 				<para>
-					Refer to the primary reference for the type of copy you are creating, either AP or IBM.
+					Refer to the primary reference for the type of copy that you are creating.
 				</para>
 			</listitem>
 
@@ -46,7 +46,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="emdash">
+		 <!-- <varlistentry id="emdash">
 			<term>emdash</term>
 			 <listitem>
 				<para>
@@ -55,7 +55,7 @@
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry> -->
 
 		 <varlistentry id="enter">
 			<term>enter</term>
@@ -100,6 +100,22 @@
 			 </para>
 				<para>
 					Always use uppercase for the initialism. Do not capitalize the expansion except at the beginning of a sentence. When documenting UI objects, use the same capitalization as shown in the UI.
+			 </para>
+
+		 </listitem>
+
+		 </varlistentry>
+		<varlistentry id="epub">
+		 <term>EPUB</term>
+			<listitem>
+			 <para>
+				Write as shown, and without any variations in styling or capitalization, to refer to this publishing format.
+				 Do not use EPUB as a noun to refer to an EPUB file. 
+				 For example, instead of writing "in an EPUB", write "in an EPUB file". 
+			 </para>
+			 <para>
+			 EPUB is part of the w3.org publishing standards: 
+			 <ulink url="https://www.w3.org/publishing/epub3/">https://www.w3.org/publishing/epub3/</ulink>
 			 </para>
 
 		 </listitem>

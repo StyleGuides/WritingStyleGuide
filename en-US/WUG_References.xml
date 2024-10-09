@@ -6,13 +6,18 @@
 <chapter id="references">
 	<title>References</title>
 	 <para>
-		the <citetitle>IBM Style Guide</citetitle>
+		<ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>
 	</para>
 	 <para>
-		<citetitle>Chicago Manual of Style, 17th Edition</citetitle>
+		<citetitle>Chicago Manual of Style, 18th Edition</citetitle>
 	</para>
 	 <para>
-		<citetitle>American Heritage Dictionary</citetitle>
+		<citetitle>Merriam-Webster Dictionary</citetitle>
 	</para>
 
 </chapter>

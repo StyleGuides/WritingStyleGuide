@@ -48,7 +48,7 @@
 			<term>uninterruptible</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Despite not appearing in the <citetitle>American Heritage Dictionary</citetitle>, this term does appear in the <citetitle>Merriam-Webster Unabridged Dictionary</citetitle>, and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)".
+					<emphasis>adj.</emphasis> This term appears in the <citetitle>Merriam-Webster Dictionary</citetitle>, and is considered acceptable in Red&nbsp;Hat documentation, especially in the context of "uninterruptible power supply (UPS)".
 				</para>
 
 			</listitem>
@@ -94,7 +94,12 @@
 			 <listitem>
 				<para>
 					<emphasis>v.</emphasis> Do not use. 
-					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
+					Refer to the Word Usage section of <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>
@@ -115,7 +120,12 @@
 			 <listitem>
 				<para>
 					<emphasis>v.</emphasis> Do not use. 
-					Refer to the Word Usage chapter of the <citetitle>IBM Style Guide</citetitle>.
+					Refer to the Word Usage section of <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>
@@ -141,7 +151,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="upsell_v._upselling_n.">
+		 <!-- <varlistentry id="upsell_v._upselling_n.">
 			<term>upsell (v.), upselling (n.)</term>
 			 <listitem>
 				<warning>
@@ -160,7 +170,7 @@
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry> -->
 		 <varlistentry id="upstream">
 			<term>upstream</term>
 			 <listitem>
@@ -182,10 +192,10 @@
 
 		</varlistentry>
 		 <varlistentry id="url">
-			<term>URL</term>
+			<term>URL, URI</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Include the appropriate protocol, such as http, ftp, or https, at the beginning of URLs. That is, use http://www.redhat.com and not www.redhat.com.
+					<emphasis>n.</emphasis> Include the appropriate scheme, such as http, ftp, or https, at the beginning of URLs or URIs. That is, use http://www.redhat.com and not www.redhat.com.
 				</para>
 				 <para>
 					Refer to <xref linkend="other-websites" /> for more information.
@@ -231,7 +241,12 @@
 				<para>
 					<emphasis>n.</emphasis> Usually one word.
           Capitalize the "U" at the beginning of a sentence.
-          Refer to the <citetitle>IBM Style Guide</citetitle> for more information.
+          For more information, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>

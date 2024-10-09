@@ -27,10 +27,10 @@
 
 		</varlistentry>
 		 <varlistentry id="iac">
-			<term>infrastructure as code (IaC)</term>
+			<term>Infrastructure as Code (IaC)</term>
 			 <listitem>
 				<para>
-					Based on search volume, the nonhyphenated full term and camel-case acronym are preferred. Use lowercase except in headings or at the start of a sentence.
+					Based on search volume, the nonhyphenated full term and camel-case acronym are preferred. Use uppercase "I" and "C".
 				</para>
 
 			</listitem>
@@ -269,7 +269,12 @@
 			<term>Intranet, intranet</term>
 			 <listitem>
 				<para>
-					Refer to the "Word usage" appendix of the <citetitle>IBM Style Guide</citetitle> for guidance.
+					For guidance, refer to the Word Usage section of <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 				</para>
 
 			</listitem>

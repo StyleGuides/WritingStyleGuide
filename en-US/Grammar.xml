@@ -416,6 +416,14 @@
 		 <para>
 			The <guibutton>Start</guibutton> button, which you can find in the bottom left corner of your screen (also activated by the "Windows key" on your keyboard, the one between the <keycap>Ctrl</keycap> and <keycap>Alt</keycap> keys), provides a central starting point for applications and tasks, and can be customized according to your individual preferences so that it presents menu items relevant to you instead of presenting the standard items that come with the default installation of the operating system, items which, in my opinion, are irrelevant for most users these days who really only need access to an internet browser such as Google Chrome or Mozilla Firefox.
 		</para>
+		<para>
+		    The following paragraph is a suggested improvement to the previous long sentence:
+		</para>
+		 <para>
+			The <guibutton>Start</guibutton> button provides a starting point for any applications or tasks on your Windows system.
+			Either click <guibutton>Start</guibutton> or press the <keycap>Windows</keycap> key to activate the <guimenu>Start</guimenu> menu.
+			You can customize the <guimenu>Start</guimenu> menu to suit your own preferences.
+		</para>
 
 		 <formalpara id="preposition">
 			<title>Preposition at the End of a Sentence</title>
@@ -950,7 +958,12 @@ Split contractions and abbreviations into separate paragraphs. -->
 			No hard and fast rules exist for hyphenation.
       In general, do not hyphenate unless required for clarity, or your other references declare that hyphens are required.
       The following is general guidance; if you are unsure about whether to hyphenate, ask your peers.
-      Refer also to the "Hyphens" topic in the <citetitle>IBM Style Guide</citetitle>.
+      Refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=punctuation-hyphens"><citetitle>Hyphens</citetitle></ulink> in <citetitle>IBM Style</citetitle>
+         	<guiicon><inlinemediaobject>
+            <imageobject>
+              <imagedata fileref="images/padlock.png"/>
+            </imageobject>
+          </inlinemediaobject></guiicon>.
 		</para>
 		
 		 <formalpara id="hyphenate-for-clarity">
@@ -972,7 +985,7 @@ Split contractions and abbreviations into separate paragraphs. -->
 		 <formalpara id="hyphenate-complex-adjectives">
 			<title>Hyphenate Complex Adjectives</title>
 			 <para>
-				Hyphenate complex adjectives (compound modifiers). This is when two adjectives work together to modify an object. The hyphen is used when the first adjective modifies the second adjective. For example, cloud-based solutions, right-side paralysis, systemwide menu.
+				Hyphenate complex adjectives (compound modifiers). This is when two adjectives work together to modify an object. The hyphen is used when the first adjective modifies the second adjective. For example, cloud-based solutions, right-side paralysis, system-wide menu.
 			</para>
 
 		</formalpara>

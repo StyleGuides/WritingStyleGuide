@@ -81,6 +81,32 @@
       <term>secure</term>
       <listitem>
         <para>
+          Instead of stating that a product or service is "secure", describe specifically how features or qualities provide trustworthiness and resilience, and provide verifiable data where it exists.
+		  When discussing security, use qualifiers to avoid making definitive or unsubstantiated claims about security.
+        </para>
+        <table><title></title>		
+          <tgroup cols="2" align="left" colsep="1" rowsep="1">
+            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+            <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+            <thead>
+              <row>
+                <entry>Original text</entry>
+                <entry>Improvement</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>This [product or solution] is secure.</entry>
+                <entry>This [product or solution] enables you to [do X, Y, and Z] to improve security, by ...</entry>
+              </row>
+              <row>
+                <entry>This [product or solution] is more secure.</entry>
+                <entry>This [product or solution] is more secure through [describe the steps that are taken]; or This [product or solution] is more secure than [previous state, or competitor example with cited source].</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <!-- <para>
           <emphasis>n., vb.</emphasis> Due to potential legal ramifications, do not use without a qualifier.
           Refer to <xref linkend="qualify-sensitive-terms"/> for examples.
         </para>
@@ -109,7 +135,7 @@
               </row>
             </tbody>
           </tgroup>
-        </table>
+        </table> -->
       </listitem>
     </varlistentry>
     	 <varlistentry id="see">
@@ -279,7 +305,7 @@
 			<term>shebang</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> Refers to the character sequence consisting of the number sign and exclamation mark (#!) at the beginning of a script. Do not use hashbang or pound-bang or other variations.
+					<emphasis>n.</emphasis> Refers to the character sequence consisting of the number sign and exclamation point (#!) at the beginning of a script. Do not use hashbang or pound-bang or other variations.
 				</para>
 
 			</listitem>
@@ -299,7 +325,13 @@
 			<term>shell prompt</term>
 			 <listitem>
 				<para>
-					Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use "command prompt", "terminal", or "shell".
+					Refers to the character at the beginning of the command line, and indicates that the shell is ready to accept commands. Do not use "command prompt" or "shell".
+				</para>
+				<para>
+					For example, "If you enter your username and password correctly, then you log in and get a shell prompt."
+				</para>
+				<para>
+				Refer also to <xref linkend="command-line"/> and to <xref linkend="terminal"/>.
 				</para>
 
 			</listitem>
@@ -326,17 +358,39 @@
 
 			</listitem>
 
-<!-- Added entries for "sign in" and "sign in to". -->
 		</varlistentry>
 		 <varlistentry id="sign-in">
-			<term>sign in</term>
+			<term>sign-in, sign in</term>
 			 <listitem>
 				 <para>
-					<emphasis>v.</emphasis> Write as two words. For example, "two options are available to sign in".
+					Write hyphenated as an adjective or noun, or as two words as a verb.
 				</para>
-			</listitem>
-				 
+				 <itemizedlist>
+					<listitem>
+						<para>
+							<emphasis>adj., n.</emphasis> Hyphenated. For example, "the sign-in page".
+						</para>
+					</listitem>
+
+					<listitem>
+						<para>
+							<emphasis>v.</emphasis> Two words. For example, "to sign in by using your IAM user account ID".
+						</para>
+
+					</listitem>
+				</itemizedlist>
+				 <para>
+					In general, use "log in" when referring to Linux-based technologies and platforms. 
+					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password. 
+					In these cases, align to the terminology that is used in the user interface.
+				</para>
+				 <para>				
+    			    Refer also to <xref linkend="login"/>.					
+				</para>
+			</listitem>	
+
 		</varlistentry>
+
 		 <varlistentry id="sign-in-to">
 			<term>sign in to</term>
 			 <listitem>
@@ -346,6 +400,37 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="sign-on">
+			<term>sign-on, sign on</term>
+			 <listitem>
+				 <para>
+					Write hyphenated as an adjective or noun, or as two words as a verb.
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							<emphasis>adj., n.</emphasis> Hyphenated. For example, "single sign-on".
+						</para>
+					</listitem>
+
+					<listitem>
+						<para>
+							<emphasis>v.</emphasis> Two words.
+						</para>
+
+					</listitem>
+				</itemizedlist>
+				 <para>
+					In general, use "log in" when referring to Linux-based technologies and platforms. 
+					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password. 
+					In these cases, align to the terminology that is used in the user interface.
+				</para>
+				 <para>				
+    			    Refer also to <xref linkend="login"/>.					
+				</para>
+			</listitem>	
+
+		</varlistentry>		
 		 <varlistentry id="simply">
 			<term>simply</term>
 			 <listitem>
@@ -599,7 +684,10 @@ a programming and technical sense, it also means "Run the <command>source</comma
 			<term>SSL</term>
 			 <listitem>
 				<para>
-					Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. Most web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with <emphasis>https:</emphasis> instead of <emphasis>http:</emphasis>.
+					Initialism for Secure Sockets Layer, a protocol developed by Netscape for transmitting private documents over the internet. SSL uses a public key to encrypt data that is transferred over the SSL connection. Most web browsers support SSL, and many websites use the protocol to obtain confidential user information, such as credit card numbers. By convention, URLs that require an SSL connection start with <emphasis>https:</emphasis> instead of <emphasis>http:</emphasis>. SSL later evolved into Transport Layer Security (TLS).
+				</para>
+				 <para>
+					Refer also to <xref linkend="tls" />.
 				</para>
 
 			</listitem>
