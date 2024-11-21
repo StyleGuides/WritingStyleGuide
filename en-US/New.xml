@@ -7,7 +7,8 @@
         <title>New in This Release</title>
 		<formalpara id="new_70">
 		<title>Release 7.0</title>
-            <para>Major update in October 2024 with migration to a new hosting site, and extensive added and updated guidance.</para>
+            <para>Major update in November 2024, with extensive added and updated guidance.</para>
+            <!-- <para>Major update in November 2024 with migration to a new hosting site, and extensive added and updated guidance.</para> -->
                 </formalpara>   
             <itemizedlist>
 				<!-- <listitem>
@@ -75,6 +76,9 @@
 				<listitem>
                                         <para>Added the pipe character to the table of special characters.
 										Refer to <xref linkend="punc-names"/>.</para>			
+				</listitem>
+				<listitem>
+                                        <para>If dark mode is selected, it now persists across web page refreshes.</para>
 				</listitem>
 				<listitem>
                                         <para>Various other fixes.</para>				
