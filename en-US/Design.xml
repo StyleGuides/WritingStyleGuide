@@ -1001,6 +1001,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 			 <para>
 				However, in some cases, the sentence might be easier to understand if the noun appears first, or if additional language separates the object name from the noun. 
 				For example, if the noun refers to a password, a value, or a status, then consider stating the noun first, or including explanatory language between the object name and the noun, or doing both.
+				In other cases, a noun might be omitted.
 			</para>
 
 			 <table>
@@ -1025,6 +1026,11 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 					<row>
 						<entry> Define the <varname>backup_tmp</varname> variable with the <varname>/tmp</varname> value in the <filename>defaults/main.yml</filename> file. </entry>
 						 <entry> Define the <varname>backup_tmp</varname> variable with a value of <varname>/tmp</varname> in the <filename>defaults/main.yml</filename> file. </entry>
+
+					</row>
+					<row>
+						<entry> The <varname>is:clear</varname> key is set to the <varname>false</varname> value. </entry>
+						 <entry> The <varname>is:clear</varname> key is set to <varname>false</varname>. </entry>
 
 					</row>
 

@@ -31,7 +31,8 @@
             <term>Bulleted lists</term>
             <listitem>
                 <para>
-                  Use this list type for three or more entries where order is not important.
+                  Use this list type for three or more entries, in most cases, where order is not important.
+				  In limited cases, specific publications might choose instead to allow fewer entries in a list.
                   Titles are optional.
                 </para>
             </listitem>
@@ -87,7 +88,7 @@
         <listitem>
           <para>
             Nested lists.
-            Nested lists themselves can use the <option>compact</option> attribute if they fall outside the bounds of these recommendations.
+            Nested list items themselves can use the <option>compact</option> attribute if they fall outside the bounds of these recommendations.
           </para>
         </listitem>
         <listitem>
