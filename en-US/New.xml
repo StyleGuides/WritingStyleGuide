@@ -5,6 +5,37 @@
 ]>
 <section id="new">
         <title>New in This Release</title>
+		<formalpara id="new_71">
+		<title>Release 7.1</title>
+            <para>Maintenance release in April 2025, with some added and updated guidance.</para>
+                </formalpara>   
+            <itemizedlist>
+				<listitem>
+                                        <para>Added an entry for "log out of", to use in preference to "log out from".
+										Refer to <xref linkend="log-out-of"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "print queue", to use in preference to "printer queue".
+										Refer to <xref linkend="print-queue"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Changed to use hyphenation for "greater-than" and "less-than", to refer to these characters.
+										Refer to <xref linkend="punc-names"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Updated guidance to not require a noun with object names in all cases.
+										Refer to <xref linkend="refer-object-names"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Updated guidance about the number of items in a bulleted list to allow fewer items in specific cases.
+										Refer to <xref linkend="Sentence_Structure-Using_Lists_Correctly"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Various other fixes.</para>				
+				</listitem>
+
+			</itemizedlist>        
+
 		<formalpara id="new_70">
 		<title>Release 7.0</title>
             <para>Major update in November 2024, with extensive added and updated guidance.</para>
@@ -83,9 +114,6 @@
 				<listitem>
                                         <para>Various other fixes.</para>				
 				</listitem>
-
-
-
 
 			</itemizedlist>        
 
