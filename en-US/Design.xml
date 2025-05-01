@@ -501,7 +501,8 @@ $ vi myFile.txt
             </para>
           </important> -->
           <para>
-            You can also indent the second and subsequent lines of such commands to assist in clarity and readability if required.
+            Do not use manual line indentation for the second and subsequent lines of commands.
+			For some output formats, no control is possible over where lines would break, and any indentation might appear as extra spaces in inelegant places. 
 <!--            You can use this option for any of these designs. -->
           </para>
 

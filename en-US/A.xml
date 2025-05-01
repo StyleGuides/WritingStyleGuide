@@ -15,6 +15,44 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="aarch64">
+			<term role="true">AArch64, aarch64</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture. 
+					Use this term when referring to operating systems and server instances, for example Red&nbsp;Hat Enterprise Linux, Fedora, CoreOS, and other Linux distributions. 
+				</para>
+				 <para>
+					Use the uppercase (AArch64) format in general cases when referring to system architecture.
+					Use the lowercase (aarch64) format only when referring to objects or parameters. 
+					It can be styled as code (monospace font or a code-styled block) when referring to code.
+				</para>
+				 <para>
+					Cloud providers might use different formats of this term to refer to architectures. 
+					If you are documenting code, commands, or outputs, then confer with your subject-matter expert on the correct format for the specific use case.
+				</para>
+				 <para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							When running Red&nbsp;Hat Enterprise Linux with an AArch64 system, run the following commands:
+						</para>
+					</listitem>
+					 <listitem>
+						<para>
+							Specify the system architecture of your cluster, such as <code>x86_64</code> or <code>aarch64</code>.
+						</para>
+					</listitem>
+				 </itemizedlist>
+        <para>
+          Refer also to <xref linkend="a64-bit"/>, <xref linkend="a64-bit-x86"/>, <xref linkend="AMD64"/>, <xref linkend="ARM64"/>, <xref linkend="Intel64"/>, and <xref linkend="x86-64"/>.
+        </para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="above">
 			<term role="caution">above</term>
 			 <listitem>
@@ -98,44 +136,6 @@
 				</para>
         <para>
           Refer also to <xref linkend="pm"/>.
-        </para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="aarch64">
-			<term role="true">AArch64, aarch64</term>
-			 <listitem>
-				<para>
-					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture. 
-					Use this term when referring to operating systems and server instances, for example Red&nbsp;Hat Enterprise Linux, Fedora, CoreOS, and other Linux distributions. 
-				</para>
-				 <para>
-					Use the uppercase (AArch64) format in general cases when referring to system architecture.
-					Use the lowercase (aarch64) format only when referring to objects or parameters. 
-					It can be styled as code (monospace font or a code-styled block) when referring to code.
-				</para>
-				 <para>
-					Cloud providers might use different formats of this term to refer to architectures. 
-					If you are documenting code, commands, or outputs, then confer with your subject-matter expert on the correct format for the specific use case.
-				</para>
-				 <para>
-					Examples:
-				</para>
-				 <itemizedlist>
-					<listitem>
-						<para>
-							When running Red&nbsp;Hat Enterprise Linux with an AArch64 system, run the following commands:
-						</para>
-					</listitem>
-					 <listitem>
-						<para>
-							Specify the system architecture of your cluster, such as <code>x86_64</code> or <code>aarch64</code>.
-						</para>
-					</listitem>
-				 </itemizedlist>
-        <para>
-          Refer also to <xref linkend="a64-bit"/>, <xref linkend="a64-bit-x86"/>, <xref linkend="AMD64"/>, <xref linkend="ARM64"/>, <xref linkend="Intel64"/>, and <xref linkend="x86-64"/>.
         </para>
 
 			</listitem>
@@ -299,21 +299,18 @@
         </para>
       </listitem>
     </varlistentry>
-		 <varlistentry id="as-well-as">
-			<term role="caution">as well as</term>
+		 <varlistentry id="artificial-intelligence">
+			<term>artificial intelligence (AI)</term>
 			 <listitem>
 				<para>
-					Not interchangeable with "and".
-          "As well as" used in a series places more emphasis on the items preceding it, whereas "and" places equal weight on all items in the series.
-          For example, "We sell kitchen electronics and china, as well as some gourmet foods."
-          But "We sell kitchen electronics, china, and silverware."
+				Unless clarity requires it or the concept is being introduced or explained, "artificial intelligence" does not have to be spelled out on first use; "AI" is understood and suffices. When spelling it out, do not capitalize the term.	
 				</para>
 
 			</listitem>
 
 		</varlistentry>
 		 <varlistentry id="as-a-service">
-			<term role="caution">as-a-Service</term>
+			<term>as-a-Service</term>
 			 <listitem>
 				<para>
 					Some as-a-Service acronyms overlap.
@@ -412,13 +409,62 @@
 
 			</listitem>
 
-<!-- Suggested addition of "as long as" -->
+		</varlistentry>
+		 <varlistentry id="as-code">
+			<term>as Code</term>
+			 <listitem>
+				<para>
+					Use camel case for both the full term and the acronym. 
+					Do not hyphenate.
+					Some as Code acronyms might overlap.
+          			To avoid confusion, always spell out the full term on first use.					
+				</para>
+				<para>
+					Examples:
+				</para>
+				 <itemizedlist>
+					<listitem>
+						<para>
+							Configuration as Code (CaC)
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Infrastructure as Code (IaC)
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Policy as Code (CaC)
+						</para>
+
+					</listitem>
+
+				</itemizedlist>
+
+			</listitem>
+
 		</varlistentry>
 		<varlistentry id="as-long-as">
 			<term role="caution">as long as</term>
 			 <listitem>
 				<para>
 					Use only to refer to a comparison of length or time. Otherwise, use an alternative, such as "provided that".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="as-well-as">
+			<term role="caution">as well as</term>
+			 <listitem>
+				<para>
+					Not interchangeable with "and".
+          "As well as" used in a series places more emphasis on the items preceding it, whereas "and" places equal weight on all items in the series.
+          For example, "We sell kitchen electronics and china, as well as some gourmet foods."
+          But "We sell kitchen electronics, china, and silverware."
 				</para>
 
 			</listitem>
