@@ -43,6 +43,10 @@
 										Refer to <xref linkend="documenting-command-syntax"/>.</para>
 				</listitem>
 				<listitem>
+                                        <para>Added the dollar sign to the table of punctuation marks and special characters.
+										Refer to <xref linkend="punc-names"/>.</para>
+				</listitem>
+				<listitem>
                                         <para>Changed to use hyphenation for "greater-than" and "less-than", to refer to these characters.
 										Refer to <xref linkend="punc-names"/>.</para>
 				</listitem>

@@ -800,7 +800,7 @@ Using project "default".
 		<example><title>Referring to Special Characters</title>
 
           <para>
-            When a regular user starts a shell, the prompt includes an ending dollar character (<guibutton>$</guibutton>).
+            When a regular user starts a shell, the prompt includes an ending dollar sign (<guibutton>$</guibutton>).
           </para>
 		  <para>
             Use the pipe character (|) to send the output of one program to the input of another program.
@@ -903,6 +903,11 @@ Using project "default".
 					<row>
 						<entry> , </entry>
 						 <entry> Comma </entry>
+
+					</row>
+					<row>
+						<entry> $ </entry>
+						 <entry> Dollar sign </entry>
 
 					</row>
 					<row>
