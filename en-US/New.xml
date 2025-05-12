@@ -7,9 +7,29 @@
         <title>New in This Release</title>
 		<formalpara id="new_71">
 		<title>Release 7.1</title>
-            <para>Maintenance release in April 2025, with some added and updated guidance.</para>
+            <para>Maintenance release in May 2025, with some added and updated guidance.</para>
                 </formalpara>   
             <itemizedlist>
+				<listitem>
+                                        <para>Added an entry for "artificial intelligence (AI)".
+										Refer to <xref linkend="artificial-intelligence"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "as Code".
+										Refer to <xref linkend="as-code"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "code base", to use in preference to "codebase".
+										Refer to <xref linkend="code-base"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "edge".
+										Refer to <xref linkend="edge"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "generative AI, gen AI".
+										Refer to <xref linkend="gen-ai"/>.</para>
+				</listitem>
 				<listitem>
                                         <para>Added an entry for "log out of", to use in preference to "log out from".
 										Refer to <xref linkend="log-out-of"/>.</para>
@@ -17,6 +37,14 @@
 				<listitem>
                                         <para>Added an entry for "print queue", to use in preference to "printer queue".
 										Refer to <xref linkend="print-queue"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Changed guidance to not use manual line indentation for the second and subsequent lines of commands.
+										Refer to <xref linkend="documenting-command-syntax"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added the dollar sign to the table of punctuation marks and special characters.
+										Refer to <xref linkend="punc-names"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Changed to use hyphenation for "greater-than" and "less-than", to refer to these characters.

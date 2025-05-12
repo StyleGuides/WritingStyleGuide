@@ -103,6 +103,20 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="gen-ai">
+			<term>generative AI, gen AI</term>
+			 <listitem>
+				<para>
+					Unless clarity requires it or the concept is being introduced or explained, "generative artificial intelligence" does not have to be spelled out on first use; the abbreviation "gen AI" is understood and suffices.
+					When spelling it out, do not capitalize the term.
+				</para>
+				<para>
+					Note: Because generative AI is a relatively new technology concept, the term and how it is applied is evolving, so this guidance might change accordingly.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="geo">
 			<term>GEO, geo</term>
 			 <listitem>

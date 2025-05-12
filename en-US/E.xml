@@ -6,6 +6,17 @@
 <chapter id="e">
 	<title>E</title>
 	 <variablelist>
+		 <varlistentry id="earlier">
+			<term>earlier</term>
+			 <listitem>
+				<para>
+					Use to refer to earlier releases of products. Do not use "older" or related terms.
+          Refer also to <xref linkend="later" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		<varlistentry id="e-book">
 			<term>ebook, e-commerce, e-learning, email</term>
 			 <listitem>
@@ -15,22 +26,21 @@
 			</listitem>
 
 		</varlistentry>
+		<varlistentry id="edge">
+			<term>edge</term>
+			 <listitem>
+				<para>
+					Describes network elements outside the gateway and server-side or cloud-side functions (for example, "an edge device").
+					Do not refer to "the edge" without qualifying it; define the first instance (for example, "the edge of the network").
+				</para>
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="eg">
 			<term>e.g.</term>
 			 <listitem>
 				<para>
 					Red&nbsp;Hat technical documentation always expands these abbreviations. Write out "for example".
-				</para>
-
-			</listitem>
-
-		</varlistentry>
-		 <varlistentry id="earlier">
-			<term>earlier</term>
-			 <listitem>
-				<para>
-					Use to refer to earlier releases of products. Do not use "older" or related terms.
-          Refer also to <xref linkend="later" />.
 				</para>
 
 			</listitem>
