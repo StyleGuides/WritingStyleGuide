@@ -1045,8 +1045,10 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 	 	<section id="naming-object-classes">
 			<title>Naming of Object Classes</title>
 			 <para>
-				During development, when naming an object, avoid duplicating the object's class in its name. 
-				Then, when writing about the object, use the noun that follows the object name to indicate its class.
+				When naming an object, consider the impact of its name when writing about the object.
+				Avoid duplication, alliteration, or long names.
+				In cases where including the class in an object name helps to provide clarity, avoid including the object's class in the last part of its name.
+				This approach avoids repetition when writing about the object where the noun that follows the object name indicates its class.
 			</para>
 
 			 <table>
@@ -1065,20 +1067,30 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 
 				 <tbody>
 					<row>
+						<entry> The user that you use to log in is the <systemitem>remote-user</systemitem> user. </entry>
+						 <entry> Log in as the <systemitem>user-remote</systemitem> user. </entry>
+
+					</row>
+					<row>
+						<entry> Go to the <systemitem>local-project</systemitem> project. </entry>
+						 <entry> Go to the <systemitem>proj-local</systemitem> project. </entry>
+
+					</row>
+					<row>
+						<entry> Use the <systemitem>base-layer</systemitem> layer of the container. </entry>
+						 <entry> Use the <systemitem>base-image</systemitem> layer of the container. </entry>
+
+					</row>
+					<row>
 						<entry> Create the instance in the <systemitem>prod-environment</systemitem> environment. </entry>
 						 <entry> Create the instance in the <systemitem>prod</systemitem> environment. </entry>
 
 					</row>
-					<row>
+					<!-- <row>
 						<entry> A raw terminal is opened in the <systemitem>ruby-container</systemitem> container. </entry>
 						 <entry> A raw terminal is opened in the <systemitem>ruby</systemitem> container. </entry>
 
-					</row>
-					<row>
-						<entry> Log in as the <systemitem>remote-user</systemitem> user. </entry>
-						 <entry> Log in as the <systemitem>remote</systemitem> user. </entry>
-
-					</row>
+					</row> -->
 					<row>
 						<entry> Use the <command>oc process --parameters</command> command to view the parameter of the <systemitem>roster-template</systemitem> template. </entry>
 						 <entry> Use the <command>oc process --parameters</command> command to view the parameter of the <systemitem>roster</systemitem> template. </entry>

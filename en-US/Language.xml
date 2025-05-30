@@ -948,7 +948,7 @@
 		</para>
 	<example>
 			<title>
-				Valid uses of "allow" to refer to permission
+				Valid Uses of "Allow" to Refer to Permission
 			</title>
 		<para>
 	    Some open source licenses allow code to be reused in proprietary products.
@@ -986,10 +986,20 @@
 
 								</row>
 								<row>
-									<entry> Offline mode is a feature that allows organizations to deploy and operate Red&nbsp;Hat Advanced Cluster Security for Kubernetes in environments that are disconnected from the internet. </entry>
-									 <entry> Offline mode is a feature that enables organizations to deploy and operate Red&nbsp;Hat Advanced Cluster Security for Kubernetes in environments that are disconnected from the internet. </entry>
+									<entry> The system menu allows you to switch network and VPN connections on or off. </entry>
+									 <entry> From the system menu, you can switch network and VPN connections on or off. </entry>
 
 								</row>
+								<row>
+									<entry> The workspace selector displays active workspaces and allows you to switch between workspaces. </entry>
+									 <entry> The workspace selector displays active workspaces and enables you to switch between workspaces. </entry>
+
+								</row>
+								<!-- <row>
+									<entry> Offline mode is a feature that allows organizations to deploy and to operate Red&nbsp;Hat Advanced Cluster Security for Kubernetes in environments that are disconnected from the internet. </entry>
+									 <entry> Offline mode is a feature that enables organizations to deploy and to operate Red&nbsp;Hat Advanced Cluster Security for Kubernetes in environments that are disconnected from the internet. </entry>
+
+								</row> -->
 
 							</tbody>
 
