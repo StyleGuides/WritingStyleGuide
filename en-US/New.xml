@@ -7,7 +7,7 @@
         <title>New in This Release</title>
 		<formalpara id="new_71">
 		<title>Release 7.1</title>
-            <para>Maintenance release in May 2025, with some added and updated guidance.</para>
+            <para>Maintenance release in June 2025, with some added and updated guidance.</para>
                 </formalpara>   
             <itemizedlist>
 				<listitem>
@@ -41,6 +41,14 @@
 				<listitem>
                                         <para>Changed guidance to not use manual line indentation for the second and subsequent lines of commands.
 										Refer to <xref linkend="documenting-command-syntax"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added guidance on the use of "allow".
+										Refer to <xref linkend="allow-uses"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added guidance on the naming of object classes".
+										Refer to <xref linkend="naming-object-classes"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Added the dollar sign to the table of punctuation marks and special characters.

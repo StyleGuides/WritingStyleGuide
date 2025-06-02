@@ -943,6 +943,8 @@
 
 		</itemizedlist>
 
+	 <section id="allow-uses">
+		<title>Use of "Allow"</title>
 		 <para>
 			Except when referring specifically to permission, avoid stating that a product or feature allows the user to do something.
 		</para>
@@ -1009,6 +1011,8 @@
 		 <para>
 			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>
 		</para>
+
+		</section>
 
 	</section>
 
