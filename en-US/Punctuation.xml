@@ -559,26 +559,45 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 		</para> 
 		<example><title>Correct Examples of the Use of Punctuation with Quotation Marks</title>
-        <para>
-        For bind mounts, add "bind" and set <command>fstype</command> to "none".
-        </para>
-		<screen>
-		Login successful.
-		...output omitted...
-		Using project "default".
-        </screen>
-		<para>
-		As in the previous image, the title of the web page is "OpenShift 3 Etherpad".
-		</para>
-		<para>
-		In the program segment, ensure that the value is X'FF'.
-    	</para>		
-		<!-- <para>
-		If you use the keyword operand PGMID="PAYCOM", you must ...
-    	</para> -->
-		<para>
-		Julius Caesar said, "I came. I saw. I conquered."
-    	</para>
+
+		 <itemizedlist>
+			<listitem>
+				<para>
+					For bind mounts, add "bind" and set <command>fstype</command> to "none".
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					<screen>
+Login successful.
+...output omitted...
+Using project "default".
+        			</screen>
+				</para>
+
+			</listitem>
+			<listitem>
+				<para>
+					The title of the web page is "OpenShift 3 Etherpad".
+				</para>
+
+			</listitem>
+			<listitem>
+				<para>
+					In the program segment, ensure that the value is X'FF'.
+				</para>
+
+			</listitem>
+			<listitem>
+				<para>
+					Julius Caesar said, "I came. I saw. I conquered."
+				</para>
+
+			</listitem>
+
+		</itemizedlist>
+
     	</example> 
 
 	</section>
@@ -752,7 +771,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 	</section>	
 
- 	 <section id="referring">
+ 	 <section id="referring-punc-special-chars">
 		<title>Referring to Punctuation Marks and Special Characters</title>
 		<para>
             To refer to a punctuation mark or special character, use its name alone if it is one of the following standard characters:
@@ -762,7 +781,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 		</para>
 		<para>
             For all other characters, use the character name followed by the symbol in parentheses.  
-            For special character names that include a noun such as "sign", "symbol", or "character", provide the character name, the noun that describes the symbol, and then the symbol in parentheses, for example "the greater than symbol (>)". 
+            For special character names that include a noun such as "sign", "symbol", or "character", provide the character name, the noun that describes the symbol, and then the symbol in parentheses, for example "the greater-than symbol (>)". 
             For special character names that do not include such nouns, provide the character name and the symbol in parentheses, for example "a forward slash (/)". 
             You can end a sentence with the symbol in parentheses.		
 		</para>
@@ -781,7 +800,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 		<example><title>Referring to Special Characters</title>
 
           <para>
-            When a regular user starts a shell, the prompt includes an ending dollar character (<guibutton>$</guibutton>).
+            When a regular user starts a shell, the prompt includes an ending dollar sign ($).
           </para>
 		  <para>
             Use the pipe character (|) to send the output of one program to the input of another program.
@@ -887,6 +906,11 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 					</row>
 					<row>
+						<entry> $ </entry>
+						 <entry> Dollar sign </entry>
+
+					</row>
+					<row>
 						<entry> &quot; or “ ” </entry>
 						 <entry> Double quotation marks </entry>
 
@@ -923,7 +947,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 					</row>
 					<row>
 						<entry> &gt; </entry>
-						 <entry> Greater than symbol </entry>
+						 <entry> Greater-than symbol </entry>
 
 					</row>
 					<row>
@@ -933,7 +957,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 					</row>					
 					<row>
 						<entry> &lt; </entry>
-						 <entry> Less than symbol </entry>
+						 <entry> Less-than symbol </entry>
 
 					</row>
 					<row>

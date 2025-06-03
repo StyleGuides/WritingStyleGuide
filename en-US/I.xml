@@ -26,16 +26,6 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="iac">
-			<term>Infrastructure as Code (IaC)</term>
-			 <listitem>
-				<para>
-					Based on search volume, the nonhyphenated full term and camel-case acronym are preferred. Use uppercase "I" and "C".
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="ibm-z">
 			<term>IBM Z</term>
 			 <listitem>
@@ -92,6 +82,16 @@
 				</para>
 				 <para>
 					"Open InfiniBand" is deprecated and should not be used.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="iac">
+			<term>Infrastructure as Code (IaC)</term>
+			 <listitem>
+				<para>
+					Based on search volume, the nonhyphenated full term and camel-case acronym are preferred. Use uppercase "I" and "C".
 				</para>
 
 			</listitem>

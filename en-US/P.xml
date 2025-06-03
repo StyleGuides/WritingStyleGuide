@@ -209,6 +209,16 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="print-queue">
+			<term>print queue</term>
+			 <listitem>
+				<para>
+          <emphasis>n.</emphasis> Use "print queue", not "printer queue", to refer to a list of print jobs that are sent to a printer.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="poc">
 			<term>proof of concept</term>
 			 <listitem>

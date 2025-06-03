@@ -546,6 +546,15 @@
 			</listitem>
 
 		</varlistentry>
+    <varlistentry id="source">
+        <term>source</term>
+        <listitem>
+          <para>
+            <emphasis>v.</emphasis> In addition to the generic use of this term as a noun and verb, in
+a programming and technical sense, it also means "Run the <command>source</command> command against the named file."
+          </para>
+        </listitem>
+      </varlistentry>
 		 <varlistentry id="source-navigator">
 			<term>Source-Navigator™</term>
 			 <listitem>
@@ -556,15 +565,6 @@
 			</listitem>
 
 		</varlistentry>
-    <varlistentry>
-        <term>source</term>
-        <listitem>
-          <para>
-            <emphasis>v.</emphasis> In addition to the generic use of this term as a noun and verb, in
-a programming and technical sense, it also means "Run the <command>source</command> command against the named file."
-          </para>
-        </listitem>
-      </varlistentry>
 		 <varlistentry id="space">
 			<term>space</term>
 			 <listitem>

@@ -943,9 +943,26 @@
 
 		</itemizedlist>
 
+	 <section id="allow-uses">
+		<title>Use of "Allow"</title>
 		 <para>
-			Avoid stating that a product or feature allows the user to do something. Focus instead on what the user does.
+			Except when referring specifically to permission, avoid stating that a product or feature allows the user to do something.
 		</para>
+	<example>
+			<title>
+				Valid Uses of "Allow" to Refer to Permission
+			</title>
+		<para>
+	    Some open source licenses allow code to be reused in proprietary products.
+	  	</para>
+	  	<para>
+		You can configure the <command>sudo</command> command to allow specific users to run any command as some other user.
+	  	</para>
+	</example>
+		 <para>
+			In cases that do not refer to permission, whenever possible, focus instead on what the user, service, or agent does, or replace "allow" with a different verb, such as "enable".
+		</para>
+
 					 <table>
 						<title></title>
 						 <tgroup cols="2" colsep="1" rowsep="1">
@@ -970,6 +987,21 @@
 									 <entry> You can use collections to separate core Ansible code updates from updates to modules and plug-ins. </entry>
 
 								</row>
+								<row>
+									<entry> The system menu allows you to switch network and VPN connections on or off. </entry>
+									 <entry> From the system menu, you can switch network and VPN connections on or off. </entry>
+
+								</row>
+								<row>
+									<entry> The workspace selector displays active workspaces and allows you to switch between workspaces. </entry>
+									 <entry> The workspace selector displays active workspaces and enables you to switch between workspaces. </entry>
+
+								</row>
+								<!-- <row>
+									<entry> Offline mode is a feature that allows organizations to deploy and to operate Red&nbsp;Hat Advanced Cluster Security for Kubernetes in environments that are disconnected from the internet. </entry>
+									 <entry> Offline mode is a feature that enables organizations to deploy and to operate Red&nbsp;Hat Advanced Cluster Security for Kubernetes in environments that are disconnected from the internet. </entry>
+
+								</row> -->
 
 							</tbody>
 
@@ -979,6 +1011,8 @@
 		 <para>
 			<ulink url="https://github.com/StyleGuides/WritingStyleGuide/issues">Report an issue</ulink>
 		</para>
+
+		</section>
 
 	</section>
 

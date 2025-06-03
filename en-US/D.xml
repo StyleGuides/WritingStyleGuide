@@ -218,16 +218,6 @@
           Describe, rather than label.
         </para></listitem>
       </varlistentry>
-		 <varlistentry id="disk-druid">
-			<term>Disk Druid</term>
-			 <listitem>
-				<para>
-					Correct. Do not use "Disk druid", "disk druid", or "diskdruid". This is a partitioning tool that is  incorporated into Red&nbsp;Hat Enterprise&nbsp;Linux.
-				</para>
-
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="disk-disc">
 			<term>disk, disc</term>
 			 <listitem>
@@ -235,6 +225,16 @@
 					Use "compact disc" or "hard disk".
 				</para>
 <!-- Removed reference to "diskette". -->
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="disk-druid">
+			<term>Disk Druid</term>
+			 <listitem>
+				<para>
+					Correct. Do not use "Disk druid", "disk druid", or "diskdruid". This is a partitioning tool that is  incorporated into Red&nbsp;Hat Enterprise&nbsp;Linux.
+				</para>
 
 			</listitem>
 

@@ -5,6 +5,73 @@
 ]>
 <section id="new">
         <title>New in This Release</title>
+		<formalpara id="new_71">
+		<title>Release 7.1</title>
+            <para>Maintenance release in June 2025, with some added and updated guidance.</para>
+                </formalpara>   
+            <itemizedlist>
+				<listitem>
+                                        <para>Added an entry for "artificial intelligence (AI)".
+										Refer to <xref linkend="artificial-intelligence"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "as Code".
+										Refer to <xref linkend="as-code"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "code base", to use in preference to "codebase".
+										Refer to <xref linkend="code-base"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "edge".
+										Refer to <xref linkend="edge"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "generative AI, gen AI".
+										Refer to <xref linkend="gen-ai"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "log out of", to use in preference to "log out from".
+										Refer to <xref linkend="log-out-of"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "print queue", to use in preference to "printer queue".
+										Refer to <xref linkend="print-queue"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Changed guidance to not use manual line indentation for the second and subsequent lines of commands.
+										Refer to <xref linkend="documenting-command-syntax"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added guidance on the use of "allow".
+										Refer to <xref linkend="allow-uses"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added guidance on the naming of object classes.
+										Refer to <xref linkend="naming-object-classes"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added the dollar sign to the table of punctuation marks and special characters.
+										Refer to <xref linkend="punc-names"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Changed to use hyphenation for "greater-than" and "less-than", to refer to these characters.
+										Refer to <xref linkend="punc-names"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Updated guidance to not require a noun with object names in all cases.
+										Refer to <xref linkend="refer-object-names"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Updated guidance about the number of items in a bulleted list to allow fewer items in specific cases.
+										Refer to <xref linkend="Sentence_Structure-Using_Lists_Correctly"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Various other fixes.</para>				
+				</listitem>
+
+			</itemizedlist>        
+
 		<formalpara id="new_70">
 		<title>Release 7.0</title>
             <para>Major update in November 2024, with extensive added and updated guidance.</para>
@@ -84,9 +151,6 @@
                                         <para>Various other fixes.</para>				
 				</listitem>
 
-
-
-
 			</itemizedlist>        
 
 		<formalpara id="new_62">
@@ -104,7 +168,7 @@
 				</listitem>
 				<listitem>
                                         <para>Updated guidance about referring to special characters.
-										Refer to <xref linkend="referring"/>.</para>			
+										Refer to <xref linkend="referring-punc-special-chars"/>.</para>			
 				</listitem>
 				<listitem>
                                         <para>You can use the possessive form of the company name (Red&nbsp;Hat's) to refer to the company itself, not to any products or services.

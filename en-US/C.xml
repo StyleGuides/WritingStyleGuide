@@ -248,6 +248,17 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="code-base">
+			<term>code base</term>
+			 <listitem>
+				<para>
+					<emphasis>n.</emphasis> Two words.
+					Do not use "codebase", outside the specific context of codebase.com.
+				</para>
+
+			</listitem>
+
+		</varlistentry>		
 <!-- Added "colocate, colocation" -->
 		 <varlistentry id="colocate">
 			<term>colocate, colocation</term>
@@ -388,16 +399,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="containers-as-a-service">
-			<term>Containers-as-a-Service</term>
-			 <listitem>
-				<para>
-					The term "Containers-as-a-Service" is owned by Docker and should be used only when referring to that company's offering. Refer also to <xref linkend="as-a-service" />.
-				</para>
 
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="container-based">
 			<term>container-based</term>
 			 <listitem>
@@ -413,6 +415,16 @@
 			 <listitem>
 				<para>
 					Used to refer to an application or service that is distributed in a container or packed in a container.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="containers-as-a-service">
+			<term>Containers-as-a-Service</term>
+			 <listitem>
+				<para>
+					The term "Containers-as-a-Service" is owned by Docker and should be used only when referring to that company's offering. Refer also to <xref linkend="as-a-service" />.
 				</para>
 
 			</listitem>
