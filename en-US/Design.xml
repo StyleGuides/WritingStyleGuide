@@ -50,7 +50,7 @@
 			<formalpara id="verbs-titles">
 				<title>Writing Effective Titles</title>
 					<para>
-					Use a title that represents the content.
+					Use titles that represent the content.
 					</para>
           </formalpara>
 					<para>
@@ -63,7 +63,7 @@
 					In some cases, a verb might not be appropriate because the content is purely informational. Instead of using a vague verb like "Understanding", "Describing", "Introducing", or "Exploring", either use a more specific verb, or use a noun phrase instead of a verb. A noun phrase is descriptive and omits a verb, for example "OpenShift Operators" or "The OpenShift Web Console."
 					</para>
 					<para>
-					Avoid a title that consists of only one word.
+					Avoid titles that consist of only one word.
 					</para>
 			 <table>
 			<title></title>
@@ -502,7 +502,7 @@ $ vi myFile.txt
           </important> -->
           <para>
             Do not use manual line indentation for the second and subsequent lines of commands.
-			For some output formats, no control is possible over where lines would break, and any indentation might appear as extra spaces in inelegant places.
+			For some output formats, no control is possible over where lines would break, and any indentation might appear as extra spaces in awkward places.
 <!--            You can use this option for any of these designs. -->
           </para>
 
@@ -527,7 +527,8 @@ The ARN in the preceding output is different on your system.
 			 <section id="omitting">
 				<title>Omitting Part of Output</title>
           <para>
-            For the sake of brevity, do not show all output to the user in all cases, but only those parts of any output that are relevant to the context that is described.
+            For the sake of brevity, do not show all output to the user in all cases.
+			Instead, show only those parts of any output that are relevant to the context that is described.
 			Where output is not included, place a marker to show that information is purposely excluded.
 			When shortening the output, use a consistent notation.
 			For omitting entire horizontal lines of output, Red&nbsp;Hat uses the <emphasis>...output&nbsp;omitted...</emphasis> notation, starting and ending with an ellipsis, and highlighted in italics.

@@ -303,7 +303,7 @@
 			<term>artificial intelligence (AI)</term>
 			 <listitem>
 				<para>
-				Unless clarity requires it or the concept is being introduced or explained, "artificial intelligence" does not have to be spelled out on first use; "AI" is understood and suffices. When spelling it out, do not capitalize the term.
+				Unless clarity requires it or the concept is being introduced or explained, "artificial intelligence" does not have to be spelled out on first use; "AI" is understood and suffices. When spelling it out, do not capitalize the term unless it is part of a proper noun.
 				</para>
 
 			</listitem>
@@ -323,39 +323,39 @@
 						</para>
 
 					</listitem>
-					<listitem>
+					<!-- <listitem>
 						<para>
 							DRaaS (Disaster Recovery-as-a-Service)
 						</para>
 
-					</listitem>
+					</listitem> -->
 					 <listitem>
 						<para>
 							CaaS (Cloud-as-a-Service, Communications-as-a-Service, <xref linkend="containers-as-a-service" />)
 						</para>
 
 					</listitem>
-					 <listitem>
+					 <!-- <listitem>
 						<para>
 							FaaS (Functions-as-a-Service)
 						</para>
 
-					</listitem>
+					</listitem> -->
 					 <listitem>
 						<para>
 							IaaS (Infrastructure-as-a-Service)
 						</para>
 
 					</listitem>
+					 <!-- <listitem>
+						<para>
+							MaaS (Messaging-as-a-Service, Metal-as-a-Service)
+						</para>
+
+					</listitem> -->
 					 <listitem>
 						<para>
 							PaaS (Payments-as-a-Service, Platform-as-a-Service)
-						</para>
-
-					</listitem>
-					 <listitem>
-						<para>
-							MaaS (Messaging-as-a-Service, Metal-as-a-Service)
 						</para>
 
 					</listitem>
@@ -365,7 +365,7 @@
 						</para>
 
 					</listitem>
-					 <listitem>
+					 <!-- <listitem>
 						<para>
 							SECaaS (Security-as-a-Service)
 						</para>
@@ -382,7 +382,7 @@
 							UCaaS (Unified Communications-as-a-Service)
 						</para>
 
-					</listitem>
+					</listitem> -->
 
 				</itemizedlist>
 				 <para>
@@ -412,7 +412,7 @@
 					</listitem>
 					 <listitem>
 						<para>
-							Avoid using an acronym if it could stand for more than one term in a single asset, for example, if you are writing content that discusses both Cloud-as-a-Service and Containers-as-a-Service.
+							Avoid using an acronym if it could stand for more than one term in a single asset: for example, if you are writing content that discusses both Cloud-as-a-Service and Containers-as-a-Service.
 						</para>
 
 					</listitem>
