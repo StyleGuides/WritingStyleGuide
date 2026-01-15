@@ -69,7 +69,7 @@
 
 			</listitem>
 
-		</varlistentry>		
+		</varlistentry>
 
 		 <varlistentry id="infiniband">
 			<term>InfiniBand</term>
@@ -134,12 +134,12 @@
 			<term role="true">Intel 64</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> The Intel 64-bit version of the x86 architecture. 
-					Use this format when referring to information that is exclusive to Intel processors. 
-					For Red&nbsp;Hat products, use only for Red&nbsp;Hat Enterprise Linux content. 
+					<emphasis>n.</emphasis> The Intel 64-bit version of the x86 architecture.
+					Use this format when referring to information that is exclusive to Intel processors.
+					For Red&nbsp;Hat products, use only for Red&nbsp;Hat Enterprise Linux content.
 				</para>
 				 <para>
-					Cloud providers might use different formats of this term to refer to architectures. 
+					Cloud providers might use different formats of this term to refer to architectures.
 					If you are documenting code, commands, or outputs, then confer with your subject-matter expert on the correct format for the specific use case.
 				</para>
 				 <para>
@@ -151,7 +151,7 @@
 							This feature can run on only Intel 64 processors.
 						</para>
 					</listitem>
-				 </itemizedlist>				
+				 </itemizedlist>
 				 <!-- <para>
           Do not use "Hammer", "x86_64", "x86-64", "x64", "64-bit x86", or other variations as the name of this architecture.
 				</para>
@@ -317,8 +317,16 @@
 			 <listitem>
 				<para>
 					Correct.
-          Stands for Internet Protocol.
-          Capitalize both letters.
+          Capitalize both letters when it stands for Internet Protocol.
+				</para>
+				<para>
+		  When "internet protocol" is used in a general descriptive sense, use lowercase instead.
+		  Example: "TCP/IP is one of the internet protocols.
+		  The other protocols are ARP, DHCP, DNS, and FTP."
+				</para>
+				<para>
+					Do not use "IP" on its own to mean "IP address".
+          Use both words instead.
 				</para>
 
 			</listitem>
