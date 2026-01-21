@@ -19,16 +19,16 @@
 			<term role="true">AArch64, aarch64</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture. 
-					Use this term when referring to operating systems and server instances, for example Red&nbsp;Hat Enterprise Linux, Fedora, CoreOS, and other Linux distributions. 
+					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture.
+					Use this term when referring to operating systems and server instances, for example Red&nbsp;Hat Enterprise Linux, Fedora, CoreOS, and other Linux distributions.
 				</para>
 				 <para>
 					Use the uppercase (AArch64) format in general cases when referring to system architecture.
-					Use the lowercase (aarch64) format only when referring to objects or parameters. 
+					Use the lowercase (aarch64) format only when referring to objects or parameters.
 					It can be styled as code (monospace font or a code-styled block) when referring to code.
 				</para>
 				 <para>
-					Cloud providers might use different formats of this term to refer to architectures. 
+					Cloud providers might use different formats of this term to refer to architectures.
 					If you are documenting code, commands, or outputs, then confer with your subject-matter expert on the correct format for the specific use case.
 				</para>
 				 <para>
@@ -145,16 +145,16 @@
 			<term role="true">AMD64, amd64</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> The AMD 64-bit version of the x86 architecture. 
-					Use this term for Red&nbsp;Hat OpenShift Container Platform attributes, Kubernetes, operators, application programming interfaces (APIs), or command-line interface (CLI) objects. 
+					<emphasis>n.</emphasis> The AMD 64-bit version of the x86 architecture.
+					Use this term for Red&nbsp;Hat OpenShift Container Platform attributes, Kubernetes, operators, application programming interfaces (APIs), or command-line interface (CLI) objects.
 				</para>
 				 <para>
 					Use the uppercase format (AMD64) in general sentences when referring to Red&nbsp;Hat OpenShift Container Platform features.
-					Use the lowercase format (amd64) only when referring to objects or parameters. 
+					Use the lowercase format (amd64) only when referring to objects or parameters.
 					It can be styled as code (monospace font or a code-styled block) when referring to code.
 				</para>
 				 <para>
-					Cloud providers might use different formats of this term to refer to architectures. 
+					Cloud providers might use different formats of this term to refer to architectures.
 					If you are documenting code, commands, or outputs, then confer with your subject-matter expert on the correct format for the specific use case.
 				</para>
 				 <para>
@@ -196,16 +196,16 @@
 			<term role="true">ARM64, arm64</term>
 			 <listitem>
 				<para>
-					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture. 
-					Use this term for Red&nbsp;Hat OpenShift Container Platform attributes, Kubernetes, operators, application programming interfaces (APIs), and command-line interface (CLI) objects. 
+					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture.
+					Use this term for Red&nbsp;Hat OpenShift Container Platform attributes, Kubernetes, operators, application programming interfaces (APIs), and command-line interface (CLI) objects.
 				</para>
 				 <para>
 					Use the uppercase format (ARM64) in general sentences when referring to Red&nbsp;Hat OpenShift Container Platform features.
-					Use lowercase format (arm64) only when referring to objects or parameters. 
+					Use lowercase format (arm64) only when referring to objects or parameters.
 					It can be styled as code (monospace font or a code-styled block) when referring to code.
 				</para>
 				 <para>
-					Cloud providers might use different formats of this term to refer to architectures. 
+					Cloud providers might use different formats of this term to refer to architectures.
 					If you are documenting code, commands, or outputs, then confer with your subject-matter expert on the correct format for the specific use case.
 				</para>
 				 <para>
@@ -303,7 +303,7 @@
 			<term>artificial intelligence (AI)</term>
 			 <listitem>
 				<para>
-				Unless clarity requires it or the concept is being introduced or explained, "artificial intelligence" does not have to be spelled out on first use; "AI" is understood and suffices. When spelling it out, do not capitalize the term.	
+				Unless clarity requires it or the concept is being introduced or explained, "artificial intelligence" does not have to be spelled out on first use; "AI" is understood and suffices. When spelling it out, do not capitalize the term unless it is part of a proper noun.
 				</para>
 
 			</listitem>
@@ -319,34 +319,40 @@
 				 <itemizedlist>
 					<listitem>
 						<para>
-							DRaaS (Disaster Recovery-as-a-Service)
+							AIaaS (Artificial Intelligence-as-a-Service)
 						</para>
 
 					</listitem>
+					<!-- <listitem>
+						<para>
+							DRaaS (Disaster Recovery-as-a-Service)
+						</para>
+
+					</listitem> -->
 					 <listitem>
 						<para>
 							CaaS (Cloud-as-a-Service, Communications-as-a-Service, <xref linkend="containers-as-a-service" />)
 						</para>
 
 					</listitem>
-					 <listitem>
-						<para>
-							UCaaS (Unified Communications-as-a-Service)
-						</para>
-
-					</listitem>
-					 <listitem>
+					 <!-- <listitem>
 						<para>
 							FaaS (Functions-as-a-Service)
 						</para>
 
-					</listitem>
+					</listitem> -->
 					 <listitem>
 						<para>
-							SaaS (Search-as-a-Service, Security-as-a-Service, Storage-as-a-Service, or Software-as-a-Service)
+							IaaS (Infrastructure-as-a-Service)
 						</para>
 
 					</listitem>
+					 <!-- <listitem>
+						<para>
+							MaaS (Messaging-as-a-Service, Metal-as-a-Service)
+						</para>
+
+					</listitem> -->
 					 <listitem>
 						<para>
 							PaaS (Payments-as-a-Service, Platform-as-a-Service)
@@ -355,11 +361,11 @@
 					</listitem>
 					 <listitem>
 						<para>
-							MaaS (Messaging-as-a-Service, Metal-as-a-Service)
+							SaaS (Search-as-a-Service, Security-as-a-Service, Software-as-a-Service, or Storage-as-a-Service)
 						</para>
 
 					</listitem>
-					 <listitem>
+					 <!-- <listitem>
 						<para>
 							SECaaS (Security-as-a-Service)
 						</para>
@@ -371,6 +377,12 @@
 						</para>
 
 					</listitem>
+					 <listitem>
+						<para>
+							UCaaS (Unified Communications-as-a-Service)
+						</para>
+
+					</listitem> -->
 
 				</itemizedlist>
 				 <para>
@@ -400,7 +412,7 @@
 					</listitem>
 					 <listitem>
 						<para>
-							Avoid use of an acronym if it could stand for more than one term in a single asset. for example, if you are writing content that discusses both Cloud-as-a-Service and Containers-as-a-Service.
+							Avoid using an acronym if it could stand for more than one term in a single asset: for example, if you are writing content that discusses both Cloud-as-a-Service and Containers-as-a-Service.
 						</para>
 
 					</listitem>
@@ -414,10 +426,10 @@
 			<term>as Code</term>
 			 <listitem>
 				<para>
-					Use camel case for both the full term and the acronym. 
+					Use camel case for both the full term and the acronym.
 					Do not hyphenate.
 					Some "as Code" acronyms might overlap.
-          			To avoid confusion, always spell out the full term on first use.					
+          			To avoid confusion, always spell out the full term on first use.
 				</para>
 				<para>
 					Examples:

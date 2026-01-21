@@ -94,7 +94,7 @@
 				<term>apples to apples</term>
 				 <listitem>
 					<para>
-						Do not use. Explain instead what is meant, such as "a fair comparison". 
+						Do not use. Explain instead what is meant, such as "a fair comparison".
 					</para>
 
 				</listitem>
@@ -180,7 +180,7 @@
 
 				</listitem>
 
-			</varlistentry>  
+			</varlistentry>
 			 <varlistentry>
 				<term>bottom line</term>
 				 <listitem>
@@ -527,7 +527,7 @@
 				<term>low-hanging fruit</term>
 				 <listitem>
 					<para>
-						Metaphor. Do not use. Instead, describe the outcome or opportunity in more precise terms, such as "readily achievable goals" or "low-risk, high-yield opportunities". 
+						Metaphor. Do not use. Instead, describe the outcome or opportunity in more precise terms, such as "readily achievable goals" or "low-risk, high-yield opportunities".
 					</para>
 
 				</listitem>
@@ -978,8 +978,8 @@
 							</thead>
 							 <tbody>
 								<row>
-									<entry> Using the ausearch command allows administrators to focus on only the messages they are interested in. </entry>
-									 <entry> Administrators can use the ausearch command to focus on only messages of interest. </entry>
+									<entry> Using the <command>ausearch</command> command allows administrators to focus on only the messages they are interested in. </entry>
+									 <entry> Administrators can use the <command>ausearch</command> command to focus on only messages of interest. </entry>
 
 								</row>
 								<row>
@@ -988,8 +988,8 @@
 
 								</row>
 								<row>
-									<entry> The system menu allows you to switch network and VPN connections on or off. </entry>
-									 <entry> From the system menu, you can switch network and VPN connections on or off. </entry>
+									<entry> The <guimenu>system</guimenu> menu allows you to switch network and VPN connections on or off. </entry>
+									 <entry> From the <guimenu>system</guimenu> menu, you can switch network and VPN connections on or off. </entry>
 
 								</row>
 								<row>
@@ -1036,7 +1036,7 @@
 		</para>
 		 <para>
 			Do not use "master" when it is paired with "slave".
-			 The master and slave mount propagation terminology that is used in Linux is problematic and divisive, and needs to be changed. 
+			 The master and slave mount propagation terminology that is used in Linux is problematic and divisive, and needs to be changed.
 			 When naming the default branch name for a GitHub repository, use "main" instead of "master".
 			 Use of "master" is acceptable in other contexts, such as to refer to mastery of a skill.
 		</para>
@@ -1064,7 +1064,7 @@
 		<title>Avoiding Redundant Words</title>
 		 <para>
 			Avoid redundant words, such as "actually", "really", "simply", and "very".
-      They are typically filler words that add no value to a sentence.  
+      They are typically filler words that add no value to a sentence.
 		</para>
 		 <para>
 			Redundant words might also occur where two words or phrases are used that mean approximately the same thing, such as "revert back" versus "revert", or that add nothing to the sentence, such as "located on" versus "on".
@@ -1139,24 +1139,24 @@
 							 <tbody>
 								<row>
 									<entry> The <methodname>next()</methodname> method should return <code>null</code> to indicate the end of results. </entry>
-									 <entry> 
+									 <entry>
 									 <para>
-									 The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results. 
+									 The <methodname>next()</methodname> method is expected to return <code>null</code> to indicate the end of results.
 									 </para>
 									 <para>
-									 <emphasis>Or:</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results. 
+									 <emphasis>Or:</emphasis> The <methodname>next()</methodname> method must return <code>null</code> to indicate the end of results.
 									 </para>
 									 </entry>
 
 								</row>
 								 <row>
 									<entry> It may be held in memory. </entry>
-									 <entry> 
+									 <entry>
 									 <para>
-									 It can be held in memory. 
+									 It can be held in memory.
 									 </para>
 									 <para>
-									 <emphasis>Or:</emphasis> It might be held in memory. 
+									 <emphasis>Or:</emphasis> It might be held in memory.
 									 </para>
 									 </entry>
 
@@ -1170,7 +1170,7 @@
 
 				</listitem>
 
-			</varlistentry>			
+			</varlistentry>
 			<varlistentry id="easy">
 				<term> Avoid Stating that Something Is Easy </term>
 				 <listitem>
@@ -1194,9 +1194,9 @@
 							</thead>
 							 <tbody>
 								<row>
-									<entry> Mounting a device is relatively simple. 
+									<entry> Mounting a device is relatively simple.
 									Identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point.</entry>
-									 <entry> (Omit the first sentence.) 
+									 <entry> (Omit the first sentence.)
 									 To mount a device, identify the device for mounting, ensure that the mount point exists, and mount the device on the mount point. </entry>
 
 								</row>
@@ -1273,12 +1273,12 @@
 							 <tbody>
 								 <row>
 									<entry> To create another administrator, click <guimenuitem>File > New</guimenuitem>. </entry>
-									 <entry> 
-									<para> 									 
-									 To create another administrator account, click <guimenuitem>File > New</guimenuitem>. 
-									</para>									 
-									<para> 
-									 <emphasis>Or:</emphasis> To set privileges for another administrator, click <guimenuitem>File > New</guimenuitem>. 
+									 <entry>
+									<para>
+									 To create another administrator account, click <guimenuitem>File > New</guimenuitem>.
+									</para>
+									<para>
+									 <emphasis>Or:</emphasis> To set privileges for another administrator, click <guimenuitem>File > New</guimenuitem>.
 									</para>
 									</entry>
 
@@ -1323,12 +1323,12 @@
 								<row>
 									<entry> Use the utility to run activities and save your settings. </entry>
 								<!-- Split into 2 sentences	 -->
-									 <entry> Depending on the meaning: 
+									 <entry> Depending on the meaning:
 									 <para>
-									 Use the utility to run activities and to save your settings (if the utility does both functions). 
+									 Use the utility to run activities and to save your settings (if the utility does both functions).
 									</para>
 									 <para>
-									 <emphasis>Or:</emphasis> Use the utility to run activities, and then save your settings (if the process consists of two separate steps, of which the utility does only one). 
+									 <emphasis>Or:</emphasis> Use the utility to run activities, and then save your settings (if the process consists of two separate steps, of which the utility does only one).
 									 </para>
 									 </entry>
 
@@ -1400,17 +1400,17 @@
 							</thead>
 							 <tbody>
 								<row>
-									<entry> 
+									<entry>
 									<para>
-									Users can only delete files that they own. 
+									Users can only delete files that they own.
 									</para>
 									<para>
 									(Misleadingly suggests that users cannot take any actions other than deletion on those files)
 									</para>
 									</entry>
-									<entry> 
+									<entry>
 									<para>
-									Users can delete only files that they own. 
+									Users can delete only files that they own.
 									</para>
 									<para>
 									(Clarifies the files that deletion applies to)
