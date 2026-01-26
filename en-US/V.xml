@@ -30,6 +30,17 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="very">
+			<term>very</term>
+			 <listitem>
+				<para>
+					Avoid intensifier words, because they add little value.
+					For example, it does not add much value to use "very cost-effective" versus "cost-effective".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="vi">
 			<term>vi</term>
 			 <listitem>
@@ -112,6 +123,19 @@
 				</para>
 				 <para>
 					Refer also to "guest operating system".
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="vllm">
+			<term>virtual large language model (vLLM)</term>
+			 <listitem>
+				<para>
+					When spelled out, do not hyphenate.
+				</para>
+				 <para>
+          Refer also to <xref linkend="artificial-intelligence"/> and <xref linkend="gen-ai"/>.
 				</para>
 
 			</listitem>

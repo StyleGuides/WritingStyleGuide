@@ -109,7 +109,7 @@
 			<term>file mode, file name, file system, file type</term>
 			 <listitem>
 				<para>
-          <emphasis>n.</emphasis> Write as shown, two words, unless used as a variable. 
+          <emphasis>n.</emphasis> Write as shown, two words, unless used as a variable.
 		  For more information, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
          	<guiicon><inlinemediaobject>
             <imageobject>
@@ -120,6 +120,19 @@
         <para>
           <emphasis>adj.</emphasis> Hyphenate when used as a compound adjective. For example, "file-system attributes".
         </para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="fine-tune">
+			<term>fine-tune, fine-tuning</term>
+			 <listitem>
+				<para>
+					When used to describe training a pretrained large language model (LLM) further, always hyphenate.
+				</para>
+				 <para>
+          Refer also to <xref linkend="artificial-intelligence"/> and <xref linkend="gen-ai"/>.
+				</para>
 
 			</listitem>
 

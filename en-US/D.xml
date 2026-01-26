@@ -25,7 +25,7 @@
 				<para>
 					Use a dash to show a range, such as for page numbers, letters, pages, or dates.
 					Otherwise, do not use dashes in technical content.
-					Instead, use other punctuation marks, such as commas, parentheses, or a colon. 
+					Instead, use other punctuation marks, such as commas, parentheses, or a colon.
 				</para>
 
 			</listitem>
@@ -127,6 +127,19 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="deep-learning">
+			<term>deep learning</term>
+			 <listitem>
+				<para>
+					<emphasis>n., adj.</emphasis> Do not hyphenate, even when used as a compound adjective (for example, "deep learning tool").
+				</para>
+				 <para>
+          Refer also to <xref linkend="artificial-intelligence"/> and <xref linkend="gen-ai"/>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="denial-of-service">
 			<term>denial of service (DoS)</term>
 			 <listitem>
@@ -146,7 +159,7 @@
 
 			</listitem>
 
-		</varlistentry>		
+		</varlistentry>
 		 <varlistentry id="desktop">
 			<term>desktop</term>
 			 <listitem>
@@ -185,7 +198,7 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> Use "dialog box" (<emphasis>not</emphasis> "dialog", "dialogue", or "dialogue box"), to refer to an element that is displayed for a user to interact with a graphical user interface.
-				</para>					
+				</para>
 				<para>
 					Use this term regardless of whether a dialog box is <emphasis>modal</emphasis>, where the user must respond to a prompt before the main content of the interface is enabled again, or is <emphasis>non-modal</emphasis>, where the user can continue interacting with the main content when the dialog box is open.
 				</para>

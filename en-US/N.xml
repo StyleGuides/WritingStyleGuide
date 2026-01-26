@@ -25,6 +25,19 @@
  			</listitem>
 
  		</varlistentry>
+		 <varlistentry id="nlp">
+			<term>natural language processing (NLP)</term>
+			 <listitem>
+				<para>
+					Spell out on first reference. Do not hyphenate.
+				</para>
+				 <para>
+          Refer also to <xref linkend="artificial-intelligence"/> and <xref linkend="gen-ai"/>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="navigate-to">
  			<term>navigate to</term>
  			 <listitem>
