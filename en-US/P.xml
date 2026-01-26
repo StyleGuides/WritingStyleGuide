@@ -45,6 +45,19 @@
         </para>
       </listitem>
     </varlistentry>
+		 <varlistentry id="performance-tune">
+			<term>performance tune, performance tuning</term>
+			 <listitem>
+				<para>
+					Do not hyphenate, even when used as a compound adjective (for example, "performance tuning techniques").
+				</para>
+				 <para>
+          Refer also to <xref linkend="artificial-intelligence"/>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="php">
 			<term>PHP</term>
 			 <listitem>
@@ -127,7 +140,7 @@
 			 <listitem>
 				<para>
 					For times of day, use uppercase without periods, and use a preceding nonbreaking space after the numeral, for example "2&nbsp;PM".
-				</para> 
+				</para>
         <para>
           Refer also to <xref linkend="am"/>.
         </para>

@@ -304,6 +304,27 @@
 			 <listitem>
 				<para>
 				Unless clarity requires it or the concept is being introduced or explained, "artificial intelligence" does not have to be spelled out on first use; "AI" is understood and suffices. When spelling it out, do not capitalize the term unless it is part of a proper noun.
+				Do not hyphenate, even when used as a compound adjective.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="ai-ml">
+			<term>artificial intelligence and machine learning (AI/ML)</term>
+			 <listitem>
+				<para>
+          Refer also to <xref linkend="artificial-intelligence"/>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="aiops">
+			<term>artificial intelligence for IT operations (AIOps)</term>
+			 <listitem>
+				<para>
+          Refer also to <xref linkend="artificial-intelligence"/>.
 				</para>
 
 			</listitem>

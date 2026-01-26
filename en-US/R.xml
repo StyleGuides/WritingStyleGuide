@@ -140,7 +140,7 @@
 			 <listitem>
 				<para>
 					A dedicated server to handle users who are not on a LAN but who need remote access to it.
-          With a remote access server, users can access files and print services on the LAN from a remote location. 
+          With a remote access server, users can access files and print services on the LAN from a remote location.
 				</para>
 
 			</listitem>
@@ -151,6 +151,16 @@
 			 <listitem>
 				<para>
 					Refer to <xref linkend="must" />.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="rag">
+			<term>retrieval-augmented generation (RAG)</term>
+			 <listitem>
+				 <para>
+          Refer also to <xref linkend="artificial-intelligence"/> and <xref linkend="gen-ai"/>.
 				</para>
 
 			</listitem>

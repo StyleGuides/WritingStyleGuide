@@ -71,6 +71,30 @@
 
 		</varlistentry>
 
+		 <varlistentry id="inference">
+			<term>inference, inferencing</term>
+			 <listitem>
+				<para>
+			AI inference is when an AI model provides an answer based on data.
+			In the context of AI, "inference" can be used as a noun or a verb.
+				</para>
+				<para>
+			Examples:
+				</para>
+				<para>
+			Noun: "The model can make inferences." or "An inference server is the piece of software that enables AI applications to communicate with LLMs and to generate a response based on data. This process is called <emphasis>inference</emphasis>."
+				</para>
+				<para>
+			Verb: "To perform effectively, LLMs need extensive storage, memory, and infrastructure to inference at scale, which is why it can take the majority of your budget."
+				</para>
+				 <para>
+          Refer also to <xref linkend="artificial-intelligence"/>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
+
 		 <varlistentry id="infiniband">
 			<term>InfiniBand</term>
 			 <listitem>
