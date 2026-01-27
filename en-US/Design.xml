@@ -1340,6 +1340,12 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 					</listitem>
 					 <listitem>
 						<para>
+							In a publication title or in a reference to such a title, placed before a numeral that denotes part of a sequence in a series of publications.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
 							Between a numeral and a unit of measurement.
 						</para>
 
@@ -1352,13 +1358,25 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 				 <itemizedlist>
 					<listitem>
 						<para>
-							Red&#123;nbsp&#125;Hat Enterprise Linux&#123;nbsp&#125;8
+							Red&#123;nbsp&#125;Hat Enterprise Linux&#123;nbsp&#125;10
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							Red&#123;nbsp&#125;Hat OpenShift Container Platform&#123;nbsp&#125;4.9
+							Red&#123;nbsp&#125;Hat OpenShift Container Platform&#123;nbsp&#125;4.20
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Red&#123;nbsp&#125;Hat System Administration&#123;nbsp&#125;I
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Red&#123;nbsp&#125;Hat OpenShift Administration&#123;nbsp&#125;II: Operating a Production Kubernetes Cluster
 						</para>
 
 					</listitem>
