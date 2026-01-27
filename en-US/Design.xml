@@ -903,41 +903,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 			<title>Referring to Object Names</title>
 			 <para>
 				When using object names, write a sentence so that it is complete without the object name.
-			</para>
-
-			 <table>
-			<title></title>
-			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
-				 <thead>
-					<row>
-						<entry> Example </entry>
-						 <entry> Improvement </entry>
-
-					</row>
-
-				</thead>
-				 <tbody>
-					<row>
-						<entry> Find the current default <systemitem>StorageClass</systemitem>. </entry>
-						 <entry>
-						 <para>
-						 Either: Find the current default storage class.
-						 </para>
-						 <para>
-						 Or: Find the current default <systemitem>StorageClass</systemitem> value.
-						 </para>
-						</entry>
-
-					</row>
-
-				</tbody>
-
-			</tgroup>
-
-		</table>
-			 <para>
+				Ensure that an object name is written as an adjective, with a qualifying noun to follow.
 				Avoid starting or ending a sentence with an object name.
 			</para>
 
@@ -956,8 +922,52 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 				</thead>
 				 <tbody>
 					<row>
-						<entry> <systemitem>Umount /mnt/save</systemitem>. </entry>
+						<entry> Use the <command>ovn-nbctl lsp-add</command> command to create the corresponding logical switch port on <systemitem>ls-blue</systemitem>. </entry>
+						 <entry> Use the <command>ovn-nbctl lsp-add</command> command to create the corresponding logical switch port on the <systemitem>ls-blue</systemitem> router. </entry>
+
+					</row>
+					<row>
+						<entry> <filename>Umount /mnt/save</filename>. </entry>
 						 <entry> Unmount the <filename>/mnt/save</filename> directory. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+			 <para>
+				In cases where it is not needed to quote an object name explicitly, consider using plain words instead without markup.
+			</para>
+
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Find the current default <systemitem>StorageClass</systemitem>. </entry>
+						 <entry> Find the current default storage class. </entry>
+
+					</row>
+					<row>
+						<entry> Why is this packet dropped by a <systemitem>NetworkPolicy</systemitem>? </entry>
+						 <entry> Why does a network policy drop this packet? </entry>
+
+					</row>
+					<row>
+						<entry> The Cluster Network Operator is responsible for deploying Multus as a <systemitem>DaemonSet</systemitem> on every node in the cluster. </entry>
+						 <entry> The Cluster Network Operator is responsible for deploying Multus as a daemon set on every node in the cluster. </entry>
 
 					</row>
 					<row>
