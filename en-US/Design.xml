@@ -263,7 +263,7 @@
 			 	This section describes how to start applications from a Red&nbsp;Hat Enterprise&nbsp;Linux-based distribution.
 			</para>
 			 <para>
-				RHEL&nbsp;8 uses the following approach to starting applications from the desktop.
+				RHEL&nbsp;10 uses the following approach to starting applications from the desktop.
 				To maintain consistency and to make translation easier, Red&nbsp;Hat documentation assumes the use of GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to start applications.
 			</para>
 			 <para>
@@ -273,7 +273,7 @@
 			 <example id="exam-starting-apps">
 				<title>Preferred Approach to Starting Applications from the Desktop</title>
 				 <para>
-					To start gedit, press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>gedit</literal>, and then press <keycap>Enter</keycap>.
+					To start the text editor, press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>text</literal>, and then press <keycap>Enter</keycap>.
 				</para>
 
 			</example>
