@@ -903,6 +903,44 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 			<title>Referring to Object Names</title>
 			 <para>
 				When using object names, write a sentence so that it is complete without the object name.
+				Ensure that an object name is written as an adjective, with a qualifying noun to follow.
+				Avoid starting or ending a sentence with an object name.
+			</para>
+
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Use <command>ovn-nbctl lsp-add</command> to create the corresponding logical switch port on <systemitem>ls-blue</systemitem>. </entry>
+						 <entry> Use the <command>ovn-nbctl lsp-add</command> command to create the corresponding logical switch port on the <systemitem>ls-blue</systemitem> router. </entry>
+
+					</row>
+					<row>
+						<entry> <filename>Umount /mnt/save</filename>. </entry>
+						 <entry> Unmount the <filename>/mnt/save</filename> directory. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+			 <para>
+				Consider whether it is better to use an object name with a following noun, or to use plain language without markup instead.
+				In some cases, using plain language might be the better option, either if quoting an object name is not strictly necessary, or if the object name is self-referential and contains the required noun, to avoid duplication such as "Review the <systemitem>NetworkPolicy</systemitem> policy".
+				Refer also to the <xref linkend="naming-object-classes"/> section.
 			</para>
 
 			 <table>
@@ -922,42 +960,22 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 					<row>
 						<entry> Find the current default <systemitem>StorageClass</systemitem>. </entry>
 						 <entry>
-						 <para>
-						 Either: Find the current default storage class.
-						 </para>
-						 <para>
-						 Or: Find the current default <systemitem>StorageClass</systemitem> value.
-						 </para>
-						</entry>
+			 				<para>
+								Either: Find the current default storage class.
+							</para>
+			 				<para>
+								Or: Find the current default <systemitem>StorageClass</systemitem> value.
+							</para>
+						 </entry>
+					</row>
+					<row>
+						<entry> Why is this packet dropped by a <systemitem>NetworkPolicy</systemitem>? </entry>
+						 <entry> Why does a network policy drop this packet? </entry>
 
 					</row>
-
-				</tbody>
-
-			</tgroup>
-
-		</table>
-			 <para>
-				Avoid starting or ending a sentence with an object name.
-			</para>
-
-			 <table>
-			<title></title>
-			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
-				 <thead>
 					<row>
-						<entry> Example </entry>
-						 <entry> Improvement </entry>
-
-					</row>
-
-				</thead>
-				 <tbody>
-					<row>
-						<entry> <systemitem>Umount /mnt/save</systemitem>. </entry>
-						 <entry> Unmount the <filename>/mnt/save</filename> directory. </entry>
+						<entry> The Cluster Network Operator is responsible for deploying Multus as a <systemitem>DaemonSet</systemitem> on every node in the cluster. </entry>
+						 <entry> The Cluster Network Operator is responsible for deploying Multus as a daemon set on every node in the cluster. </entry>
 
 					</row>
 					<row>
@@ -1330,6 +1348,12 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 					</listitem>
 					 <listitem>
 						<para>
+							In a formal title, placed before a numeral that denotes part of a sequence.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
 							Between a numeral and a unit of measurement.
 						</para>
 
@@ -1342,13 +1366,31 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 				 <itemizedlist>
 					<listitem>
 						<para>
-							Red&#123;nbsp&#125;Hat Enterprise Linux&#123;nbsp&#125;8
+							Red&#123;nbsp&#125;Hat Enterprise Linux&#123;nbsp&#125;10
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							Red&#123;nbsp&#125;Hat OpenShift Container Platform&#123;nbsp&#125;4.9
+							Red&#123;nbsp&#125;Hat OpenShift Container Platform&#123;nbsp&#125;4.20
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Red&#123;nbsp&#125;Hat System Administration&#123;nbsp&#125;I
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Red&#123;nbsp&#125;Hat OpenShift Administration&#123;nbsp&#125;II: Operating a Production Kubernetes Cluster
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Memory Part&#123;nbsp&#125;2: CPU Caches
 						</para>
 
 					</listitem>
