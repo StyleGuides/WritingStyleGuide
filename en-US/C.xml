@@ -457,7 +457,7 @@
 			<term>continuous deployment</term>
 			 <listitem>
 				<para>
-					A special case of continuous delivery, where approved code is automatically pushed to production. Do not use "CD" to refer to this practice.
+					A special case of continuous delivery, where approved code is automatically pushed to production.
 				</para>
 
 			</listitem>
