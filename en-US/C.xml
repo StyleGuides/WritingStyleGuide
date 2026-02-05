@@ -150,7 +150,7 @@
 			<term>CI/CD</term>
 			 <listitem>
 				<para>
-					Define on first use; generally continuous integration/continuous delivery. It does not mean continuous development, a term with questionable usefulness and only marginal adoption.
+					Define on first use; generally continuous integration/continuous delivery or deployment. It does not mean continuous development, a term with questionable usefulness and only marginal adoption.
 				</para>
 				 <para>
 					Refer also to <xref linkend="continuous-integration" />, <xref linkend="continuous-delivery" />, <xref linkend="continuous-deployment" />.
