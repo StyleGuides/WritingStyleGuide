@@ -5,10 +5,61 @@
 ]>
 <section id="new">
         <title>New in This Release</title>
+		<formalpara id="new_72">
+		<title>Release 7.2</title>
+            <para>Maintenance release in February 2026, with some added and updated guidance.</para>
+                </formalpara>
+            <itemizedlist>
+				<listitem>
+                                        <para>Added further guidance and examples about referring to object names.
+										Refer to <xref linkend="refer-object-names"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an further use case for using a non-breaking space: In a formal title, placed before a numeral that denotes part of a sequence.
+										Refer to <xref linkend="nonbreaking-spaces"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added further examples of anthropomorphism to avoid.
+										Refer to <xref linkend="item-Anthropomorphism-Examples"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Updated guidance about spacing in lists and when to use compact lists.
+										Refer to <xref linkend="list-spacing"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Updated "Starting Applications from the Desktop" to reflect Red&nbsp;Hat Enterprise Linux&nbsp;10.
+										Refer to <xref linkend="starting-apps"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added entries for terms that relate to artificial intelligence.
+										Refer to <xref linkend="ai-ml"/>, <xref linkend="aiops"/>, <xref linkend="chatbot"/>, <xref linkend="deep-learning"/>, <xref linkend="fine-tune"/>, <xref linkend="inference"/>, <xref linkend="llm"/>, <xref linkend="machine-learning"/>, <xref linkend="nlp"/>, <xref linkend="performance-tune"/>, <xref linkend="rag"/>, <xref linkend="slm"/>, and <xref linkend="vllm"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Updated entry for "IP": Do not use "IP" on its own to mean "IP address"; and when to use "Internet Protocol" versus "internet protocol".
+										Refer to <xref linkend="ip"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry to specify hyphenation for "non-real-time".
+										Refer to <xref linkend="non-real-time"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added entries to specify hyphenation for "out-of-date" and "up-to-date".
+										Refer to <xref linkend="out-of-date"/> and <xref linkend="up-to-date"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Added an entry for "upskill".
+										Refer to <xref linkend="upskill"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Various other fixes.</para>
+				</listitem>
+
+			</itemizedlist>
+
 		<formalpara id="new_71">
 		<title>Release 7.1</title>
             <para>Maintenance release in June 2025, with some added and updated guidance.</para>
-                </formalpara>   
+                </formalpara>
             <itemizedlist>
 				<listitem>
                                         <para>Added an entry for "artificial intelligence (AI)".
@@ -67,16 +118,16 @@
 										Refer to <xref linkend="Sentence_Structure-Using_Lists_Correctly"/>.</para>
 				</listitem>
 				<listitem>
-                                        <para>Various other fixes.</para>				
+                                        <para>Various other fixes.</para>
 				</listitem>
 
-			</itemizedlist>        
+			</itemizedlist>
 
 		<formalpara id="new_70">
 		<title>Release 7.0</title>
             <para>Major update in November 2024, with extensive added and updated guidance.</para>
             <!-- <para>Major update in November 2024 with migration to a new hosting site, and extensive added and updated guidance.</para> -->
-                </formalpara>   
+                </formalpara>
             <itemizedlist>
 				<!-- <listitem>
                                         <para>This guide is now hosted at https://nnn.redhat.com and no longer at https://stylepedia.net/.</para>
@@ -94,130 +145,130 @@
 				</listitem>
 				<listitem>
                                         <para>Updated the audience information.
-										Refer to <xref linkend="audience"/>.</para>			
+										Refer to <xref linkend="audience"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated the resources information.
-										Refer to <xref linkend="resources"/>.</para>			
+										Refer to <xref linkend="resources"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated guidance to use the simpler phrase "go to" rather than "navigate to", for directing readers to a location.
-										Refer to <xref linkend="go-to"/> and <xref linkend="navigate-to"/>.</para>	
+										Refer to <xref linkend="go-to"/> and <xref linkend="navigate-to"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated guidance on when to use "named" versus "called" to refer to different items.
-										Refer to <xref linkend="named"/> and <xref linkend="called"/>.</para>	
+										Refer to <xref linkend="named"/> and <xref linkend="called"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Added a definition of "mission-critical".
-										Refer to <xref linkend="mission-critical"/>.</para>	
+										Refer to <xref linkend="mission-critical"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated guidance for "command line", "command-line", "command prompt", "shell prompt", and "terminal".
-										Refer to <xref linkend="command-line"/>, <xref linkend="shell-prompt"/>, and <xref linkend="terminal"/>.</para>	
+										Refer to <xref linkend="command-line"/>, <xref linkend="shell-prompt"/>, and <xref linkend="terminal"/>.</para>
 				</listitem>
 				<listitem>
-                                        <para>Other new or updated usage entries: 
+                                        <para>Other new or updated usage entries:
 										dash, data store/datastore, dialog box, EPUB, hardened, Infrastructure as Code (IaC), lifecycle, secure, sign in/sign-in.
-										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>			
+										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Removed usage entries: check, emdash.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated guidance on using "Overview" in a title.
-										Refer to <xref linkend="overview"/>.</para>	
+										Refer to <xref linkend="overview"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Clarified the use of non-breaking spaces.
-										Refer to <xref linkend="nonbreaking-spaces"/>.</para>	
+										Refer to <xref linkend="nonbreaking-spaces"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Added guidance on notation for omitting vertical output.
-										Refer to <xref linkend="omitting"/>.</para>	
+										Refer to <xref linkend="omitting"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated guidance on when to use compact spacing in lists.
-										Refer to <xref linkend="Sentence_Structure-Using_Lists_Correctly"/>.</para>	
+										Refer to <xref linkend="Sentence_Structure-Using_Lists_Correctly"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Added the pipe character to the table of special characters.
-										Refer to <xref linkend="punc-names"/>.</para>			
+										Refer to <xref linkend="punc-names"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>If dark mode is selected, it now persists across web page refreshes.</para>
 				</listitem>
 				<listitem>
-                                        <para>Various other fixes.</para>				
+                                        <para>Various other fixes.</para>
 				</listitem>
 
-			</itemizedlist>        
+			</itemizedlist>
 
 		<formalpara id="new_62">
 		<title>Release 6.2</title>
             <para>Update in February 2024 to provide added or updated guidance and to address reported issues.</para>
-                </formalpara>   
+                </formalpara>
             <itemizedlist>
 				<listitem>
                                         <para>Added guidance about line continuation for multiple operating systems.
-										Refer to <xref linkend="continuation"/>.</para>			
+										Refer to <xref linkend="continuation"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Various updates to guidance about punctuation, including in lists and in tables.
-										Refer to <xref linkend="punctuation"/>.</para>			
+										Refer to <xref linkend="punctuation"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated guidance about referring to special characters.
-										Refer to <xref linkend="referring-punc-special-chars"/>.</para>			
+										Refer to <xref linkend="referring-punc-special-chars"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>You can use the possessive form of the company name (Red&nbsp;Hat's) to refer to the company itself, not to any products or services.
-										Refer to <xref linkend="possessives"/>.</para>			
+										Refer to <xref linkend="possessives"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated guidance about referring to named objects: usually as an adjective followed by a noun, but with some stated exceptions.
-										Refer to <xref linkend="refer-object-names"/>.</para>			
+										Refer to <xref linkend="refer-object-names"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated guidance about using realistic usernames, and updated some of the username examples.
-										Refer to <xref linkend="using-realistic-names"/>.</para>			
+										Refer to <xref linkend="using-realistic-names"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Added some clarifications about writing titles, and about the use of titles and captions with tables and images.
-										Refer to <xref linkend="heading-styles"/>.</para>			
+										Refer to <xref linkend="heading-styles"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Added guidance about referring to Booleans.
-										Refer to <xref linkend="boolean"/>.</para>			
+										Refer to <xref linkend="boolean"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Use "refer to" instead of "see" for references.
-										Refer to <xref linkend="refer-to"/>.</para>			
+										Refer to <xref linkend="refer-to"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated terms that relate to 64-bit architecture: 64-bit ARM, 64-bit x86, AArch64, aarch64, AMD64, amd64, ARM64, arm64, Intel 64, x86_64.
-										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>			
+										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated terms that relate to archive files: tar, tarball, untar, unzip, zip.
-										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>			
+										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>New or updated usage entries: lookup, refer to, screenshot, see.
-										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>			
+										Refer to <xref linkend="part-Usage_Dictionary"/>.</para>
 				</listitem>
 				<listitem>
-                                        <para>Various other fixes.</para>				
+                                        <para>Various other fixes.</para>
 				</listitem>
 
-			</itemizedlist>        
+			</itemizedlist>
 
 
 		<formalpara id="new_61">
 		<title>Release 6.1</title>
                         <para>Update in August 2023 to provide added or updated guidance and to address reported issues.
 						The listed items here now include links to the appropriate sections.</para>
-                </formalpara>   
+                </formalpara>
                         <itemizedlist>
 				<listitem>
 										<para>Updated audience information for this guide.
@@ -249,7 +300,7 @@
 				</listitem>
 				<listitem>
                                         <para>Restructured "Using Abbreviations, Acronyms, Initialisms, and Special Characters Correctly".
-										Refer to <xref linkend="abbreviations-correctly"/>.</para>	
+										Refer to <xref linkend="abbreviations-correctly"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Rewrote "The Repeatability Test" section and renamed it to "Repetition".
@@ -261,7 +312,7 @@
 				</listitem>
 				<listitem>
                                         <para>Inclusive naming of default branch.
-										Refer to <xref linkend="inclusive-language"/>.</para>		
+										Refer to <xref linkend="inclusive-language"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
@@ -281,21 +332,21 @@
 				</listitem>
 				<listitem>
                                         <para>Use "team" or "group" instead of "squad".
-										Refer to <xref linkend="squad"/>.</para>			
+										Refer to <xref linkend="squad"/>.</para>
 				</listitem>
 				<listitem>
-                                        <para>Improved formatting of spacing after tables and of displaying footnotes in dark mode.</para>			
+                                        <para>Improved formatting of spacing after tables and of displaying footnotes in dark mode.</para>
 				</listitem>
 				<listitem>
-                                        <para>Various other fixes.</para>				
+                                        <para>Various other fixes.</para>
 				</listitem>
 
-			</itemizedlist>        
+			</itemizedlist>
 
 		<formalpara id="new_60">
 		<title>Release 6.0</title>
                         <para>Major update in December 2022 to add further style and grammar guidance:</para>
-                </formalpara>   
+                </formalpara>
                         <itemizedlist>
 				<listitem>
 										<para>Added audience information for this guide.</para>
@@ -319,7 +370,7 @@
                                         <para>Use of "either-or" construction.</para>
 				</listitem>
 				<listitem>
-                                        <para>Avoid stating that something is easy to do or to use.</para>	
+                                        <para>Avoid stating that something is easy to do or to use.</para>
 				</listitem>
 				<listitem>
                                         <para>Avoid first person.</para>
@@ -328,7 +379,7 @@
                                         <para>Use "following" with a noun.</para>
 				</listitem>
 				<listitem>
-                                        <para>Avoid hyphenating with an "-ly" suffix: added an example.</para>		
+                                        <para>Avoid hyphenating with an "-ly" suffix: added an example.</para>
 				</listitem>
 				<listitem>
                                         <para>If-Then statements.</para>
@@ -346,10 +397,10 @@
                                         <para>Using noun strings.</para>
 				</listitem>
 				<listitem>
-                                        <para>Avoid a noun followed by an "-ing" word.</para>	
+                                        <para>Avoid a noun followed by an "-ing" word.</para>
 				</listitem>
 				<listitem>
-                                        <para>Using object names.</para>	
+                                        <para>Using object names.</para>
 				</listitem>
 				<listitem>
                                         <para>Placement of "only".</para>
@@ -358,48 +409,48 @@
                                         <para>Preposition at the end of a sentence.</para>
 				</listitem>
 				<listitem>
-                                        <para>Use straight rather than curly quotation marks.</para>	
+                                        <para>Use straight rather than curly quotation marks.</para>
 				</listitem>
 				<listitem>
                                         <para>Avoid "(s)" for plural.</para>
 				</listitem>
 				<listitem>
-                                        <para>Added further examples of slang, idioms, and metaphors to avoid.</para>	
+                                        <para>Added further examples of slang, idioms, and metaphors to avoid.</para>
 				</listitem>
 				<listitem>
-                                        <para>Avoid a slash.</para>			
+                                        <para>Avoid a slash.</para>
 				</listitem>
 				<listitem>
                                         <para>Spacing with a unit of measurement.</para>
 				</listitem>
 				<listitem>
-                                        <para>Improved succinctness examples.</para>			
+                                        <para>Improved succinctness examples.</para>
 				</listitem>
 				<listitem>
-                                        <para>Avoid "there is", "there are".</para>	
+                                        <para>Avoid "there is", "there are".</para>
 				</listitem>
 				<listitem>
                                         <para>Use "this", "that", "these", "those" with a noun.</para>
 				</listitem>
 				<listitem>
-                                        <para>Replaced use of "$" as a variable marker in this guide to use angle brackets instead.</para>	
+                                        <para>Replaced use of "$" as a variable marker in this guide to use angle brackets instead.</para>
 				</listitem>
 				<listitem>
                                         <para>Use of "whether" versus "if".</para>
 				</listitem>
 				<listitem>
-                                        <para>New or updated usage entries: like, once, unset, while.</para>			
+                                        <para>New or updated usage entries: like, once, unset, while.</para>
 				</listitem>
 				<listitem>
-                                        <para>Various other fixes.</para>				
+                                        <para>Various other fixes.</para>
 				</listitem>
 
-			</itemizedlist>        
+			</itemizedlist>
 
 		<formalpara id="new_51">
 		<title>Release 5.1</title>
                         <para>Minor update in January 2022 to address some reported issues:</para>
-                </formalpara>   
+                </formalpara>
                         <itemizedlist>
 				<listitem>
                                         <para>Accessing <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
@@ -440,9 +491,9 @@
                                         <para>Clarification that diagram labels use sentence case.</para>
 				</listitem>
 				<listitem>
-                                        <para>New or updated usage entries: backend, IaC, number sign, on premise/on-premise, prebaked, unset.</para> 
+                                        <para>New or updated usage entries: backend, IaC, number sign, on premise/on-premise, prebaked, unset.</para>
 				</listitem>
-			</itemizedlist>        
+			</itemizedlist>
 
 		<formalpara id="new_50">
 		<title>Release 5.0</title>
@@ -452,7 +503,7 @@
               <imagedata fileref="images/padlock.png"/>
             </imageobject>
           </inlinemediaobject></guiicon>:</para>
-                </formalpara>     
+                </formalpara>
                         <itemizedlist>
 				<listitem>
                                         <para>Sentence case is required for captions, legends, and diagram labels.</para>
@@ -469,5 +520,5 @@
 				<listitem>
                                         <para>Minor edits so the guide itself conforms with its own advice.</para>
 				</listitem>
-			</itemizedlist>        
-</section> 
+			</itemizedlist>
+</section>
