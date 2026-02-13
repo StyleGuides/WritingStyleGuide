@@ -27,6 +27,11 @@
 										Refer to <xref linkend="list-spacing"/>.</para>
 				</listitem>
 				<listitem>
+                                        <para>Added a table of keyboard keys.
+										Moved information from previous "keyboard key" entry to this section.
+										Refer to <xref linkend="keyboard-keys"/>.</para>
+				</listitem>
+				<listitem>
                                         <para>Updated "Starting Applications from the Desktop" to reflect Red&nbsp;Hat Enterprise Linux&nbsp;10.
 										Refer to <xref linkend="starting-apps"/>.</para>
 				</listitem>

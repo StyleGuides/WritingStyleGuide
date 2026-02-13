@@ -4,9 +4,10 @@
 %BOOK_ENTITIES;
 ]>
 <section id="punctuation">
-	<title>Punctuation</title>
+	<title>Punctuation, Characters, and Key</title>
 	 <para>
-		This section contains information on common punctuation topics. For more information, consult The Chicago Manual of Style, 17th Edition.
+		This section contains information about common punctuation topics, and about special characters and keyboard keys.
+		For more information, consult The Chicago Manual of Style, 17th Edition.
 	</para>
 	 <section id="colons-and-semicolons">
 		<title>Colons and Semicolons</title>
@@ -1008,6 +1009,187 @@ Using project "default".
 						<entry> _ </entry>
 						 <entry> Underscore </entry>
 
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	</section>
+
+	 <section id="keyboard-keys">
+		<title>Keyboard Keys</title>
+		<para>
+		When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X". When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S".
+		</para>
+
+		<para>
+			Use the labels or symbols in the following table to refer to keyboard keys:
+		</para>
+
+		<table>
+			<title>Names of Keyboard Keys</title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				 <colspec colname="c1" colnum="1" colwidth="1.0*"/>
+    			 <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+				 <thead>
+					<row>
+						<entry> Label or symbol </entry>
+						 <entry> Descriptive name </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Alt </entry>
+						 <entry> Alternate key </entry>
+
+					</row>
+					<row>
+						<entry> &bsol; </entry>
+						 <entry> Backslash key </entry>
+
+					</row>
+					<row>
+						<entry> Backspace </entry>
+						 <entry> Backspace key </entry>
+
+					</row>
+					<row>
+						<entry> Caps Lock </entry>
+						 <entry> Capitals Lock key </entry>
+
+					</row>
+					<row>
+						<entry> Ctrl </entry>
+						 <entry> Control key </entry>
+
+					</row>
+					<row>
+						<entry> Delete or Del </entry>
+						 <entry> Delete key </entry>
+
+					</row>
+					<row>
+						<entry> ↓ </entry>
+						 <entry> Down Arrow key </entry>
+
+					</row>
+					<row>
+						<entry> End </entry>
+						 <entry> End key </entry>
+
+					</row>
+					<row>
+						<entry> Enter </entry>
+						 <entry> Enter key </entry>
+
+					</row>
+					<row>
+						<entry> Esc </entry>
+						 <entry> Escape key </entry>
+
+					</row>
+					<row>
+						<entry> &sol; </entry>
+						 <entry> Forward Slash key </entry>
+
+					</row>
+					<row>
+						<entry> F1 </entry>
+						 <entry> Function <emphasis>n</emphasis> key (for example, Function 1 key) </entry>
+
+					</row>
+					<row>
+						<entry> &gt; </entry>
+						 <entry> Greater-than key </entry>
+
+					</row>
+					<row>
+						<entry> Home </entry>
+						 <entry> Home key </entry>
+
+					</row>
+					<row>
+						<entry> Insert or Ins </entry>
+						 <entry> Insert key </entry>
+
+					</row>
+					<row>
+						<entry> ← </entry>
+						 <entry> Left Arrow key </entry>
+
+					</row>
+					<row>
+						<entry> &gt; </entry>
+						 <entry> Less-than key </entry>
+
+					</row>
+					<row>
+						<entry> Num Lock </entry>
+						 <entry> Number Lock key </entry>
+
+					</row>
+					<row>
+						<entry> PgDn or Page Down </entry>
+						 <entry> Page Down key </entry>
+
+					</row>
+					<row>
+						<entry> PgUp or Page Up </entry>
+						 <entry> Page Up key </entry>
+
+					</row>
+					<row>
+						<entry> PrtSc </entry>
+						 <entry> Print Screen key </entry>
+
+					</row>
+					<row>
+						<entry> Return </entry>
+						 <entry> Return key </entry>
+
+					</row>
+					<row>
+						<entry> → </entry>
+						 <entry> Right Arrow key </entry>
+
+					</row>
+					<row>
+						<entry> Scroll Lock </entry>
+						 <entry> Scroll Lock key </entry>
+
+					</row>
+					<row>
+						<entry> Shift </entry>
+						 <entry> Shift key </entry>
+
+					</row>
+					<row>
+						<entry> Space bar </entry>
+						 <entry> &nbsp; </entry>
+
+					</row>
+					<row>
+						<entry> Tab or ⇥ </entry>
+						 <entry> Tab key </entry>
+
+					</row>
+					<row>
+						<entry> ↑ </entry>
+						 <entry> Up Arrow key </entry>
+
+					</row>
+					<row>
+						<entry> | </entry>
+						 <entry> Vertical Bar key
+						 	<para>
+							Note: Use "vertical bar" to refer to the key itself, or use "pipe character" if referring to that function.
+						 	</para>
+						</entry>
 					</row>
 
 				</tbody>
