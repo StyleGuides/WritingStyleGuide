@@ -4,7 +4,7 @@
 %BOOK_ENTITIES;
 ]>
 <section id="punctuation">
-	<title>Punctuation, Characters, and Key</title>
+	<title>Punctuation, Special Characters, and Keyboard Keys</title>
 	 <para>
 		This section contains information about common punctuation topics, and about special characters and keyboard keys.
 		For more information, consult The Chicago Manual of Style, 17th Edition.
@@ -1064,6 +1064,11 @@ Using project "default".
 
 					</row>
 					<row>
+						<entry> Cmd </entry>
+						 <entry> Command key </entry>
+
+					</row>
+					<row>
 						<entry> Ctrl </entry>
 						 <entry> Control key </entry>
 
@@ -1104,6 +1109,11 @@ Using project "default".
 
 					</row>
 					<row>
+						<entry> Fn </entry>
+						 <entry> Function key </entry>
+
+					</row>
+					<row>
 						<entry> &gt; </entry>
 						 <entry> Greater-than key </entry>
 
@@ -1131,6 +1141,11 @@ Using project "default".
 					<row>
 						<entry> Num Lock </entry>
 						 <entry> Number Lock key </entry>
+
+					</row>
+					<row>
+						<entry> Option </entry>
+						 <entry> Option key </entry>
 
 					</row>
 					<row>
