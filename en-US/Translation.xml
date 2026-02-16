@@ -75,7 +75,7 @@
     <para>
         You can nest lists, but try to keep the number of levels to two or fewer.
     </para>
-    <section><title>Formatting Lists for Readability</title>
+    <section id="list-spacing"><title>Formatting Lists for Readability</title>
       <para>
         It is important to provide enough spacing between elements in your documents to facilitate reading and comprehension.
         You can include a lot of information in a few short paragraphs but readers need to be able to process that information in chunks.
