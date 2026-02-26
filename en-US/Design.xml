@@ -879,13 +879,6 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 						</para>
 
 					</listitem>
-					 <listitem>
-						<para>
-							<ulink url="http://random-name-generator.info/">http://random-name-generator.info/</ulink>
-						</para>
-
-					</listitem>
-
 				</itemizedlist>
 				 <formalpara id="using-extended-group-names">
 					<title>Group Names</title>
