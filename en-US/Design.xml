@@ -892,6 +892,38 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 
 		</section>
 
+	 	<section id="refer-file-systems">
+			<title>Referring to Names of File Systems</title>
+			 <para>
+				For referring to the names of file systems, to avoid any confusion, always use the capitalization that each file system's creators established, which might differ from standard English capitalization rules in some cases.
+				The names of file systems vary widely in their formatting: some are entirely lowercase; some are acronyms; and others use specific capitalization.
+			</para>
+			<para>
+				Incorrect: BTRFS, Ext4, Nfs, xfs
+				Correct: Btrfs, ext4, NFS, XFS
+			</para>
+			<formalpara id="file-system-titles">
+				<title>File Systems in Titles</title>
+					<para>
+						Where possible, avoid using the name of a file system in a title or when starting a sentence.
+						If you must use the name of a file system in a title, then preserve the canonical capitalization of the file system even when using title case for the rest of the heading.
+						Do not force an initial uppercase letter onto a lowercase file-system name.
+					</para>
+					<para>
+						Incorrect: Extend an EXT4 File System to the Logical Volume Size
+						Correct: Extend an ext4 File System to the Logical Volume Size
+					</para>
+			</formalpara>
+			<formalpara id="file-system-references">
+				<title>Capitalization Reference Sources</title>
+					<para>
+						To verify the correct capitalization for a file system, use the man pages as the main source (for example, by using the <command>man 5 ext4</command> or <command>man 5 btrfs</command> commands).
+						Verify the style of the name in the "NAME" or "DESCRIPTION" sections.
+						In cases where the information in the man pages is limited, outdated, or inconsistent, use the Linux Kernel documentation (kernel.org) or the official project website as your secondary source to confirm the correct capitalization.
+					</para>
+			</formalpara>
+		</section>
+
 	 	<section id="refer-object-names">
 			<title>Referring to Object Names</title>
 			 <para>
@@ -1053,38 +1085,6 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 
 		</table>
 
-		</section>
-
-	 	<section id="refer-file-systems">
-			<title>Referring to File System Names</title>
-			 <para>
-				For referring to the names of file systems, to avoid any confusion, always use the capitalization that each file system's creators established, which might differ from standard English capitalization rules in some cases.
-				The names of file systems vary widely in their formatting: some are entirely lowercase; some are acronyms; and others use specific capitalization.
-			</para>
-			<para>
-				Incorrect: BTRFS, Ext4, Nfs, xfs 
-				Correct: Btrfs, ext4, NFS, XFS 
-			</para>
-			<formalpara id="file-system-titles">
-				<title>File Systems in Titles</title>
-					<para>
-						Where possible, avoid using the name of a file system in a title or when starting a sentence.
-						If you must use the name of a file system in a title, then preserve the canonical capitalization of the file system even when using title case for the rest of the heading.
-						Do not force an initial uppercase letter onto a lowercase file-system name.
-					</para>
-					<para>
-						Incorrect: Extend an EXT4 File System to the Logical Volume Size
-						Correct: Extend an ext4 File System to the Logical Volume Size
-					</para>
-			</formalpara>
-			<formalpara id="file-system-references">
-				<title>Capitalization Reference Sources</title>
-					<para>
-						To verify the correct capitalization for a file system, use the man pages as the main source (for example, by using the <command>man 5 ext4</command> or <command>man 5 btrfs</command> commands).
-						Verify the stylized name in the "NAME" or "DESCRIPTION" sections.
-						In cases where the information in the man pages is limited, outdated, or inconsistent, use the Linux Kernel documentation (kernel.org) or the official project website as your secondary source to confirm the correct capitalization.
-					</para>
-			</formalpara>
 		</section>
 
 	 	<section id="naming-object-classes">
