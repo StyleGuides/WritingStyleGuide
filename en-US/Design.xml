@@ -1059,7 +1059,6 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 			<title>Referring to File System Names</title>
 			 <para>
 				For referring to the names of file systems, to avoid any confusion, always use the capitalization that each file system's creators established, which might differ from standard English capitalization rules in some cases.
-				Always use the capitalization established by the file system's creators.
 				The names of file systems vary widely in their formatting: some are entirely lowercase; some are acronyms; and others use specific capitalization.
 			</para>
 			<para>
