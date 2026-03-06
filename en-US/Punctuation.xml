@@ -783,6 +783,12 @@ Using project "default".
 		<para>
             Do not use the symbol on its own.
 		</para>
+		<para>
+            Some characters use different names depending on the context in which they are used. 
+            For example, the pipe character (|) is also known as a vertical bar.
+			Use "pipe" when discussing command pipelining, and use "vertical bar" when referring to its use as a logical "OR" operator in regular expressions or programming languages, such as Bash.
+			You might also use both terms at the first mention to ensure clarity for all audiences.
+		</para>
 		<example><title>Referring to Punctuation Marks</title>
 
           <para>
@@ -977,7 +983,7 @@ Using project "default".
 					</row>
 					<row>
 						<entry> | </entry>
-						 <entry> Pipe character </entry>
+						 <entry> Pipe or vertical bar character </entry>
 
 					</row>
 					<row>
