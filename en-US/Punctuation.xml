@@ -784,7 +784,7 @@ Using project "default".
             Do not use the symbol on its own.
 		</para>
 		<para>
-            A character might have different names that depend on the context, such as the pipe character (|) which is also called vertical bar.
+            Some characters use different names depending on the context in which they are used. For example, the pipe character (|) is also called a vertical bar.
 			Use "pipe" when discussing command pipelining, and use "vertical bar" when referring to its use as a logical "OR" operator in regular expressions or programming languages like Bash.
 			You might also use both terms at the first mention to ensure clarity for all audiences.
 		</para>
