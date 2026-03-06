@@ -1054,6 +1054,40 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 		</table>
 
 		</section>
+
+	 	<section id="refer-file-systems">
+			<title>Referring to File System Names</title>
+			 <para>
+				When using file system names, you might not use standard English capitalization rules because it might cause confusion.
+				Always use the capitalization established by the file system's creators.
+				File system names vary widely in their formatting: some are entirely lowercase, some are acronyms, and others use specific capitalization.
+			</para>
+			<para>
+				Incorrect: Ext4, BTRFS, xfs, Nfs
+				Correct: ext4, Btrfs, XFS, NFS
+			</para>
+			<formalpara id="file-system-titles">
+				<title>Titles and headings</title>
+					<para>
+						Avoid using the file system name in title or when starting a sentence.
+						If you must use the name in a title, then preserve the canonical capitalization of the file system even when using title case for the rest of the heading.
+						Do not force an initial capital letter onto a lowercase file system name.
+					</para>
+					<para>
+						Incorrect: Extend an EXT4 File System to the Logical Volume Size
+						Correct: Extend an ext4 File System to the Logical Volume Size
+					</para>
+			</formalpara>
+			<formalpara id="file-system-references">
+				<title>Capitalization References and Sources</title>
+					<para>
+						To verify the correct capitalization for a file system, use the man pages as the main source (e.g., man 5 ext4 or man 5 btrfs).
+						Verify the stylized name in the "NAME" or "DESCRIPTION" sections.
+						In cases where the information in the man pages is limited, outdated, or inconsistent, use the Linux Kernel documentation (kernel.org) or the official project website as your secondary source to confirm the correct spelling.
+					</para>
+			</formalpara>
+		</section>
+
 	 	<section id="naming-object-classes">
 			<title>Naming of Object Classes</title>
 			 <para>
