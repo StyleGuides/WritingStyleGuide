@@ -392,22 +392,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="btrfs">
-			<term>Btrfs</term>
-			 <listitem>
-				<para>
-					A copy-on-write file system for Linux. Use an uppercase "B" when referring to the file system. When referring to tools, commands, and other utilities that relate to the file system, be faithful to those utilities.
-				</para>
-				 <para>
-					Refer to <ulink url="http://en.wikipedia.org/wiki/Btrfs" /> for more information on this file system.
-				</para>
-				 <para>
-					Refer to <ulink url="http://en.wikipedia.org/wiki/List_of_file_systems" /> for a list of file-system names and how to present them.
-				</para>
 
-			</listitem>
-
-		</varlistentry>
 		 <varlistentry id="bug-fix">
 			<term>bug fix</term>
 			 <listitem>
