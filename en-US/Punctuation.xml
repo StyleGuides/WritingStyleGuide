@@ -784,7 +784,7 @@ Using project "default".
             Do not use the symbol on its own.
 		</para>
 		<para>
-            Some characters use different names depending on the context in which they are used. 
+            Some characters use different names depending on the context in which they are used.
             For example, the pipe character (|) is also known as a vertical bar.
 			Use "pipe" when discussing command pipelining, and use "vertical bar" when referring to its use as a logical "OR" operator in regular expressions or programming languages, such as Bash.
 			You might also use both terms at the first mention to ensure clarity for all audiences.
@@ -830,8 +830,8 @@ Using project "default".
 		<table>
 			<title>Names of Punctuation Marks and Special Characters</title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
-				 <colspec colname="c1" colnum="1" colwidth="1.0*"/>
-    			 <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+				 <colspec colname="c1" colnum="1" colwidth="1*"/>
+    			 <colspec colname="c2" colnum="2" colwidth="2*"/>
 				 <thead>
 					<row>
 						<entry> Symbol </entry>
@@ -1038,8 +1038,8 @@ Using project "default".
 		<table>
 			<title>Names of Keyboard Keys</title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
-				 <colspec colname="c1" colnum="1" colwidth="1.0*"/>
-    			 <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+				 <colspec colname="c1" colnum="1" colwidth="1*"/>
+    			 <colspec colname="c2" colnum="2" colwidth="2*"/>
 				 <thead>
 					<row>
 						<entry> Label or symbol </entry>

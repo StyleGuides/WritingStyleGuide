@@ -15,6 +15,11 @@
 										Refer to <xref linkend="refer-object-names"/>.</para>
 				</listitem>
 				<listitem>
+                                        <para>Added a section about referring to file-system names.
+										Removed the separate entry for Btrfs.
+										Refer to <xref linkend="refer-file-systems"/>.</para>
+				</listitem>
+				<listitem>
                                         <para>Added a further use case for using a non-breaking space: In a formal title, placed before a numeral that denotes part of a sequence.
 										Refer to <xref linkend="nonbreaking-spaces"/>.</para>
 				</listitem>
@@ -28,8 +33,12 @@
 				</listitem>
 				<listitem>
                                         <para>Added a table of keyboard keys.
-										Moved information from previous "keyboard key" entry to this section.
+										Moved information from the previous "keyboard key" entry to this section.
 										Refer to <xref linkend="keyboard-keys"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Clarified the use of "pipe character" versus "vertical bar" to refer to that character.
+										Refer to <xref linkend="referring-punc-special-chars"/>.</para>
 				</listitem>
 				<listitem>
                                         <para>Updated "Starting Applications from the Desktop" to reflect Red&nbsp;Hat Enterprise Linux&nbsp;10.

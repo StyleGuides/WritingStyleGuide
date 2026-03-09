@@ -86,8 +86,8 @@
         </para>
         <table><title></title>
           <tgroup cols="2" align="left" colsep="1" rowsep="1">
-            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
-            <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+            <colspec colname="c1" colnum="1" colwidth="1*"/>
+            <colspec colname="c2" colnum="2" colwidth="2*"/>
             <thead>
               <row>
                 <entry>Original text</entry>
@@ -112,8 +112,8 @@
         </para>
         <table id="qualify-sensitive-terms"><title>Using Qualifiers with Sensitive Terms</title>
           <tgroup cols="2" align="left" colsep="1" rowsep="1">
-            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
-            <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+            <colspec colname="c1" colnum="1" colwidth="1*"/>
+            <colspec colname="c2" colnum="2" colwidth="2*"/>
             <thead>
               <row>
                 <entry>Original text</entry>
