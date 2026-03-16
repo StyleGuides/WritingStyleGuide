@@ -349,6 +349,16 @@
         </note>
       </listitem>
     </varlistentry>
+		<varlistentry id="bring-up">
+			<term>bring up</term>
+			 <listitem>
+				<para>
+					Do not use. Use "open" instead.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="britain">
 			<term>Britain</term>
 			 <listitem>
