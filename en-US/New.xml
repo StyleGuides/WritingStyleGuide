@@ -7,7 +7,7 @@
         <title>New in This Release</title>
 		<formalpara id="new_72">
 		<title>Release 7.2</title>
-            <para>Maintenance release in February 2026, with some added and updated guidance.</para>
+            <para>Maintenance release in March 2026, with some added and updated guidance.</para>
                 </formalpara>
             <itemizedlist>
 				<listitem>
@@ -47,6 +47,9 @@
 				<listitem>
                                         <para>Added entries for terms that relate to artificial intelligence.
 										Refer to <xref linkend="ai-ml"/>, <xref linkend="aiops"/>, <xref linkend="chatbot"/>, <xref linkend="deep-learning"/>, <xref linkend="fine-tune"/>, <xref linkend="inference"/>, <xref linkend="llm"/>, <xref linkend="machine-learning"/>, <xref linkend="nlp"/>, <xref linkend="performance-tune"/>, <xref linkend="rag"/>, <xref linkend="slm"/>, and <xref linkend="vllm"/>.</para>
+				</listitem>
+				<listitem>
+                                        <para>Deleted entry for "break".</para>
 				</listitem>
 				<listitem>
                                         <para>Updated entry for "IP": Do not use "IP" on its own to mean "IP address"; and when to use "Internet Protocol" versus "internet protocol".
