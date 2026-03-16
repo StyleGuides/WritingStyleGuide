@@ -232,14 +232,14 @@
             <imageobject>
               <imagedata fileref="images/padlock.png"/>
             </imageobject>
-          </inlinemediaobject></guiicon>, 
+          </inlinemediaobject></guiicon>,
 		  			it is acceptable to use "boolean" (lowercase) in API programming information when it refers to a primitive return type.
 				</para>
 				 <para>
-					To set Boolean values in YAML files, use <varname>true</varname> or <varname>false</varname>, written lowercase, rather than <varname>yes</varname> or <varname>no</varname>, because YAML&nbsp;1.2 and later versions do not support the latter syntax.  
+					To set Boolean values in YAML files, use <varname>true</varname> or <varname>false</varname>, written lowercase, rather than <varname>yes</varname> or <varname>no</varname>, because YAML&nbsp;1.2 and later versions do not support the latter syntax.
 				</para>
 				 <para>
-					For example, the following scenario specifies that a task is run only one time:  
+					For example, the following scenario specifies that a task is run only one time:
 				</para>
 <screen>- name: Pause 30 seconds
   ansible.builtin.pause:
@@ -349,15 +349,7 @@
         </note>
       </listitem>
     </varlistentry>
-    <varlistentry>
-        <term>break</term>
-        <listitem>
-          <para>
-            (<emphasis>v.</emphasis>) Do not use to mean "break the system" or similar. For example, "applying an unapproved patch might break the system". Choose an alternative such as "cause the system to fail".
-          </para>
-        </listitem>
-      </varlistentry>
-		 <varlistentry id="bring-up">
+		<varlistentry id="bring-up">
 			<term>bring up</term>
 			 <listitem>
 				<para>
