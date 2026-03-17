@@ -4,9 +4,10 @@
 %BOOK_ENTITIES;
 ]>
 <section id="punctuation">
-	<title>Punctuation</title>
+	<title>Punctuation, Special Characters, and Keyboard Keys</title>
 	 <para>
-		This section contains information on common punctuation topics. For more information, consult The Chicago Manual of Style, 17th Edition.
+		This section contains information about common punctuation topics, and about special characters and keyboard keys.
+		For more information, consult The Chicago Manual of Style, 17th Edition.
 	</para>
 	 <section id="colons-and-semicolons">
 		<title>Colons and Semicolons</title>
@@ -107,13 +108,13 @@
 							magenta
 						</para>
 
-					</listitem> 
+					</listitem>
 
-				</itemizedlist> 
+				</itemizedlist>
 
 			</listitem>  -->
 
-		</itemizedlist> 
+		</itemizedlist>
 
 		 <para>
 			Use a semicolon to separate items in a series if the items contain commas.
@@ -149,11 +150,11 @@
 		</formalpara>
 			 <para>
 				If, however, any sentences intervene between the introduction and the next item, then end both the introduction and any intervening sentences with a period instead.
-			</para>			
+			</para>
 
 		 <para>
-			In the following example, the related list immediately follows the stem, or introductory sentence, after "as follows". 
-			If that sentence instead ends with "the following", then ensure that a noun is used after those words.
+			In the following example, the related list immediately follows the stem, or introductory sentence, after "as follows".
+			Do not end a sentence with "the following", but instead ensure that a noun is used after those words.
 		</para>
 		 <itemizedlist>
 			<listitem>
@@ -223,10 +224,10 @@
 
 			</listitem>
 
-		</itemizedlist>		
+		</itemizedlist>
 
 		<para>
-			In the following example, a colon is used for a step that introduces a command:	
+			In the following example, a colon is used for a step that introduces a command:
 		</para>
 		<itemizedlist>
 			<listitem>
@@ -238,10 +239,10 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 			</listitem>
 
-		</itemizedlist>	
+		</itemizedlist>
 
 		<para>
-			In the following example, several sentences introduce a code example, and each one ends in a period:	
+			In the following example, several sentences introduce a code example, and each one ends in a period:
 		</para>
 		<itemizedlist>
 			<listitem>
@@ -259,7 +260,7 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 
 			</listitem>
 
-				</itemizedlist>	
+				</itemizedlist>
 
 	</section>
 	 <section id="commas">
@@ -530,21 +531,21 @@ PLAY [Gather and display facts for managed nodes] ****************************</
 	 <section id="slashes">
 		<title>Slashes</title>
 		 <para>
-			Avoid use of a slash character to mean either of two options. 
+			Avoid use of a slash character to mean either of two options.
 		</para>
 		 <para>
-			For example, instead of "enable/disable", use "enable or disable". 
-		</para>	
+			For example, instead of "enable/disable", use "enable or disable".
+		</para>
 		 <para>
 			Instead of "A and/or B", use "A or B", or "A, or B, or both".
-		</para>				
+		</para>
 
 	</section>
 	 <section id="quotation-marks">
 		<title>Quotation Marks</title>
 
  		 <para>
-			When indicating the start or end of a direct quotation, use curly quotation marks. 
+			When indicating the start or end of a direct quotation, use curly quotation marks.
 			In all other contexts, such as when writing code samples, code syntax, hexadecimal numbers, or hypertext links, use straight quotation marks.
 			Refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=punctuation-quotation-marks#typographical-considerations"><citetitle>Typographical Considerations</citetitle></ulink> in <citetitle>IBM Style</citetitle>
          	<guiicon><inlinemediaobject>
@@ -554,10 +555,10 @@ PLAY [Gather and display facts for managed nodes] ****************************</
           </inlinemediaobject></guiicon>.
 		</para>
 		 <para>
-			In technical documentation, place punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons inside the quotation marks if they are part of the quotation or part of a programming element that uses quotation marks; if not, place punctuation marks outside the quotation marks. 
+			In technical documentation, place punctuation marks, including periods, commas, question marks, exclamation points, dashes, and semicolons inside the quotation marks if they are part of the quotation or part of a programming element that uses quotation marks; if not, place punctuation marks outside the quotation marks.
 			If a sentence ends with a quotation, use only one punctuation mark to end the sentence, and place it inside the closing quotation mark if it is part of the quotation, or outside if it is not.
 
-		</para> 
+		</para>
 		<example><title>Correct Examples of the Use of Punctuation with Quotation Marks</title>
 
 		 <itemizedlist>
@@ -585,12 +586,6 @@ Using project "default".
 			</listitem>
 			<listitem>
 				<para>
-					In the program segment, ensure that the value is X'FF'.
-				</para>
-
-			</listitem>
-			<listitem>
-				<para>
 					Julius Caesar said, "I came. I saw. I conquered."
 				</para>
 
@@ -598,18 +593,18 @@ Using project "default".
 
 		</itemizedlist>
 
-    	</example> 
+    	</example>
 
 	</section>
-<!-- Add examples of when to use or not to use quotation marks. 
+<!-- Add examples of when to use or not to use quotation marks.
 		<example><title>Correct Examples of the Use of Quotation Marks</title>
         <para>
-        For example, the following message indicates multiple possible solutions: "This message could be resolved by changing the time."  
+        For example, the following message indicates multiple possible solutions: "This message could be resolved by changing the time."
         </para>
 		<para>
-        In this example, the final period is not part of the command in the quoted text: Use "xemacs" only when referring to a command, such as "To start XEmacs, type xemacs".  
+        In this example, the final period is not part of the command in the quoted text: Use "xemacs" only when referring to a command, such as "To start XEmacs, type xemacs".
         </para>
-      	</example> 
+      	</example>
 
 -->
 
@@ -617,10 +612,10 @@ Using project "default".
 	 <section id="apostrophes">
 		<title>Apostrophes</title>
 		<para>
-			Do not use an apostrophe to denote a plural. 
+			Do not use an apostrophe to denote a plural.
 		</para>
 		<para>
-			To denote a possessive, use an apostrophe as follows: 
+			To denote a possessive, use an apostrophe as follows:
 		</para>
 		 <para>
 			Plural nouns not ending in <emphasis>s</emphasis> should add an <emphasis>'s </emphasis> (for example, the alumni's contribution).
@@ -663,21 +658,21 @@ Using project "default".
 	 <section id="punc-tables">
 		<title>Punctuation in Tables</title>
 		<para>
-         Use the following guidance for punctuation in tables:			
+         Use the following guidance for punctuation in tables:
 		</para>
 		<para>
-         If all cells in a table column are complete sentences, then end each cell with a period.			
+         If all cells in a table column are complete sentences, then end each cell with a period.
 		</para>
 		<para>
-         If all cells in a table column are sentence fragments, then do not use a period to end each cell.		
+         If all cells in a table column are sentence fragments, then do not use a period to end each cell.
 		</para>
 		<para>
-         If cells in a table column contain a mixture of complete sentences and sentence fragments, then first consider whether it would be appropriate to make them grammatically parallel (either all complete sentences or all sentence fragments). 
-         However, in some cases, such an approach might not work, where tables are complex and include a variety of content, such as lists of strings, variables, IP addresses, descriptions, or states (selected or cleared). 
+         If cells in a table column contain a mixture of complete sentences and sentence fragments, then first consider whether it would be appropriate to make them grammatically parallel (either all complete sentences or all sentence fragments).
+         However, in some cases, such an approach might not work, where tables are complex and include a variety of content, such as lists of strings, variables, IP addresses, descriptions, or states (selected or cleared).
          In such cases, treat each cell as an individual entry, and either use or omit a closing period depending on whether that cell is a complete sentence.
 		</para>
 		<para>
-			Example of a complex table with punctuation:		
+			Example of a complex table with punctuation:
 		</para>
 		 <table>
 			<title></title>
@@ -694,73 +689,73 @@ Using project "default".
 				</thead>
 				 <tbody>
 					<row>
-						<entry> 
+						<entry>
 						Question
 						 </entry>
-						<entry> 
+						<entry>
 						Default domain name
 						 </entry>
 
 					</row>
 					<row>
-						<entry> 
+						<entry>
 						Description
 						 </entry>
-						<entry> 
+						<entry>
 						This domain name is used to set the hostname of the node.
 						 </entry>
 
 					</row>
 					<row>
-						<entry> 
+						<entry>
 						Answer variable name
 						 </entry>
-						<entry> 
+						<entry>
 						<varname>global_domain_name</varname>
 						 </entry>
 
 					</row>
 					<row>
-						<entry> 
+						<entry>
 						Answer type
 						 </entry>
-						<entry> 
+						<entry>
 						text
 						 </entry>
 
 					</row>
 					<row>
-						<entry> 
+						<entry>
 						Required
 						 </entry>
-						<entry> 
+						<entry>
 						<emphasis>(selected)</emphasis>
 						 </entry>
 
 					</row>
 					<row>
-						<entry> 
+						<entry>
 						Minimum length
 						 </entry>
-						<entry> 
+						<entry>
 						1
 						 </entry>
 
 					</row>
 					<row>
-						<entry> 
+						<entry>
 						Maximum length
 						 </entry>
-						<entry> 
+						<entry>
 						251
 						 </entry>
 
 					</row>
 					<row>
-						<entry> 
+						<entry>
 						Default answer
 						 </entry>
-						<entry> 
+						<entry>
 						<code>lab.example.com</code>
 						 </entry>
 
@@ -769,7 +764,7 @@ Using project "default".
 			</tgroup>
 		</table>
 
-	</section>	
+	</section>
 
  	 <section id="referring-punc-special-chars">
 		<title>Referring to Punctuation Marks and Special Characters</title>
@@ -780,13 +775,19 @@ Using project "default".
 			. , : ; ' ‘ ’ " “ ” ( ) [ ] { } ! ?
 		</para>
 		<para>
-            For all other characters, use the character name followed by the symbol in parentheses.  
-            For special character names that include a noun such as "sign", "symbol", or "character", provide the character name, the noun that describes the symbol, and then the symbol in parentheses, for example "the greater-than symbol (>)". 
-            For special character names that do not include such nouns, provide the character name and the symbol in parentheses, for example "a forward slash (/)". 
-            You can end a sentence with the symbol in parentheses.		
+            For all other characters, use the character name followed by the symbol in parentheses.
+            For special character names that include a noun such as "sign", "symbol", or "character", provide the character name, the noun that describes the symbol, and then the symbol in parentheses, for example "the greater-than symbol (>)".
+            For special character names that do not include such nouns, provide the character name and the symbol in parentheses, for example "a forward slash (/)".
+            You can end a sentence with the symbol in parentheses.
 		</para>
 		<para>
-            Do not use the symbol on its own.   
+            Do not use the symbol on its own.
+		</para>
+		<para>
+            Some characters use different names depending on the context in which they are used.
+            For example, the pipe character (|) is also known as a vertical bar.
+			Use "pipe" when discussing command pipelining, and use "vertical bar" when referring to its use as a logical "OR" operator in regular expressions or programming languages, such as Bash.
+			You might also use both terms at the first mention to ensure clarity for all audiences.
 		</para>
 		<example><title>Referring to Punctuation Marks</title>
 
@@ -806,7 +807,7 @@ Using project "default".
             Use the pipe character (|) to send the output of one program to the input of another program.
           </para>
 		  <para>
-            The hyphen after the greater than symbol (>) indicates that a newline character (\n) is not added to the end of the variable.
+            The hyphen after the greater-than symbol (>) indicates that a newline character (\n) is not added to the end of the variable.
           </para>
           </example>
 		<para>
@@ -824,13 +825,13 @@ Using project "default".
 		<title>Names of Punctuation Marks and Special Characters</title>
 		<para>
 			Use the names in the following table to refer to punctuation marks or special characters:
-		</para>	
+		</para>
 
 		<table>
 			<title>Names of Punctuation Marks and Special Characters</title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
-				 <colspec colname="c1" colnum="1" colwidth="1.0*"/>
-    			 <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+				 <colspec colname="c1" colnum="1" colwidth="1*"/>
+    			 <colspec colname="c2" colnum="2" colwidth="2*"/>
 				 <thead>
 					<row>
 						<entry> Symbol </entry>
@@ -874,7 +875,7 @@ Using project "default".
 						<entry> &grave; </entry>
 						 <entry> Backtick </entry>
 
-					</row>					
+					</row>
 					<row>
 						<entry> { } </entry>
 						 <entry> Braces </entry>
@@ -954,7 +955,7 @@ Using project "default".
 						<entry> - </entry>
 						 <entry> Hyphen or minus sign </entry>
 
-					</row>					
+					</row>
 					<row>
 						<entry> &lt; </entry>
 						 <entry> Less-than symbol </entry>
@@ -982,7 +983,7 @@ Using project "default".
 					</row>
 					<row>
 						<entry> | </entry>
-						 <entry> Pipe character </entry>
+						 <entry> Pipe or vertical bar character </entry>
 
 					</row>
 					<row>
@@ -1014,6 +1015,202 @@ Using project "default".
 						<entry> _ </entry>
 						 <entry> Underscore </entry>
 
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	</section>
+
+	 <section id="keyboard-keys">
+		<title>Keyboard Keys</title>
+		<para>
+		When referring to a keyboard key, it is uppercase, singular, and the word "key" is not necessary, such as "To exit, press X". When the <keycap>Ctrl</keycap> or <keycap>Alt</keycap> keys are needed, use a plus sign between the keys, such as "To save the file, press "Ctrl+S".
+		</para>
+
+		<para>
+			Use the labels or symbols in the following table to refer to keyboard keys:
+		</para>
+
+		<table>
+			<title>Names of Keyboard Keys</title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				 <colspec colname="c1" colnum="1" colwidth="1*"/>
+    			 <colspec colname="c2" colnum="2" colwidth="2*"/>
+				 <thead>
+					<row>
+						<entry> Label or symbol </entry>
+						 <entry> Descriptive name </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Alt </entry>
+						 <entry> Alternate key </entry>
+
+					</row>
+					<row>
+						<entry> &bsol; </entry>
+						 <entry> Backslash key </entry>
+
+					</row>
+					<row>
+						<entry> Backspace </entry>
+						 <entry> Backspace key </entry>
+
+					</row>
+					<row>
+						<entry> Caps Lock </entry>
+						 <entry> Capitals Lock key </entry>
+
+					</row>
+					<row>
+						<entry> Cmd </entry>
+						 <entry> Command key </entry>
+
+					</row>
+					<row>
+						<entry> Ctrl </entry>
+						 <entry> Control key </entry>
+
+					</row>
+					<row>
+						<entry> Delete or Del </entry>
+						 <entry> Delete key </entry>
+
+					</row>
+					<row>
+						<entry> ↓ </entry>
+						 <entry> Down Arrow key </entry>
+
+					</row>
+					<row>
+						<entry> End </entry>
+						 <entry> End key </entry>
+
+					</row>
+					<row>
+						<entry> Enter </entry>
+						 <entry> Enter key </entry>
+
+					</row>
+					<row>
+						<entry> Esc </entry>
+						 <entry> Escape key </entry>
+
+					</row>
+					<row>
+						<entry> &sol; </entry>
+						 <entry> Forward Slash key </entry>
+
+					</row>
+					<row>
+						<entry> F1 </entry>
+						 <entry> Function <emphasis>n</emphasis> key (for example, Function 1 key) </entry>
+
+					</row>
+					<row>
+						<entry> Fn </entry>
+						 <entry> Function key </entry>
+
+					</row>
+					<row>
+						<entry> &gt; </entry>
+						 <entry> Greater-than key </entry>
+
+					</row>
+					<row>
+						<entry> Home </entry>
+						 <entry> Home key </entry>
+
+					</row>
+					<row>
+						<entry> Insert or Ins </entry>
+						 <entry> Insert key </entry>
+
+					</row>
+					<row>
+						<entry> ← </entry>
+						 <entry> Left Arrow key </entry>
+
+					</row>
+					<row>
+						<entry> &gt; </entry>
+						 <entry> Less-than key </entry>
+
+					</row>
+					<row>
+						<entry> Num Lock </entry>
+						 <entry> Number Lock key </entry>
+
+					</row>
+					<row>
+						<entry> Option </entry>
+						 <entry> Option key </entry>
+
+					</row>
+					<row>
+						<entry> PgDn or Page Down </entry>
+						 <entry> Page Down key </entry>
+
+					</row>
+					<row>
+						<entry> PgUp or Page Up </entry>
+						 <entry> Page Up key </entry>
+
+					</row>
+					<row>
+						<entry> PrtSc </entry>
+						 <entry> Print Screen key </entry>
+
+					</row>
+					<row>
+						<entry> Return </entry>
+						 <entry> Return key </entry>
+
+					</row>
+					<row>
+						<entry> → </entry>
+						 <entry> Right Arrow key </entry>
+
+					</row>
+					<row>
+						<entry> Scroll Lock </entry>
+						 <entry> Scroll Lock key </entry>
+
+					</row>
+					<row>
+						<entry> Shift </entry>
+						 <entry> Shift key </entry>
+
+					</row>
+					<row>
+						<entry> Space bar </entry>
+						 <entry> &nbsp; </entry>
+
+					</row>
+					<row>
+						<entry> Tab or ⇥ </entry>
+						 <entry> Tab key </entry>
+
+					</row>
+					<row>
+						<entry> ↑ </entry>
+						 <entry> Up Arrow key </entry>
+
+					</row>
+					<row>
+						<entry> | </entry>
+						 <entry> Vertical Bar key
+						 	<para>
+							Note: Use "vertical bar" to refer to the key itself, or use "pipe character" if referring to that function.
+						 	</para>
+						</entry>
 					</row>
 
 				</tbody>

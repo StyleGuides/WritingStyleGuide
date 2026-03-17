@@ -93,7 +93,7 @@
 			<term>untar</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Do not use. 
+					<emphasis>v.</emphasis> Do not use.
 					Refer to the Word Usage section of <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
          	<guiicon><inlinemediaobject>
             <imageobject>
@@ -119,7 +119,7 @@
 			<term>unzip</term>
 			 <listitem>
 				<para>
-					<emphasis>v.</emphasis> Do not use. 
+					<emphasis>v.</emphasis> Do not use.
 					Refer to the Word Usage section of <ulink url="https://www.ibm.com/docs/en/ibm-style"><citetitle>IBM Style</citetitle></ulink>
          	<guiicon><inlinemediaobject>
             <imageobject>
@@ -128,6 +128,18 @@
           </inlinemediaobject></guiicon>.
 				</para>
 
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="up-to-date">
+			<term>up-to-date</term>
+			 <listitem>
+				<para>
+					Hyphenate, both when used as a compound modifier before a noun (for example, "By specifying a floating tag, you ensure that you always consume the up-to-date image version that corresponds to the tag"), and after a noun (for example, "The sequence of commands must be tracked and kept up-to-date").
+				</para>
+				<para>
+          Refer also to <xref linkend="out-of-date" />.
+				</para>
 			</listitem>
 
 		</varlistentry>

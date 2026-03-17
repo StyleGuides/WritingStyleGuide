@@ -50,7 +50,7 @@
 			<formalpara id="verbs-titles">
 				<title>Writing Effective Titles</title>
 					<para>
-					Use a title that represents the content. 
+					Use titles that represent the content.
 					</para>
           </formalpara>
 					<para>
@@ -63,7 +63,7 @@
 					In some cases, a verb might not be appropriate because the content is purely informational. Instead of using a vague verb like "Understanding", "Describing", "Introducing", or "Exploring", either use a more specific verb, or use a noun phrase instead of a verb. A noun phrase is descriptive and omits a verb, for example "OpenShift Operators" or "The OpenShift Web Console."
 					</para>
 					<para>
-					Avoid a title that consists of only one word. 
+					Avoid titles that consist of only one word.
 					</para>
 			 <table>
 			<title></title>
@@ -88,12 +88,12 @@
 						<entry> Introducing Cluster Updates </entry>
 						 <entry> Cluster Updates </entry>
 
-					</row>					
+					</row>
 					<row>
 						<entry> MetalLB </entry>
 						 <entry> The MetalLB Component </entry>
 
-					</row>		
+					</row>
 
 				</tbody>
 
@@ -263,7 +263,7 @@
 			 	This section describes how to start applications from a Red&nbsp;Hat Enterprise&nbsp;Linux-based distribution.
 			</para>
 			 <para>
-				RHEL&nbsp;8 uses the following approach to starting applications from the desktop.
+				RHEL&nbsp;10 uses the following approach to starting applications from the desktop.
 				To maintain consistency and to make translation easier, Red&nbsp;Hat documentation assumes the use of GNOME Classic, the default user interface, and prefers a consistent approach to instructing customers how to start applications.
 			</para>
 			 <para>
@@ -273,7 +273,7 @@
 			 <example id="exam-starting-apps">
 				<title>Preferred Approach to Starting Applications from the Desktop</title>
 				 <para>
-					To start gedit, press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>gedit</literal>, and then press <keycap>Enter</keycap>.
+					To start the text editor, press the <keycap>Super</keycap> key to enter the Activities Overview, type <literal>text</literal>, and then press <keycap>Enter</keycap>.
 				</para>
 
 			</example>
@@ -486,12 +486,12 @@ $ vi myFile.txt
 			<listitem>
               <para>
                 On Windows operating systems, use the backtick character (`).
-              </para>	
+              </para>
             </listitem>
 			<listitem>
               <para>
                 For content that is potentially used in multiple operating systems, use the Linux shell continuation character, and include an explanatory sentence before the command.
-              </para>						  		  			  
+              </para>
             </listitem>
           </itemizedlist>
 <!--          <important>
@@ -502,19 +502,19 @@ $ vi myFile.txt
           </important> -->
           <para>
             Do not use manual line indentation for the second and subsequent lines of commands.
-			For some output formats, no control is possible over where lines would break, and any indentation might appear as extra spaces in inelegant places. 
+			For some output formats, no control is possible over where lines would break, and any indentation might appear as extra spaces in awkward places.
 <!--            You can use this option for any of these designs. -->
           </para>
 
 <example><title>Long Command Example</title>
   <para>
     If the <systemitem>memory</systemitem> machine pool does not exist, then create it.
-  </para>  
+  </para>
   <para>
     On a Microsoft Windows system, replace the line continuation character (\) in the following long command with the backtick character (`), which is the line continuation character in PowerShell.
   </para>
 <screen>$ <userinput>aws iam create-policy --policy-name RosaCloudWatch \ </userinput>
-<userinput>  --policy-document file://policy.json --query Policy.Arn --output text</userinput>
+<userinput>--policy-document file://policy.json --query Policy.Arn --output text</userinput>
 arn:aws:iam::452954386616:policy/RosaCloudWatch
 </screen>
   <para>
@@ -527,7 +527,8 @@ The ARN in the preceding output is different on your system.
 			 <section id="omitting">
 				<title>Omitting Part of Output</title>
           <para>
-            For the sake of brevity, do not show all output to the user in all cases, but only those parts of any output that are relevant to the context that is described. 
+            For the sake of brevity, do not show all output to the user in all cases.
+			Instead, show only those parts of any output that are relevant to the context that is described.
 			Where output is not included, place a marker to show that information is purposely excluded.
 			When shortening the output, use a consistent notation.
 			For omitting entire horizontal lines of output, Red&nbsp;Hat uses the <emphasis>...output&nbsp;omitted...</emphasis> notation, starting and ending with an ellipsis, and highlighted in italics.
@@ -719,7 +720,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 				If the file to edit is empty or does not exist, do not highlight any content to add.
 			</para>
 			 <para>
-				You can also use <systemitem>here</systemitem> documents to describe how to create a file with required content. 
+				You can also use <systemitem>here</systemitem> documents to describe how to create a file with required content.
 				For more information about <systemitem>here</systemitem> documents, refer to <ulink url="https://tldp.org/LDP/abs/html/here-docs.html" />
 				The syntax of <systemitem>here</systemitem> documents varies by system, shell, language, and so on. The following example creates the <filename>my-script</filename> file in the current directory, with the example content.
 			</para>
@@ -734,7 +735,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 			</para>
 
 		</section>
-		
+
 		 <section id="use-hostnames-correctly">
 			<title>Using Host and Usernames Correctly</title>
 			 <para>
@@ -811,13 +812,13 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 
 				</formalpara>
 				 <para>
-					For example, you are the system administrator at Global Banking and you are asked to set up permissions to the accounting directory for the following users: Huong Sabo, Jolene Paluch, Abby Quincy, Francis Ritcher, and Jaya Lamont. 
+					For example, you are the system administrator at Global Banking and you are asked to set up permissions to the accounting directory for the following users: Huong Sabo, Jolene Paluch, Abby Quincy, Francis Ritcher, and Jaya Lamont.
 					Huong is a department manager and needs read access to the accounting directory. Jolene is the lead accountant and needs both read and write access.
 				</para>
 				 <formalpara id="choosing-realistic-names">
 					<title>Choosing a Realistic Name</title>
 					 <para>
-						Consider the following points when choosing a realistic name: 
+						Consider the following points when choosing a realistic name:
 					</para>
 
 				</formalpara>
@@ -848,7 +849,11 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 							Avoid name combinations or abbreviations that result in unintended meanings, such as slang.
 							An example that works well might be "John Smith", with an email address of <email>jsmith@example.com</email>.
 							However, for the name "Brian Strong", a corresponding email address of <email>bstrong@example.com</email> might not work so well (when read out, it sounds like "be strong").
-							Consider also any implications for names in different languages. 
+							Consider also any implications for names in different languages.
+						</para>
+						<para>
+							Refer also to the
+							<ulink url="https://developers.google.com/style"><citetitle>Google Developer Documentation Style Guide</citetitle></ulink>.
 						</para>
 						<para>
 							Refer also to the 
@@ -878,13 +883,6 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 						</para>
 
 					</listitem>
-					 <listitem>
-						<para>
-							<ulink url="http://random-name-generator.info/">http://random-name-generator.info/</ulink>
-						</para>
-
-					</listitem>
-
 				</itemizedlist>
 				 <formalpara id="using-extended-group-names">
 					<title>Group Names</title>
@@ -898,10 +896,88 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 
 		</section>
 
+	 	<section id="refer-file-systems">
+			<title>Referring to File-system Names</title>
+			 <para>
+				To avoid any confusion when referring to file-system names, always use the capitalization that each file system's creators established, which might differ from standard English capitalization rules in some cases.
+				The names of file systems vary widely in their formatting: some are entirely lowercase; some are acronyms; and others use specific capitalization.
+			</para>
+          	<example><title>Example Names of File Systems</title>
+			<para>
+				Incorrect: BTRFS, Ext4, Nfs, xfs
+			</para>
+			<para>
+				Correct: Btrfs, ext4, NFS, XFS
+			</para>
+          	</example>
+			<formalpara id="file-system-titles">
+				<title>File-system Names in Titles</title>
+					<para>
+						Where possible, avoid using the name of a file system in a title or when starting a sentence.
+						If you must use the name of a file system in a title, then preserve the canonical capitalization of the file system even when using title case for the rest of the heading.
+						Do not force an initial uppercase letter onto a lowercase file-system name.
+					</para>
+			</formalpara>
+          			<example><title>Using Names of File Systems in Titles</title>
+					<para>
+						Incorrect: Extend an EXT4 File System to the Logical Volume Size
+					</para>
+					<para>
+						Correct: Extend an ext4 File System to the Logical Volume Size
+					</para>
+          			</example>
+			<formalpara id="file-system-references">
+				<title>Capitalization Reference Sources</title>
+					<para>
+						To verify the correct capitalization for a file system, use the man pages as the main source (for example, by using the <command>man 5 ext4</command> or <command>man 5 btrfs</command> commands).
+						Verify the style of the name in the "NAME" or "DESCRIPTION" sections.
+						In cases where the information in the man pages is limited, outdated, or inconsistent, use the Linux Kernel documentation (kernel.org) or the official project website as your secondary source to confirm the correct capitalization.
+					</para>
+			</formalpara>
+		</section>
+
 	 	<section id="refer-object-names">
 			<title>Referring to Object Names</title>
 			 <para>
 				When using object names, write a sentence so that it is complete without the object name.
+				Ensure that an object name is written as an adjective, with a qualifying noun to follow.
+				Avoid starting or ending a sentence with an object name.
+			</para>
+
+			 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> Use <command>ovn-nbctl lsp-add</command> to create the corresponding logical switch port on <systemitem>ls-blue</systemitem>. </entry>
+						 <entry> Use the <command>ovn-nbctl lsp-add</command> command to create the corresponding logical switch port on the <systemitem>ls-blue</systemitem> router. </entry>
+
+					</row>
+					<row>
+						<entry> <filename>Umount /mnt/save</filename>. </entry>
+						 <entry> Unmount the <filename>/mnt/save</filename> directory. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+			 <para>
+				Consider whether it is better to use an object name with a following noun, or to use plain language without markup instead.
+				In some cases, using plain language might be the better option, either if quoting an object name is not strictly necessary, or if the object name is self-referential and contains the required noun, to avoid duplication such as "Review the <systemitem>NetworkPolicy</systemitem> policy".
+				Refer also to the <xref linkend="naming-object-classes"/> section.
 			</para>
 
 			 <table>
@@ -921,42 +997,22 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 					<row>
 						<entry> Find the current default <systemitem>StorageClass</systemitem>. </entry>
 						 <entry>
-						 <para>
-						 Either: Find the current default storage class.
-						 </para>
-						 <para>
-						 Or: Find the current default <systemitem>StorageClass</systemitem> value.
-						 </para>
-						</entry>
+			 				<para>
+								Either: Find the current default storage class.
+							</para>
+			 				<para>
+								Or: Find the current default <systemitem>StorageClass</systemitem> value.
+							</para>
+						 </entry>
+					</row>
+					<row>
+						<entry> Why is this packet dropped by a <systemitem>NetworkPolicy</systemitem>? </entry>
+						 <entry> Why does a network policy drop this packet? </entry>
 
 					</row>
-
-				</tbody>
-
-			</tgroup>
-
-		</table>
-			 <para>
-				Avoid starting or ending a sentence with an object name.
-			</para>
-
-			 <table>
-			<title></title>
-			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
-				 <thead>
 					<row>
-						<entry> Example </entry>
-						 <entry> Improvement </entry>
-
-					</row>
-
-				</thead>
-				 <tbody>
-					<row>
-						<entry> <systemitem>Umount /mnt/save</systemitem>. </entry>
-						 <entry> Unmount the <filename>/mnt/save</filename> directory. </entry>
+						<entry> The Cluster Network Operator is responsible for deploying Multus as a <systemitem>DaemonSet</systemitem> on every node in the cluster. </entry>
+						 <entry> The Cluster Network Operator is responsible for deploying Multus as a daemon set on every node in the cluster. </entry>
 
 					</row>
 					<row>
@@ -1000,7 +1056,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 
 		</table>
 			 <para>
-				However, in some cases, the sentence might be easier to understand if the noun appears first, or if additional language separates the object name from the noun. 
+				However, in some cases, the sentence might be easier to understand if the noun appears first, or if additional language separates the object name from the noun.
 				For example, if the noun refers to a password, a value, or a status, then consider stating the noun first, or including explanatory language between the object name and the noun, or doing both.
 				In other cases, a noun might be omitted.
 			</para>
@@ -1042,6 +1098,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 		</table>
 
 		</section>
+
 	 	<section id="naming-object-classes">
 			<title>Naming of Object Classes</title>
 			 <para>
@@ -1182,7 +1239,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 			<title>Capitalization</title>
 		 <para>
          	Unless the acronym or initialism stands for a proper noun, use sentence case for the spelled out version: for example, "central processing unit (CPU)".
-			Not all acronyms are capitalized (for example, "spool"); refer to 
+			Not all acronyms are capitalized (for example, "spool"); refer to
 			<ulink url="https://www.ibm.com/docs/en/ibm-style?topic=grammar-capitalization"><citetitle>Capitalization</citetitle></ulink> in <citetitle>IBM Style</citetitle>
          	<guiicon><inlinemediaobject>
             <imageobject>
@@ -1195,7 +1252,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 		 <formalpara id="articles">
 			<title>Articles</title>
 		 <para>
-			When deciding which articles to use, consider pronunciation. 
+			When deciding which articles to use, consider pronunciation.
 			For example, use "an <abbrev>RTS</abbrev> (real-time strategy)", because <abbrev>RTS</abbrev> is an initialism and you pronounce the first character as an "R" (är). Conversely, use "a <acronym>RAM</acronym> upgrade", because <acronym>RAM</acronym> is an acronym and you pronounce it as a word (răm).
 		</para>
 		</formalpara>
@@ -1329,6 +1386,12 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 					</listitem>
 					 <listitem>
 						<para>
+							In a formal title, placed before a numeral that denotes part of a sequence.
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
 							Between a numeral and a unit of measurement.
 						</para>
 
@@ -1341,13 +1404,31 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 				 <itemizedlist>
 					<listitem>
 						<para>
-							Red&#123;nbsp&#125;Hat Enterprise Linux&#123;nbsp&#125;8
+							Red&#123;nbsp&#125;Hat Enterprise Linux&#123;nbsp&#125;10
 						</para>
 
 					</listitem>
 					 <listitem>
 						<para>
-							Red&#123;nbsp&#125;Hat OpenShift Container Platform&#123;nbsp&#125;4.9
+							Red&#123;nbsp&#125;Hat OpenShift Container Platform&#123;nbsp&#125;4.20
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Red&#123;nbsp&#125;Hat System Administration&#123;nbsp&#125;I
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Red&#123;nbsp&#125;Hat OpenShift Administration&#123;nbsp&#125;II: Operating a Production Kubernetes Cluster
+						</para>
+
+					</listitem>
+					 <listitem>
+						<para>
+							Memory Part&#123;nbsp&#125;2: CPU Caches
 						</para>
 
 					</listitem>
@@ -1559,7 +1640,7 @@ Publication Title by First name Surname; Publisher.
 			</listitem>
 			 <listitem>
 				<para>
-					If the URL is long or complex, then create a link by using the title of the destination as a label, and put the URL in a footnote. 
+					If the URL is long or complex, then create a link by using the title of the destination as a label, and put the URL in a footnote.
 					For example: Refer to the <ulink url="https://www.britannica.com/animal/mammal/Classification"><citetitle>Classification of Species</citetitle></ulink><footnote> <para>
 						<ulink url="https://www.britannica.com/animal/mammal/Classification" />
 					</para>

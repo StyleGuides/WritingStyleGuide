@@ -289,7 +289,19 @@
 
 			</listitem>
 
-		</varlistentry>		
+		</varlistentry>
+		 <varlistentry id="out-of-date">
+			<term>out-of-date</term>
+			 <listitem>
+				<para>
+					Hyphenate, both when used as a compound modifier before a noun (for example, "You might have used an out-of-date bookmark to get to this page"), and after a noun (for example, "Security scanners can flag temporary files that are left over by the process as out-of-date").
+				</para>
+				<para>
+          Refer also to <xref linkend="up-to-date" />.
+				</para>
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="output-device">
 			<term>output device</term>
 			 <listitem>

@@ -6,12 +6,25 @@
 <chapter id="m">
 	<title>M</title>
 	 <variablelist>
+		 <varlistentry id="machine-learning">
+			<term>machine learning</term>
+			 <listitem>
+				<para>
+					<emphasis>n., adj.</emphasis> Do not hyphenate, even when used as a compound adjective (for example, "machine learning model").
+				</para>
+				 <para>
+          Refer also to <xref linkend="artificial-intelligence"/> and <xref linkend="gen-ai"/>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="macOS">
 		 <term>macOS</term>
 			<listitem>
 			 <para>
-				 In 2016, Apple rebranded OS X to macOS, adopting the nomenclature that it uses for their other operating systems: iOS, watchOS, and tvOS. 
-				 
+				 In 2016, Apple rebranded OS X to macOS, adopting the nomenclature that it uses for their other operating systems: iOS, watchOS, and tvOS.
+
 				 <!-- The latest version of macOS is macOS 10.12 Sierra, which was publicly released in September 2016.	  -->
 			 </para>
 
@@ -224,15 +237,15 @@
 			<term>mission-critical</term>
 			 <listitem>
 				<para>
-					<emphasis>adj.</emphasis> Write as shown. 
+					<emphasis>adj.</emphasis> Write as shown.
 				</para>
 				<para>
-					Use to refer to software or systems that are essential to fulfilling the core purpose of an organization. 
-					When mission-critical systems fail, the impact is often immediate and always severe. 
-					Mission-critical software can include customer-facing software for ensuring safety and regulatory compliance and core back-end systems, such as databases and enterprise resource planning (ERP) systems.  
+					Use to refer to software or systems that are essential to fulfilling the core purpose of an organization.
+					When mission-critical systems fail, the impact is often immediate and always severe.
+					Mission-critical software can include customer-facing software for ensuring safety and regulatory compliance and core back-end systems, such as databases and enterprise resource planning (ERP) systems.
 				</para>
 				<para>
-					To continue to accomplish its core mission, Red&nbsp;Hat considers software to be mission-critical if it is essential to preventing major loss or sustaining health and safety, data or software security, or regulatory compliance. 
+					To continue to accomplish its core mission, Red&nbsp;Hat considers software to be mission-critical if it is essential to preventing major loss or sustaining health and safety, data or software security, or regulatory compliance.
 				</para>
 				<para>
 					Examples of failures that are not considered as mission-critical include an outage for routine maintenance, or a system that is down but is not directly affecting customers.
@@ -348,7 +361,7 @@
 			<term>MySQL</term>
 			 <listitem>
 				<para>
-					Common open source database server and client package. Do not use "MYSQL" or "mySQL". Mark the first mention of MySQL in body text with an 
+					Common open source database server and client package. Do not use "MYSQL" or "mySQL". Mark the first mention of MySQL in body text with an
 					<!-- <firstterm>ball</firstterm> (®)  -->
 					® symbol to denote a registered trademark.
 				</para>

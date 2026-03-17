@@ -75,7 +75,7 @@
     <para>
         You can nest lists, but try to keep the number of levels to two or fewer.
     </para>
-    <section><title>Formatting Lists for Readability</title>
+    <section id="list-spacing"><title>Formatting Lists for Readability</title>
       <para>
         It is important to provide enough spacing between elements in your documents to facilitate reading and comprehension.
         You can include a lot of information in a few short paragraphs but readers need to be able to process that information in chunks.
@@ -99,7 +99,14 @@
         </listitem>
         <listitem>
           <para>
-            Multiple paragraphs, or sentences that wrap to two or more lines.
+            Any sections where your deliverables might benefit from more spacing between list items, for example a list of objectives in a training course.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Multiple paragraphs, or sentences that would typically wrap to two or more lines.
+			Whether an entry wraps or does not wrap to further lines might vary, for example depending on the device and settings where output in EPUB format is viewed.
+			Therefore, this guidance is general rather than specific.
           </para>
         </listitem>
         <listitem>
@@ -109,7 +116,7 @@
         </listitem>
       </itemizedlist>
       <para>
-        Use a list with compact spacing in all other cases.
+        In other cases, consider using a list with compact spacing if the list has only a few items, if the list items are short, and if they do not contain complex content.
       </para>
       <note>
         <para>
@@ -118,7 +125,7 @@
       </note>
 
 		 <para>
-			The following explanation provides some initial guidance for using lists correctly. 
+			The following explanation provides some initial guidance for using lists correctly.
 			For a detailed explanation, refer to <ulink url="https://www.ibm.com/docs/en/ibm-style?topic=format-lists"><citetitle>Lists</citetitle></ulink> in <citetitle>IBM Style</citetitle>
          	<guiicon><inlinemediaobject>
             <imageobject>
@@ -128,7 +135,7 @@
 		</para>
 		 <para>
 			Do not insert a list midway through a sentence and then continue the sentence after the list.
-		</para>		
+		</para>
 		 <table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
@@ -195,7 +202,7 @@
 		</table>
 		 <para>
 			For a lead-in sentence that introduces a list, use a complete sentence. A lead-in that is a sentence fragment can be difficult to translate into other languages.
-		</para>	
+		</para>
 		 <table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
@@ -217,18 +224,18 @@
 						 <itemizedlist>
 							<listitem>
 								<para>
-									Interface 1		
+									Interface 1
 								</para>
 
 							</listitem>
 							 <listitem>
-								<para>	
+								<para>
 									Interface 2
 								</para>
 
 							</listitem>
 
-						</itemizedlist>						
+						</itemizedlist>
 						 </entry>
 						 <entry> <para>
 							Non-privileged users can use the role to configure the following interfaces:
@@ -236,16 +243,16 @@
 						 <itemizedlist>
 							<listitem>
 								<para>
-									Interface 1		
+									Interface 1
 								</para>
 
 							</listitem>
 							 <listitem>
-								<para>	
+								<para>
 									Interface 2
 								</para>
 
-							</listitem>	
+							</listitem>
 
 						</itemizedlist>
 						 </entry>
@@ -256,13 +263,13 @@
 
 			</tgroup>
 
-		</table>	
+		</table>
 
 		 <para>
 			Make items in a list grammatically parallel.
 		</para>
 		 <para>
-			In the following example, the original three list items inconsistently use an infinitive verb form, and then a gerund, and then an imperative. In the improved example, all three list items consistently use an imperative statement. 
+			In the following example, the original three list items inconsistently use an infinitive verb form, and then a gerund, and then an imperative. In the improved example, all three list items consistently use an imperative statement.
 		</para>
 		 <table>
 			<title></title>
@@ -279,11 +286,11 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> 
+						<entry>
 						 <itemizedlist>
 							<listitem>
 								<para>
-									To obtain the file name of the default kernel with the <command>grubby</command> command: 
+									To obtain the file name of the default kernel with the <command>grubby</command> command:
 								</para>
 
 							</listitem>
@@ -298,11 +305,11 @@
 									Use the <command>grubby</command> command to persistently change the default kernel:
 								</para>
 
-							</listitem>							
+							</listitem>
 
 						</itemizedlist>
 						 </entry>
-						<entry> 
+						<entry>
 						 <itemizedlist>
 							<listitem>
 								<para>
@@ -321,7 +328,7 @@
 									Use the <command>grubby</command> command to persistently change the default kernel:
 								</para>
 
-							</listitem>							
+							</listitem>
 
 						</itemizedlist>
 						 </entry>
@@ -338,11 +345,11 @@
 
     <section id="punc-in-lists"><title>Punctuation in Lists</title>
       <para>
-        For each item in a list, start with either a complete sentence or a sentence fragment. 
+        For each item in a list, start with either a complete sentence or a sentence fragment.
       </para>
       <para>
         A <emphasis>complete sentence</emphasis> must include a subject and a verb.
-        It conveys a complete thought, and can stand on its own. 
+        It conveys a complete thought, and can stand on its own.
       </para>
       <para>
         For a list where all items are complete sentences, end each item with a period.
@@ -407,7 +414,7 @@
         </listitem>
       </itemizedlist>
       <para>
-        Sometimes, list items might include some form of a verb, but if they do not also include a subject, then they are not capable of standing on their own. 
+        Sometimes, list items might include some form of a verb, but if they do not also include a subject, then they are not capable of standing on their own.
         Such items count as sentence fragments, and are not ended with any punctuation.
       </para>
       <para>
@@ -475,7 +482,7 @@
         </listitem>
         <listitem>
           <para>
-            Name of the container inside a pod. 
+            Name of the container inside a pod.
             Container names are important for <command>oc</command> commands when a pod contains multiple containers.
           </para>
         </listitem>
@@ -521,7 +528,7 @@
 						<entry> Standard system log management configuration rotates log files every week. </entry>
 						 <entry> Standard configuration of system log management rotates log files every week. </entry>
 
-					</row>					
+					</row>
 
 				</tbody>
 
@@ -551,7 +558,7 @@
 						 <entry> The <command>nmap</command> utility scans privileged TCP ports to look for services. </entry>
 
 					</row>
-		
+
 
 				</tbody>
 

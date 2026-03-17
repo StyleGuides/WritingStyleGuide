@@ -91,7 +91,7 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="keyboard-key">
+		 <!-- <varlistentry id="keyboard-key">
 			<term>keyboard key</term>
 			 <listitem>
 				<para>
@@ -103,7 +103,7 @@
 
 			</listitem>
 
-		</varlistentry>
+		</varlistentry> -->
 		 <varlistentry id="key-ring">
 			<term>key ring</term>
 			 <listitem>

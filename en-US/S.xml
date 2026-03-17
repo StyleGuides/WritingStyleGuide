@@ -20,7 +20,7 @@
 			<term>SaaS</term>
 			 <listitem>
 				<para>
-					The correct abbreviation for "Software-as-a-Service". 
+					The correct abbreviation for "Software-as-a-Service".
 					Refer also to <xref linkend="paas" />.
 				</para>
 
@@ -84,10 +84,10 @@
           Instead of stating that a product or service is "secure", describe specifically how features or qualities provide trustworthiness and resilience, and provide verifiable data where it exists.
 		  When discussing security, use qualifiers to avoid making definitive or unsubstantiated claims about security.
         </para>
-        <table><title></title>		
+        <table><title></title>
           <tgroup cols="2" align="left" colsep="1" rowsep="1">
-            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
-            <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+            <colspec colname="c1" colnum="1" colwidth="1*"/>
+            <colspec colname="c2" colnum="2" colwidth="2*"/>
             <thead>
               <row>
                 <entry>Original text</entry>
@@ -112,8 +112,8 @@
         </para>
         <table id="qualify-sensitive-terms"><title>Using Qualifiers with Sensitive Terms</title>
           <tgroup cols="2" align="left" colsep="1" rowsep="1">
-            <colspec colname="c1" colnum="1" colwidth="1.0*"/>
-            <colspec colname="c2" colnum="2" colwidth="2.0*"/>
+            <colspec colname="c1" colnum="1" colwidth="1*"/>
+            <colspec colname="c2" colnum="2" colwidth="2*"/>
             <thead>
               <row>
                 <entry>Original text</entry>
@@ -145,9 +145,9 @@
 				For references within a document, and for cross-references to other resources, do not use “see”. Use “refer to”.
 				</para>
 				<para>
-				For descriptions of graphics, explanations of command outputs, and other similar cases, it is acceptable to use “see”. 
+				For descriptions of graphics, explanations of command outputs, and other similar cases, it is acceptable to use “see”.
 				Alternatively, it might be more concise or precise to replace “see” with another verb in these cases.
-				For example, instead of using "Click a server link to see the result details", you could use "Click a server link for the result details". 
+				For example, instead of using "Click a server link to see the result details", you could use "Click a server link for the result details".
 				Instead of using "As you can see, these expected Audit events have an AVC Audit record", you could use "As shown in the output, these expected Audit events have an AVC Audit record".
 				</para>
 			</listitem>
@@ -380,14 +380,14 @@
 					</listitem>
 				</itemizedlist>
 				 <para>
-					In general, use "log in" when referring to Linux-based technologies and platforms. 
-					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password. 
+					In general, use "log in" when referring to Linux-based technologies and platforms.
+					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password.
 					In these cases, align to the terminology that is used in the user interface.
 				</para>
-				 <para>				
-    			    Refer also to <xref linkend="login"/>.					
+				 <para>
+    			    Refer also to <xref linkend="login"/>.
 				</para>
-			</listitem>	
+			</listitem>
 
 		</varlistentry>
 
@@ -421,16 +421,16 @@
 					</listitem>
 				</itemizedlist>
 				 <para>
-					In general, use "log in" when referring to Linux-based technologies and platforms. 
-					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password. 
+					In general, use "log in" when referring to Linux-based technologies and platforms.
+					In some cases, a tool or platform might use "sign in" or other terms to describe starting a session by entering a username and password.
 					In these cases, align to the terminology that is used in the user interface.
 				</para>
-				 <para>				
-    			    Refer also to <xref linkend="login"/>.					
+				 <para>
+    			    Refer also to <xref linkend="login"/>.
 				</para>
-			</listitem>	
+			</listitem>
 
-		</varlistentry>		
+		</varlistentry>
 		 <varlistentry id="simply">
 			<term>simply</term>
 			 <listitem>
@@ -502,6 +502,19 @@
           It diminishes the horror of the dehumanizing practice of slavery.
           Use another term such as "worker", "child", "helper", "replica", or "secondary (server, node, process, or other noun)".
 				</para>
+			</listitem>
+
+		</varlistentry>
+		 <varlistentry id="slm">
+			<term>small language model (SLM)</term>
+			 <listitem>
+				<para>
+					When spelled out, do not hyphenate.
+				</para>
+				 <para>
+          Refer also to <xref linkend="artificial-intelligence"/> and <xref linkend="gen-ai"/>.
+				</para>
+
 			</listitem>
 
 		</varlistentry>
@@ -646,7 +659,7 @@ a programming and technical sense, it also means "Run the <command>source</comma
 
 			</listitem>
 
-		</varlistentry>			
+		</varlistentry>
 		 <varlistentry id="sr-iov">
 			<term>SR-IOV</term>
 			 <listitem>
@@ -701,8 +714,8 @@ a programming and technical sense, it also means "Run the <command>source</comma
           Do not use "standalone".
 				</para>
 				 <para>
-					Refers to something that is self-contained, or that does not require any other devices to function. 
-					For example, a smartphone is a stand-alone device because it does not require a computer, printer, modem, or other device. 
+					Refers to something that is self-contained, or that does not require any other devices to function.
+					For example, a smartphone is a stand-alone device because it does not require a computer, printer, modem, or other device.
 					A printer, on the other hand, is not a stand-alone device because it requires a computer to feed it data.
 				</para>
 

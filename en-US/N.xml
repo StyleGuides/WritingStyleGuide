@@ -10,9 +10,9 @@
  			<term>named</term>
  			 <listitem>
  				<para>
-					When referring to the designation of files, objects, or entities within documentation, use the term "named" instead of "called". 
+					When referring to the designation of files, objects, or entities within documentation, use the term "named" instead of "called".
 					This choice promotes clarity and precision in technical content.
-					The word "named" directly associates the name with the entity and is more specific in technical contexts. 
+					The word "named" directly associates the name with the entity and is more specific in technical contexts.
 					Use "named" to refer to such items as a file, directory, task, user, or group.
 					For example, "When you need to store configuration settings, create a directory named <filename>configurations</filename> to keep your workspace organized."
  				</para>
@@ -25,6 +25,19 @@
  			</listitem>
 
  		</varlistentry>
+		 <varlistentry id="nlp">
+			<term>natural language processing (NLP)</term>
+			 <listitem>
+				<para>
+					Spell out on first reference. Do not hyphenate.
+				</para>
+				 <para>
+          Refer also to <xref linkend="artificial-intelligence"/> and <xref linkend="gen-ai"/>.
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="navigate-to">
  			<term>navigate to</term>
  			 <listitem>
@@ -112,6 +125,19 @@
 			</listitem>
 
 		</varlistentry>
+		 <varlistentry id="non-real-time">
+			<term>non-real-time</term>
+			 <listitem>
+				<para>
+					Hyphenate in both places.
+				</para>
+				<para>
+					For example: "The <option>nice</option> values affect only non-real-time processes and do not elevate a process's priority above any real-time tasks."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="nonsecure">
 			<term>nonsecure</term>
 			 <listitem>
@@ -138,7 +164,7 @@
 				<para>
 					Generally, use "number sign" to refer to the # character.
           Otherwise, use "hash" to refer to a hashtag in social media, or to refer to Secure Hash Algorithm (refer to <xref linkend="sha" />), or when writing exclusively for a European audience.
-          You can instead use "pound sign" when writing exclusively for a North American audience, if "number sign" is not appropriate for the context.  
+          You can instead use "pound sign" when writing exclusively for a North American audience, if "number sign" is not appropriate for the context.
 				</para>
 
 			</listitem>
