@@ -855,11 +855,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 							Refer also to the
 							<ulink url="https://developers.google.com/style"><citetitle>Google Developer Documentation Style Guide</citetitle></ulink>.
 						</para>
-						<para>
-							Refer also to the 
-							<ulink url="https://developers.google.com/style"><citetitle>Google Developer Documentation Style Guide</citetitle></ulink>.
-						</para>
-
+						
 					</listitem>
 
 				</itemizedlist>
