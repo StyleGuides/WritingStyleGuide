@@ -43,7 +43,7 @@
 			 <listitem>
 				<para>
 					<emphasis>n.</emphasis> A 64-bit version of the ARM architecture. 
-					This term can refer to both AArch66/`aarch64` and to ARM64/`arm64`. 
+					This term can refer to both AArch64/`aarch64` and to ARM64/`arm64`.
 				</para>
 				 <para>
 					Use this format in general cases to refer to names of the architecture for various cloud providers.
@@ -111,4 +111,3 @@
 
 	</variablelist>
 </chapter>
-
