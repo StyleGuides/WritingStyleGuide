@@ -807,7 +807,7 @@ Using project "default".
             Use the pipe character (|) to send the output of one program to the input of another program.
           </para>
 		  <para>
-            The hyphen after the greater-than symbol (>) indicates that a newline character (\n) is not added to the end of the variable.
+            The minus sign after the greater-than symbol (>) indicates that trailing newline characters are stripped from the end of the string.
           </para>
           </example>
 		<para>
