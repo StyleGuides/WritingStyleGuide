@@ -73,6 +73,9 @@
 				<para>
 					In a technology context, write as one word.
 					For example, "List the buckets in the S3 endpoint to validate the credentials."
+
+					In a non-technology context, write as two words.
+					For example, "The Santa Monica pier marks the end point of Route 66."
 				</para>
 
 			</listitem>
@@ -137,6 +140,9 @@
 			 <para>
 			 EPUB is part of the w3.org publishing standards:
 			 <ulink url="https://www.w3.org/publishing/epub3/">https://www.w3.org/publishing/epub3/</ulink>
+			 </para>
+			 <para>
+          	 Refer also to <xref linkend="e-book" />.
 			 </para>
 
 		 </listitem>
