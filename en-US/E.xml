@@ -67,6 +67,21 @@
 
 		</varlistentry> -->
 
+		 <varlistentry id="endpoint">
+			<term>endpoint</term>
+			 <listitem>
+				<para>
+					In a technology context, write as one word.
+					For example, "List the buckets in the S3 endpoint to validate the credentials."
+				</para>
+				 <para>
+					In a non-technology context, write as two words.
+					For example, "The Santa Monica pier marks the end point of Route 66."
+				</para>
+
+			</listitem>
+
+		</varlistentry>
 		 <varlistentry id="enter">
 			<term>enter</term>
 			 <listitem>
@@ -120,12 +135,15 @@
 			<listitem>
 			 <para>
 				Write as shown, and without any variations in styling or capitalization, to refer to this publishing format.
-				 Do not use EPUB as a noun to refer to an EPUB file. 
-				 For example, instead of writing "in an EPUB", write "in an EPUB file". 
+				 Do not use EPUB as a noun to refer to an EPUB file.
+				 For example, instead of writing "in an EPUB", write "in an EPUB file".
 			 </para>
 			 <para>
-			 EPUB is part of the w3.org publishing standards: 
+			 EPUB is part of the w3.org publishing standards:
 			 <ulink url="https://www.w3.org/publishing/epub3/">https://www.w3.org/publishing/epub3/</ulink>
+			 </para>
+			 <para>
+          	 Refer also to <xref linkend="e-book" />.
 			 </para>
 
 		 </listitem>
