@@ -103,12 +103,12 @@
 					<para>
 					In training content, avoid using a verb such as "Discussing" or "Demonstrating" in objectives for students. Such verbs might refer instead to what the instructor or the course content covers, or to a student group activity in class.
 					</para>
-					 <important>
+					 <!-- <important>
 						<para>
 							Gerunds should be avoided elsewhere.
               Refer to <xref linkend="sentence-structure" />.
 						</para>
-					</important>
+					</important> -->
       <formalpara>
         <title>File Names, Commands, and Related Terms</title>
           <para>

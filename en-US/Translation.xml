@@ -338,7 +338,7 @@
 
     </section>
 
-    <section id="punc-in-lists"><title>Punctuation in Lists</title>
+    <section id="punc-in-lists"><title>Punctuation and Wording in Lists</title>
       <para>
         For each item in a list, start with either a complete sentence or a sentence fragment.
       </para>
@@ -530,36 +530,7 @@
 			</tgroup>
 
 		</table>
-			 <para>
-				Avoid a noun followed by a word that ends in <emphasis>-ing</emphasis>. Such a construction is difficult to translate.
-			</para>
 
-		 <table>
-			<title></title>
-			 <tgroup cols="2" colsep="1" rowsep="1">
-				<colspec colname="c1"></colspec>
-				 <colspec colname="c2"></colspec>
-				 <thead>
-					<row>
-						<entry> Example </entry>
-						 <entry> Improvement </entry>
-
-					</row>
-
-				</thead>
-				 <tbody>
-					<row>
-						<entry> The <command>nmap</command> utility scans privileged TCP ports looking for services. </entry>
-						 <entry> The <command>nmap</command> utility scans privileged TCP ports to look for services. </entry>
-
-					</row>
-
-
-				</tbody>
-
-			</tgroup>
-
-		</table>
   </section>
 
 	</section>
