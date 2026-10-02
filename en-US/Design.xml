@@ -1588,31 +1588,89 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
  </section>
 
 <!-- Describe at beginning of guide what it covers, but not to use markup. -->
-	 <section id="citing-other-works">
-		<title>Citing Other Works</title>
-		 <formalpara id="other-books">
+	 <section id="other-works">
+	  <title>Citing Other Works</title>
+		<para>
+		When referencing other publications, consult with internal guidance for the citation of sources, such as selecting sources that are appropriate to cite, identifying the citation style to use for references, and following recommended practices for the intended deliverable.
+		</para>
+
+		 <formalpara id="citing-guidance">
+	  		<title>General Guidelines</title>
+
+		 <!-- <itemizedlist>
+			<listitem> -->
+		<para>
+		When citing external sources, ensure that the content is authoritative, credible, and publicly accessible.
+		</para>
+		</formalpara>
+
+			<!-- </listitem>
+			 <listitem> -->
+		<para>
+		Use the citation format that aligns with your organization's standards. Common options include footnotes, inline citations, and embedded URLs.
+		</para>
+
+			<!-- </listitem>
+			 <listitem> -->
+		<para>
+		When embedding URLs, use meaningful link text that describes the destination.
+		</para>
+
+			<!-- </listitem>
+		</itemizedlist> -->
+
+		 <table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						 <entry> For more information, go <ulink url="https://connect.redhat.com/en"><citetitle>here</citetitle></ulink> (where "here" is a link). </entry>
+
+						 <entry> For more information, refer to <ulink url="https://connect.redhat.com/en"><citetitle>Red&nbsp;Hat Partner Connect</citetitle></ulink>. </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+
+	</section>
+
+		 <!-- <formalpara id="other-books">
 			<title>Referencing Other Publications</title>
 			 <para>
 				When referencing another publication, either internal or external to Red&nbsp;Hat, use the following format:
 			</para>
 
 		</formalpara>
-		<!--  <para>
+		 <para>
 			In XML:
-		</para> -->
+		</para>
 
 <programlisting>
-<!-- &lt;citetitle&gt;Publication Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher. -->
+&lt;citetitle&gt;Publication Title&lt;/citetitle&gt; by &lt;author&gt;&lt;firstname&gt;First name&lt;/firstname&gt;&lt;surname&gt;Surname&lt;/surname&gt;&lt;/author&gt;; Publisher.
 Publication Title by First name Surname; Publisher.
 </programlisting>
 
 		 <para>
 			For example, <citetitle>Maximum RPM</citetitle> by Edward Bailey; Red&nbsp;Hat Press.
-			<!-- <author>
+			 <author>
 				<firstname>Edward</firstname>
 				 <surname>Bailey</surname>
 
-			</author> -->
+			</author>
 		</para>
 		 <formalpara id="other-websites">
 			<title>Referencing Other Internet Sites</title>
@@ -1649,7 +1707,7 @@ Publication Title by First name Surname; Publisher.
 
 	</section>
 
-<!-- <section id="other-authors">
+ <section id="other-authors">
 		<title>Citing Other Authors</title>
 		 <para>
 			DocBook provides the &lt;blockquote&gt; and &lt;attribution&gt; tags for this purpose, but how they should be rendered is currently being discussed. For example:
