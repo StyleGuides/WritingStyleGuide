@@ -55,6 +55,7 @@
           </formalpara>
 					<para>
 					Typically, the "ing" form of a verb is a good way to title larger chunks of content such as chapters and sections, for example "Creating Branches". Choose a verb that refers to specific actions that users take, such as "Configuring", "Creating", "Installing", and "Merging".
+					Refer also to <xref linkend="ing-words" />.
 					</para>
 					<para>
 					Activities and subtasks that the user should perform can alternatively use an imperative verb for clarity. Imperative verbs are prescriptive, such as "Create" or "Delete". Example: "Assess the Health of an OpenShift Cluster".
