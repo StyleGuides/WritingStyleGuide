@@ -220,14 +220,14 @@
 	You can use the possessive form with the "Red&nbsp;Hat" company name to refer only to the company itself, without identifying any products or services.
 	</para>
 	<para>
-	<emphasis>Examples:</emphasis>
+	<emphasis>Example:</emphasis>
 	</para>
 		 <itemizedlist>
-			<listitem>
+			<!-- <listitem>
 				<para>
 				Use the "DEI" term to refer to Red&nbsp;Hat's diversity, equity, and inclusion efforts and teams.
 				</para>
-			</listitem>
+			</listitem> -->
 			<listitem>
 				<para>
 				Red&nbsp;Hat's approach to hybrid cloud security helps customers implement security across their entire infrastructure.
@@ -547,7 +547,7 @@
 				 <tbody>
 					<row>
 						<entry> Click button to start. </entry>
-						 <entry> Click <guibutton>Start</guibutton> to start the process. </entry>
+						 <entry> Click <guibutton>Start</guibutton> to launch the process. </entry>
 
 					</row>
 
@@ -580,7 +580,7 @@
 					</row>
 					 <row>
 						<entry> Some further work required to avoid 404s at lower levels of the SDK. </entry>
-						 <entry> Some further work required to avoid 404 errors at lower levels of the SDK. </entry>
+						 <entry> Some further work is required to avoid 404 errors at lower levels of the SDK. </entry>
 
 					</row>
 
@@ -759,8 +759,8 @@
 				</thead>
 				 <tbody>
 					<row>
-						<entry> If one service is started, the other is also started. </entry>
-						 <entry> If one service is started, then the other is also started. </entry>
+						<entry> If one service is started, the other service is also started. </entry>
+						 <entry> If one service is started, then the other service is also started. </entry>
 
 					</row>
 

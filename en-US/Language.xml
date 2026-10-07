@@ -904,6 +904,162 @@
 		</table>
 
 	</section>
+	 <section id="ing-words">
+		<title>Using -ing Verb Forms</title>
+		 <para>
+			This section provides guidance about when to use words that end with "-ing".
+			Refer also to <xref linkend="verbs-titles" />, <xref linkend="punc-in-lists" />, and <xref linkend="avoiding-ambiguities" />.
+		</para>
+
+		 <formalpara>
+			<title>Using the -ing Form as a Gerund</title>
+			 <para>
+				In some cases, a word that ends with "-ing" is a gerund, where it functions as a noun, for example "Reading is my favorite hobby".
+			</para>
+
+		</formalpara>
+
+		 <para>
+			In a title, a gerund names an action without directing the reader to perform it, which suits a chapter or section that covers that action generally.
+			For example, "Creating Branches" names the activity as a general concept, whereas "Create a Branch" directs the reader through the task once.
+			Refer to <xref linkend="verbs-titles" /> for when an imperative or a noun phrase fits better.
+		</para>
+		 <para>
+			Use a gerund when the action itself is the subject of the sentence or the object of a verb.
+			For example, use "Provisioning requires DHCP, DNS, and TFTP services" rather than "You require DHCP, DNS, and TFTP services in order to provision".
+		</para>
+		 <para>
+			When a verb phrase such as "is responsible for" or "is used for" carries no meaning and pushes the real action into a gerund, rewrite the sentence so that the main action is an active verb.
+			For example, use "This option enables logging" rather than "This option is used for enabling logging".
+		</para>
+		 <para>
+			In a list, use gerunds when the items name activities and are parallel with the lead-in sentence.
+		</para>
+
+		 <itemizedlist id="item-Gerund-List">
+			<title>Example</title>
+			 <listitem>
+				<para>
+					In addition to data residency, implementing a sovereign cloud environment involves the following factors:
+				</para>
+			<itemizedlist>
+				<listitem>
+					<para>
+						Using in-country or in-region data centers
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Employing virtual perimeter, or geo-fencing, policies for data localization
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Maintaining operational independence through local staffing and supply chain control
+					</para>
+				</listitem>
+				<listitem>
+					<para>
+						Implementing workload protection, access controls, and auditing
+					</para>
+				</listitem>
+			</itemizedlist>
+
+			</listitem>
+
+		</itemizedlist>
+
+		 <para>
+			In a procedure step, avoid using a gerund for an action that the reader performs, because the result is a description of the outcome, rather than a direction for a specific action.
+			For example, use "Click <guibutton>Submit</guibutton> to save the configuration" rather than "Clicking <guibutton>Submit</guibutton> saves the configuration."
+		</para>
+
+		 <formalpara>
+			<title>Using the -ing Form as a Present Participle</title>
+			 <para>
+			In other cases, a word that ends with "-ing" is a present participle as part of an adverbial phrase, and modifies other verbs in the sentence, for example "The <command>nmap</command> utility scans privileged TCP ports looking for services".
+			</para>
+
+		</formalpara>
+
+		 <para>
+			Avoid a noun followed by a word that ends with "-ing", regardless of whether or not a comma intervenes. Such a construction is difficult to translate and might be ambiguous.
+		</para>
+	<table>
+			<title></title>
+			 <tgroup cols="2" colsep="1" rowsep="1">
+				<colspec colname="c1"></colspec>
+				 <colspec colname="c2"></colspec>
+				 <thead>
+					<row>
+						<entry> Example </entry>
+						 <entry> Improvement </entry>
+
+					</row>
+
+				</thead>
+				 <tbody>
+					<row>
+						<entry> The <command>nmap</command> utility scans privileged TCP ports looking for services. </entry>
+						 <entry>
+			 				<para>
+								Depending on the meaning, either: The <command>nmap</command> utility scans privileged TCP ports by looking for services.
+							</para>
+			 				<para>
+								Or: The <command>nmap</command> utility scans privileged TCP ports that look for services.
+							</para>
+						 </entry>
+
+					</row>
+					<row>
+						<entry> The Traffic flows table displays dropped bytes and packets in red text within the existing Bytes and Packets columns, enabling you to quickly identify flows experiencing packet loss. </entry>
+						 <entry>
+			 				<para>
+								Either: The Traffic flows table displays dropped bytes and packets in red text within the existing Bytes and Packets columns, which enables you to quickly identify flows that experience packet loss.
+							</para>
+			 				<para>
+								Or: The Traffic flows table displays dropped bytes and packets in red text within the existing Bytes and Packets columns, so that you can quickly identify flows that experience packet loss.
+							</para>
+					 	 </entry>
+
+					</row>
+					<row>
+						<entry> An optional 12-month add-on can extend the total support to 36 months, providing stability for mission-critical production environments. </entry>
+						 <entry>
+			 				<para>
+								Either: An optional 12-month add-on can extend the total support to 36 months, which provides stability for mission-critical production environments.
+							</para>
+			 				<para>
+								Or: An optional 12-month add-on can extend the total support to 36 months, to provide stability for mission-critical production environments.
+							</para>
+					 	 </entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</table>
+		 <para>
+			Exception: In some specific cases, a noun that is followed by an "-ing" word comprises a single entity, and should be retained in this format.
+		</para>
+
+		 <itemizedlist id="item-Paired-Ing-Words">
+			<title>Examples</title>
+			<listitem>
+				<para>
+					performance tuning
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					error logging
+				</para>
+			</listitem>
+		</itemizedlist>
+
+	</section>
 	 <section id="Avoiding_Slang_Metaphors-MisleadingLanguage-Anthropomorphism">
 		<title>Anthropomorphism</title>
 		 <para>
