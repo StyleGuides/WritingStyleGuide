@@ -54,7 +54,7 @@
 	 <section id="titles-and-subtitles">
 		<title>Titles and Subtitles</title>
 		 <para>
-			The title should be a combination of the complete product name, its version, and the name of the publication. For example, "Red&nbsp;Hat Satellite&nbsp;6.12 Installation Guide", or "Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 Deployment Guide".
+			The title should be a combination of the complete product name, its version, and the name of the publication. For example, "Red&nbsp;Hat Satellite&nbsp;6.19 Installing Satellite Server in a connected network environment", or "Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 Configuring basic system settings".
 		</para>
 		 <para>
 			The subtitle should be a single, succinct phrase that describes the intent of the publication; an abstract of the abstract. For example, "Installing Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 for All Architectures".
@@ -81,13 +81,13 @@
 			<itemizedlist>
 				<listitem>
 					<para>
-						What: What is the purpose of the publication or document? A brief summary, for example, "The Red&nbsp;Hat Satellite&nbsp;5.6 API Guide is a full reference for Satellite's XMRPC API."
+						What: What is the purpose of the publication or document? A brief summary, for example, "The Red&nbsp;Hat Satellite&nbsp;6.19 Using the Satellite REST API guide explains the concepts behind a Representational State Transfer (REST) API."
 					</para>
 
 				</listitem>
 				 <listitem>
 					<para>
-						How: How does the publication convey its content? That is, is it task-based? Example-driven? A reference guide? For example, "The guide explains each API method and demonstrates examples of data models for input and output."
+						How: How does the publication convey its content? That is, is it task-based? Example-driven? A reference guide? For example, "The guide provides example usage for various types of requests, including authentication, and sample scripts in curl, Ruby, and Python."
 					</para>
 
 				</listitem>
@@ -105,8 +105,8 @@
 			Drawing these basics together might produce the following example abstract:
 		</para>
 		 <para>
-			"The Red&nbsp;Hat Satellite&nbsp;5.6 API Guide is a full reference for Satellite's XMRPC API.
-			The guide explains each API method and demonstrates examples of data models for input and output.
+			"The Red&nbsp;Hat Satellite&nbsp;6.19 Using the Satellite REST API guide explains the concepts behind a Representational State Transfer (REST) API.
+			The guide provides example usage for various types of requests, including authentication, and sample scripts in curl, Ruby, and Python.
 			This publication provides a basis for administrators and developers to write custom scripts and to integrate Red&nbsp;Hat Satellite with third-party applications."
 		</para>
 		 <para>
