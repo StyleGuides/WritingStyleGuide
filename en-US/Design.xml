@@ -261,7 +261,7 @@
 		 <section id="starting-apps">
 			<title>Starting Applications from the Desktop</title>
 			 <para>
-			 	This section describes how to start applications from a Red&nbsp;Hat Enterprise&nbsp;Linux-based distribution.
+			 	This section describes how to start applications from a Red&nbsp;Hat Enterprise Linux-based distribution.
 			</para>
 			 <para>
 				RHEL&nbsp;10 uses the following approach to starting applications from the desktop.
@@ -1454,7 +1454,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 			<itemizedlist>
 				<listitem>
 					<para>
-						Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;8
+						Red&nbsp;Hat Enterprise Linux&nbsp;8
 					</para>
 
 				</listitem>
@@ -1476,7 +1476,7 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 			<itemizedlist>
 				<listitem>
 					<para>
-						Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;5.2 was released on October 12, 2010.
+						Red&nbsp;Hat Enterprise Linux&nbsp;5.2 was released on October 12, 2010.
 					</para>
 
 				</listitem>
@@ -1496,8 +1496,8 @@ telemetry-operator.v1.0.0               Telemetry Operator             ... -->
 		</para>
 		 <para>
 			Avoid using the "dot-oh" release number.
-      For example, do not use Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.0.
-      Use instead Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;6.
+      For example, do not use Red&nbsp;Hat Enterprise Linux&nbsp;6.0.
+      Use instead Red&nbsp;Hat Enterprise Linux&nbsp;6.
 		</para>
 		 <important>
 			<para>
