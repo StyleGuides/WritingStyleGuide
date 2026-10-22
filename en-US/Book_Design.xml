@@ -54,10 +54,10 @@
 	 <section id="titles-and-subtitles">
 		<title>Titles and Subtitles</title>
 		 <para>
-			The title should be a combination of the complete product name, its version, and the name of the publication. For example, "Red&nbsp;Hat Satellite&nbsp;6.19 Installing Satellite Server in a connected network environment", or "Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 Configuring basic system settings".
+			The title should be a combination of the complete product name, its version, and the name of the publication. For example, "Red&nbsp;Hat Satellite&nbsp;6.19 Installing Satellite Server in a Connected Network Environment", or "Red&nbsp;Hat Enterprise Linux&nbsp;9 Configuring Basic System Settings".
 		</para>
 		 <para>
-			The subtitle should be a single, succinct phrase that describes the intent of the publication; an abstract of the abstract. For example, "Installing Red&nbsp;Hat Enterprise&nbsp;Linux&nbsp;9 for All Architectures".
+			The subtitle should be a single, succinct phrase that describes the intent of the publication; an abstract of the abstract. For example, "Installing Red&nbsp;Hat Enterprise Linux&nbsp;9 for All Architectures".
 		</para>
 
 	</section>
@@ -81,7 +81,7 @@
 			<itemizedlist>
 				<listitem>
 					<para>
-						What: What is the purpose of the publication or document? A brief summary, for example, "The Red&nbsp;Hat Satellite&nbsp;6.19 Using the Satellite REST API guide explains the concepts behind a Representational State Transfer (REST) API."
+						What: What is the purpose of the publication or document? A brief summary, for example, "The Red&nbsp;Hat Satellite&nbsp;6.19 Using the Satellite REST API Guide explains the concepts behind a Representational State Transfer (REST) API."
 					</para>
 
 				</listitem>
@@ -105,7 +105,7 @@
 			Drawing these basics together might produce the following example abstract:
 		</para>
 		 <para>
-			"The Red&nbsp;Hat Satellite&nbsp;6.19 Using the Satellite REST API guide explains the concepts behind a Representational State Transfer (REST) API.
+			"The Red&nbsp;Hat Satellite&nbsp;6.19 Using the Satellite REST API Guide explains the concepts behind a Representational State Transfer (REST) API.
 			The guide provides example usage for various types of requests, including authentication, and sample scripts in curl, Ruby, and Python.
 			This publication provides a basis for administrators and developers to write custom scripts and to integrate Red&nbsp;Hat Satellite with third-party applications."
 		</para>
