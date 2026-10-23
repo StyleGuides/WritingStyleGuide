@@ -69,11 +69,14 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="backwards-compatible">
-			<term>backwards compatible</term>
+		 <varlistentry id="backward-compatible">
+			<term>backward compatibility, backward-compatible</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "compatible with earlier versions" to refer to something that is compatible with older equipment or previous versions of software. Refer also to <xref linkend="forwards-compatible" />.
+					Use with caution, and avoid any perception of making a claim that might promise future actions that are legally binding.
+					If using the term, use "backward" rather than "backwards", and hyphenate the adjective "backward-compatible".
+					Example: "Apicurio Registry&nbsp;3.x maintains backward compatibility with v2 client libraries and SerDes."
+					Refer also to <xref linkend="forward-compatible" />.
 				</para>
 
 			</listitem>
