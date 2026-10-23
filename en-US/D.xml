@@ -104,18 +104,19 @@
 
 			</listitem>
 
-<!-- Removed "dates" as it is not a literal term entry. This information is now in "Dates and times" section in chapter 4. -->
 		</varlistentry>
-<!--		 <varlistentry id="dates">
-			<term>dates</term>
+
+		 <varlistentry id="day0">
+			<term>Day 0, Day 1, Day 2</term>
 			 <listitem>
 				<para>
-					<remark>Needs review</remark>
-					 When presenting specific dates and times numerically, refer to ISO Standard 8601. For dates, this means <replaceable>YYYMDD</replaceable> is the recommended representation.
+					To refer to Day 0, Day 1, or Day 2 operations, use an initial uppercase letter, and write it this way, unhyphenated, even when it is used as an adjective.
+					For example, use "Day 1 operations", not "Day-1 operations".
 				</para>
 
 			</listitem>
--->
+
+		</varlistentry>
 
 		 <varlistentry id="debug">
 			<term>debug</term>
