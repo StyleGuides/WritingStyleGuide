@@ -263,11 +263,14 @@
 			</listitem>
 
 		</varlistentry>
-		 <varlistentry id="forwards-compatible">
-			<term>forwards compatible</term>
+		 <varlistentry id="forward-compatible">
+			<term>forward compatibility, forward-compatible</term>
 			 <listitem>
 				<para>
-					Do not use. Instead, use "compatible with later versions". Refer also to <xref linkend="backwards-compatible" />.
+					Use with caution, and avoid any perception of making a claim that might promise future actions that are legally binding.
+					If using the term, use "forward" rather than "forwards", and hyphenate the adjective "forward-compatible".
+					Example: "The team is considering this product's forward compatibility with others in the Red&nbsp;Hat portfolio."
+					Refer also to <xref linkend="backward-compatible" />.
 				</para>
 			</listitem>
 
