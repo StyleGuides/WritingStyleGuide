@@ -75,7 +75,7 @@
 				<para>
 					Use with caution, and avoid any perception of making a claim that might promise future actions that are legally binding.
 					If using the term, use "backward" rather than "backwards", and hyphenate the adjective "backward-compatible".
-					Example: "Apicurio Registry&nbsp;3.x maintains backward compatibility with v2 client libraries and SerDes."
+					Example: "Apicurio Registry 3.x maintains backward compatibility with v2 client libraries and SerDes."
 					Refer also to <xref linkend="forward-compatible" />.
 				</para>
 
