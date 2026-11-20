@@ -6,9 +6,10 @@
 <section id="overall-book-design">
 	<title>Overall Publication Design</title>
 	 <para>
-		This section describes a general approach to the overall layout and design of technical documentation. This design was developed specifically for technical documentation and might not suit content produced by other groups.
+		This section describes a general approach to the overall layout and design of technical content.
+		<!-- This design was developed specifically for technical documentation and might not suit content produced by other groups. -->
 	</para>
-	 <para>
+	 <!-- <para>
 		This section covers the following topics:
 		<itemizedlist>
 			<listitem>
@@ -50,18 +51,18 @@
 
 		</itemizedlist>
 
-	</para>
+	</para> -->
 	 <section id="titles-and-subtitles">
-		<title>Titles and Subtitles</title>
+		<title>Publication Titles and Subtitles</title>
 		 <para>
-			The title should be a combination of the complete product name, its version, and the name of the publication. For example, "Red&nbsp;Hat Satellite&nbsp;6.19 Installing Satellite Server in a Connected Network Environment", or "Red&nbsp;Hat Enterprise Linux&nbsp;9 Configuring Basic System Settings".
+			The title should be a combination of the complete product name, and the main topic or task of the publication. If the publication documents a specific product version, then include that version. For example, "Red&nbsp;Hat Satellite&nbsp;6.19 Installation Guide", or "Red&nbsp;Hat Enterprise Linux&nbsp;9 Deployment Guide".
 		</para>
 		 <para>
-			The subtitle should be a single, succinct phrase that describes the intent of the publication; an abstract of the abstract. For example, "Installing Red&nbsp;Hat Enterprise Linux&nbsp;9 for All Architectures".
+			If a publication has a subtitle, then the subtitle should be a single, succinct phrase that describes the intent of the publication. For example, "Installing Red&nbsp;Hat Enterprise Linux&nbsp;9 for All Architectures".
 		</para>
 
 	</section>
-	 <section id="prefaces">
+	 <!-- <section id="prefaces">
 		<title>Prefaces</title>
 		 <para>
 			The brands that form part of Publican (<ulink url="https://fedorahosted.org/publican/" />) contain a preface as part of the common content. Whether your publication is for external Red&nbsp;Hat customers, JBoss customers, internal customers, or whomever, the brand you choose should provide a suitable preface. Try to use the standard preface to help maintain consistency, reduce overhead and maintenance, and also to reduce translation costs. If you feel that the preface fails to meet your needs, consider whether or not you are using the correct brand, or if the brand itself requires an update.
@@ -113,15 +114,22 @@
 			Update or modify each component according to the type of publication that you are writing.
 		</para>
 
-	</section>
+	</section> -->
 	 <section id="introductions">
 		<title>Introductions</title>
 		 <para>
-			The term "introduction" on its own is sufficiently vague, and raises enough questions in translation and with translation memory tools, that Red&nbsp;Hat technical documentation does not use this term on its own. Instead, use the phrase "Introduction to &lt;product_name&gt;" near the beginning of the publication to introduce the reader to the product. Do not use "Introduction" to introduce the publication; that is the task of the Abstract. A further benefit of this usage is that the same introduction can be used across various books to introduce the same product.
+			A publication can include an Introduction that orients the reader before the first chapter. Use an Introduction for material that applies to the whole publication and that the reader requires before starting, such as the environment that the reader works in or the prerequisites that the publication assumes.
 		</para>
+		 <para>
+			Use "Introduction" as a title only for this publication-level section. Otherwise, do not use "Introduction", "Introduction to <emphasis>X</emphasis>", or "Introducing <emphasis>X</emphasis>" as a chapter or section title elsewhere in the publication.
+			Refer to <xref linkend="heading-avoid"/>.
+		</para>
+		 <!-- <para>
+			The term "introduction" on its own is sufficiently vague, and raises enough questions in translation and with translation memory tools, that Red&nbsp;Hat technical documentation does not use this term on its own. Instead, use the phrase "Introduction to &lt;product_name&gt;" near the beginning of the publication to introduce the reader to the product. Do not use "Introduction" to introduce the publication; that is the task of the Abstract. A further benefit of this usage is that the same introduction can be used across various books to introduce the same product.
+		</para> -->
 
 	</section>
-	 <section id="heading-placement">
+	 <!-- 	 <section id="heading-placement">
 		<title>Placement of Headings</title>
 		 <para>
 			Do not include two consecutive headings without intervening text. Each heading must be followed by one or more paragraphs of text. If it is difficult to provide meaningful intervening text, then consider whether one of the headings is unnecessary.
@@ -155,7 +163,7 @@
 
 		</formalpara>
 
-	</section>
+	</section> -->
 
 </section>
 

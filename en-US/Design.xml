@@ -12,60 +12,28 @@
       This section covers various aspects of heading styles and design.
       If your company or organization has specific requirements in this regard, follow those requirements first.
     </para>
-		 <formalpara id="capitalization">
-				<title>Capitalization</title>
-					<para>
-					The standard for technical documentation is title case for all headings and titles.
-					<!-- The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles. -->
-            Table titles and procedure titles fall into this category; standard title case capitalization rules apply.
-					</para>
-		</formalpara>
+
+	<section id="verbs-titles">
+		<title>Writing Effective Titles</title>
 			<para>
-			Use title case also when referring to the titles of other publications, even if the title on the publication itself uses different casing.
+			Use titles that represent the content's main topic.
 			</para>
 			<para>
-			The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase</ulink>.
+			In training content, a verb in a title names what students do and connects the topic to a specific task.
 			</para>
 			<para>
-			Use sentence case for figure captions, legends, diagram labels, and table column headers.
-            They are not classified as titles.
+			Typically, the "ing" form of a verb is a good way to title larger chunks of content such as chapters and sections, for example "Creating Branches". Choose a verb that refers to specific actions that users take, such as "Configuring", "Creating", "Installing", and "Merging".
+			Refer also to <xref linkend="ing-words" />.
 			</para>
-					 <!-- <warning>
-						<title>Marketing and Brand Capitalization Guide</title>
-						 <para>
-							The Red&nbsp;Hat Marketing and Brand groups and some other groups use sentence case for most titles and headings, with some exceptions, for example, when referencing an externally produced resource's title.
-						</para>
-
-					</warning> -->
-
-      <formalpara>
-        <title>Punctuation</title>
-
-          <para>
-            Be frugal with punctuation.
-            Avoid semicolons, colons, dashes, and similar punctuation unless part of the actual subject, or a proper name.
-            Do not use terminating periods.
-            </para>
-          </formalpara>
-			<formalpara id="verbs-titles">
-				<title>Writing Effective Titles</title>
-					<para>
-					Use titles that represent the content.
-					</para>
-          </formalpara>
-					<para>
-					Typically, the "ing" form of a verb is a good way to title larger chunks of content such as chapters and sections, for example "Creating Branches". Choose a verb that refers to specific actions that users take, such as "Configuring", "Creating", "Installing", and "Merging".
-					Refer also to <xref linkend="ing-words" />.
-					</para>
-					<para>
-					Activities and subtasks that the user should perform can alternatively use an imperative verb for clarity. Imperative verbs are prescriptive, such as "Create" or "Delete". Example: "Assess the Health of an OpenShift Cluster".
-					</para>
-					<para>
-					In some cases, a verb might not be appropriate because the content is purely informational. Instead of using a vague verb like "Understanding", "Describing", "Introducing", or "Exploring", either use a more specific verb, or use a noun phrase instead of a verb. A noun phrase is descriptive and omits a verb, for example "OpenShift Operators" or "The OpenShift Web Console."
-					</para>
-					<para>
-					Avoid titles that consist of only one word.
-					</para>
+			<para>
+			Activities and subtasks that the user should perform can alternatively use an imperative verb for clarity. Imperative verbs are prescriptive, such as "Create" or "Delete". Example: "Assess the Health of an OpenShift Cluster".
+			</para>
+			<para>
+			In some cases, a verb might not be appropriate because the content is purely informational. Instead of using a vague verb like "Understanding", "Describing", "Introducing", or "Exploring", either use a more specific verb, or use a noun phrase instead of a verb. A noun phrase is descriptive and omits a verb, for example "OpenShift Operators" or "The OpenShift Web Console."
+			</para>
+			<!-- <para>
+			Avoid titles that consist of only one word.
+			</para> -->
 			 <table>
 			<title></title>
 			 <tgroup cols="2" colsep="1" rowsep="1">
@@ -91,6 +59,11 @@
 
 					</row>
 					<row>
+						<entry> Introduction to Red&nbsp;Hat Satellite </entry>
+						 <entry> Red&nbsp;Hat Satellite Architecture </entry>
+
+					</row>
+					<row>
 						<entry> MetalLB </entry>
 						 <entry> The MetalLB Component </entry>
 
@@ -101,16 +74,69 @@
 			</tgroup>
 
 		</table>
-					<para>
-					In training content, avoid using a verb such as "Discussing" or "Demonstrating" in objectives for students. Such verbs might refer instead to what the instructor or the course content covers, or to a student group activity in class.
-					</para>
-					 <!-- <important>
-						<para>
-							Gerunds should be avoided elsewhere.
-              Refer to <xref linkend="sentence-structure" />.
-						</para>
-					</important> -->
-      <formalpara>
+			<para>
+			In training content, avoid using a verb such as "Discussing" or "Demonstrating" in objectives for students. Such verbs might refer instead to what the instructor or the course content covers, or to a student group activity in class.
+			</para>
+			<para>
+			Refer also to <xref linkend="heading-avoid"/>.
+			</para>
+
+	</section>
+
+	<section id="heading-avoid">
+		<title>Heading Titles to Avoid</title>
+			<para>
+			Avoid titles that name the function that the content performs rather than its main topic. A title that names the content's function (such as “About” or “Overview”) tells the reader nothing about the main topic or the task that students perform.
+			</para>
+			<para>
+			Likewise, avoid vague verbs such as "Understanding" and "Exploring".
+			Refer to <xref linkend="verbs-titles"/>.
+			</para>
+			<para>
+			Avoid titles that consist of only one word.
+			</para>
+			<para>
+			Avoid the following heading titles in Red&nbsp;Hat technical content, except as noted in each entry.
+			</para>
+
+		 <formalpara id="overview">
+			<title>Overview</title>
+			 <para>
+				Do not use "Overview" as a title on its own, and use it in other titles only sparingly.
+			</para>
+
+		</formalpara>
+		 <formalpara id="about">
+			<title>About</title>
+			 <para>
+				Do not use "About" or "About <emphasis>X</emphasis>" as a title.
+			</para>
+
+		</formalpara>
+		 <formalpara id="intros">
+			<title>Introduction, Introducing</title>
+			 <para>
+				Do not use "Introduction", "Introduction to <emphasis>X</emphasis>", or "Introducing <emphasis>X</emphasis>" as a chapter or section title.
+			</para>
+		</formalpara>
+			<para>
+				For the one case where "Introduction" is appropriate as a title, refer to <xref linkend="introductions"/>.
+			</para>
+
+	</section>
+
+	 <section id="heading-placement">
+		<title>Placement of Headings</title>
+		 <para>
+			Do not include two consecutive headings without intervening text, except as described as follows. Each heading must be followed by one or more paragraphs of text. If it is difficult to provide meaningful intervening text, then consider whether one of the headings is unnecessary.
+		</para>
+		<para>
+			Introductory material at the start of a chapter or section can appear either as body text beneath the chapter or section title, or under a heading of its own that directly follows that title. If introductory material carries its own heading, then name the heading for the main topic that the material covers. Refer to <xref linkend="verbs-titles"/> and to <xref linkend="heading-avoid"/>.
+		</para>
+
+	</section>
+
+	 <section id="names-commands-terms">
         <title>File Names, Commands, and Related Terms</title>
           <para>
             When creating chapter and section titles, do not include file, command, or similar names, and generally do not include markup elements.
@@ -118,7 +144,6 @@
             Including such objects in titles is generally considered poor technical writing practice.
             Depending on how your documentation is built and delivered, including these object types can result in unpredictable results and can even cause failed builds.
           </para>
-		</formalpara>
 
 			 <table>
 			<title></title>
@@ -147,6 +172,52 @@
 		</table>
 
 	</section>
+
+	 <section id="capitalization">
+		<title>Capitalization</title>
+			<para>
+			The standard for technical documentation is title case for all headings and titles.
+			<!-- The standard for all Red&nbsp;Hat technical documentation is title case for all headings and titles. -->
+			Table titles and procedure titles fall into this category; standard title case capitalization rules apply.
+			</para>
+			<para>
+			Use title case also when referring to the titles of other publications, even if the title on the publication itself uses different casing.
+			</para>
+			<para>
+			The currently accepted reference for determining title case is at <ulink url="https://titlecase.com/titlecase">https://titlecase.com/titlecase</ulink>.
+			</para>
+			<para>
+			Use sentence case for figure captions, legends, diagram labels, and table column headers.
+            They are not classified as titles.
+			</para>
+					 <!-- <warning>
+						<title>Marketing and Brand Capitalization Guide</title>
+						 <para>
+							The Red&nbsp;Hat Marketing and Brand groups and some other groups use sentence case for most titles and headings, with some exceptions, for example, when referencing an externally produced resource's title.
+						</para>
+
+					</warning> -->
+
+	</section>
+
+	 <section id="punc-headings">
+        <title>Punctuation</title>
+          <para>
+            Be frugal with punctuation in headings.
+            Avoid semicolons, colons, dashes, and similar punctuation unless part of the actual subject, or a proper name.
+            Do not use terminating periods.
+            </para>
+
+					 <!-- <important>
+						<para>
+							Gerunds should be avoided elsewhere.
+              Refer to <xref linkend="sentence-structure" />.
+						</para>
+					</important> -->
+
+	</section>
+</section>
+
 	 <section id="documenting-fonts">
 		<title>Documenting Fonts</title>
 		 <para>

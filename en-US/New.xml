@@ -192,10 +192,10 @@
 				<listitem>
                                         <para>Removed usage entries: check, emdash.</para>
 				</listitem>
-				<listitem>
+				<!-- <listitem>
                                         <para>Updated guidance on using "Overview" in a title.
 										Refer to <xref linkend="overview"/>.</para>
-				</listitem>
+				</listitem> -->
 				<listitem>
                                         <para>Clarified the use of non-breaking spaces.
 										Refer to <xref linkend="nonbreaking-spaces"/>.</para>
